@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bookmarks – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/bookmarks.css">
+</head>
+<body style="display:none; display:flex; flex-direction:column; min-height:100vh; margin:0;">
+
+  <!-- الخلفية -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- الهيدر -->
+  <header class="question-header">
+    <button onclick="window.location.href='index.html'" class="btn-glass back-btn">← Dashboard</button>
+  </header>
+
+  <!-- العنوان -->
+  <h2 class="system-title">Bookmarked Questions</h2>
+
+  <!-- Main -->
+  <main id="bookmarksPage" style="flex:1;"></main>
+
+  <!-- مودال عرض الأسئلة -->
+  <div id="bookmarkModal" class="modal hidden">
+    <div class="modal-content">
+      <div id="modalQuestion"></div>
+      <div id="modalExplanation"></div>
+      <div class="modal-actions">
+        <button id="prevBookmarkBtn" class="btn-glass">Previous</button>
+        <button id="nextBookmarkBtn" class="btn-glass">Next</button>
+        <button id="unBookmarkBtn" class="btn-glass">Un-Bookmark</button>
+        <button onclick="closeModal()" class="btn-glass">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase & Logic -->
+  <script type="module" src="js/bookmarks.js"></script>
+</body>
+</html>

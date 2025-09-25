@@ -1,0 +1,113 @@
+/* خلفية */
+body {
+  margin:0;
+  font-family:"Poppins",sans-serif;
+  color:white;
+  background:#0b0b0f;
+
+  display:flex;
+  flex-direction:column;
+  min-height:100vh;
+}
+.background{position:fixed;width:100%;height:100%;z-index:-1;}
+.orb{position:absolute;border-radius:50%;filter:blur(120px);opacity:.55;}
+.violet{width:500px;height:500px;background:#a020f0;top:10%;left:15%;}
+.blue{width:400px;height:400px;background:#1e90ff;bottom:10%;right:15%;}
+.pink{width:300px;height:300px;background:#ff1493;top:50%;left:60%;}
+
+/* Glassy button موحد */
+.btn-glass{
+  background:linear-gradient(45deg,violet,purple);
+  border:none;border-radius:10px;padding:0.6rem 1.2rem;cursor:pointer;
+  color:white;font-weight:600;transition:all .3s ease;
+  box-shadow:0 0 10px rgba(186,85,211,0.3);
+}
+.btn-glass:hover{transform:translateY(-2px) scale(1.02);
+  box-shadow:0 0 18px violet;}
+
+/* Dashboard button fix */
+.question-header{padding:1rem 2rem;display:flex;align-items:center;}
+.back-btn{margin-top:.5rem;margin-left:.5rem;}
+
+/* اسم السيستم */
+.system-title{text-align:center;font-size:1.8rem;font-weight:700;color:violet;margin:1rem 0;}
+
+/* Progression */
+.progress-container{
+  max-width:800px;
+  width:90%;
+  margin:1rem auto;
+  background:rgba(255,255,255,.05);
+  border:1px solid rgba(255,255,255,.1);
+  padding:.7rem 1rem;
+  border-radius:15px;
+  display:flex;
+  align-items:center;
+  gap:1rem;
+}
+.progress-container span{flex:1;font-weight:600;}
+.progress-bar{flex:3;background:rgba(255,255,255,.1);border-radius:10px;height:12px;}
+#progressFill{height:100%;width:0;background:linear-gradient(90deg,violet,cyan);
+  border-radius:10px;transition:width .4s;}
+
+/* Navigator */
+.progress-nav{max-width:900px;margin:0 auto;justify-content:center;background:rgba(255,255,255,.05);
+  border-radius:12px;overflow:hidden;max-height:0;transition:max-height .5s ease,padding .5s ease;
+  display:flex;flex-wrap:wrap;gap:.4rem;padding:0;opacity:0;}
+.progress-nav.show{padding:1rem;max-height:500px;opacity:1;}
+.progress-nav button{width:40px;height:40px;border:none;border-radius:10px;color:white;
+  cursor:pointer;background:rgba(128,0,128,.4);transition:all .3s;}
+.progress-nav button.current{background:linear-gradient(45deg,violet,#8a2be2);
+  border:2px solid white;box-shadow:0 0 6px violet;font-weight:bold;}
+.progress-nav button.answered{background:rgba(64,0,64,.9);}
+.progress-nav button.bookmarked{background:linear-gradient(45deg,violet,gold);color:black;font-weight:bold;}
+
+/* Question box */
+.question-box{max-width:800px;margin:2rem auto;background:rgba(255,255,255,.05);
+  backdrop-filter:blur(20px);border-radius:20px;padding:1.5rem;border:1px solid rgba(255,255,255,.1);}
+.top-icons{display:flex;justify-content:flex-end;gap:.5rem;margin-bottom:.6rem;}
+.bookmark{background:none;border:none;font-size:1.5rem;cursor:pointer;transition:.3s;}
+.bookmark::before{content:"\1F516";}
+.bookmark.active::before{color:gold;}
+
+.options button{display:block;width:100%;margin:.3rem 0;background:rgba(186,85,211,.15);
+  border:1px solid rgba(255,255,255,.1);border-radius:12px;padding:.8rem;color:white;
+  cursor:pointer;transition:all .3s;}
+.options button.correct{background:rgba(100,255,100,.3);}
+.options button.wrong{background:rgba(255,100,100,.3);}
+.options button:hover{transform:scale(1.02);}
+
+/* Explanation smooth */
+.explanation{margin-top:1rem;padding:1rem;background:rgba(255,255,255,.08);border-radius:12px;
+  animation:slideDown .5s ease;}
+@keyframes slideDown{from{opacity:0;transform:translateY(-20px);}to{opacity:1;transform:translateY(0);}}
+
+/* Modal Reset */
+.modal{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.6);
+  display:flex;justify-content:center;align-items:center;}
+.modal.hidden{display:none;}
+.modal-content{background:rgba(255,255,255,.95);padding:2rem;border-radius:15px;text-align:center;
+  color:#111;max-width:400px;}
+.modal-actions{display:flex;gap:1rem;justify-content:center;margin-top:1rem;}
+
+/* Toast */
+.toast{position:fixed;bottom:30px;right:30px;background:rgba(0,0,0,.7);
+  padding:1rem 1.5rem;border-radius:12px;color:white;backdrop-filter:blur(12px);
+  transition:opacity .5s,transform .5s;opacity:0;transform:translateY(20px);}
+.toast.show{opacity:1;transform:translateY(0);}
+
+/* Footer */
+.site-footer {
+  text-align:center;
+  color:#fff;
+  font-size:0.85rem;
+  padding:.6rem;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(6px);
+  border-top:1px solid rgba(255,255,255,0.1); 
+  margin-top:auto;
+}
+
+main {
+  flex:1; /* عشان الفوتر يرسى تحت */
+}

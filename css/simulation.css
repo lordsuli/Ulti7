@@ -1,0 +1,121 @@
+/* الحاوية العمودية */
+.simulation-main {
+  max-width:800 px;
+  margin:2rem auto;
+  display:flex;
+  flex-direction:column; /* فوق بعض */
+  gap:1.50rem;
+  flex:1; /* يزق الفوتر لتحت */
+}
+
+/* كارت Enroll */
+.sim-card.enroll {
+  max-height:50px;   /* الطول الصغير */
+  flex-shrink:0;     
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  background:rgba(255,255,255,0.08);
+  backdrop-filter:blur(15px);
+  border-radius:20px;
+  padding:1rem;
+  text-align:center;
+  border:1px solid rgba(255,255,255,0.1);
+  box-shadow:0 6px 20px rgba(0,0,0,0.3);
+  transition:transform 0.3s,box-shadow 0.3s;
+}
+
+/* كارت Previous Exams */
+.sim-card.previous {
+  flex:1;           /* يمدد تحت */
+  min-height:250px; /* يبدأ بطول مبدئي أكبر */
+  background:rgba(255,255,255,0.08);
+  backdrop-filter:blur(15px);
+  border-radius:20px;
+  padding:2rem;
+  text-align:center;
+  border:1px solid rgba(255,255,255,0.1);
+  box-shadow:0 6px 20px rgba(0,0,0,0.3);
+  transition:transform 0.3s,box-shadow 0.3s;
+}
+
+/* تأثير Hover */
+.sim-card:hover {
+  transform:translateY(-5px) scale(1.02);
+  box-shadow:0 12px 30px rgba(128,0,128,0.4);
+}
+
+/* عناوين الكروت */
+.sim-card h3 {
+  color:#fff; 
+  margin:0;
+  font-size:1.2rem;
+  font-weight:600;
+}
+
+/* العنوان الكبير */
+.system-title {
+  text-align:center;
+  font-size:1.8rem;
+  font-weight:700;
+  color:#fff;
+  margin:1rem 0;
+}
+
+/* جدول الامتحانات */
+#previousExams {
+  margin-top:1rem;
+}
+#previousExams table {
+  width:100%;
+  border-collapse:collapse;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(20px);
+  border-radius:15px;
+  overflow:hidden;
+  box-shadow:0 4px 20px rgba(0,0,0,0.3);
+  animation:fadeIn 0.6s ease;
+}
+#previousExams th {
+  padding:0.8rem;
+  color:#fff; /* أبيض */
+  background:rgba(255,255,255,0.08);
+}
+#previousExams td {
+  padding:0.7rem;
+  border-bottom:1px solid rgba(255,255,255,0.15);
+  color:white;
+}
+#previousExams tr:hover td {
+  background:rgba(186,85,211,0.15);
+  transition:0.3s;
+}
+
+/* زرار Reset */
+.reset-btn {
+  margin-top:1rem;
+  background:linear-gradient(45deg,#ff1744,#c62828);
+}
+.reset-btn:hover {
+  box-shadow:0 0 15px rgba(255,0,0,0.6);
+  transform:translateY(-3px);
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {opacity:0; transform:translateY(20px);}
+  to {opacity:1; transform:translateY(0);}
+}
+
+/* Footer */
+.site-footer {
+  text-align:center;
+  color:#fff;
+  font-size:0.85rem;
+  padding:.6rem;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(6px);
+  border-top:1px solid rgba(255,255,255,0.1); 
+  margin-top:auto;
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "CaseID": "rheumatology_1",
+    "case": "A 45-year-old woman comes to the clinic complaining of joint pain, swelling, and stiffness in her hands and wrists for the past three months. On examination, there is symmetrical swelling of the proximal interphalangeal and metacarpophalangeal joints, as well as limited range of motion. Laboratory tests reveal elevated erythrocyte sedimentation rate and C-reactive protein. Radiographs show erosions and joint space narrowing. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Osteoarthritis",
+      "Gout",
+      "Rheumatoid arthritis",
+      "Systemic lupus erythematosus",
+      "Psoriatic arthritis"
+    ],
+    "correctAnswer": "Rheumatoid arthritis",
+    "explanation": {
+      "correct": "Symmetrical small joint (MCP, PIP) polyarthritis, prolonged morning stiffness, elevated ESR/CRP, and erosions on X-ray are classic for rheumatoid arthritis. The chronicity (3 months) also confirms persistent inflammatory arthritis.",
+      "incorrect": [
+        {"option": "Osteoarthritis", "reason": "Usually asymmetric, involves weight-bearing joints and DIP, with osteophytes, not erosions."},
+        {"option": "Gout", "reason": "Acute, monoarticular, often MTP (big toe), not chronic symmetric PIP/MCP swelling."},
+        {"option": "Systemic lupus erythematosus", "reason": "SLE arthritis is typically non-erosive and intermittent."},
+        {"option": "Psoriatic arthritis", "reason": "Associated with psoriasis, nail pitting, often DIP involvement, and may be asymmetric—not seen here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_2",
+    "case": "A 7-year-old girl presents with a tender and swollen right knee joint, as well as fever. Recently, she developed arthritis of the left wrist. Which of the following modified Jones criteria this patient has?",
+    "options": [
+      "1 major & 1 minor",
+      "2 major",
+      "2 major & 1 minor",
+      "2 minor",
+      "all of the four option"
+    ],
+    "correctAnswer": "2 major",
+    "explanation": {
+      "correct": "The child has polyarthritis (migratory arthritis of large joints) and fever. Polyarthritis is a major Jones criterion. Carditis, chorea, erythema marginatum, and subcutaneous nodules are other majors. She has arthritis of >1 joint so qualifies as a Major criterion twice. Hence: 2 major.",
+      "incorrect": [
+        {"option": "1 major & 1 minor", "reason": "She doesn’t meet any minor criteria here; fever counts as supportive but not as minor unless along with other labs."},
+        {"option": "2 major & 1 minor", "reason": "Only 2 major met; no clear minor criteria documented."},
+        {"option": "2 minor", "reason": "She had arthritis, which is major, not minor."},
+        {"option": "all of the four option", "reason": "Impossible—criteria met clearly are 2 major."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_3",
+    "case": "Which of the following organisms can cause rheumatic fever?",
+    "options": [
+      "Streptococcus",
+      "RSV",
+      "Pneumococcal",
+      "Meningococcal",
+      "H influenza"
+    ],
+    "correctAnswer": "Streptococcus",
+    "explanation": {
+      "correct": "Rheumatic fever is an autoimmune sequela of Group A beta-hemolytic Streptococcus pyogenes pharyngitis. Molecular mimicry leads to cross-reacting antibodies causing arthritis, carditis, chorea, etc.",
+      "incorrect": [
+        {"option": "RSV", "reason": "Causes bronchiolitis, not rheumatic fever."},
+        {"option": "Pneumococcus", "reason": "Causes pneumonia, meningitis—not rheumatic fever."},
+        {"option": "Meningococcus", "reason": "Causes meningitis/septicemia, unrelated to rheumatic fever."},
+        {"option": "H influenza", "reason": "Can cause epiglottitis, meningitis, pneumonia, but not rheumatic fever."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_4",
+    "case": "A 72-year-old man presents with pain in his right big toe. The pain started this morning and is getting progressively worse, and he is unable to bear weight on that foot. He is febrile, has a pulse of 90/min, and has a blood pressure of 136/86 mm Hg. The first metatarsophalangeal joint of the right foot is swollen, warm, and erythematous. It is tender to palpation and there is decreased movement. Which one of the following is the best agent for the acute management of this patient’s condition?",
+    "options": [
+      "Oral acetaminophen",
+      "Intravenous colchicine",
+      "Oral probenecid",
+      "Oral indomethacin",
+      "Oral allopurinol"
+    ],
+    "correctAnswer": "Oral indomethacin",
+    "explanation": {
+      "correct": "Acute gouty arthritis (podagra). The best initial treatment is NSAIDs, with indomethacin being the classic choice. Colchicine is an alternative but oral, not IV, and allopurinol/probenecid are for chronic urate lowering, not acute attacks.",
+      "incorrect": [
+        {"option": "Oral acetaminophen", "reason": "Analgesic only, no immune modulation for gout crystals."},
+        {"option": "Intravenous colchicine", "reason": "Rarely given due to GI toxicity; oral is used but NSAID preferred."},
+        {"option": "Oral probenecid", "reason": "Uricosuric drug, not started during acute attack."},
+        {"option": "Oral allopurinol", "reason": "XO inhibitor, used chronically; starting during acute gout attack worsens attack."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_5",
+    "case": "A 33-year-old man with a history of scaly skin lesions in the elbows and knees. Two years after onset of skin lesions he develops destructive deformity of the joints in hands, which of the following is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Gout",
+      "Ankylosing spondylitis",
+      "Arthritis mutilans",
+      "Osteoarthritis"
+    ],
+    "correctAnswer": "Arthritis mutilans",
+    "explanation": {
+      "correct": "Psoriatic arthritis variant 'arthritis mutilans' causes severe destructive deformity of small joints of hands (pencil-in-cup deformities). History of psoriasis supports this.",
+      "incorrect": [
+        {"option": "Rheumatoid arthritis", "reason": "Symmetric joint disease, but not associated with psoriasis and has different deformities (ulnar deviation, swan neck)."},
+        {"option": "Gout", "reason": "Tophi + acute flares, different pathology."},
+        {"option": "Ankylosing spondylitis", "reason": "Primarily axial skeleton, not hand joints."},
+        {"option": "Osteoarthritis", "reason": "Causes DIP/CMC involvement, not mutilating hand deformities."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_6",
+    "case": "A 45-year-old woman presents with a one week history of a painful left ankle. On exam: flushed, low-grade fever, left ankle red, hot, painful, movement restricted. Other joints fine. Past history: rheumatoid arthritis in remission on Methotrexate. What is the most likely cause of her painful ankle?",
+    "options": [
+      "Septic arthritis",
+      "Flare of her rheumatoid arthritis",
+      "Gout",
+      "Pseudo gout",
+      "Reactive arthritis"
+    ],
+    "correctAnswer": "Septic arthritis",
+    "explanation": {
+      "correct": "In a patient with RA on immunosuppressive therapy (methotrexate), new onset monoarthritis with fever and red hot joint is septic arthritis until proven otherwise. Must be treated emergently.",
+      "incorrect": [
+        {"option": "RA flare", "reason": "Would usually be polyarticular and symmetric."},
+        {"option": "Gout", "reason": "Not typical in this ankle joint without hyperuricemia history—though can mimic."},
+        {"option": "Pseudogout", "reason": "Usually affects knee/wrist in elderly—not ankle in RA patient."},
+        {"option": "Reactive arthritis", "reason": "Occurs after GU/GI infection—not relevant here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_7",
+    "case": "A 16-year-old adolescent presents with a butterfly-shaped rash on the face, joint pain, and fatigue. The family history includes a sibling diagnosed with the same condition. On examination, there are oral ulcers and photosensitivity. What condition is commonly associated with these findings?",
+    "options": [
+      "Kawasaki disease",
+      "Juvenile idiopathic arthritis",
+      "Systemic lupus erythematosus",
+      "Henoch-Schönlein purpura",
+      "Rheumatoid arthritis"
+    ],
+    "correctAnswer": "Systemic lupus erythematosus",
+    "explanation": {
+      "correct": "Butterfly (malar) rash, photosensitivity, oral ulcers, arthritis, systemic features strongly suggest SLE. Family history strengthens autoimmune predisposition.",
+      "incorrect": [
+        {"option": "Kawasaki", "reason": "Affects infants/young children, with mucosal erythema, coronary involvement—not teen female with malar rash."},
+        {"option": "JIA", "reason": "Causes chronic arthritis in children but not malar rash/photosensitivity."},
+        {"option": "HSP", "reason": "IgA vasculitis with purpura, abdominal pain, not malar rash."},
+        {"option": "RA", "reason": "Arthritis possible but malar rash is not a feature."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_8",
+    "case": "A 40-year-old woman comes to the clinic complaining of fatigue, nausea, and decreased urine output over the past week. She has a history of systemic lupus erythematosus. She reports taking NSAIDs for joint pain related to her SLE. On exam: pale, BP 150/90, HR 100, mild pedal edema. Labs: Cr 3.8, BUN 45. Urinalysis: red cell casts + proteinuria. Dx: acute renal failure. Most likely cause?",
+    "options": [
+      "Glomerulonephritis",
+      "Acute interstitial nephritis",
+      "Renal artery thrombosis",
+      "Acute tubular necrosis",
+      "Renal vein thrombosis"
+    ],
+    "correctAnswer": "Glomerulonephritis",
+    "explanation": {
+      "correct": "SLE frequently affects kidneys through lupus nephritis, manifesting as GN: hematuria, proteinuria, red cell casts, hypertension. This is the most likely cause of renal failure here.",
+      "incorrect": [
+        {"option": "Acute interstitial nephritis", "reason": "NSAIDs can cause AIN, but presence of RBC casts/proteinuria point to GN not AIN."},
+        {"option": "Renal artery thrombosis", "reason": "Would give acute flank pain, sudden oliguria, not RBC casts."},
+        {"option": "ATN", "reason": "Presents with muddy brown granular casts, not RBC casts."},
+        {"option": "Renal vein thrombosis", "reason": "Causes nephrotic syndrome with sudden flank pain, large proteinuria, not RBC casts."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_9",
+    "case": "A 45-year-old woman comes to her primary care physician complaining of joint pain, stiffness, and swelling in her hands and wrists that have been persistent for several weeks. On examination, the physician notes symmetrical joint swelling and tenderness in the proximal interphalangeal and metacarpophalangeal joints, as well as morning stiffness lasting more than one hour. Laboratory tests reveal elevated levels of rheumatoid factor and anti-cyclic citrullinated peptide antibodies. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Osteoarthritis",
+      "Gout",
+      "Psoriatic arthritis",
+      "Rheumatoid arthritis",
+      "Systemic lupus erythematosus"
+    ],
+    "correctAnswer": "Rheumatoid arthritis",
+    "explanation": {
+      "correct": "Symmetrical small joint involvement, >6 weeks of morning stiffness >1 hr, positive RF and anti-CCP, is the textbook case of RA.",
+      "incorrect": [
+        {"option": "Osteoarthritis", "reason": "Involves DIP and weight-bearing joints, not MCP and PIP."},
+        {"option": "Gout", "reason": "Monoarthritis of 1st MTP typical, not symmetrical polyarthritis."},
+        {"option": "Psoriatic arthritis", "reason": "Has psoriasis, nail pitting, often asymmetric or DIP first."},
+        {"option": "SLE", "reason": "Non-erosive arthritis, RF not specific, anti-CCP absent."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_10",
+    "case": "A 38-year-old woman with rheumatoid arthritis presents with increased joint pain. On exam: reduced passive & active ROM of hips. Physician increases NSAIDs. Which of the following should be prescribed as well to prevent peptic ulcer disease?",
+    "options": [
+      "Cimetidine",
+      "Clarithromycin",
+      "Misoprostol",
+      "Omeprazole",
+      "Sucralfate"
+    ],
+    "correctAnswer": "Misoprostol",
+    "explanation": {
+      "correct": "Misoprostol, a PGE1 analog, protects gastric mucosa by increasing mucus and bicarbonate secretion. Indicated to prevent NSAID-induced ulcers. PPIs like omeprazole can also help but prostaglandin replacement is classical prevention.",
+      "incorrect": [
+        {"option": "Cimetidine", "reason": "H2 blockers reduce acid but less effective than PGE analogs or PPIs for NSAID ulcer prevention."},
+        {"option": "Clarithromycin", "reason": "Antibiotic used in H. pylori eradication, irrelevant here."},
+        {"option": "Omeprazole", "reason": "Effective but misoprostol is the prototypical preventive drug against NSAID ulcers."},
+        {"option": "Sucralfate", "reason": "Coats mucosa but weaker, not standard prophylaxis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_11",
+    "case": "A 64-year-old man with chronic kidney disease stage 3 secondary to type 2 diabetes mellitus presents with pain and swelling at the right first metatarsophalangeal joint. On examination the joint is hot, erythematous, and tender to touch, although he can still flex the big toe. Which of the following is the most appropriate initial management?",
+    "options": [
+      "Colchicine",
+      "Prednisolone",
+      "Co-codamol 30/500",
+      "Allopurinol",
+      "Indomethacin"
+    ],
+    "correctAnswer": "Colchicine",
+    "explanation": {
+      "correct": "This is acute gout (podagra). NSAIDs like indomethacin are usually first-line but contraindicated here due to CKD stage 3. Colchicine is safe alternative (dose adjusted). Corticosteroids also work but colchicine is the classic answer in CKD patients.",
+      "incorrect": [
+        {"option": "Prednisolone", "reason": "Effective, but colchicine is typically used when NSAIDs are contraindicated. Steroids reserved if colchicine also contraindicated."},
+        {"option": "Co-codamol", "reason": "Simple analgesic, does not address inflammation of gout crystals."},
+        {"option": "Allopurinol", "reason": "Not started during acute attack. Used for long-term urate lowering."},
+        {"option": "Indomethacin", "reason": "NSAID contraindicated in CKD due to nephrotoxicity."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_12",
+    "case": "A 24-year-old woman is referred to the clinic for assessment of a low white-cell count. She has no past medical history and is not on any medications. Her only symptoms are of joint discomfort in her hands, and occasional sharp chest pains that change with breathing. On physical examination, there is inflammation of some MCP and DIP joints in both hands, and the rest of the examination is normal. Her WBC is 3500/mL and on the differential the lymphocytes are low (15%) and PMNs are normal. Which of the following is the most likely diagnosis?",
+    "options": [
+      "periarteritis nodosa",
+      "SLE",
+      "scleroderma",
+      "DM",
+      "osteoarthritis"
+    ],
+    "correctAnswer": "SLE",
+    "explanation": {
+      "correct": "Leukopenia (especially lymphopenia), pleuritic chest pain (serositis), and arthritis + young woman points strongly to systemic lupus erythematosus.",
+      "incorrect": [
+        {"option": "periarteritis nodosa", "reason": "Medium vessel vasculitis with systemic signs, not isolated lymphopenia/arthritis."},
+        {"option": "scleroderma", "reason": "Skin thickening and Raynaud’s phenomenon, not leukopenia/serositis."},
+        {"option": "DM", "reason": "Diabetes mellitus would not cause arthritis or cytopenias."},
+        {"option": "osteoarthritis", "reason": "Non-inflammatory. No cytopenia, no pleuritic chest pain."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_13",
+    "case": "A 27-year-old woman is reviewed due to sudden loss of vision in her left eye. She is known to have severe rheumatoid arthritis and is treated currently with methotrexate, infliximab and prednisolone. She has in the past also used sulfasalazine and hydroxychloroquine. For the past 6 weeks she has developed troublesome headaches. Examination demonstrates bilateral papilloedema. Which one of the following is most likely to be responsible for this presentation?",
+    "options": [
+      "Chloroquine retinopathy",
+      "Prednisolone",
+      "Infliximab",
+      "Methotrexate",
+      "Keratoconjunctivitis sicca"
+    ],
+    "correctAnswer": "Prednisolone",
+    "explanation": {
+      "correct": "Chronic corticosteroid use (prednisolone) can cause benign intracranial hypertension (pseudotumor cerebri), which presents with headaches, papilledema, and visual impairment.",
+      "incorrect": [
+        {"option": "Chloroquine retinopathy", "reason": "Causes retinal degeneration, not papilledema with raised ICP."},
+        {"option": "Infliximab", "reason": "Risk of infections and infusion reactions, not intracranial hypertension."},
+        {"option": "Methotrexate", "reason": "Can cause liver/lung toxicity, not papilledema."},
+        {"option": "Keratoconjunctivitis sicca", "reason": "Dry eyes due to RA or Sjogren’s, unrelated to intracranial pressure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_14",
+    "case": "A 39-year-old woman comes to the outpatient clinic complaining of pain and stiffness in her hands and wrists for the past 6 weeks. She is diagnosed with rheumatoid arthritis, although there is no evidence of erosion on x-ray. Which of the following is the management of choice at this time?",
+    "options": [
+      "NSAID (Non-steroidal anti-inflammatory drugs) alone",
+      "NSAID and corticosteroids",
+      "Corticosteroids alone",
+      "Corticosteroids and methotrexate"
+    ],
+    "correctAnswer": "Corticosteroids and methotrexate",
+    "explanation": {
+      "correct": "Early RA (symptoms >6 weeks) should be treated with disease-modifying antirheumatic drugs (DMARDs)—methotrexate is first-line. Corticosteroids are used as bridge therapy to control symptoms until DMARD effect sets in.",
+      "incorrect": [
+        {"option": "NSAID alone", "reason": "NSAIDs only relieve pain/inflammation; they do not alter disease course."},
+        {"option": "NSAID and corticosteroids", "reason": "Helpful for symptoms but not disease-modifying long term."},
+        {"option": "Corticosteroids alone", "reason": "Short-term control only, but RA needs DMARDs to prevent joint erosion and disability."}
+      ]
+    }
+  },
+  {
+    "CaseID": "rheumatology_15",
+    "case": "A 15-year-old girl presents with a 4- week history of intermittent fever, increasing fatigue, generalized myalgia, and swelling of both her knees and ankles. There is a fine erythematous rash on her back, and she has swollen knees and ankles; the remainder of her physical examination is unremarkable. Initial laboratory evaluation shows: Leukocytes 11,400 cells/mm3 Hemoglobin 8.8 g/dl Blood urea nitrogen 4 mg/dl Creatinine 1.4 mg/dl Glucose 98 mg/dl C3 complement 36 mg/dl (normal >80 mg/dl) Antinuclear antibody titer 1:3200 Anti-double-stranded DNA titer 1:640 Antineutrophil cytoplasmic antibodies Negative Urinalysis Moderate hematuria (50 RBC/hpf) Moderate proteinuria (400 mg/dL) Which of the following is the most likely diagnosis?",
+    "options": [
+      "Wegener granulomatosis",
+      "Giant cell arteritis",
+      "Henoch-Schönlein purpura",
+      "Polyarteritis nodosa",
+      "Systemic lupus erythematosus"
+    ],
+    "correctAnswer": "Systemic lupus erythematosus",
+    "explanation": {
+      "correct": "Young female, rash, polyarthritis, renal involvement (proteinuria + hematuria), ANA and anti-dsDNA strongly positive, low complement → this is classic lupus with lupus nephritis.",
+      "incorrect": [
+        {"option": "Wegener granulomatosis", "reason": "Granulomatosis with polyangiitis would show sinus/lung/kidney triad, positive ANCA—not anti-dsDNA."},
+        {"option": "Giant cell arteritis", "reason": "Occurs in women >50 years, not 15-year-old girl."},
+        {"option": "HSP", "reason": "IgA vasculitis mainly in children, with palpable purpura, abdominal pain—not anti-dsDNA positivity."},
+        {"option": "Polyarteritis nodosa", "reason": "Medium vessel vasculitis, not associated with ANA/dsDNA or hypocomplementemia."}
+      ]
+    }
+  }
+]

@@ -1,0 +1,1993 @@
+[
+  {
+    "CaseID": "generalsurgery_1",
+    "case": "A 72-year-old man in pre-op for elective open inguinal hernia repair. Currently on clopidogrel after coronary stent 18 months ago. Should he stop it pre-op? [1/2023M_5/2023M_6/2023R]",
+    "options": [
+      "No need to stop",
+      "Omit morning of surgery",
+      "Stop 3 days before",
+      "Stop 7 days before",
+      "Stop 14 days before"
+    ],
+    "correctAnswer": "Stop 7 days before",
+    "explanation": {
+      "correct": "Clopidogrel irreversibly inhibits platelets for their lifespan (~7 days). Must be discontinued a week before surgery to avoid dangerous bleeding. After 12 months from stent placement, it’s usually safe to hold if low cardiac risk.",
+      "incorrect": [
+        {"option": "No need to stop", "reason": "Bleeding risk is very high with open surgery."},
+        {"option": "Omit morning only", "reason": "One missed dose won’t restore platelet function."},
+        {"option": "Stop 3 days before", "reason": "Still has active inhibition, unsafe."},
+        {"option": "Stop 14 days before", "reason": "Longer than needed and unnecessarily increases risk of stent thrombosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_2",
+    "case": "72-year-old man, pre-op thyroidectomy, on warfarin for AF. Ask if he needs to stop warfarin. [12/2020T_12/2021T_11/2023T]",
+    "options": [
+      "No need to stop",
+      "Omit morning of surgery",
+      "Stop 5 days before",
+      "Stop 10 days before",
+      "Stop 14 days before"
+    ],
+    "correctAnswer": "Stop 5 days before",
+    "explanation": {
+      "correct": "Warfarin is stopped 5 days before surgery to allow INR normalization. If high thromboembolic risk, bridging with LMWH may be needed.",
+      "incorrect": [
+        {"option": "No need to stop", "reason": "Would cause severe bleeding intra-op."},
+        {"option": "Omit morning only", "reason": "INR takes days, not hours, to normalize."},
+        {"option": "Stop 10 days before", "reason": "Excessive, unnecessarily increases thrombotic risk."},
+        {"option": "Stop 14 days before", "reason": "Way too long, exposes to AF thromboembolism risk."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_3",
+    "case": "52-year-old diabetic man with irreducible tender inguinoscrotal swelling, distension, vomiting, fever. X-ray: air-fluid levels. Sugar 385. Next step? [multi years]",
+    "options": [
+      "Correct hyperglycemia, surgery next day",
+      "Urgent surgery",
+      "Elective surgery",
+      "NGT, fluids, observation",
+      "Manual reduction and discharge"
+    ],
+    "correctAnswer": "Urgent surgical interference.",
+    "explanation": {
+      "correct": "Classic strangulated hernia (irreducible, obstructed, septic picture). Surgery immediately—do NOT delay for sugar control.",
+      "incorrect": [
+        {"option": "Correct hyperglycemia then surgery next day", "reason": "Delay risks bowel necrosis—a fatal error."},
+        {"option": "Elective surgery", "reason": "Obviously not elective."},
+        {"option": "Observation with NGT only", "reason": "Won’t resolve strangulation."},
+        {"option": "Manual reduction", "reason": "Very dangerous, risks reducing necrotic bowel back inside."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_4",
+    "case": "9-month-old with irreducible left groin swelling, testes in scrotum. Best management? [multi years]",
+    "options": [
+      "Elective herniotomy",
+      "Elective herniotomy + orchidopexy",
+      "Emergency herniotomy",
+      "Emergency herniotomy + orchidopexy",
+      "Reassurance"
+    ],
+    "correctAnswer": "Emergency herniotomy",
+    "explanation": {
+      "correct": "Incarcerated hernia in infant (irreducible, firm). Must be reduced surgically (emergency herniotomy). No orchidopexy since testes are already normal.",
+      "incorrect": [
+        {"option": "Elective herniotomy", "reason": "Delay risks strangulation."},
+        {"option": "Elective herniotomy + orchidopexy", "reason": "No undescended testes, no orchidopexy needed."},
+        {"option": "Emergency herniotomy + orchidopexy", "reason": "Unnecessary orchidopexy again."},
+        {"option": "Reassurance", "reason": "Very unsafe in irreducibility."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_5",
+    "case": "65-year-old male, uncontrolled DM, post perianal abscess drainage, now genital pain, crepitus, necrotic scrotal skin. Dx? [multi exams]",
+    "options": [
+      "Cellulitis",
+      "Fournier's gangrene",
+      "Epididymo-orchitis",
+      "Scrotal abscess",
+      "Erysipelas"
+    ],
+    "correctAnswer": "Fournier's gangrene",
+    "explanation": {
+      "correct": "Rapidly spreading necrotizing fasciitis of perineum/scrotum. Crepitus, dusky skin confirm Fournier’s gangrene.",
+      "incorrect": [
+        {"option": "Cellulitis", "reason": "No crepitus or necrosis."},
+        {"option": "Epididymo-orchitis", "reason": "Localized, testis tenderness, no necrosis gas."},
+        {"option": "Scrotal abscess", "reason": "Localized pus, not spreading necrosis."},
+        {"option": "Erysipelas", "reason": "Superficial strep infection, sharply demarcated—not necrotizing fasciitis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_6",
+    "case": "1y old boy, severe colicky pain, vomiting, PR exam: blood + mass. Dx? [multi exams]",
+    "options": [
+      "Pyloric stenosis",
+      "Volvulus",
+      "Intussusception",
+      "Polyp",
+      "Gastroenteritis"
+    ],
+    "correctAnswer": "Intussusception",
+    "explanation": {
+      "correct": "Triad: colicky pain + ‘red currant jelly stool’ (blood+ mucus) + palpable PR mass = Intussusception.",
+      "incorrect": [
+        {"option": "Pyloric stenosis", "reason": "Nonbilious vomiting in neonate, no PR blood."},
+        {"option": "Volvulus", "reason": "Bilious vomiting, shock, not rectal blood mass."},
+        {"option": "Polyp", "reason": "Causes painless PR bleeding—not colicky pain."},
+        {"option": "Gastroenteritis", "reason": "Bloody diarrhea possible, but colic + mass is not typical."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_7",
+    "case": "70yo woman Parkinson’s, painless massive distension, tympanic, X-ray 'coffee bean'. Dx? [multi exams]",
+    "options": [
+      "Constipation",
+      "Femoral hernia",
+      "Sigmoid volvulus",
+      "Rectal cancer",
+      "Pseudo-obstruction"
+    ],
+    "correctAnswer": "Sigmoid volvulus",
+    "explanation": {
+      "correct": "Coffee-bean sign = pathognomonic sigmoid volvulus on X-ray. Rapid painless distension typical.",
+      "incorrect": [
+        {"option": "Constipation", "reason": "Slow onset, no coffee-bean radiology."},
+        {"option": "Femoral hernia", "reason": "Local lump, not massive bowel gas."},
+        {"option": "Rectal cancer", "reason": "Obstruction, but not coffee-bean shaped gas."},
+        {"option": "Pseudo-obstruction", "reason": "Ogilvie’s mimics obstruction but lacks 'coffee-bean' twisting."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_8",
+    "case": "68yo woman, recurrent rapid distension, X-ray: coffee bean. Dx? [8/2024R]",
+    "options": [
+      "Adhesions",
+      "Recurrence cancer",
+      "Strangulated hernia",
+      "Primary colonic tumor",
+      "Sigmoid volvulus"
+    ],
+    "correctAnswer": "Sigmoid volvulus",
+    "explanation": {
+      "correct": "Recurrent obstructive episodes, coffee-bean → sigmoid volvulus.",
+      "incorrect": [
+        {"option": "Adhesions", "reason": "Common post-surgery—she had no surgery hx."},
+        {"option": "Recurrence malignancy", "reason": "Would not resolve conservatively and recur like volvulus."},
+        {"option": "Strangulated hernia", "reason": "Would present with painful lump."},
+        {"option": "Colonic tumor", "reason": "Shows apple-core lesion on imaging, not coffee-bean."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_9",
+    "case": "15yo boy with acute RLQ pain, but intra-op: normal appendix/cecum, terminal ileum edematous with fibrin. Best management? [2/2024R]",
+    "options": [
+      "Close abdomen",
+      "Appendectomy",
+      "Resect involved ileum",
+      "Ileocolic resection",
+      "Ileocolostomy bypass"
+    ],
+    "correctAnswer": "Close the abdomen after culturing the exudate.",
+    "explanation": {
+      "correct": "Terminal ileitis (Yersinia, Crohn’s possible) → supportive, not immediate resection. Sample/culture fluid, close abdomen.",
+      "incorrect": [
+        {"option": "Appendectomy", "reason": "Unnecessary here."},
+        {"option": "Ileum resection", "reason": "Too radical for acute inflammatory ileitis."},
+        {"option": "Ileocolic resection", "reason": "Reserved for Crohn’s complications, not initial."},
+        {"option": "Bypass ileocolostomy", "reason": "Not needed at all here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_10",
+    "case": "50yo man, 3-day vomiting, 20y ulcer pain hx, relief with milk, visible gastric waves, epigastric fullness. Dx? [2/2024R]",
+    "options": [
+      "Gastric outlet obstruction",
+      "Small bowel obstruction",
+      "Volvulus of colon",
+      "Incarcerated ux hernia",
+      "Cholecystitis"
+    ],
+    "correctAnswer": "Gastric outlet obstruction",
+    "explanation": {
+      "correct": "Chronic duodenal ulcer → scarring/pyloric stenosis → GOO = visible waves, vomiting, relief by antacids.",
+      "incorrect": [
+        {"option": "Small bowel obstruction", "reason": "Would not give succussion splash & visible gastric peristalsis."},
+        {"option": "Volvulus colon", "reason": "Coffee-bean X-ray classic, not here."},
+        {"option": "Umbilical hernia", "reason": "Would be palpable mass obstruction."},
+        {"option": "Cholecystitis", "reason": "No Murphy or RUQ tenderness in chronic ulcer history."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_11",
+    "case": "45yo man with soft movable posterior neck mass, pseudo-fluctuation. Dx? [2/2024R]",
+    "options": [
+      "Abscess",
+      "Sebaceous cyst",
+      "Lipoma",
+      "Dermoid cyst"
+    ],
+    "correctAnswer": "Lipoma",
+    "explanation": {
+      "correct": "Soft, mobile, pseudo-fluctuant → lipoma hallmark. Sebaceous cyst would have central punctum, abscess would be tender, dermoid congenital midline.",
+      "incorrect": [
+        {"option": "Abscess", "reason": "Painful, red, acute."},
+        {"option": "Sebaceous cyst", "reason": "Discrete, dome-shaped, with punctum."},
+        {"option": "Dermoid cyst", "reason": "Midline, not posterior cervical."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_12",
+    "case": "39yo male with Charcot’s triad (RUQ pain+fever+jaundice), gallstones, dilated CBD. On IV antibiotics, still febrile. Next step? [2/2024R]",
+    "options": [
+      "ERCP",
+      "Cholecystostomy tube",
+      "Lap cholecystectomy",
+      "Open cholecystectomy",
+      "Emergent CBD T-tube decompression"
+    ],
+    "correctAnswer": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+    "explanation": {
+      "correct": "Acute ascending cholangitis not improving → urgent CBD decompression by ERCP (gold standard).",
+      "incorrect": [
+        {"option": "Cholecystostomy", "reason": "Good for gallbladder infections, not CBD stones."},
+        {"option": "Lap cholecystectomy", "reason": "Treats gallstones, not infected CBD."},
+        {"option": "Open cholecystectomy", "reason": "Again gallbladder, not duct."},
+        {"option": "T-tube op", "reason": "Far more invasive than ERCP."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_13",
+    "case": "18yo man with 7 days painless rectal bleeding, external exam normal. Next step? [2/2024R]",
+    "options": [
+      "Proctoscopy",
+      "Referral for colonoscopy"
+    ],
+    "correctAnswer": "Referral to a gastroenterologist for colonoscopy",
+    "explanation": {
+      "correct": "Young patient with bleeding but normal exam must have whole colon visualized → colonoscopy.",
+      "incorrect": [
+        {"option": "Proctoscopy", "reason": "Would miss proximal lesions like polyps or IBD."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_14",
+    "case": "82yo man, SBO symptoms, X-ray parrot’s beak, no hernia/surgery hx. Best next step? [2/2024R]",
+    "options": [
+      "NG suction, IV fluids, observation",
+      "Repeated enemas/laxatives",
+      "Emergency celiac/mesenteric angiogram",
+      "Proctosigmoidoscopy",
+      "Emergency laparotomy"
+    ],
+    "correctAnswer": "Emergency exploratory laparotomy",
+    "explanation": {
+      "correct": "Classic volvulus (parrot beak). Old patient, obstructed, toxic abdomen → must undergo laparotomy, not conservative wait.",
+      "incorrect": [
+        {"option": "NG suction", "reason": "Temporizes, but volvulus needs definitive surgery."},
+        {"option": "Enemas/laxatives", "reason": "Dangerous—risk perforation."},
+        {"option": "Angiogram", "reason": "Irrelevant in volvulus."},
+        {"option": "Proctosigmoidoscopy", "reason": "Sometimes decompression can be attempted if stable, but mostly laparotomy is standard here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_15",
+    "case": "53yo man with LLQ pain, fever, sigmoid diverticulitis + 8cm abscess. Perc drainage & antibiotics done, now resolved, colonoscopy shows diverticula only. Next step? [2/2024R]",
+    "options": [
+      "Expectant management",
+      "Cystoscopy for fistula",
+      "Hartmann’s procedure",
+      "Sigmoid resection with anastomosis",
+      "Long-term antibiotics"
+    ],
+    "correctAnswer": "Expectant management with sigmoid resection if symptoms recur",
+    "explanation": {
+      "correct": "After percutaneous drainage + recovery, only diverticula remain. Resection not mandatory unless recurrence/complications.",
+      "incorrect": [
+        {"option": "Cystoscopy", "reason": "No fistula seen clinically."},
+        {"option": "Hartmann’s", "reason": "Reserved for emergency perforation cases."},
+        {"option": "Sigmoid resection immediately", "reason": "Not needed after single controlled episode."},
+        {"option": "Chronic antibiotics", "reason": "Not standard; not safe long term."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_16",
+    "case": "A 70-year-old woman with cholelithiasis, now SBO symptoms. X-ray: spherical density RLQ. Dx & definitive treatment? [2/2024R]",
+    "options": [
+      "Ileocolectomy",
+      "Cholecystectomy",
+      "Enterotomy and stone extraction",
+      "NG tube decompression",
+      "IV antibiotics"
+    ],
+    "correctAnswer": "Enterotomy and stone extraction",
+    "explanation": {
+      "correct": "Gallstone ileus (gallstone passed into bowel via fistula, causing obstruction). Best treatment = enterotomy + extraction of obstructing gallstone. Later, elective cholecystectomy/fistula repair can be planned.",
+      "incorrect": [
+        {"option": "Ileocolectomy", "reason": "Overly extensive for gallstone ileus."},
+        {"option": "Cholecystectomy", "reason": "Does not relieve obstruction acutely."},
+        {"option": "NG tube decompression", "reason": "Temporizes but won’t remove stone."},
+        {"option": "IV antibiotics", "reason": "Supportive, but obstruction = mechanical."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_17",
+    "case": "22yo man, large facial laceration from ear to mouth corner. Most likely injured structure? [8/2024R]",
+    "options": [
+      "Parotid duct",
+      "Submandibular duct",
+      "Superficial temporal artery",
+      "Lingual artery",
+      "Mandibular branch of facial nerve"
+    ],
+    "correctAnswer": "Parotid duct",
+    "explanation": {
+      "correct": "The parotid (Stensen’s) duct crosses cheek from near ear → pierces buccinator → oral cavity near molars. Laceration from ear to mouth corner risks parotid duct directly.",
+      "incorrect": [
+        {"option": "Submandibular duct", "reason": "Drains floor of mouth, not cheek."},
+        {"option": "Temporal artery", "reason": "More lateral forehead/temple location."},
+        {"option": "Lingual artery", "reason": "Deep tongue supply, not superficial."},
+        {"option": "Mandibular branch", "reason": "Nerve runs along jawline, not cheek cut trajectory."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_18",
+    "case": "45yo woman RUQ pain radiates shoulder, afebrile. US: cystic duct stone. Next step? [8/2024R]",
+    "options": [
+      "Ursodeoxycholic acid",
+      "Lithotripsy + bile salts",
+      "Endoscopic sphincterotomy",
+      "Laparoscopic cholecystectomy",
+      "NSAIDs"
+    ],
+    "correctAnswer": "Laparoscopic cholecystectomy",
+    "explanation": {
+      "correct": "Symptomatic biliary colic with documented stone → definitive treatment is cholecystectomy. NSAIDs relieve pain but won’t prevent recurrence.",
+      "incorrect": [
+        {"option": "Ursodeoxycholic", "reason": "May dissolve cholesterol stones, but too slow and partial."},
+        {"option": "Lithotripsy", "reason": "Not first-line for gallstones; impractical."},
+        {"option": "Sphincterotomy", "reason": "For CBD stones, not cystic duct stone."},
+        {"option": "NSAIDs", "reason": "Symptom only, not curative."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_19",
+    "case": "60yo alcoholic man, hematemesis, cirrhosis stigmata. NG aspirate: blood. After resuscitation, next step? [8/2024R]",
+    "options": [
+      "Barium swallow",
+      "Balloon tamponade",
+      "Esophagogastroscopy",
+      "Exploratory laparotomy",
+      "Selective angiography"
+    ],
+    "correctAnswer": "Esophagogastroscopy",
+    "explanation": {
+      "correct": "Sclerotic patient, hematemesis likely variceal bleed. Initial resus, then urgent endoscopy to identify and treat varices (band ligate/sclerose).",
+      "incorrect": [
+        {"option": "Barium swallow", "reason": "Contraindicated in acute bleed."},
+        {"option": "Balloon tamponade", "reason": "Rescue if endoscopy fails."},
+        {"option": "Laparotomy", "reason": "Not first choice."},
+        {"option": "Angiography", "reason": "Less useful here, more in arterial non-variceal bleeds."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_20",
+    "case": "2yo boy with reducible right groin lump (after sedation). Planned repair 48h later. Best management? [multi exams]",
+    "options": [
+      "Bassini repair",
+      "Herniotomy",
+      "High crural approach",
+      "Shouldice procedure",
+      "Truss"
+    ],
+    "correctAnswer": "Herniotomy",
+    "explanation": {
+      "correct": "Children undergo simple herniotomy (sac ligation). No mesh repairs like Bassini/Shouldice, which are adult techniques.",
+      "incorrect": [
+        {"option": "Bassini", "reason": "Adult tissue repair."},
+        {"option": "Crural repair", "reason": "Not indicated."},
+        {"option": "Shouldice", "reason": "Adult mesh-free strong tissue plication."},
+        {"option": "Truss", "reason": "Obsolete, not for kids."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_21",
+    "case": "39yo man, groin swelling descends to scrotum, reducible, positive indirect ring test. Dx? [2/2023S]",
+    "options": [
+      "Direct inguinal hernia",
+      "Femoral hernia",
+      "Hydrocele",
+      "Incisional hernia",
+      "Indirect inguinal hernia"
+    ],
+    "correctAnswer": "Indirect inguinal hernia",
+    "explanation": {
+      "correct": "Indirect hernia follows inguinal canal, passes into scrotum, and ring occlusion test positive at deep ring.",
+      "incorrect": [
+        {"option": "Direct inguinal hernia", "reason": "Bulges directly, rarely into scrotum, ring occlusion negative."},
+        {"option": "Femoral hernia", "reason": "Below ligament, not into scrotum."},
+        {"option": "Hydrocele", "reason": "Testicular swelling, cannot be reduced."},
+        {"option": "Incisional hernia", "reason": "No incision history here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_22",
+    "case": "43yo woman, 3x4cm bluish non-tender mass medial to femoral pulse, disappears supine, associated long saphenous varices. Dx? [multi exams]",
+    "options": [
+      "Femoral aneurysm",
+      "Saphenovarix",
+      "Lipoma",
+      "Femoral hernia",
+      "Inguinal node"
+    ],
+    "correctAnswer": "Saphenovarix",
+    "explanation": {
+      "correct": "Saphenous vein varix at SFJ = soft, bluish lump with cough impulse, disappears lying down, associated with varicosities.",
+      "incorrect": [
+        {"option": "Femoral aneurysm", "reason": "Pulsatile, not compressible vein sac."},
+        {"option": "Lipoma", "reason": "Fatty, firm, not bluish, no impulse."},
+        {"option": "Femoral hernia", "reason": "Firm lump, usually tender, no blue vein appearance."},
+        {"option": "Inguinal lymph node", "reason": "Solid, no impulse or disappearance supine."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_23",
+    "case": "61yo man, jaundice, itching, vague pain. CEA 523, CA19-9 450, CT: bulky pancreas + liver mets. Management? [multi exams]",
+    "options": [
+      "Pancreaticoduodenectomy + liver resection",
+      "ERCP stenting",
+      "Total pancreatectomy",
+      "Radiotherapy only",
+      "Whipple only"
+    ],
+    "correctAnswer": "ERCP stenting",
+    "explanation": {
+      "correct": "Unresectable pancreatic carcinoma (liver mets). Palliative stent relieves jaundice/itching. Curative Whipple impossible here.",
+      "incorrect": [
+        {"option": "Whipple/hepatic resection", "reason": "Not appropriate with metastasis."},
+        {"option": "Total pancreatectomy", "reason": "No benefit in stage IV."},
+        {"option": "Radiotherapy only", "reason": "Does not relieve obstruction effectively."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_24",
+    "case": "50yo woman, SBO + pain radiating to inner thigh/knee, no prior surgery. Dx? [11/2022R]",
+    "options": [
+      "Strangulated obturator hernia",
+      "Ileal neoplasm",
+      "Gallstone ileus",
+      "Femoral hernia",
+      "Pubic bone fracture"
+    ],
+    "correctAnswer": "Strangulated obturator hernia",
+    "explanation": {
+      "correct": "Howship-Romberg sign = inner thigh/knee pain due to obturator nerve compression with obturator hernia. SBO with no previous surgery fits.",
+      "incorrect": [
+        {"option": "Ileal tumor", "reason": "Causes obstruction but not radiating thigh pain."},
+        {"option": "Gallstone ileus", "reason": "Would show pneumobilia."},
+        {"option": "Femoral hernia", "reason": "Groin lump palpable, not hidden obturator hernia."},
+        {"option": "Pubic bone fracture", "reason": "Acute trauma, no SBO."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_25",
+    "case": "During open hernia repair surgeon asks which does *not* form inguinal canal boundary. [multi exams]",
+    "options": [
+      "Transversalis fascia & conjoint tendon",
+      "Inguinal ligament",
+      "Pectineal ligament",
+      "External & internal oblique aponeuroses",
+      "Arching fibers IO & TA muscles"
+    ],
+    "correctAnswer": "Pectineal ligament",
+    "explanation": {
+      "correct": "Inguinal canal boundaries: Roof (IO + TA), Floor (inguinal ligament), Ant (EO aponeurosis), Post (TF + conjoint tendon). Pectineal ligament is part of femoral canal boundary, not inguinal canal.",
+      "incorrect": [
+        {"option": "Transversalis fascia + conjoint tendon", "reason": "Posterior wall."},
+        {"option": "Inguinal ligament", "reason": "Forms floor."},
+        {"option": "EO/IO aponeuroses", "reason": "Ant wall."},
+        {"option": "Arching IO/TA fibers", "reason": "Roof."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_26",
+    "case": "During a repair of inguinal hernia, which nerve is within the spermatic cord? [8/2024S]",
+    "options": [
+      "Ilioinguinal nerve",
+      "Genitofemoral nerve",
+      "Genital branch of genitofemoral nerve",
+      "Iliohypogastric nerve",
+      "Lateral femoral cutaneous nerve"
+    ],
+    "correctAnswer": "Genital branch of the genitofemoral nerve",
+    "explanation": {
+      "correct": "The genital branch runs inside spermatic cord with artery to cremaster, supplying cremasteric muscle and scrotum.",
+      "incorrect": [
+        {"option": "Ilioinguinal nerve", "reason": "Close to cord, runs in canal, but outside chord proper."},
+        {"option": "Genitofemoral nerve", "reason": "Only the genital branch enters cord, femoral branch doesn't."},
+        {"option": "Iliohypogastric nerve", "reason": "Supplies abdominal wall, not in cord."},
+        {"option": "Lateral femoral cutaneous", "reason": "Runs near ASIS, no relation to cord."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_27",
+    "case": "82yo woman, painful groin swelling, firm, tender, irreducible. Most likely Dx? [multi exams]",
+    "options": [
+      "Femoral artery aneurysm",
+      "Inguinal hernia",
+      "Femoral hernia",
+      "Inguinal lymphadenopathy",
+      "Saphena varix"
+    ],
+    "correctAnswer": "Femoral hernia",
+    "explanation": {
+      "correct": "Elderly female, tender irreducible groin lump below ligament → classical femoral hernia (commonly incarcerated/strangulated).",
+      "incorrect": [
+        {"option": "Femoral aneurysm", "reason": "Pulsatile swelling, not tender lump."},
+        {"option": "Inguinal hernia", "reason": "Above ligament, often reducible."},
+        {"option": "Nodes", "reason": "Small, rubbery, not obstructing signs."},
+        {"option": "Saphena varix", "reason": "Soft, bluish, collapses lying down."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_28",
+    "case": "70yo smoker, right inguinal lump, reduces on lying, doesn’t go to scrotum, urinary sx. Dx? [multi exams]",
+    "options": [
+      "Direct inguinal hernia",
+      "Hydrocele",
+      "Femoral artery aneurysm",
+      "Cyst of the cord",
+      "Strangulated indirect inguinal hernia"
+    ],
+    "correctAnswer": "Direct inguinal hernia",
+    "explanation": {
+      "correct": "Older male, lump above ligament, doesn’t reach scrotum = direct inguinal hernia (from posterior wall weakness).",
+      "incorrect": [
+        {"option": "Hydrocele", "reason": "Transilluminates, testicular relation, not reducible."},
+        {"option": "Femoral aneurysm", "reason": "Pulsatile."},
+        {"option": "Cord cyst", "reason": "In cord, not reducible via cough impulse."},
+        {"option": "Indirect hernia strangulated", "reason": "Would extend into scrotum, tender irreducible."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_29",
+    "case": "20yo male with testicular swelling, ↑LDH, mildly ↑hCG, AFP normal. Dx? [multi exams]",
+    "options": [
+      "Teratoma",
+      "Adenocarcinoma",
+      "Squamous cancer",
+      "Anaplastic cancer",
+      "Seminoma"
+    ],
+    "correctAnswer": "Seminoma",
+    "explanation": {
+      "correct": "Seminoma: ↑LDH, may have mild hCG rise, normal AFP. Teratoma raises AFP typically.",
+      "incorrect": [
+        {"option": "Teratoma", "reason": "Usually AFP positive."},
+        {"option": "Adenocarcinoma/Squamous", "reason": "Not testicular germ cell tumors."},
+        {"option": "Anaplastic cancer", "reason": "Not standard category here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_30",
+    "case": "30yo man, dragging hemi-scrotal swelling ‘bag of worms’, disappears supine. Dx? [multi exams]",
+    "options": [
+      "Hydrocele",
+      "Indirect inguinal hernia",
+      "Testicular tumour",
+      "Epididymal cyst",
+      "Varicocele"
+    ],
+    "correctAnswer": "Varicocele",
+    "explanation": {
+      "correct": "Classic → ‘bag of worms’, reducible when lying down, caused by dilated pampiniform plexus.",
+      "incorrect": [
+        {"option": "Hydrocele", "reason": "Fluid-filled, doesn’t disappear supine."},
+        {"option": "Indirect hernia", "reason": "Groin lump, not scrotal plexus."},
+        {"option": "Tumour", "reason": "Firm solid, doesn’t reduce."},
+        {"option": "Epididymal cyst", "reason": "Separate, cystic, transilluminates."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_31",
+    "case": "27yo man, 2-day testicular pain + fever, swelling, scrotal redness. Dx? [multi exams]",
+    "options": [
+      "Scrotal haematoma",
+      "Testicular torsion",
+      "Epididymo-orchitis",
+      "Torsion of hydatid of Morgagni",
+      "Irreducible inguinoscrotal hernia"
+    ],
+    "correctAnswer": "Epididymo-orchitis",
+    "explanation": {
+      "correct": "Gradual onset, fever, tender epididymis/testis, scrotal erythema → infection = epididymo-orchitis. Torsion is acute severe onset.",
+      "incorrect": [
+        {"option": "Haematoma", "reason": "Trauma history missing."},
+        {"option": "Torsion", "reason": "Sudden severe pain, not gradual with fever."},
+        {"option": "Hydatid torsion", "reason": "Acute child pain, blue spot sign."},
+        {"option": "Hernia", "reason": "Groin lump with obstruction signs, not infection-like picture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_32",
+    "case": "56yo post-appendicectomy, sudden SOB after cyclizine. HR 122, BP 86/48, sats 85%. What give first? [multi exams]",
+    "options": [
+      "Adrenaline",
+      "Chlorphenamine",
+      "Fluids",
+      "Hydrocortisone",
+      "Salbutamol"
+    ],
+    "correctAnswer": "Adrenaline",
+    "explanation": {
+      "correct": "Classic anaphylaxis after drug (cyclizine). Priority = IM adrenaline first. Others supportive afterward.",
+      "incorrect": [
+        {"option": "Chlorphenamine", "reason": "Helps allergic symptoms but slower."},
+        {"option": "Fluids", "reason": "Important but adrenaline is lifesaving."},
+        {"option": "Hydrocortisone", "reason": "Adjunct, onset hours."},
+        {"option": "Salbutamol", "reason": "Adjunct for bronchospasm, not first priority."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_33",
+    "case": "24yo with colonoscopy showing multiple adenomatous polyps. Genetic syndrome? [multi exams]",
+    "options": [
+      "Gardner’s syndrome",
+      "Juvenile polyposis",
+      "Lynch",
+      "Peutz–Jeghers",
+      "Sipple’s"
+    ],
+    "correctAnswer": "Gardner’s syndrome",
+    "explanation": {
+      "correct": "FAP variant with many adenoma polyps, assoc with osteomas, dental lesions, soft tissue tumours. Classic scenario.",
+      "incorrect": [
+        {"option": "Juvenile polyposis", "reason": "Hamartomatous, not adenomatous."},
+        {"option": "Lynch", "reason": "Few colorectal + endometrial Ca. Not polyposis."},
+        {"option": "Peutz–Jeghers", "reason": "Hamartomatous + pigmented lips."},
+        {"option": "Sipple", "reason": "MEN2 (pheochromocytoma + MTC). Not colon polyps."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_34",
+    "case": "62yo man, reducible groin lump, above ligament, no scrotal extension. Dx? [multi exams]",
+    "options": [
+      "Direct inguinal hernia",
+      "Femoral hernia",
+      "Gluteal hernia",
+      "Indirect inguinal hernia",
+      "Obturator hernia"
+    ],
+    "correctAnswer": "Direct inguinal hernia",
+    "explanation": {
+      "correct": "Reducible swelling above ligament, not extending scrotum = direct inguinal hernia.",
+      "incorrect": [
+        {"option": "Femoral", "reason": "Below ligament."},
+        {"option": "Gluteal", "reason": "Buttock mass, not groin."},
+        {"option": "Indirect", "reason": "Would reach scrotum if large."},
+        {"option": "Obturator", "reason": "Occult, thigh pain not groin lump."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_35",
+    "case": "56yo man, ultrasound = splenic abscess. Management? [11/2023R]",
+    "options": [
+      "Antibiotics alone",
+      "Perc drainage",
+      "Partial splenectomy",
+      "Total splenectomy",
+      "None"
+    ],
+    "correctAnswer": "Total splenectomy",
+    "explanation": {
+      "correct": "Optimal treatment for splenic abscess = splenectomy, as it often harbours multiloculated resistant pus.",
+      "incorrect": [
+        {"option": "Antibiotics alone", "reason": "Too risky, poor clearance."},
+        {"option": "Perc drainage", "reason": "High recurrence, rupture risk."},
+        {"option": "Partial splenectomy", "reason": "Uncommon practice in sepsis."},
+        {"option": "None", "reason": "Not viable—fatal sepsis risk."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_36",
+    "case": "44yo man scrotal swelling painless, transilluminates, testis not palpable. Dx? [multi exams]",
+    "options": [
+      "Epididymo-orchitis",
+      "Hydrocele",
+      "Inguinal hernia",
+      "Testicular torsion",
+      "Varicocele"
+    ],
+    "correctAnswer": "Hydrocele",
+    "explanation": {
+      "correct": "Cystic scrotal swelling encasing testis, transilluminates. That’s hydrocele, fluid in tunica vaginalis.",
+      "incorrect": [
+        {"option": "Epididymo-orchitis", "reason": "Painful red swelling."},
+        {"option": "Hernia", "reason": "Tends to reduce, cough impulse present."},
+        {"option": "Torsion", "reason": "Painful, acute."},
+        {"option": "Varicocele", "reason": "Bag of worms feel, not transillumination."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_37",
+    "case": "67yo woman, groin lumps multiple nodes (2x2 and several axillary). Dx? [multi exams]",
+    "options": [
+      "Saphena varix",
+      "Abscess",
+      "Femoral hernia",
+      "Femoral pseudoaneurysm",
+      "Lymphadenopathy"
+    ],
+    "correctAnswer": "Lymphadenopathy",
+    "explanation": {
+      "correct": "Multiple firm lumps in groin + axilla = generalized lymphadenopathy, not hernia/varix.",
+      "incorrect": [
+        {"option": "Saphena varix", "reason": "Soft venous mass, disappears supine."},
+        {"option": "Abscess", "reason": "Would be red, painful, fluctuant."},
+        {"option": "Femoral hernia", "reason": "Single groin lump, not multiple."},
+        {"option": "Pseudoaneurysm", "reason": "Pulsatile, not multiple discrete lumps."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_38",
+    "case": "69yo smoker, limb pain, claudication 2 yrs, now acute worsening with pale cyanotic cold foot, absent femoral pulse. Dx? [multi exams]",
+    "options": [
+      "DVT",
+      "Chronic lower limb ischemia",
+      "Acute lower limb ischemia",
+      "Diabetic neuropathy",
+      "Buerger’s disease"
+    ],
+    "correctAnswer": "Acute lower limb ischemia",
+    "explanation": {
+      "correct": "Sudden worsening on background of PAD = acute thrombosis/embolus: 6 Ps (pain, pallor, pulseless, poikilothermia, paresthesia, paralysis).",
+      "incorrect": [
+        {"option": "DVT", "reason": "Causes swollen tender limb, pulses preserved."},
+        {"option": "Chronic ischemia", "reason": "Claudication, but here sudden acute change."},
+        {"option": "Neuropathy", "reason": "Painless, pulses intact."},
+        {"option": "Buerger’s", "reason": "Young smokers, distal disease, not elderly with acute change."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_39",
+    "case": "77yo male, rectal bleed, Dukes A adenoca. Tx? [2/2024R]",
+    "options": [
+      "Transanal excision",
+      "Abdomino-perineal resection",
+      "Low anterior resection",
+      "Endorectal stent",
+      "Neoadjuvant chemo"
+    ],
+    "correctAnswer": "Transanal excision",
+    "explanation": {
+      "correct": "Stage I (Dukes A) superficial limited lesion = local excision is curative, no need for radical resection.",
+      "incorrect": [
+        {"option": "APR", "reason": "For low rectal advanced lesions + sphincter removal."},
+        {"option": "LAR", "reason": "For more advanced/anterior tumors."},
+        {"option": "Stent", "reason": "Palliative, not needed for early stage."},
+        {"option": "Neoadjuvant chemo", "reason": "For advanced tumors, not Dukes A."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_40",
+    "case": "62yo woman with eczematoid areolar lesion ×3 months, nipple inverted, firm area. Which next step? [2/2024R]",
+    "options": [
+      "Estrogen cream",
+      "Mammogram and galactogram",
+      "Mammogram and punch biopsies",
+      "Serum glucagon + CT pancreas",
+      "Skin scrapings and antibiotics"
+    ],
+    "correctAnswer": "Mammogram and punch biopsies",
+    "explanation": {
+      "correct": "Suspicious lesion = Paget’s disease of breast (underlying carcinoma). Must do imaging + tissue biopsy. Creams and lotions only delay dx.",
+      "incorrect": [
+        {"option": "Estrogen cream", "reason": "Symptomatic only, doesn’t diagnose."},
+        {"option": "Mammogram + galactogram", "reason": "Galactogram for nipple discharge, not here."},
+        {"option": "Glucagon + CT pancreas", "reason": "Completely unrelated."},
+        {"option": "Skin scrapings", "reason": "This isn’t dermatitis, it’s neoplasm."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_41",
+    "case": "62yo post laparoscopic hernia repair, can’t urinate ×6h, suprapubic fullness. Next step? [2/2024R]",
+    "options": [
+      "Abdominal X-ray",
+      "Increase IV fluids",
+      "Loop diuretics",
+      "In-and-out bladder catheterization",
+      "Suprapubic catheter"
+    ],
+    "correctAnswer": "In-and-out bladder catheterization",
+    "explanation": {
+      "correct": "Post-op acute urinary retention is common. Simple bladder catheterization decompresses. SPC only if urethral route impossible.",
+      "incorrect": [
+        {"option": "X-ray", "reason": "Clinical diagnosis, no imaging needed."},
+        {"option": "More fluids", "reason": "Will worsen retention."},
+        {"option": "Diuretics", "reason": "Again worsen bladder distension."},
+        {"option": "Suprapubic catheter", "reason": "Second line if urethral catheter fails."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_42",
+    "case": "18yo man, MVC, coma GCS7, BP 60/0 after fluids only rises to 70/30, abdomen distended. Next step? [2/2024R]",
+    "options": [
+      "C-spine X-ray",
+      "CT head/abdomen",
+      "Abdominal X-rays",
+      "Arch aortogram",
+      "Exploratory laparotomy"
+    ],
+    "correctAnswer": "Exploring the abdomen",
+    "explanation": {
+      "correct": "Severe hypotension, abdominal distension not improving with fluids = intra-abdominal bleed → urgent laparotomy. Imaging wastes time.",
+      "incorrect": [
+        {"option": "C-spine films", "reason": "Secondary priority—shock kills first."},
+        {"option": "CT scans", "reason": "Unstable → no time."},
+        {"option": "Abdominal X-ray", "reason": "Won’t change management."},
+        {"option": "Arch aortogram", "reason": "Irrelevant here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_43",
+    "case": "42yo woman, intermittent painless soft thigh mass, disappears with compression. Dx? [2/2024R]",
+    "options": [
+      "Direct inguinal hernia",
+      "Saphena varix",
+      "Inguinal nodes",
+      "Indirect hernia",
+      "Femoral hernia"
+    ],
+    "correctAnswer": "Saphena varix",
+    "explanation": {
+      "correct": "Venous swelling at saphenofemoral junction → soft, compressible, disappears lying supine, associated with varicosities.",
+      "incorrect": [
+        {"option": "Direct hernia", "reason": "Solid, doesn’t compress completely."},
+        {"option": "Nodes", "reason": "Firm lumps, don’t collapse."},
+        {"option": "Indirect hernia", "reason": "Would extend to scrotum, not just thigh crease."},
+        {"option": "Femoral", "reason": "Solid hernia, not venous sac."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_44",
+    "case": "64yo man, peri-umbilical mass, expansile pulsation. Screening test? [multi exams]",
+    "options": [
+      "US abdomen",
+      "X-ray",
+      "CT scan",
+      "MRI scan",
+      "Angiography"
+    ],
+    "correctAnswer": "Abdominal ultrasound",
+    "explanation": {
+      "correct": "First-line AAA screening = abdominal ultrasonography (simple, safe, sensitive).",
+      "incorrect": [
+        {"option": "X-ray", "reason": "May show calcification but not reliable."},
+        {"option": "CT", "reason": "For operative planning, not screening."},
+        {"option": "MRI", "reason": "Too costly/complex."},
+        {"option": "Angiography", "reason": "Invasive, used for surgery planning only."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_45",
+    "case": "23yo male ascites, SAAG <1.1, adhesions. Best diagnostic tool? [multi exams]",
+    "options": [
+      "CBC",
+      "Laparoscopy",
+      "X-ray abdomen",
+      "Ascitic fluid cytology",
+      "Karyotyping"
+    ],
+    "correctAnswer": "Laparoscopy",
+    "explanation": {
+      "correct": "Low SAAG (<1.1) = exudative (TB, carcinomatosis, peritoneal disease). Direct visualization via laparoscopy + biopsy is gold.",
+      "incorrect": [
+        {"option": "CBC", "reason": "Non-specific labs."},
+        {"option": "X-ray", "reason": "Poor for ascites cause."},
+        {"option": "Cytology", "reason": "May detect malignancy but low yield."},
+        {"option": "Karyotyping", "reason": "Irrelevant."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_46",
+    "case": "40yo male post-appendectomy, SBO suspicion. Which exam finding is most likely? [multi exams]",
+    "options": [
+      "Distension",
+      "Focal tenderness",
+      "High-pitched bowel sounds",
+      "Rebound tenderness",
+      "Percussion tenderness"
+    ],
+    "correctAnswer": "High-pitched bowel sounds",
+    "explanation": {
+      "correct": "SBO → tinkling, high-pitched metallic bowel sounds + distension. This is most distinct bedside finding.",
+      "incorrect": [
+        {"option": "Distension", "reason": "Present but non-specific."},
+        {"option": "Tenderness signs", "reason": "Suggest peritonitis, not uncomplicated obstruction."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_47",
+    "case": "Most definitive method to diagnose necrotizing soft tissue infection (NSTI)? [multi exams]",
+    "options": [
+      "Erythema and pain",
+      "MRI",
+      "WBC↑ + hyponatremia",
+      "Surgical exploration",
+      "Low Na+ with fever"
+    ],
+    "correctAnswer": "Surgical exploration",
+    "explanation": {
+      "correct": "NSTI diagnosis is ultimately surgical—when in doubt, cut it out. Imaging/labs support but aren’t definitive.",
+      "incorrect": [
+        {"option": "Erythema/pain", "reason": "Suspicious but not diagnostic."},
+        {"option": "MRI", "reason": "Can show fascial gas but not gold standard."},
+        {"option": "Lab markers", "reason": "Suggestive, not confirmatory."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_48",
+    "case": "22yo male with LUQ mass. How to differentiate kidney vs spleen? [multi exams]",
+    "options": [
+      "Cannot palpate above it",
+      "Presence of notch",
+      "Dullness to percussion",
+      "Extends to RLQ",
+      "Ballotable"
+    ],
+    "correctAnswer": "Ballotable",
+    "explanation": {
+      "correct": "Kidney is retroperitoneal, ballotable between hands. Spleen is intraperitoneal, not ballotable. Splenic notch differentiates spleen.",
+      "incorrect": [
+        {"option": "Cannot palpate above it", "reason": "True for both kidney & spleen."},
+        {"option": "Splenic notch", "reason": "Suggests spleen, not kidney."},
+        {"option": "Dullness", "reason": "Both dull."},
+        {"option": "Extends to RLQ", "reason": "Spleen enlarges toward RLQ, kidney doesn’t."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_49",
+    "case": "35yo woman painful breast lump post nursing, fever, erythema, tender. Dx & management? [multi exams]",
+    "options": [
+      "Mammography",
+      "Ultrasound",
+      "Surgical drainage",
+      "Repeated needle aspiration",
+      "Major duct excision"
+    ],
+    "correctAnswer": "Surgical drainage",
+    "explanation": {
+      "correct": "Breast abscess in lactating woman. Drain + antibiotics is curative. Imaging not needed prior.",
+      "incorrect": [
+        {"option": "Mammography/US", "reason": "Not first line in acute infection with abscess formed."},
+        {"option": "Repeated aspiration", "reason": "Sometimes an option, but classic management is I&D."},
+        {"option": "Duct excision", "reason": "Chronic periductal mastitis, not acute abscess."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_50",
+    "case": "Intra-op colon ca with solitary liver met, otherwise normal. Best management? [2/2024R]",
+    "options": [
+      "Close and refer chemo only",
+      "Right hemicolectomy only",
+      "Hemicolectomy + right hepatic lobectomy",
+      "Hemicolectomy + wedge liver excision",
+      "Liver resection only"
+    ],
+    "correctAnswer": "Performing right hemicolectomy and wide excision of the liver lesion",
+    "explanation": {
+      "correct": "Synchronous resectable isolated liver metastasis: remove primary + metastasis. Potentially curative.",
+      "incorrect": [
+        {"option": "Close and chemo only", "reason": "Misses curative chance."},
+        {"option": "Hemicolectomy only", "reason": "Leaves disease behind."},
+        {"option": "Lobectomy", "reason": "Unnecessarily extensive if wedge excision suffices."},
+        {"option": "Liver only", "reason": "Leaves bowel primary unresected."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_51",
+    "case": "25yo football trauma, LUQ pain, shoulder tip pain, hypotension. Hx malaria. Dx? [multi exams]",
+    "options": [
+      "Splenic infarction",
+      "Splenic rupture",
+      "Ruptured diaphragm",
+      "Splenic artery aneurysm",
+      "Hereditary spherocytosis"
+    ],
+    "correctAnswer": "Splenic rupture",
+    "explanation": {
+      "correct": "Acute LUQ pain radiating to shoulder (Kehr’s sign), shock, rigid peritoneum = ruptured spleen. Malaria hx predisposes to splenomegaly rupture.",
+      "incorrect": [
+        {"option": "Splenic infarct", "reason": "Pain but not acute hemorrhage shock."},
+        {"option": "Diaphragm rupture", "reason": "Causes bowel in chest signs."},
+        {"option": "Aneurysm", "reason": "Rare, no trauma link."},
+        {"option": "Spherocytosis", "reason": "Chronic anemia, not acute rupture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_52",
+    "case": "24yo man with excised melanoma, biopsy. Which factor most predictive outcome? [2/2024R]",
+    "options": [
+      "Size",
+      "Color",
+      "Depth",
+      "Ulceration",
+      "Site"
+    ],
+    "correctAnswer": "Depth of the melanoma",
+    "explanation": {
+      "correct": "Breslow depth (vertical thickness) is most prognostic factor. Deeper = worse outcome.",
+      "incorrect": [
+        {"option": "Size/color/site", "reason": "Less predictive than depth."},
+        {"option": "Ulceration", "reason": "Bad sign but secondary prognostic value."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_53",
+    "case": "Best management for newly agitated ward patient? [multi exams]",
+    "options": [
+      "Midazolam",
+      "Carbamazepine",
+      "Ketamine",
+      "Lamotrigine",
+      "Haloperidol"
+    ],
+    "correctAnswer": "Haloperidol",
+    "explanation": {
+      "correct": "Haloperidol is standard for acute agitation in hospital ward setting. Benzos may worsen confusion. Antiepileptics irrelevant.",
+      "incorrect": [
+        {"option": "Midazolam", "reason": "Used in ICU sedation, not ward agitation."},
+        {"option": "Ketamine", "reason": "Anesthetic, not behavior control."},
+        {"option": "Carbamazepine/Lamotrigine", "reason": "Chronic seizure/mood stabilizers, not acute management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_54",
+    "case": "Which is 'time out' in OR? [multi exams]",
+    "options": [
+      "Check preop labs",
+      "Shaving surgical area",
+      "Inside OR ensure patient ID, side, planned operation",
+      "Site marking",
+      "Record op time"
+    ],
+    "correctAnswer": "It is done inside the operating room for ensuring patient identity, type and side of the operation",
+    "explanation": {
+      "correct": "WHO surgical checklist ‘time-out’ = pause before incision to confirm patient, site, procedure. Prevents wrong-site surgery.",
+      "incorrect": [
+        {"option": "Preop labs", "reason": "That’s earlier assessment."},
+        {"option": "Shaving", "reason": "Done night before in old practice, not this."},
+        {"option": "Site marking", "reason": "Done pre-induction outside OR."},
+        {"option": "Record time", "reason": "Documentation—not safety check."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_55",
+    "case": "75yo woman, right iliac fossa mass, recurrent PR bleed. Colonoscopy: caecal adenoca. Best surgery? [multi exams]",
+    "options": [
+      "Cecostomy",
+      "Extended right hemicolectomy",
+      "Limited excision",
+      "Right hemicolectomy",
+      "Total colectomy"
+    ],
+    "correctAnswer": "Right hemicolectomy",
+    "explanation": {
+      "correct": "Standard operation for caecal carcinoma = right hemicolectomy. Extended resections for transverse colon etc.",
+      "incorrect": [
+        {"option": "Cecostomy", "reason": "Obsolete, not curative."},
+        {"option": "Extended", "reason": "For hepatic flexure/transverse ca, not caecum strictly."},
+        {"option": "Limited excision", "reason": "Insufficient oncologic clearance."},
+        {"option": "Total colectomy", "reason": "Reserved for diffuse polyposis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_56",
+    "case": "75yo female, RIF mass, recurrent rectal bleeding. Colonoscopy: caecal mass, biopsy adenocarcinoma grade II. Surgical treatment? [multi exams]",
+    "options": [
+      "Cecostomy",
+      "Extended right hemicolectomy",
+      "Limited excision of the mass",
+      "Right hemicolectomy",
+      "Total colectomy"
+    ],
+    "correctAnswer": "Extended right hemicolectomy",
+    "explanation": {
+      "correct": "For caecal carcinoma extending toward hepatic flexure, the standard oncologic operation is extended right hemicolectomy with ileocolic and middle colic vessel ligation.",
+      "incorrect": [
+        {"option": "Cecostomy", "reason": "Not oncologic, palliative only."},
+        {"option": "Limited excision", "reason": "Insufficient oncologic margins."},
+        {"option": "Right hemicolectomy", "reason": "Standard for ceacal but here mass size often demands extended resection."},
+        {"option": "Total colectomy", "reason": "Reserved for diffuse polyposis/FAP, not localized tumor."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_57",
+    "case": "80yo man, cholelithiasis, SBO signs. Which finding most confirms gallstone ileus? [2/2024R]",
+    "options": [
+      "Coffee grounds aspirate",
+      "Pneumobilia",
+      "WBC 40,000",
+      "ABG metabolic findings",
+      "Palpable pelvic mass"
+    ],
+    "correctAnswer": "Pneumobilia",
+    "explanation": {
+      "correct": "Air in biliary tree (pneumobilia) + obstruction = pathognomonic for gallstone ileus due to cholecystoenteric fistula.",
+      "incorrect": [
+        {"option": "Coffee grounds", "reason": "Suggests upper GI bleeding."},
+        {"option": "High WBC", "reason": "Not specific."},
+        {"option": "ABG changes", "reason": "Non-specific metabolic findings."},
+        {"option": "Pelvic mass", "reason": "Not typical."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_58",
+    "case": "60yo man with anal itching worsens day end, salesman standing all day. No fever or bleeding. Likely diagnosis? [2/2024R]",
+    "options": [
+      "Anal fissure",
+      "External hemorrhoids",
+      "Fistula in ano",
+      "Internal hemorrhoids",
+      "Perirectal abscess"
+    ],
+    "correctAnswer": "External hemorrhoids",
+    "explanation": {
+      "correct": "External hemorrhoids cause perianal discomfort/itching aggravated by prolonged standing, no bleeding necessarily.",
+      "incorrect": [
+        {"option": "Anal fissure", "reason": "Severe pain with defecation and bleeding."},
+        {"option": "Fistula", "reason": "History of discharge/recurrent abscess."},
+        {"option": "Internal hemorrhoids", "reason": "Painless bleeding more typical."},
+        {"option": "Perirectal abscess", "reason": "Presents acutely painful, fever, swelling."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_59",
+    "case": "70yo ex-smoker, weight loss + dysphagia progressing to solids & liquids, nausea/vomiting. What causes vomiting? [multi exams]",
+    "options": [
+      "Gastric carcinoma",
+      "Esophageal carcinoma",
+      "Opiates",
+      "Pancreatitis",
+      "Gastritis"
+    ],
+    "correctAnswer": "Esophageal carcinoma",
+    "explanation": {
+      "correct": "Dysphagia progressive from solids → liquids, obstructs, causing food stasis → regurgitation/vomiting.",
+      "incorrect": [
+        {"option": "Gastric carcinoma", "reason": "Vomiting possible but dysphagia hallmark of esophageal cancer."},
+        {"option": "Opiates", "reason": "Not primary cause here."},
+        {"option": "Pancreatitis/Gastritis", "reason": "Wouldn’t explain dysphagia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_60",
+    "case": "65yo woman with 8 days abdominal distension, colicky pain, 12h vomiting. First investigation? [multi exams]",
+    "options": [
+      "Barium enema",
+      "CT Abdomen & Pelvis",
+      "Flexible sigmoidoscopy",
+      "Colonoscopy",
+      "Endoanal US"
+    ],
+    "correctAnswer": "CT scan of the abdomen and pelvis",
+    "explanation": {
+      "correct": "Suspected large bowel obstruction—CT is gold initial investigation to confirm site/cause/complication.",
+      "incorrect": [
+        {"option": "Barium enema", "reason": "Not safe → risk perforation."},
+        {"option": "Colonoscopy/sigmoidoscopy", "reason": "Diagnostic but unsafe in acute obstruction."},
+        {"option": "Endoanal US", "reason": "Only for anal pathology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_61",
+    "case": "23yo man acute anal pain post defecation, persists hours, bright red blood, unable for exam due to spasm. Dx? [multi exams]",
+    "options": [
+      "Anal SCC",
+      "Acute anal fissure",
+      "Grade IV hemorrhoids",
+      "Diverticular disease",
+      "Anal fistula"
+    ],
+    "correctAnswer": "Acute anal fissure",
+    "explanation": {
+      "correct": "Severe pain with defecation, bright blood on paper, sphincter spasm = anal fissure classic.",
+      "incorrect": [
+        {"option": "SCC", "reason": "Rare, chronic, ulcerated lesions."},
+        {"option": "Hemorrhoids", "reason": "Painless bright red bleeding, not severe pain."},
+        {"option": "Diverticular disease", "reason": "Colonic bleed, painless per rectum."},
+        {"option": "Fistula", "reason": "Discharge but not severe pain with defecation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_62",
+    "case": "28yo male, painless testis enlargement, firm, nodular. Next best diagnostic step? [2/2024R]",
+    "options": [
+      "CT scan",
+      "Tumor markers (hCG, AFP, LDH)",
+      "Scrotal US",
+      "Needle biopsy",
+      "Inguinal orchiectomy"
+    ],
+    "correctAnswer": "Scrotal ultrasonography",
+    "explanation": {
+      "correct": "First-line imaging for testis swellings = scrotal US. Then tumor markers, then definitive orchiectomy (not biopsy—risk seeding).",
+      "incorrect": [
+        {"option": "CT scan", "reason": "For staging after diagnosis."},
+        {"option": "Markers", "reason": "Helpful but imaging first."},
+        {"option": "Needle biopsy", "reason": "Contraindicated—spreads cancer."},
+        {"option": "Immediate orchiectomy", "reason": "Do once confirmed, not before US."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_63",
+    "case": "64yo post hemicolectomy, calf DVT on duplex. Initial management? [2/2024R]",
+    "options": [
+      "Compression stockings",
+      "Warfarin",
+      "Heparin",
+      "Thrombolysis",
+      "IVC filter"
+    ],
+    "correctAnswer": "Heparin",
+    "explanation": {
+      "correct": "Start anticoagulation with LMWH/heparin immediately for acute DVT. Then transition to warfarin/DOACs. Stockings are adjuncts.",
+      "incorrect": [
+        {"option": "Compression only", "reason": "Not enough for acute DVT."},
+        {"option": "Warfarin", "reason": "Takes days—bridge with heparin."},
+        {"option": "Thrombolysis", "reason": "Reserved for extensive limb-threatening clots."},
+        {"option": "IVC filter", "reason": "Reserved if anticoagulation contraindicated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_64",
+    "case": "12yo girl gunshot knee shrapnel + local swelling, non-pulsatile hematoma, small fracture. Next step? [multi exams]",
+    "options": [
+      "OR vascular repair",
+      "CT angiography",
+      "OR internal fixation femur",
+      "Duplex US leg",
+      "Angiography"
+    ],
+    "correctAnswer": "CT angiography of the leg",
+    "explanation": {
+      "correct": "Expanding hematoma suggests vascular injury. Non-pulsatile = not active bleed yet. CT angio confirms site before surgery.",
+      "incorrect": [
+        {"option": "OR vascular repair", "reason": "Do after imaging unless uncontrolled hemorrhage."},
+        {"option": "Fix fracture first", "reason": "Must check vessels before ortho fixation."},
+        {"option": "US Doppler", "reason": "Less accurate, CT angio gold in trauma."},
+        {"option": "Formal angiography", "reason": "Invasive, CT angio now standard."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_65",
+    "case": "75yo man with LIF pain, fever, WBC ↑, CRP ↑. Diagnosis? [multi exams]",
+    "options": [
+      "Appendicitis",
+      "Diverticulitis",
+      "Gastroduodenitis",
+      "Meckel's diverticulum",
+      "Mesenteric infarction"
+    ],
+    "correctAnswer": "Diverticulitis",
+    "explanation": {
+      "correct": "Elderly, LIF tenderness, fever, labs ↑ = diverticulitis till proven otherwise.",
+      "incorrect": [
+        {"option": "Appendicitis", "reason": "RIF pain, not LIF."},
+        {"option": "Gastroduodenitis", "reason": "Epigastric complaints."},
+        {"option": "Meckel’s", "reason": "Usually young, RIF bleed."},
+        {"option": "Mesenteric infarction", "reason": "Causes severe pain out of proportion and peritonitis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_66",
+    "case": "24yo male, pain + fresh blood PR, sentinel skin tag, intolerant of exam (spasm). Dx? [multi exams]",
+    "options": [
+      "Anal fissure",
+      "Anal fistula",
+      "Hemorrhoids",
+      "Proctalgia fugax",
+      "Solitary rectal ulcer"
+    ],
+    "correctAnswer": "Anal fissure",
+    "explanation": {
+      "correct": "Sentinel pile (skin tag), severe pain, spasm, fresh blood = fissure classic.",
+      "incorrect": [
+        {"option": "Fistula", "reason": "Chronic discharge, not acute pain."},
+        {"option": "Hemorrhoids", "reason": "Bleeding but painless or mild pain."},
+        {"option": "Proctalgia fugax", "reason": "Episodic intense rectal pain, no visible lesion."},
+        {"option": "Solitary rectal ulcer", "reason": "Presents as chronic bleeding, not fissure features."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_67",
+    "case": "48yo woman suspicious mammogram lesion → stereotactic biopsy = LCIS. Appropriate counseling? [2/2024R]",
+    "options": [
+      "Tamoxifen prevents spread; increases contralateral risk",
+      "Non-operative Rx + observation",
+      "Mastectomy right breast",
+      "Staging chest X-ray, bone scan",
+      "Bilateral mastectomy mandatory"
+    ],
+    "correctAnswer": "You can consider non-operative treatment with close observation, annual mammograms, and semiannual clinical examinations",
+    "explanation": {
+      "correct": "LCIS is a risk marker, not obligate precursor. Observation + surveillance (sometimes chemoprevention) is standard.",
+      "incorrect": [
+        {"option": "Tamoxifen only", "reason": "Not standard alone here."},
+        {"option": "Mastectomy", "reason": "Extreme & not necessary for LCIS."},
+        {"option": "Staging scans", "reason": "Only for invasive carcinoma."},
+        {"option": "Bilateral mastectomy mandatory", "reason": "Reserved for strong family/genetic risk, not LCIS routine."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_68",
+    "case": "22yo male acute appendicitis pain localized RIF, rebound tenderness. Feature of non-complicated appendicitis? [multi exams]",
+    "options": [
+      "Temp 39.5",
+      "WBC 19,000",
+      "Collection in US",
+      "Generalized rigidity",
+      "Crossed tenderness"
+    ],
+    "correctAnswer": "Crossed tenderness on pressing left iliac fossa",
+    "explanation": {
+      "correct": "Rovsing’s sign (pain in RLQ when pressing LLQ) is a feature of uncomplicated appendicitis.",
+      "incorrect": [
+        {"option": "High temp/WBC/collection/rigidity", "reason": "Suggest complicated/perforated appendicitis, not simple."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_69",
+    "case": "Post-appendectomy histology = 1 cm tip carcinoid. Asymptomatic. Next intervention? [2/2024R]",
+    "options": [
+      "Right hemicolectomy",
+      "Partial cecectomy",
+      "No further operation",
+      "Total colectomy",
+      "Small bowel resection"
+    ],
+    "correctAnswer": "No further operative intervention required",
+    "explanation": {
+      "correct": "Appendiceal carcinoid <2 cm at tip → cured by appendectomy. Hemicolectomy needed if >2 cm, meso-base or lymphatic spread.",
+      "incorrect": [
+        {"option": "Hemicolectomy", "reason": "Not necessary for 1 cm tip lesion."},
+        {"option": "Cecectomy/total colectomy", "reason": "Overtreatment."},
+        {"option": "Small bowel resection", "reason": "Irrelevant."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_70",
+    "case": "41yo woman thought appendicitis, intra-op: normal appendix, terminal ileitis with creeping mesenteric fat, 30 cm length. Next action? [2/2024R]",
+    "options": [
+      "Closure",
+      "Appendectomy",
+      "Bypass stoma",
+      "Side-to-side ileotransverse colostomy",
+      "Right hemicolectomy"
+    ],
+    "correctAnswer": "Closure of the abdomen",
+    "explanation": {
+      "correct": "Findings suggest Crohn’s ileitis. Do not resect in acute setting unless complication (obstruction/perforation). Close abdomen; disease is medical.",
+      "incorrect": [
+        {"option": "Appendectomy", "reason": "Appendix normal."},
+        {"option": "Bypass/colostomy/hemicolectomy", "reason": "Not first-line in acute Crohn’s."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_71",
+    "case": "74yo woman, painful foot ulcer. Punched out, pale deep base, thin dry skin. Likely etiology? [multi exams]",
+    "options": [
+      "Venous ulcer",
+      "Arterial ulcer",
+      "Neuropathic ulcer",
+      "Diabetic ulcer",
+      "Malignant ulcer"
+    ],
+    "correctAnswer": "Arterial ulcer",
+    "explanation": {
+      "correct": "Arterial ulcers are painful, punched-out, pale, with surrounding shiny tight skin. Distal ischemia hallmark.",
+      "incorrect": [
+        {"option": "Venous", "reason": "Shallow, at medial malleolus, with edema."},
+        {"option": "Neuropathic", "reason": "On pressure points, painless."},
+        {"option": "Diabetic", "reason": "May be neuropathic or infected, but skin here described ischemic."},
+        {"option": "Malignant", "reason": "Would show fungating/irregular edges."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_72",
+    "case": "53yo man, big toe ulcer, calf claudication eased by rest, cool peripheries, poor pulses. Dx? [multi exams]",
+    "options": [
+      "Arterial ulcer",
+      "Curling ulcer",
+      "Marjolin ulcer",
+      "Neuropathic ulcer",
+      "Venous ulcer"
+    ],
+    "correctAnswer": "Arterial ulcer",
+    "explanation": {
+      "correct": "Classic ischemic ulcer due to PAD, deep painful ulcer of toes/foot, with claudication and absent pulses.",
+      "incorrect": [
+        {"option": "Curling", "reason": "Duodenal ulcer post-burns."},
+        {"option": "Marjolin", "reason": "Malignant change of chronic wound."},
+        {"option": "Neuropathic", "reason": "Usually painless, plantar side."},
+        {"option": "Venous", "reason": "Shallow medial venous ulcers, edema."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_73",
+    "case": "55yo woman, heaviness & cramping leg, relief by elevation. Ulcer above medial malleolus, non-pitting edema, superficial varicosities. Dx? [8/2024R]",
+    "options": [
+      "Isolated varicosities",
+      "Superficial lymphatic obstruction",
+      "Deep venous insufficiency",
+      "Arterial insufficiency",
+      "Incompetent perforators"
+    ],
+    "correctAnswer": "Incompetent perforating veins",
+    "explanation": {
+      "correct": "Typical venous ulcer related to perforator incompetence: medial aspect, relieved by elevation, edema, varicosities.",
+      "incorrect": [
+        {"option": "Isolated varicose veins", "reason": "Cause discomfort but not ulcers."},
+        {"option": "Lymphatic obstruction", "reason": "Causes lymphedema, not ulcers."},
+        {"option": "Deep venous insufficiency", "reason": "Can cause, but medial perforators classically blamed."},
+        {"option": "Arterial", "reason": "Painful, punched out toes ulcers."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_74",
+    "case": "70yo post partial gastrectomy 30y ago, now pain, vomiting, wt loss. Most likely Dx? [8/2024R]",
+    "options": [
+      "Recurrent ulcer",
+      "Early dumping syndrome",
+      "Malignancy",
+      "Late dumping syndrome",
+      "Post-vagotomy diarrhea"
+    ],
+    "correctAnswer": "Malignancy",
+    "explanation": {
+      "correct": "Post-gastrectomy gastric stump carcinoma risk decades later. Alarm symptoms: weight loss, obstruction-like vomiting = malignancy.",
+      "incorrect": [
+        {"option": "Recurrent ulcer", "reason": "Possible, but weight loss/mass favors cancer."},
+        {"option": "Dumping syndromes", "reason": "Causes postprandial hypoglycemia or diarrhea, not wt loss & obstruction."},
+        {"option": "Post-vagotomy diarrhea", "reason": "Later complication, not main here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_75",
+    "case": "70yo woman, jaundice, small head of pancreas mass 2 cm, no vascular invasion. Next step? [8/2024R]",
+    "options": [
+      "Whipple operation",
+      "Surgical exploration",
+      "ERCP stent",
+      "Distal pancreatectomy",
+      "Lap assessment"
+    ],
+    "correctAnswer": "Whipple operation",
+    "explanation": {
+      "correct": "Resectable pancreatic head mass (small, no invasion) → pancreaticoduodenectomy (Whipple).",
+      "incorrect": [
+        {"option": "Exploration", "reason": "Already staged by CT—resectable so proceed definitive."},
+        {"option": "ERCP stent", "reason": "Palliative option for unresectable/advanced."},
+        {"option": "Distal pancreatectomy", "reason": "For tail/body lesions, not head."},
+        {"option": "Lap assess", "reason": "CT already excluded vascular invasion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_76",
+    "case": "58yo woman urge incontinence worsening ×2y, hx perineal tear delivery. Investigation? [8/2024R]",
+    "options": [
+      "Rigid sigmoidoscopy",
+      "Colonoscopy",
+      "EUA",
+      "Biopsy",
+      "Anorectal physiology"
+    ],
+    "correctAnswer": "Anorectal physiology",
+    "explanation": {
+      "correct": "To evaluate sphincter tone/rectal pressures, required in urge incontinence due to possible sphincter weakness post tear.",
+      "incorrect": [
+        {"option": "Sigmoidoscopy/colonoscopy", "reason": "Colorectal cancer exclusion, not incontinence evaluation."},
+        {"option": "EUA", "reason": "Identify fistula, not physiology."},
+        {"option": "Biopsy", "reason": "Not needed here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_77",
+    "case": "59yo female with hematemesis, hypotension. NGT aspirate fresh blood. After resus, next? [multi exams]",
+    "options": [
+      "Elective surgery",
+      "Ultrasound for cirrhosis",
+      "Urgent endoscopy",
+      "Home treatment",
+      "Surgery referral"
+    ],
+    "correctAnswer": "Urgent endoscopic work up",
+    "explanation": {
+      "correct": "Upper GI bleed must have urgent endoscopy to diagnose and treat cause once stabilized. Ultrasound/hospitalize comes later.",
+      "incorrect": [
+        {"option": "Elective surgery", "reason": "Not first-line, reserved for refractory cases."},
+        {"option": "USG", "reason": "Not acute management."},
+        {"option": "Home Rx", "reason": "Unsafe."},
+        {"option": "Ref to surgery", "reason": "Needs endoscopy first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_78",
+    "case": "65yo woman, large breast mass ≥6 cm fixed to wall + axillary nodes. After mammography, next step? [multi exams]",
+    "options": [
+      "Excision biopsy",
+      "FNAC",
+      "Core biopsy",
+      "Incision biopsy",
+      "Breast US"
+    ],
+    "correctAnswer": "Core biopsy",
+    "explanation": {
+      "correct": "Suspicious breast mass diagnosis: core needle biopsy preferred (provides architecture, hormone receptor testing). FNAC insufficient alone.",
+      "incorrect": [
+        {"option": "Excision biopsy", "reason": "Not for large fixed mass, may compromise surgery."},
+        {"option": "FNAC", "reason": "Cellular only, not enough architecture."},
+        {"option": "Incision biopsy", "reason": "Causes seeding, not preferred."},
+        {"option": "Ultrasound", "reason": "Imaging—already seen on mammogram."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_79",
+    "case": "31yo lactating female, painful breast ×2d, fever, chills. Erythema tender swelling. Dx? [multi exams]",
+    "options": [
+      "Breast abscess",
+      "Inflammatory carcinoma",
+      "Fibroadenoma",
+      "Breast cyst",
+      "Fibroadenosis"
+    ],
+    "correctAnswer": "Breast abscess",
+    "explanation": {
+      "correct": "Classic lactational abscess: fever, tender erythematous lump requiring I&D.",
+      "incorrect": [
+        {"option": "Inflammatory carcinoma", "reason": "Looks similar but chronic, no acute fever."},
+        {"option": "Fibroadenoma/cyst/fibroadenosis", "reason": "Benign lumps without infection."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_80",
+    "case": "48yo man heavy NSAID use, severe epigastric pain, rigid board abdomen. Diagnosis? [multi exams]",
+    "options": [
+      "Gastritis",
+      "Periampullary carcinoma",
+      "Leiomyoma",
+      "Acute cholecystitis",
+      "Perforated duodenal ulcer"
+    ],
+    "correctAnswer": "Perforated duodenal ulcer",
+    "explanation": {
+      "correct": "NSAID-induced peptic ulcer → sudden severe epigastric pain with guarding/rigid abdomen = perforated ulcer.",
+      "incorrect": [
+        {"option": "Gastritis", "reason": "No rigidity or peritonitis."},
+        {"option": "Carcinoma/leiomyoma", "reason": "Chronic, not acute crisis."},
+        {"option": "Cholecystitis", "reason": "RUQ pain, not epigastric rigid abdomen."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_81",
+    "case": "24yo woman, neck swelling in carotid triangle, aspiration = cholesterol crystals. Dx? [8/2024R]",
+    "options": [
+      "Lymph node",
+      "Carotid body tumour",
+      "Cystic hygroma",
+      "Branchial cyst",
+      "Thyroid nodule"
+    ],
+    "correctAnswer": "Branchial cyst",
+    "explanation": {
+      "correct": "Classic branchial cyst: lateral neck, cholesterol crystals in aspirate.",
+      "incorrect": [
+        {"option": "Node", "reason": "More solid lesion."},
+        {"option": "Carotid body tumour", "reason": "Highly vascular pulsatile mass."},
+        {"option": "Cystic hygroma", "reason": "Congenital, soft, transilluminates infant neck."},
+        {"option": "Thyroid nodule", "reason": "More anterior, moves with swallowing."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_82",
+    "case": "Which is NOT convenient for mastalgia treatment? [multi exams]",
+    "options": [
+      "Surgery",
+      "Bromocriptine",
+      "Danazol",
+      "Gamma-linolenic acid",
+      "Antiprostaglandins"
+    ],
+    "correctAnswer": "Surgery",
+    "explanation": {
+      "correct": "Mastalgia is managed conservatively (evening primrose oil, danazol, bromocriptine). Surgery inappropriate.",
+      "incorrect": [
+        {"option": "Bromocriptine/danazol/GIA/NSAIDs", "reason": "All are standard medical therapies."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_83",
+    "case": "64yo man weight loss, mild back pain → 2wks later jaundice, pale stools, palpable RUQ mass. Dx? [multi exams]",
+    "options": [
+      "Distended colon",
+      "Distended gallbladder",
+      "Obstructed duodenum",
+      "Pancreatic head mass",
+      "Pancreatic LN"
+    ],
+    "correctAnswer": "Pancreatic head mass",
+    "explanation": {
+      "correct": "Symptoms: obstructive painless jaundice, palpable gallbladder = Courvoisier’s sign, likely pancreatic carcinoma head.",
+      "incorrect": [
+        {"option": "Distended colon/duodenum", "reason": "Not directly causing this picture."},
+        {"option": "Pancreatic nodes", "reason": "Wouldn’t cause gallbladder distension directly."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_84",
+    "case": "62yo TPN, high fever 8h, catheter site erythema. Mgmt? [2/2024R]",
+    "options": [
+      "Antibiotics + observe",
+      "Blood culture via catheter + antibiotics",
+      "Remove catheter + culture, replace via guidewire",
+      "Remove catheter + culture, new line at another site",
+      "Remove catheter + culture, establish peripheral IV"
+    ],
+    "correctAnswer": "Removing catheter, sending for culture and establish peripheral intravenous line",
+    "explanation": {
+      "correct": "Suspected central line sepsis: remove suspected line, send tip for culture, and establish alternative peripheral access until blood cultures guide new line.",
+      "incorrect": [
+        {"option": "Observe", "reason": "Septic patient needs immediate action."},
+        {"option": "Culture via catheter only", "reason": "Should remove infected catheter."},
+        {"option": "Replace same guidewire", "reason": "Unsafe—risk reinfecting new line."},
+        {"option": "Central new line different site", "reason": "Better to use peripheral until stabilize/cultures known."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_85",
+    "case": "75yo woman with transverse colon nearly obstructing carcinoma, biopsy adenoca grade III. Surgical option? [multi exams]",
+    "options": [
+      "Colostomy only",
+      "Total colectomy",
+      "Extended right hemicolectomy",
+      "Hartmann’s procedure",
+      "Transverse colectomy"
+    ],
+    "correctAnswer": "Extended right hemicolectomy",
+    "explanation": {
+      "correct": "For transverse colon carcinoma → extended right hemicolectomy ensures adequate lymphovascular clearance.",
+      "incorrect": [
+        {"option": "Colostomy only", "reason": "Palliative, not definitive."},
+        {"option": "Total colectomy", "reason": "For diffuse polyposis."},
+        {"option": "Hartmann’s", "reason": "For sigmoid/rectum emergency perforation."},
+        {"option": "Transverse colectomy", "reason": "Not standard oncologic resection."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_86",
+    "case": "43yo man severe chest pain after repeated vomiting. Esophagram: rupture proximal to GEJ. Preferred operative exposure? [2/2024R]",
+    "options": [
+      "Right thoracotomy",
+      "Right thoracotomy + laparotomy",
+      "Left thoracotomy",
+      "Left thoracotomy + laparotomy",
+      "Midline laparotomy"
+    ],
+    "correctAnswer": "Left thoracotomy",
+    "explanation": {
+      "correct": "Boerhaave syndrome (spontaneous esophageal rupture) near distal esophagus/GEJ → best exposed via left thoracotomy.",
+      "incorrect": [
+        {"option": "Right thoracotomy", "reason": "Better for mid-esophagus, not distal GEJ."},
+        {"option": "Combined approach", "reason": "Overly extensive unless extension is proven."},
+        {"option": "Midline laparotomy", "reason": "Doesn’t give good access to distal thoracic esophagus."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_87",
+    "case": "45yo woman, NSAID-induced duodenal ulcer perforation, 30hr duration. Best operation? [2/2024R]",
+    "options": [
+      "Simple closure with omental patch",
+      "Vagotomy + pyloroplasty",
+      "Vagotomy + antrectomy",
+      "HSV + omental patch",
+      "Hemigastrectomy"
+    ],
+    "correctAnswer": "Simple closure with omental patch",
+    "explanation": {
+      "correct": "Emergency perforated peptic ulcer = Graham’s patch (omental plug). Definitive anti-ulcer surgery is avoided in unstable/late presentation.",
+      "incorrect": [
+        {"option": "Vagotomy/antrectomy", "reason": "Elective anti-secretory surgeries, not for acutely ill patient."},
+        {"option": "HSV + patch", "reason": "Again elective, not urgent."},
+        {"option": "Hemigastrectomy", "reason": "Excessive in acutely septic patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_88",
+    "case": "Polyp excision 2×1.5 cm villous adenoma, carcinoma in situ, 1 cm above anal verge. Next step? [2/2024R]",
+    "options": [
+      "Reexcision wide margins",
+      "Abdomino-perineal resection",
+      "Anterior resection",
+      "Radiation therapy",
+      "No further therapy"
+    ],
+    "correctAnswer": "Reexcision of the biopsy site with wider margins",
+    "explanation": {
+      "correct": "Villous adenoma with carcinoma in situ requires local wide excision to ensure complete removal. APR only for invasive low tumor.",
+      "incorrect": [
+        {"option": "APR/Anterior resection", "reason": "Too radical for in-situ disease."},
+        {"option": "Radiation", "reason": "Not curative for this lesion."},
+        {"option": "No therapy", "reason": "Risk of recurrence/progression."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_89",
+    "case": "27yo man painless firm nodular swollen testis. Dx? [multi exams]",
+    "options": [
+      "Epididymal cyst",
+      "Gumma",
+      "Hematocele",
+      "Orchitis",
+      "Testicular cancer"
+    ],
+    "correctAnswer": "Testicular cancer",
+    "explanation": {
+      "correct": "Hard, irregular, painless unilateral testicular mass in young man → considered testicular cancer until proven otherwise.",
+      "incorrect": [
+        {"option": "Cyst/hematocele", "reason": "Transilluminate or fluid-filled."},
+        {"option": "Gumma", "reason": "Syphilis rare, chronic."},
+        {"option": "Orchitis", "reason": "Painful, acute inflammatory."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_90",
+    "case": "35yo woman chronic constipation, severe anal pain + bleeding, tender fissure + skin tag. Definitive surgery? [multi exams]",
+    "options": [
+      "Fistulotomy",
+      "Fistulectomy",
+      "Excision of skin tag",
+      "Anal dilatation & lateral sphincterotomy",
+      "Hemorrhoidectomy"
+    ],
+    "correctAnswer": "Anal dilatation and lateral sphincterotomy",
+    "explanation": {
+      "correct": "Gold standard for chronic fissure unresponsive to medical = lateral internal sphincterotomy. Relieves spasm, heals fissure.",
+      "incorrect": [
+        {"option": "Fistulotomy/fistulectomy", "reason": "For fistula, not fissure."},
+        {"option": "Excision skin tag", "reason": "Doesn’t heal fissure."},
+        {"option": "Hemorrhoidectomy", "reason": "Different pathology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_91",
+    "case": "25yo woman simple ovarian cyst 4 cm, asymptomatic. Next best step? [multi exams]",
+    "options": [
+      "Expectant management",
+      "Laparoscopy",
+      "US-guided aspiration",
+      "Exploratory laparotomy",
+      "Progesterone therapy"
+    ],
+    "correctAnswer": "Expectant management",
+    "explanation": {
+      "correct": "Simple <5 cm ovarian cyst in young asymptomatic women → observation, most resolve spontaneously.",
+      "incorrect": [
+        {"option": "Laparoscopy/laparotomy", "reason": "Unnecessary for small benign-appearing cyst."},
+        {"option": "Aspiration", "reason": "High recurrence and dissemination risk."},
+        {"option": "Progesterone", "reason": "Not standard treatment."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_92",
+    "case": "64yo man 5 days post rectal resection, fever, tender rigid abdomen, hypotension. Dx? [multi exams]",
+    "options": [
+      "Secondary hemorrhage",
+      "UTI",
+      "Anastomotic leak",
+      "Hypovolemia",
+      "Wound infection"
+    ],
+    "correctAnswer": "Leaking anastomosis",
+    "explanation": {
+      "correct": "Post resection day 5–7 peritonitis + shock strongly suggests anastomotic leak.",
+      "incorrect": [
+        {"option": "Hemorrhage", "reason": "Would show bleeding signs."},
+        {"option": "UTI", "reason": "Not peritonitis."},
+        {"option": "Hypovolemia", "reason": "No peritoneal signs."},
+        {"option": "Wound infection", "reason": "Local, not generalized rigidity."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_93",
+    "case": "25yo male post severe pancreatitis, enlarging pseudocyst ×2wks, symptomatic. Next step? [multi exams]",
+    "options": [
+      "Percutaneous drainage",
+      "Laparotomy internal drainage",
+      "Excision of pseudocyst",
+      "Total pancreatectomy",
+      "Enzyme therapy"
+    ],
+    "correctAnswer": "Laparotomy and internal drainage of the cyst",
+    "explanation": {
+      "correct": "Symptomatic, enlarging pseudocyst after 6 wks maturity → internal drainage (cystogastrostomy /cystojejunostomy).",
+      "incorrect": [
+        {"option": "Perc drainage", "reason": "High recurrence for mature pseudocyst."},
+        {"option": "Excision/pancreatectomy", "reason": "Excessive."},
+        {"option": "Enzymes", "reason": "Not therapeutic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_94",
+    "case": "55yo female advanced gastric Ca with outlet obstruction. Which statement is true? [multi exams]",
+    "options": [
+      "Gastrojejunostomy is standard",
+      "Endoscopic stenting contraindicated",
+      "GJ has more complications than stent",
+      "Stent has better short-term outcomes",
+      "NGT + NPO resolves obstruction in 60%"
+    ],
+    "correctAnswer": "Compared to gastrojejunostomy, endoscopic stenting is associated with better short-term outcomes as well as shorter hospital length of stay",
+    "explanation": {
+      "correct": "Endoscopic duodenal stenting palliation relieves obstruction faster, less invasive. GJ long-term more durable.",
+      "incorrect": [
+        {"option": "GJ standard", "reason": "Both options available, stenting widely used."},
+        {"option": "Stent contraindicated", "reason": "False."},
+        {"option": "NGT/NPO resolves", "reason": "Not effective management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_95",
+    "case": "45yo man, epigastric pain, fullness, diarrhea, wt loss. CT: pancreatic head calcification + 7 cm tail cyst. Dx? [multi exams]",
+    "options": [
+      "Acute pancreatitis",
+      "Chronic pancreatitis",
+      "Mucinous cystadenoma",
+      "Papillary cystadenoma",
+      "Pseudocyst"
+    ],
+    "correctAnswer": "Mucinous cystadenoma of pancreas",
+    "explanation": {
+      "correct": "Large cystic lesion + calcified head indicates synchronous chronic changes but cystic neoplasm (mucinous cystadenoma) most likely for large tail lesion.",
+      "incorrect": [
+        {"option": "Acute/chronic pancreatitis", "reason": "Chronic fits calcification, but 7 cm cystic lesion likely neoplasm."},
+        {"option": "Papillary cystadenoma", "reason": "Less common variant."},
+        {"option": "Pseudocyst", "reason": "But interval hx favors neoplasm."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_96",
+    "case": "45yo woman 2y post breast Ca surgery + chemo, now RUQ pain. CT: 2 masses in right liver lobe. Dx? [multi exams]",
+    "options": [
+      "Adenoma",
+      "FNH",
+      "Hemangioma",
+      "Hepatocellular carcinoma",
+      "Metastatic carcinoma"
+    ],
+    "correctAnswer": "Metastatic carcinoma",
+    "explanation": {
+      "correct": "Breast Ca → common metastasis to liver. Multiple right lobe lesions = metastases.",
+      "incorrect": [
+        {"option": "Adenoma/FNH/hemangioma", "reason": "Typically solitary, incidental."},
+        {"option": "HCC", "reason": "Occurs with cirrhosis, not post breast Ca."}
+      ]
+    }
+  },
+  {
+    "CaseID": "generalsurgery_97",
+    "case": "28yo male, recurrent tender anorectal swelling, fever, external fistula opening, fluctuant collection. Best management? [multi exams]",
+    "options": [
+      "Exam under anesthesia",
+      "Immediate antibiotics",
+      "Incision & drainage on ward",
+      "MRI scan",
+      "Needle aspiration"
+    ],
+    "correctAnswer": "Examination under general anesthetic",
+    "explanation": {
+      "correct": "Recurrent fistula with abscess needs EUA → allows drainage + exploration of fistula tract. Ward drainage/antibiotics alone not sufficient.",
+      "incorrect": [
+        {"option": "Antibiotics only", "reason": "Inadequate treatment in abscess/fistula."},
+        {"option": "Ward I&D", "reason": "Risk leaving tract untreated."},
+        {"option": "MRI", "reason": "Useful in complex cases but surgery is gold."},
+        {"option": "Needle aspiration", "reason": "Not curative for abscess/fistula."}
+      ]
+    }
+  }
+]

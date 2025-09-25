@@ -1,0 +1,711 @@
+[
+  {
+    "CaseID": "orthopedics_1",
+    "case": "A 34-year-old man is extracted from an automobile after a motor vehicle collision. The patient has an obvious deformity of his right thigh consistent with a femur fracture. Upon closer examination of the right thigh, there is bone visible through an open wound. Which of the following is the appropriate management of his open femur fracture?",
+    "options": [
+      "early irrigation and debridement, IV antibiotics, and cast or splint placement",
+      "early irrigation, debridement, IV antibiotics, compartment decompression & internal or external fixation",
+      "intravenous (IV) antibiotics and cast or splint placement",
+      "IV antibiotics and internal or external fixation",
+      "early irrigation and debridement, IV antibiotics, and internal or external fixation"
+    ],
+    "correctAnswer": "early irrigation and debridement, IV antibiotics, and internal or external fixation",
+    "explanation": {
+      "correct": "Open fractures are surgical emergencies. They require broad-spectrum IV antibiotics, urgent surgical irrigation and debridement to prevent infection, and then stabilization with internal or external fixation (depending on wound condition). Cast alone is not suitable for an open femur fracture.",
+      "incorrect": [
+        {"option": "early irrigation + cast", "reason": "Debridement + antibiotic are good, but casting an open femur is inadequate—needs fixation."},
+        {"option": "early irrigation + compartment decompression + fixation", "reason": "Compartment decompression not routinely required unless compartment syndrome present—no mention here."},
+        {"option": "IV antibiotics + cast", "reason": "Incomplete—without debridement, infection risk is unacceptable."},
+        {"option": "IV antibiotics + fixation", "reason": "Still missing essential debridement step before fixation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_2",
+    "case": "A 25-year-old woman was previously admitted to the orthopedic ward with an ankle fracture which was treated with a plaster cast. When the cast is removed, the patient is unable to dorsiflex her foot. All other leg movements are maintained. Which nerve has most likely been affected?",
+    "options": [
+      "Common peroneal nerve",
+      "Obturator nerve",
+      "Sciatic nerve",
+      "Sural nerve",
+      "Tibial nerve"
+    ],
+    "correctAnswer": "Common peroneal nerve",
+    "explanation": {
+      "correct": "Foot drop (loss of dorsiflexion) = hallmark of common peroneal (fibular) nerve injury. Cast pressure near fibular neck commonly injures this nerve. Plantar flexion (tibial), adduction (obturator), sensation lateral foot (sural) are all preserved.",
+      "incorrect": [
+        {"option": "Obturator", "reason": "Innervates thigh adductors, not foot dorsiflexion."},
+        {"option": "Sciatic", "reason": "Would cause more widespread motor/sensory loss, not isolated dorsiflexion loss."},
+        {"option": "Sural", "reason": "Pure sensory nerve of lateral foot—no motor loss."},
+        {"option": "Tibial", "reason": "Supplies plantar flexion of foot, not dorsiflexion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_3",
+    "case": "A 14-year-old male patient presented with fracture tibia while doing sand boarding in Fayoum. There is a controversy among surgeons regarding how to treat his fracture. One prefers open reduction while the other advised closed reduction. What is the disadvantage of open reduction in this patient?",
+    "options": [
+      "Produces a shorter healing time",
+      "Reduces the risk of infection",
+      "Produces a higher incidence of nonunion",
+      "Decreases trauma to the fracture site",
+      "Requires longer periods of immobilization"
+    ],
+    "correctAnswer": "Produces a higher incidence of nonunion",
+    "explanation": {
+      "correct": "Open reduction exposes fracture site and vascular supply, increasing risk of infection and interfering with healing, leading to higher risk of nonunion compared to closed reduction.",
+      "incorrect": [
+        {"option": "Shorter healing time", "reason": "It prolongs, not shortens, healing."},
+        {"option": "Reduces infection risk", "reason": "Increases infection risk, not decrease."},
+        {"option": "Decreases trauma", "reason": "More trauma to bone and periosteum occurs during open procedure."},
+        {"option": "Requires longer immobilization", "reason": "Not true, immobilization is based on fracture stability, not directly mode of reduction."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_4",
+    "case": "A 50-year-old man is brought to the emergency department by paramedics 2 hours after he vomited a large amount of blood... Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Placement of a selective portosystemic shunt",
+      "Placement of a transjugular portosystemic shunt",
+      "Endoscopic band ligation",
+      "Placement of a splenorenal shunt",
+      "Balloon tamponade"
+    ],
+    "correctAnswer": "Endoscopic band ligation",
+    "explanation": {
+      "correct": "The patient has variceal hemorrhage (cirrhosis: ascites, splenomegaly). After resuscitation, first-line definitive therapy is endoscopic variceal ligation (or sclerotherapy). Shunts are reserved for refractory/recurrent bleeds.",
+      "incorrect": [
+        {"option": "Selective shunt", "reason": "Major surgery, not first choice."},
+        {"option": "TIPS", "reason": "Indicated if bleeding uncontrolled after endoscopy, not first-line."},
+        {"option": "Splenorenal shunt", "reason": "Not first-line, invasive surgical procedure."},
+        {"option": "Balloon tamponade", "reason": "Temporary bridge if endoscopy unavailable or failed."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_5",
+    "case": "Patient referred to ER after road traffic accident, with disturbed conscious level, irregular breathing, leg fracture, BP 100/70. What is the first priority in treating this patient?",
+    "options": [
+      "Fixation of limb fracture",
+      "Ensure air way & fix neck",
+      "Blood transfusion",
+      "Ultrasound abdomen & pelvis",
+      "Normal saline infusion"
+    ],
+    "correctAnswer": "Ensure air way & fix neck",
+    "explanation": {
+      "correct": "ATLS protocol applies: **Airway with cervical spine control** is always the first step in trauma patients with altered consciousness and irregular breathing before worrying about fractures or fluids.",
+      "incorrect": [
+        {"option": "Fixation of limb fracture", "reason": "Not priority vs airway."},
+        {"option": "Blood transfusion", "reason": "Only after ABC secured."},
+        {"option": "Ultrasound abdomen/pelvis", "reason": "Secondary survey tool, after stabilization."},
+        {"option": "Normal saline infusion", "reason": "Resuscitation is after airway and breathing are secured."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_6",
+    "case": "An 18-year-old football player is seen in the emergency ward with severe knee pain incurred after being hit by a tackler while running. Physical examination is consistent with tearing of a meniscus. Which movement causes this injury?",
+    "options": [
+      "Compression",
+      "Simple hyperflexion",
+      "Flexion and rotation",
+      "Femoral condylar fracture",
+      "Hyperextension"
+    ],
+    "correctAnswer": "Flexion and rotation",
+    "explanation": {
+      "correct": "Meniscal tears typically occur when the knee is bent (flexed) and rotated, causing shearing of the cartilage. Twisting injuries in flexed knee are classic sports mechanism.",
+      "incorrect": [
+        {"option": "Compression", "reason": "Causes joint surface damage but not isolated meniscal tear."},
+        {"option": "Hyperflexion", "reason": "Rare to cause meniscus tear by itself."},
+        {"option": "Femoral condylar fracture", "reason": "Different injury, not cartilage tear."},
+        {"option": "Hyperextension", "reason": "Causes ligament injuries more commonly than meniscal tear."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_7",
+    "case": "A 71 year-old male presents with a fall on an outstretched hand. Radiographs demonstrate a distal radius fracture with dorsal displacement of the distal segment. Which of the following is the most likely nerve injury?",
+    "options": [
+      "Median",
+      "Radial",
+      "Ulnar",
+      "Axillary",
+      "Vagus"
+    ],
+    "correctAnswer": "Median",
+    "explanation": {
+      "correct": "Colles fracture (distal radius with dorsal displacement) commonly injures the median nerve (carpal tunnel region). Causes sensory loss in radial 3½ fingers and weakness of thumb opposition.",
+      "incorrect": [
+        {"option": "Radial", "reason": "Injury causes wrist drop, less commonly affected in Colles."},
+        {"option": "Ulnar", "reason": "Affects ulnar fingers, usually injured by elbow fracture-dislocations."},
+        {"option": "Axillary", "reason": "Associated with shoulder dislocations, not wrist fracture."},
+        {"option": "Vagus", "reason": "Unrelated cranial nerve, irrelevant."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_8",
+    "case": "A 20-year-old man fall on outstretched hand. X-ray hand is free. On examination there is tenderness on the anatomical snuff box and limitation of wrist flexion and extension: which of the following is your provisional diagnosis?",
+    "options": [
+      "greenstick fracture",
+      "monteggia deformity",
+      "posterior shoulder dislocation",
+      "scaphoid fracture",
+      "spiral fracture"
+    ],
+    "correctAnswer": "scaphoid fracture",
+    "explanation": {
+      "correct": "Fall on outstretched hand → tenderness in anatomical snuffbox = classic for scaphoid fracture (even if X-ray normal initially). Must be managed as fracture to prevent avascular necrosis.",
+      "incorrect": [
+        {"option": "Greenstick", "reason": "Seen in children with partial cortical fracture."},
+        {"option": "Monteggia", "reason": "Ulna fracture with radial head dislocation, not wrist issue."},
+        {"option": "Posterior shoulder dislocation", "reason": "Different joint altogether."},
+        {"option": "Spiral fracture", "reason": "Describes fracture pattern, not location."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_9",
+    "case": "A 26-year-old man presents with a minimally spiral fracture of his mid right tibia following a street fight. What is the most appropriate treatment option?",
+    "options": [
+      "K wires",
+      "Intramedullary nail",
+      "Manipulation and cast application",
+      "Hemiarthroplasty",
+      "Ilizarov frame external fixation"
+    ],
+    "correctAnswer": "Intramedullary nail",
+    "explanation": {
+      "correct": "Mid-shaft tibial spiral/oblique fractures are best treated by intramedullary nailing, which allows early mobilization, stability and minimal soft tissue damage.",
+      "incorrect": [
+        {"option": "K wires", "reason": "Used in small bones or pediatric fractures, not tibial shaft."},
+        {"option": "Manipulation and cast", "reason": "Used for undisplaced stable fractures not spiral tibial fractures."},
+        {"option": "Hemiarthroplasty", "reason": "Joint replacement, irrelevant to diaphyseal tibia."},
+        {"option": "Ilizarov frame", "reason": "Used for comminuted, infected or nonunion fractures, not primary management of simple spiral fracture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_10",
+    "case": "Which of the following is TRUE regarding the use of imaging in the evaluation of blunt cerebrovascular injuries (BCVI)",
+    "options": [
+      "CTA is the most accurate test for the evaluation of BCVI",
+      "MRA has been shown to be as accurate as CTA for the evaluation of BCVI",
+      "Injury patterns that place patients at relatively high risk for BCVI include: C1/C2 fractures, basal skull fractures, cervical spine fractures with involvement of the transverse foramen, Le Fort II or III fractures.",
+      "The incidence of injuries in most screening series is 5–10%",
+      "If an injury is identified on imaging, anticoagulation with aspirin for 6 months is adequate therapy"
+    ],
+    "correctAnswer": "Injury patterns that place patients at relatively high risk for BCVI include: C1/C2 fractures, basal skull fractures, cervical spine fractures with involvement of the transverse foramen, Le Fort II or III fractures.",
+    "explanation": {
+      "correct": "The recognized high-risk patterns for BCVI screening include Le Fort II/III fractures, cervical vertebrae fracture with transverse foramen involvement, basal skull fractures, and C1/C2 injures. CTA is widely accepted but not 100% accurate, MRA is less sensitive, and aspirin alone is not sufficient therapy if an injury is found.",
+      "incorrect": [
+        {"option": "CTA accurate", "reason": "CTA is good but not considered gold gold, misses some injuries, so not absolute best."},
+        {"option": "MRA equal", "reason": "MRA less sensitive, not equivalent to CTA."},
+        {"option": "Incidence 5–10%", "reason": "In high-risk screened groups incidence can be up to 20%, so this understatement is wrong."},
+        {"option": "Aspirin therapy", "reason": "Full anticoagulation often required, not just aspirin for 6 months."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_11",
+    "case": "A 65-year-old female pedestrian presents after being struck by a car moving at about 20 mph. She has an obvious, open, deformed leg fracture and was unable to walk at the scene. Her prehospital vital signs are P 105, 85/55, and 100% RA. She is awake and alert and in significant pain. You confirm that her airway, breathing, and pulses are intact. On visual inspection, she has an open tibial shaft fracture and has decreased sensation distal to the fracture. Which of the following is the most important next step in management?",
+    "options": [
+      "Splint application to leg",
+      "Irrigation of leg wound",
+      "IV gentamicin and cefazolin",
+      "Tetanus immunization",
+      "Chest and pelvis x-rays"
+    ],
+    "correctAnswer": "IV gentamicin and cefazolin",
+    "explanation": {
+      "correct": "In open fractures, immediate IV broad-spectrum antibiotics are the critical first step along with tetanus prophylaxis and surgical debridement. Prompt antibiotics reduce risk of osteomyelitis and infection before definitive fixation.",
+      "incorrect": [
+        {"option": "Splint", "reason": "Necessary, but after antibiotics are started to reduce infection risk urgently."},
+        {"option": "Irrigation", "reason": "Debridement/irrigation are vital, but immediate antibiotics cannot wait."},
+        {"option": "Tetanus shot", "reason": "Given in ED but not as urgent as starting IV antibiotics."},
+        {"option": "Chest + pelvis X-ray", "reason": "Standard trauma survey, but life/limb risk is infection in open fracture—priority is antibiotics."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_12",
+    "case": "A 6-year-old boy is brought into the emergency room by his mother for walking with a limp for several weeks. On examination, the patient has tenderness over his right thigh without evidence of external trauma. An xray of the pelvis shows a right femoral head that is small and denser than normal. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Dysplasia of the hip",
+      "Blount disease",
+      "Slipped capital femoral epiphysis (SCFE)",
+      "Legg-Calve-Perthes (LCP) disease",
+      "Talipes equinovarus"
+    ],
+    "correctAnswer": "Legg-Calve-Perthes (LCP) disease",
+    "explanation": {
+      "correct": "LCP disease = avascular necrosis of femoral head in children (4-10 years). X-ray: small, sclerotic, fragmented femoral head. Clinical: limp, thigh pain. Classic here.",
+      "incorrect": [
+        {"option": "Dysplasia", "reason": "Congenital, presents in infancy, not at age 6 with necrosis on X-ray."},
+        {"option": "Blount disease", "reason": "Disorder of tibia growth plate causing bowing, not hip involvement."},
+        {"option": "SCFE", "reason": "Adolescents (11-15 y), overweight; femoral head slips, not necrosis."},
+        {"option": "Talipes equinovarus", "reason": "Clubfoot deformity present from birth, not acquired limp."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_13",
+    "case": "While playing with his children, a 44-year-old man falls and lands on his right shoulder. There is immediate pain and deformity. In an uncomplicated dislocation of the glenohumeral joint. In which of the following direction the humeral head usually dislocates primarily?",
+    "options": [
+      "anteriorly",
+      "laterally",
+      "medially",
+      "posteriorly",
+      "superiorly"
+    ],
+    "correctAnswer": "anteriorly",
+    "explanation": {
+      "correct": "The most common shoulder dislocation is anterior (>90%). Mechanism: fall on outstretched hand with forced abduction/external rotation. Clinical: squared-off shoulder, humeral head palpable anteriorly.",
+      "incorrect": [
+        {"option": "Laterally", "reason": "Not a standard clinical term for direction of dislocation."},
+        {"option": "Medially", "reason": "Rare, not primary pattern."},
+        {"option": "Posteriorly", "reason": "Less common; usually seen with seizures or electrical shock."},
+        {"option": "Superiorly", "reason": "Very rare—associated with massive trauma."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_14",
+    "case": "While playing with his children, a 44-year-old man falls and lands on his right shoulder. There is immediate pain and deformity. Where the contour of the shoulder was not in place. The humeral head usually dislocates primarily in. What is your provisional diagnosis?",
+    "options": [
+      "Anterior dislocation of the shoulder.",
+      "Fracture of the clavicle",
+      "Fracture of the neck of the humerus",
+      "Fracture of the shaft of the humerus",
+      "Posterior dislocation of the shoulder"
+    ],
+    "correctAnswer": "Anterior dislocation of the shoulder.",
+    "explanation": {
+      "correct": "Mechanism + deformity strongly point to anterior dislocation of shoulder. Most common type, exam shows abnormal contour, humeral head displaced anteriorly.",
+      "incorrect": [
+        {"option": "Fracture clavicle", "reason": "Would show clavicular deformity and localized tenderness, not humeral head dislocation."},
+        {"option": "Fracture neck humerus", "reason": "Different injury pattern, not joint dislocation."},
+        {"option": "Fracture shaft humerus", "reason": "Presents with humeral shaft deformity, not altered shoulder contour."},
+        {"option": "Posterior dislocation", "reason": "Uncommon, associated with seizures/electric shocks."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_15",
+    "case": "A 75 year old woman admitted in the emergency department after road traffic accident in which she was struck by a bus. On assessing her, she was awake and alert but has a small amount of blood in her mouth from broken teeth. Her O2 saturation is 100%, Pulse 60 and blood pressure 100/60. She is on β blocker medication for hypertension. Her right arm was angulated and deformed, a dressing was applied to a large scalp wound and her head and neck are immobilized by the attending ambulance team and radial pulse was not palpable on this side and poorly felt on the femoral artery as well. She was unable to move her legs when asked to do. Which of the following XRays should be undertaken to assist management?",
+    "options": [
+      "CT spinal cord",
+      "X-Ray RT arm, X-Ray chest, X-Ray pelvic, CT spinal cord.",
+      "X-Ray chest",
+      "Pelvic X-Ray",
+      "X-Ray RT arm and vertebrae"
+    ],
+    "correctAnswer": "X-Ray RT arm, X-Ray chest, X-Ray pelvic, CT spinal cord.",
+    "explanation": {
+      "correct": "ATLS secondary survey calls for chest + pelvic X-ray and limb imaging if obvious fracture. Neurological deficits mandate CT of spine. So a trauma polytrauma series: chest, pelvis, limb, plus CT spine is appropriate.",
+      "incorrect": [
+        {"option": "CT spinal cord only", "reason": "Must also assess chest, pelvis, fractures in trauma survey."},
+        {"option": "X-Ray chest only", "reason": "Incomplete—polytrauma requires more."},
+        {"option": "Pelvic X-Ray only", "reason": "Again incomplete."},
+        {"option": "X-Ray arm+vertebrae", "reason": "Misses chest/pelvis screening."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_16",
+    "case": "A 7-year-old boy is brought in because of right leg pain and limping gait. He was recently treated for a severe asthma exacerbation requiring a prolonged steroid use. On examination, his temperature is 37°C, blood pressure is 90/60 mm Hg, pulse is 76/min, and RR 16/min. He has a normal knee exam. His labs show WBC of 7.4, Hb 12.7. ESR and CRP are normal. Which is the most likely diagnosis?",
+    "options": [
+      "Avascular necrosis of the femoral head",
+      "Osteomyelitis",
+      "Septic Arthritis",
+      "Flare of the rheumatoid arthritis",
+      "Posterior subluxation of the hip"
+    ],
+    "correctAnswer": "Avascular necrosis of the femoral head",
+    "explanation": {
+      "correct": "Prolonged steroid therapy predisposes to avascular necrosis of the femoral head. Limping child, hip pain, no infection markers, normal knee exam—all consistent with AVN.",
+      "incorrect": [
+        {"option": "Osteomyelitis", "reason": "Would cause high WBC, fever, raised ESR/CRP."},
+        {"option": "Septic arthritis", "reason": "Would cause fever, red hot joint, systemic toxicity."},
+        {"option": "RA flare", "reason": "Juvenile RA presents differently, not after steroid course."},
+        {"option": "Posterior subluxation", "reason": "Seen with acute trauma, not gradual after steroid use."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_17",
+    "case": "While observing the arrival of a trauma patient with an open tibia fracture, an otherwise healthy 22-year-old male hospital volunteer states he feels lightheaded. He appears pale and diaphoretic and slowly sinks to the floor. Fortunately, an observant nurse prevents him from striking his head. He is unresponsive for 10 seconds, has a brief tonic-clonic movement but spontaneously awakens, and states 'That was weird.' A brief neurologic exam is non-focal. Which of the following is the most likely cause of his condition?",
+    "options": [
+      "Dysrhythmia",
+      "Grand mal seizure",
+      "Hypoglycemia",
+      "Orthostatic hypotension",
+      "Vasovagal syncope"
+    ],
+    "correctAnswer": "Vasovagal syncope",
+    "explanation": {
+      "correct": "Classic vasovagal syncope: pale, diaphoretic, prodrome, brief LOC with myoclonic jerks, quick recovery. Triggered by emotional stress (seeing blood/trauma).",
+      "incorrect": [
+        {"option": "Dysrhythmia", "reason": "No cardiac history, exam normal, situational trigger fits vasovagal not arrhythmia."},
+        {"option": "Grand mal seizure", "reason": "Generalized seizures last longer, with post-ictal confusion. Here he regained consciousness quickly."},
+        {"option": "Hypoglycemia", "reason": "No diabetes or hunger symptoms mentioned."},
+        {"option": "Orthostatic hypotension", "reason": "Not related to standing up, but to emotional stress context."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_18",
+    "case": "A 55-year-old man presents with locking and clicking of his knee for several days. He twisted it several weeks ago and did not seek medical care at the time. Physical examination demonstrates no knee instability or patellar tenderness. His knee clicks with flexion and occasionally gets locked just before full extension. Which of the following structures is most likely injured?",
+    "options": [
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament",
+      "Medial meniscus",
+      "Patella tendon",
+      "Medial collateral ligament"
+    ],
+    "correctAnswer": "Medial meniscus",
+    "explanation": {
+      "correct": "Locking/clicking with delayed symptoms after twisting injury = classic for meniscal tear. Medial meniscus is most often injured (fixed more firmly to tibia).",
+      "incorrect": [
+        {"option": "ACL", "reason": "Would cause instability, not locking."},
+        {"option": "PCL", "reason": "Posterior drawer instability, not clicking/locking."},
+        {"option": "Patella tendon", "reason": "Rupture causes loss of extension, not mechanical locking."},
+        {"option": "MCL", "reason": "Ligament tear causes valgus instability, not clicking."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_19",
+    "case": "An injury to a major artery in an extremity is suspected in male patient 40-year-old after motor car accident. The surgeon decided to explore the femoral and popliteal vessel in spite of presence of distal pulses to the injury. What is the rationale behind the surgeon's decision?",
+    "options": [
+      "hematoma compressing proximally on the mam artery",
+      "significant injury to adjacent long bones",
+      "significant injury to adjacent motor nerve trunks",
+      "subsequent development of a compartment syndrome and the need for fasciotomy",
+      "the presence of palpable distal pulses does not reliably exclude significant arterial injury"
+    ],
+    "correctAnswer": "the presence of palpable distal pulses does not reliably exclude significant arterial injury",
+    "explanation": {
+      "correct": "A palpable distal pulse does not rule out arterial injury due to collateral flow. Therefore, exploration is justified if suspicion high (mechanism, hematoma).",
+      "incorrect": [
+        {"option": "Proximal hematoma compressing", "reason": "Possible but not main rationale; distal pulse may remain palpable despite serious injury."},
+        {"option": "Long bone injury", "reason": "Not sufficient reason to explore artery without vascular suspicion."},
+        {"option": "Motor nerve injury", "reason": "Doesn’t necessitate urgent vascular exploration."},
+        {"option": "Compartment syndrome prophylaxis", "reason": "Important but not the key rationale provided."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_20",
+    "case": "A trauma patient arrives to the hospital following a stab wound to the left chest with systolic blood pressure (SBP) 85 mm/Hg, which improves slightly with intravenous (IV) fluid resuscitation. Chest X-ray demonstrates clear lung fields. Which of the following is the most appropriate next step?",
+    "options": [
+      "Computed tomography (CT) scan of the chest",
+      "Pelvic X-ray",
+      "Focused abdominal sonography of trauma (FAST) examination",
+      "Urgent Thoracotomy",
+      "Tube thoracostomy of the left chest"
+    ],
+    "correctAnswer": "Focused abdominal sonography of trauma (FAST) examination",
+    "explanation": {
+      "correct": "Hypotension after penetrating trauma, chest x-ray clear → suggests intra-abdominal bleeding. FAST is quick bedside tool to detect hemoperitoneum (blood around liver, spleen etc).",
+      "incorrect": [
+        {"option": "CT chest", "reason": "Too slow for unstable trauma patient."},
+        {"option": "Pelvic X-ray", "reason": "Less urgent given penetrating chest wound + hypotension."},
+        {"option": "Urgent thoracotomy", "reason": "Indicated if tamponade/massive hemothorax; CXR is clear here."},
+        {"option": "Tube thoracostomy", "reason": "Not indicated with clear lung fields and no hemo/pneumothorax."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_21",
+    "case": "A fit 25-year-old man who was working on a building site sustained severe blunt upper abdominal trauma He had a splenectomy for ruptured spleen and partial hepatectomy for torn liver. On the third postoperative day, he became oliguric, had cardiorespiratory compromise, type 2 respiratory failure and gross abdominal distension. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Abdominal compartment syndrome",
+      "Pancreatic injury",
+      "Splenic injury",
+      "Renal injury",
+      "Diaphragmatic injury"
+    ],
+    "correctAnswer": "Abdominal compartment syndrome",
+    "explanation": {
+      "correct": "Progressive oliguria, respiratory failure, shock, and severe abdominal distension after laparotomy indicate abdominal compartment syndrome—dangerous rise in intra-abdominal pressure impairing organ perfusion (kidneys, lungs, circulation).",
+      "incorrect": [
+        {"option": "Pancreatic injury", "reason": "Would cause abdominal tenderness, high amylase, not immediate multi-organ dysfunction from distension."},
+        {"option": "Splenic injury", "reason": "Already dealt with splenectomy, not recurrent problem."},
+        {"option": "Renal injury", "reason": "By itself would not cause abdominal distension and ARDS."},
+        {"option": "Diaphragmatic injury", "reason": "Would impair breathing but not cause abdominal hypertension/oliguria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_22",
+    "case": "A 29-year-old woman who dislocated her left elbow 4 weeks ago, during a strenuous training session, (The new elbow had been successfully relocated in a closed manoeuvre in Casualty). She tells you that after initially good recovery, movement of the joint has suddenly become restricted and very painful. On closer questioning you determine that she has been rather actively mobilising the joint from an early stage to attempt to get back to her training. An X-ray shows some calcification anterior to the joint. What is this complication?",
+    "options": [
+      "Crush syndrome",
+      "Delayed union",
+      "Malunion",
+      "Myositis ossificans",
+      "Non-union"
+    ],
+    "correctAnswer": "Myositis ossificans",
+    "explanation": {
+      "correct": "Myositis ossificans = heterotopic ossification in muscle after trauma. Excessive/early mobilization predisposes. Seen as calcification near joint, with painful restriction of movement. Classic here.",
+      "incorrect": [
+        {"option": "Crush syndrome", "reason": "Systemic complication of massive muscle injury with rhabdomyolysis, not localized ossification."},
+        {"option": "Delayed union", "reason": "Fracture healing slower than expected—not extra bone formation."},
+        {"option": "Malunion", "reason": "Bone heals in wrong position—not heterotopic calcification."},
+        {"option": "Non-union", "reason": "Failure of bone ends to unite, not calcification in soft tissue."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_23",
+    "case": "A 39-year-old man presents with an isolated fracture of the tibia after being hit on the leg with a car. The patient is stable and a radiograph of the leg shows a tibial shaft fracture. Which of the following is the most appropriate management of the fracture?",
+    "options": [
+      "Closed reduction and application of a long leg cast",
+      "External fixation",
+      "Intramedullary nailing",
+      "Plate fixation",
+      "Surgical fixation with unreamed nailing"
+    ],
+    "correctAnswer": "Intramedullary nailing",
+    "explanation": {
+      "correct": "For isolated tibial shaft fractures in adults, intramedullary nailing is the treatment of choice: strong, minimally invasive, allows early mobilization, lower nonunion rates.",
+      "incorrect": [
+        {"option": "Long leg cast", "reason": "Conservative option, but adult tibial fractures often unstable—casting less ideal."},
+        {"option": "External fixation", "reason": "Used if open or highly comminuted with soft tissue compromise."},
+        {"option": "Plate fixation", "reason": "More invasive, higher wound complication rates compared to IM nail."},
+        {"option": "Unreamed nail", "reason": "Used in open fractures to preserve endosteal blood supply, not standard for closed shaft."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_24",
+    "case": "A 34-year-old woman is brought in following a road traffic collision, she is suspected to have intraabdominal injuries and there is bruising over his trunk. On arrival, he has a pulse rate of 138/min and his blood pressure is 80/50 mmHg. Which of the following fluids would raise the patient's blood pressure rapidly?",
+    "options": [
+      "5% dextrose",
+      "Fresh frozen plasma",
+      "Packed red cells",
+      "Mannitol",
+      "Normal saline"
+    ],
+    "correctAnswer": "Normal saline",
+    "explanation": {
+      "correct": "In resuscitation of hemorrhagic shock, rapid volume expansion is best achieved with crystalloids (isotonic, eg normal saline or Ringer’s lactate). Blood products may be necessary later, but NS can be rapidly infused immediately to stabilize BP.",
+      "incorrect": [
+        {"option": "5% dextrose", "reason": "Hypotonic, distributes quickly extracellular + intracellular, not expanding intravascular volume effectively."},
+        {"option": "FFP", "reason": "Needed for coagulopathy, but not first for BP expansion."},
+        {"option": "Packed RBCs", "reason": "Needed but must be cross-matched, not as immediate as NS in ER initial steps."},
+        {"option": "Mannitol", "reason": "Osmotic diuretic, increases urine, worsens shock."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_25",
+    "case": "41-year-old women has back and neck pain following a road traffic collision. She has been immobilized by the ambulance crew on a spinal board. Her heart rate is 120bpm, BP 91/70mmHg, respiratory rate 28breath/min, and GCS score 12/15. Which is the single most appropriate next step?",
+    "options": [
+      "Leave her on the board and send for X-rays",
+      "Leave her on the board until the end of secondary survey is done",
+      "Remove the board by lifting the patient up with the help of nurses and doctors",
+      "Remove the board by log roll method at end of the primary survey",
+      "Remove the straps and ask the patient to roll to one side so that the board can be removed"
+    ],
+    "correctAnswer": "Remove the board by log roll method at end of the primary survey",
+    "explanation": {
+      "correct": "Spinal boards are for short-term transport only. Prolonged immobilization risks pressure sores and respiratory compromise. After primary survey (Airway, Breathing, Circulation), transfer off the board with a log roll + spine precautions.",
+      "incorrect": [
+        {"option": "Leave and send for X-ray", "reason": "Unsafe to keep patient on board longer than absolutely needed."},
+        {"option": "Leave till secondary survey ends", "reason": "Should be removed sooner, at end of A,B,C primary survey."},
+        {"option": "Remove by lifting up", "reason": "Log roll is correct technique to prevent spinal movement, not lifting."},
+        {"option": "Remove straps and ask patient to roll", "reason": "Dangerous, unsafe for spine in injured patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_26",
+    "case": "A 45-year-old man has sustained a closed head injury and multiple rib fractures in a motor car accident. The patient required maximal ventilatory support because of bilateral pulmonary contusions and aspiration pneumonitis. His GCS was 5. Which of the following is the most appropriate method of nutrition?",
+    "options": [
+      "Parenteral nutrition with a protein-sparing formula through a central venous catheter",
+      "Intragastric tube feeding",
+      "Parenteral nutrition through a peripheral venous catheter",
+      "Postpyloric tube feeding",
+      "Any of the above with appropriate calories"
+    ],
+    "correctAnswer": "Postpyloric tube feeding",
+    "explanation": {
+      "correct": "Enteral feeding is always preferred in ICU trauma patients, if gut is functional. With risk of aspiration (low GCS & contusions), postpyloric (nasojejunal) feeding is safest and most appropriate.",
+      "incorrect": [
+        {"option": "Central PN", "reason": "Reserved if gut not functional. Higher infection risk."},
+        {"option": "Intragastric feeding", "reason": "High aspiration risk in severe head injury/low GCS."},
+        {"option": "Peripheral PN", "reason": "Cannot provide enough calories/protein long term."},
+        {"option": "Any option ok", "reason": "No—enteral postpyloric best and safer."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_27",
+    "case": "A 21-year-old man presents to the ED after sustaining a gunshot wound to the neck. After evaluation, it is determined that he has C6 quadriplegia. Which of the following activities will be limited by this injury?",
+    "options": [
+      "wrist extension",
+      "elbow extension",
+      "elbow flexion"
+    ],
+    "correctAnswer": "elbow extension",
+    "explanation": {
+      "correct": "C6 quadriplegia preserves elbow flexion (C5-6, biceps) and wrist extension (C6), but elbow extension requires C7 (triceps). Thus, he cannot extend his elbows.",
+      "incorrect": [
+        {"option": "Wrist extension", "reason": "C6 level, so wrist extensors are preserved."},
+        {"option": "Elbow flexion", "reason": "C5-6 innervates biceps—preserved."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_28",
+    "case": "A 40-year-old woman slips and twists her ankle (=ankle dislocation) which is the single most appropriate immediate clinical examination that must be done?",
+    "options": [
+      "Checking the color and temperature of the foot",
+      "Checking the movements of the ankle passive and active",
+      "Checking the movements of the toes passive and active",
+      "Checking the color and pulsation and movements in the foot",
+      "Checking the sensation of the foot and compare it with the other limb"
+    ],
+    "correctAnswer": "Checking the color and pulsation and movements in the foot",
+    "explanation": {
+      "correct": "With ankle dislocation, most important immediate check = **neurovascular status**: color (perfusion), pulses, movements. Must assess for vascular compromise and nerve injury urgently.",
+      "incorrect": [
+        {"option": "Color/temp only", "reason": "Incomplete without pulse/movement assessment."},
+        {"option": "Ankle/toe movements only", "reason": "Do not rule out ischemia if perfusion compromised."},
+        {"option": "Sensation only", "reason": "Not sufficient alone, perfusion key."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_29",
+    "case": "A 75-year-old man slips and falls at home, hitting his right chest wall against the kitchen counter. He has an area of severe pain to direct palpation over the seventh rib, at the level of the anterior axillary line. A chest x-ray film confirms the presence of a rib fracture, with no other abnormal findings. Which of the following is the most appropriate initial step in management?",
+    "options": [
+      "Intercostal nerve block to minimize pain",
+      "Supplemental oxygen to compensate for hypoventilation",
+      "Systemic narcotic analgesics",
+      "Binding of the chest to limit motion",
+      "Open reduction and internal fixation to accelerate healing"
+    ],
+    "correctAnswer": "Intercostal nerve block to minimize pain",
+    "explanation": {
+      "correct": "Rib fracture management is primarily pain control to allow deep breathing, reduce atelectasis/pneumonia risk. Local/regional (intercostal nerve block) provides best relief without systemic narcotic risks in elderly.",
+      "incorrect": [
+        {"option": "Supplemental O2", "reason": "Doesn’t address pain or hypoventilation cause."},
+        {"option": "Systemic narcotics", "reason": "May control pain but increase risk of sedation, hypoventilation in elderly."},
+        {"option": "Chest binding", "reason": "Contraindicated: impairs ventilation further."},
+        {"option": "ORIF", "reason": "Rare for isolated rib fractures."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_30",
+    "case": "A 55-year-old man with recent onset of atrial fibrillation presents with a cold, numb, pulseless left lower extremity. He is immediately taken to the operating room for an embolectomy of the left popliteal artery. Which of the following is the additional procedure that should be performed along with the embolectomy?",
+    "options": [
+      "Electromyography (EMG) of the leg",
+      "Measurement of anterior compartment pressure in the leg",
+      "Fasciotomy of the anterior compartment in the leg",
+      "Fasciotomy of all the compartments in the leg",
+      "Application of a posterior splint to the leg"
+    ],
+    "correctAnswer": "Fasciotomy of all the compartments in the leg",
+    "explanation": {
+      "correct": "After revascularization (embolectomy), reperfusion injury causes swelling and risk of compartment syndrome. Prophylactic fasciotomy of all leg compartments is performed to prevent ischemic necrosis.",
+      "incorrect": [
+        {"option": "EMG", "reason": "Neuro test, not acute management."},
+        {"option": "Measure pressure only", "reason": "By the time of embolectomy, prophylactic fasciotomy better than waiting."},
+        {"option": "Anterior compartment only", "reason": "All compartments are at risk after prolonged ischemia."},
+        {"option": "Posterior splint", "reason": "Immobilization alone does not prevent compartment syndrome."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_31",
+    "case": "A 26-year-old man in severe pain after being injured to his right leg when he was hit by a car while crossing a road. He has a laceration about 2.5cm long in the front of the leg and a broken bone is protruding through the wound. The wound looks clean and there is no neurovascular deficiency. Which is the single most appropriate immediate management?",
+    "options": [
+      "Giving analgesia",
+      "Giving antibiotics",
+      "Sending for an X-ray",
+      "Taking photographs",
+      "Taking a swab"
+    ],
+    "correctAnswer": "Giving antibiotics",
+    "explanation": {
+      "correct": "Open fractures = surgical emergency. First immediate step: broad-spectrum IV antibiotics ASAP to reduce risk of osteomyelitis, BEFORE imaging or photographs. Surgical debridement follows.",
+      "incorrect": [
+        {"option": "Analgesia", "reason": "Important, but preventing infection is priority."},
+        {"option": "X-ray", "reason": "Needed but comes after antibiotics and stabilization."},
+        {"option": "Photographs", "reason": "Legal/medico-legal but not urgent priority."},
+        {"option": "Swab", "reason": "Generally avoided, not helpful for management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_32",
+    "case": "A 54-year-old-woman cuts her hand with a kitchen knife. There is evidence of tendon injury. Which of the following best describes the muscles of the hand?",
+    "options": [
+      "The tendons of the flexor digitorum superficialis arise from a common muscle belly.",
+      "The flexor digitorum profundus inserts on the middle phalanx.",
+      "The process of healing of a tendon injury involves formation of a tenoma.",
+      "Repair should not be done immediately.",
+      "The flexor digitorum superficialis is inserted on the distal phalanx"
+    ],
+    "correctAnswer": "The process of healing of a tendon injury involves formation of a tenoma.",
+    "explanation": {
+      "correct": "Healing of tendon injuries occurs by fibroblastic proliferation and scar tissue = 'tenoma'.",
+      "incorrect": [
+        {"option": "FDS arise from common belly", "reason": "FDS has separate muscle bellies for each finger."},
+        {"option": "FDP inserts on middle phalanx", "reason": "Wrong—FDP inserts on distal phalanx."},
+        {"option": "Repair not immediate", "reason": "Tendon injuries should be repaired early (within hours-days)."},
+        {"option": "FDS inserted on distal phalanx", "reason": "Incorrect—FDS inserts on middle phalanx."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_33",
+    "case": "A 44-year-old male presents with hypotension after a motor vehicle collision. His chest x-ray is normal. Pelvis x-ray is shown. Which of the following is the most important next step in management?",
+    "options": [
+      "Foley catheterization",
+      "CT scan of the abdomen and pelvis",
+      "Tightening a bedsheet around the pelvis",
+      "ED thoracotomy",
+      "Inlet and outlet radiographs of the pelvis"
+    ],
+    "correctAnswer": "Tightening a bedsheet around the pelvis",
+    "explanation": {
+      "correct": "Pelvic fracture + hypotension (with normal CXR) = suspect pelvic hemorrhage. First stabilization: pelvic binder/sheet wrap → reduces pelvic volume and bleeding. Then urgent resus/angiography as indicated.",
+      "incorrect": [
+        {"option": "Foley catheter", "reason": "Contraindicated until urethral injury excluded."},
+        {"option": "CT scan", "reason": "Too unstable for CT."},
+        {"option": "ED thoracotomy", "reason": "Not indicated—CXR clear, not chest bleed."},
+        {"option": "Inlet/outlet films", "reason": "Detailed radiographs later—not initial lifesaving step."}
+      ]
+    }
+  },
+  {
+    "CaseID": "orthopedics_34",
+    "case": "An 83-year-old man who lives alone had recurrent falls. Which of the following is true regarding falls in the elderly?",
+    "options": [
+      "A patient should not use a walker to ambulate if their motor strength is intact",
+      "Hip fractures are not the most frequent type of fall-related fractures.",
+      "A motorized scooter is a better option to prevent falls in the elderly.",
+      "Medication use does not contribute to increased fall risk",
+      "Patients, who fall, even if they are uninjured, are at risk of another fall."
+    ],
+    "correctAnswer": "Patients, who fall, even if they are uninjured, are at risk of another fall.",
+    "explanation": {
+      "correct": "History of falls = strongest predictor of future falls in elderly. Even uninjured fallers have high recurrence risk. Interventions should follow after any fall event.",
+      "incorrect": [
+        {"option": "Walker statement", "reason": "Walkers can still reduce risk regardless of baseline strength."},
+        {"option": "Hip fractures are not frequent", "reason": "They are actually the most frequent fall-related fractures in elderly!"},
+        {"option": "Motorized scooter", "reason": "Not standard; can worsen mobility loss."},
+        {"option": "Medication no role", "reason": "Polypharmacy is a recognized fall risk factor."}
+      ]
+    }
+  }
+]

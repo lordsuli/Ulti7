@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ultimate EMELE – Qbank</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/index.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body style="display:none;">
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- Header -->
+  <header>
+    <h1>Ultimate EMELE – Qbank</h1>
+    <div class="subtitle">Ignite your medical <b>brilliance</b> with smart preparation</div>
+    <div class="welcome-message" id="welcomeUser">Welcome, Dr. ... 👋</div>
+
+    <div class="profile-area">
+      <button class="notify-btn" id="notifyBtn"><i class="fas fa-bell"></i></button>
+      <div class="notifications-menu" id="notificationsMenu">
+        <button onclick="openNotificationModal('🚀 System Updates','Your System is Up-to-date!')">System Updates</button>
+        <button onclick="openNotificationModal('☕ Welcome','Stay focused and study smart!')">Greetings</button>
+      </div>
+
+      <button class="profile-btn" id="profileBtn">U</button>
+      <div class="dropdown-menu" id="dropdownMenu">
+        <button onclick="window.location.href='settings.html'">Settings</button>
+        <button onclick="logout()">Logout</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Tabs -->
+  <nav class="tabs">
+    <button class="active" data-tab="study">Study Mode</button>
+    <button onclick="window.location.href='bookmarks.html'">Bookmarks</button>
+    <button onclick="window.location.href='statistics.html'">Statistics</button>
+    <button onclick="window.location.href='simulation.html'">Exam Simulation</button>
+  </nav>
+
+  <!-- Main -->
+  <main>
+    <section class="systems-section">
+      <h2 class="section-title">Select a System</h2>
+      <div class="systems-row">
+        <a href="questions.html?system=cardiology" class="system-btn">Cardiology</a>
+        <a href="questions.html?system=chest" class="system-btn">Chest</a>
+        <a href="questions.html?system=hematology" class="system-btn">Hematology</a>
+        <a href="questions.html?system=gastro" class="system-btn">GIT/Tropical</a>
+      </div>
+      <div class="systems-row">
+        <a href="questions.html?system=endocrinology" class="system-btn">Endocrinology</a>
+        <a href="questions.html?system=rheumatology" class="system-btn">Rheumatology</a>
+        <a href="questions.html?system=neurology" class="system-btn">Neurology</a>
+        <a href="questions.html?system=pediatrics" class="system-btn">Pediatrics</a>
+      </div>
+      <div class="systems-row">
+        <a href="questions.html?system=orthopedics" class="system-btn">Ortho/Trauma</a>
+        <a href="questions.html?system=generalsurgery" class="system-btn">General Surgery</a>
+        <a href="questions.html?system=emergency" class="system-btn">Emergency</a>
+        <a href="questions.html?system=nephro" class="system-btn">Uro/Nephro</a>
+      </div>
+      <div class="systems-row">
+        <a href="questions.html?system=ethics" class="system-btn">Ethics</a>
+        <a href="questions.html?system=obgyn1" class="system-btn">Obs/Gyn 1</a>
+        <a href="questions.html?system=obgyn2" class="system-btn">Obs/Gyn 2</a>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- Notification Modal -->
+  <div id="notificationModal" class="modal">
+    <div class="modal-content">
+      <h2 id="modalTitle"></h2>
+      <div class="explanation-box" id="modalMessage"></div>
+      <div class="modal-actions">
+        <button class="btn-glass" onclick="closeNotificationModal()">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- JS -->
+  <script type="module" src="js/index.js"></script>
+</body>
+</html>

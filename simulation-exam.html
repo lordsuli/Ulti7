@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulation Exam – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/simulation.css">
+  <style>
+    body {
+      display:flex;
+      flex-direction:column;
+      min-height:100vh;
+      margin:0;
+      font-family:"Poppins", sans-serif;
+      background:#0b0b0f;
+      color:white;
+    }
+    main { flex:1; }
+    #questionContainer {
+      margin-top: 10vh;
+      max-width: 1000px;
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #questionContainer .question-box {
+      font-size: 1.3rem;
+      line-height: 1.6;
+    }
+    #questionContainer .options button {
+      font-size: 1.2rem;
+      padding: 1rem;
+    }
+    .site-footer {
+      text-align:center;
+      color:#fff;
+      font-size:0.85rem;
+      padding:.6rem;
+      background:rgba(255,255,255,0.05);
+      backdrop-filter:blur(6px);
+      border-top:1px solid rgba(255,255,255,0.1); 
+      margin-top:auto;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- الخلفية -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- الهيدر -->
+  <header class="question-header">
+    <button onclick="confirmEndExam()" class="btn-glass" style="margin-right:auto;">End Exam</button>
+    <div id="timer" class="btn-glass"></div>
+  </header>
+
+  <!-- الأسئلة -->
+  <main id="questionsPage">
+    <div id="questionContainer" class="fade-container"></div>
+  </main>
+
+  <!-- مودال إنهاء الامتحان -->
+  <div id="endModal" class="modal hidden">
+    <div class="modal-content">
+      <h3>End the Exam?</h3>
+      <div class="modal-actions">
+        <button onclick="finishExam()" class="btn-glass">Yes</button>
+        <button onclick="closeEndExam()" class="btn-glass">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- مودال النتيجة -->
+  <div id="resultModal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Exam Result</h3>
+      <p id="resultText"></p>
+      <div class="modal-actions">
+        <button onclick="window.location.href='simulation.html'" class="btn-glass">Back</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase Logic -->
+  <script type="module" src="js/simulation-exam.js"></script>
+</body>
+</html>

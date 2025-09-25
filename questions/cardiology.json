@@ -1,0 +1,1367 @@
+[
+  {
+    "CaseID": "cardiology_1",
+    "case": "A 60-year-old man is reviewed in the Cardiology outpatient clinic following a myocardial infarction one year previously. During his admission he was found to be hypertensive and diabetic. He complains that he has put on 5kg in weight in the past 6 months. Which of his medications may be contributing to his weight gain? [1/2023M_6/2023R_2/2024S]",
+    "options": [
+      "Metforminia",
+      "Losartania",
+      "Clopidogrelia",
+      "Gliclazide",
+      "Simvastatinia"
+    ],
+    "correctAnswer": "Gliclazide",
+    "explanation": {
+      "correct": "Gliclazide is a sulfonylurea; it stimulates insulin secretion from pancreatic beta cells. This leads to increased circulating insulin, which promotes glucose uptake and lipogenesis, resulting in weight gain—a well-known side effect of sulfonylureas.",
+      "incorrect": [
+        {"option": "Metforminia", "reason": "Weight neutral or even promotes mild weight loss by decreasing hepatic gluconeogenesis and improving insulin sensitivity."},
+        {"option": "Losartania", "reason": "An angiotensin II receptor blocker (ARB) used for hypertension; it does not influence body weight and can improve outcomes in diabetics with hypertension."},
+        {"option": "Clopidogrelia", "reason": "An antiplatelet agent that prevents platelet aggregation; has no effect on insulin or weight."},
+        {"option": "Simvastatinia", "reason": "A statin used to lower LDL cholesterol; no clinically significant effect on weight."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_2",
+    "case": "A 64-year-old man suffers an anterior myocardial infarction. A few hours later, his pulse rate is noted to be 46/minute and his blood pressure 94/59 mm Hg. He is short of breath and has slight central chest pain. The monitor showed sinus bradycardia. What would be your choice of management? [1/2023M_2/2023T_2/2023R_6/2023S_6/2023R]",
+    "options": [
+      "Insertion of temporary pacing wire",
+      "Intravenous isoprenaline",
+      "Intravenous atropine",
+      "Intravenous adrenaline",
+      "Oral salbutamol"
+    ],
+    "correctAnswer": "Intravenous atropine",
+    "explanation": {
+      "correct": "Atropine is first-line therapy for unstable sinus bradycardia in acute myocardial infarction. It works by blocking muscarinic cholinergic receptors, thereby reducing excessive vagal tone, improving sinoatrial node activity, increasing heart rate, and restoring cardiac output.",
+      "incorrect": [
+        {"option": "Insertion of temporary pacing wire", "reason": "Reserved if atropine fails; more invasive. Useful for persistent severe bradyarrhythmia or high-grade AV block."},
+        {"option": "Intravenous isoprenaline", "reason": "Can worsen ischemia by increasing myocardial oxygen demand; not first-line in the setting of an acute MI."},
+        {"option": "Intravenous adrenaline", "reason": "Potent catecholamine; increases myocardial oxygen consumption and may precipitate arrhythmias—contraindicated in post-MI bradycardia."},
+        {"option": "Oral salbutamol", "reason": "Beta-2 agonist for asthma/COPD; has no role in acute bradycardia management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_3",
+    "case": "A 68-year-old woman complains of sudden onset of severe pain in her right thigh, calf and leg of 6 hours duration. She has lost sensations from the mid-thigh distally, cannot move her foot or knee, her skin feels very cold and pale. There are no pulses felt over the femoral and popliteal arteries. She gives a history of a myocardial Infarction 6 weeks ago. What is the appropriate diagnosis? [1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_6/2023R_11/2023S_8/2024T_8/2024R]",
+    "options": [
+      "acute femoro-popliteal embolus",
+      "dissecting aortic aneurysm",
+      "diabetic gangrene",
+      "abdominal compartment syndrome (ACS)",
+      "popliteal artery aneurysm"
+    ],
+    "correctAnswer": "acute femoro-popliteal embolus",
+    "explanation": {
+      "correct": "The patient has the classic '6 Ps' of acute limb ischemia: Pain, Pallor, Pulselessness, Paralysis, Paresthesia, and Poikilothermia. Her recent myocardial infarction increases the risk of mural thrombus formation in the left ventricle, which can embolize systemically and lodge in the femoral artery territory.",
+      "incorrect": [
+        {"option": "dissecting aortic aneurysm", "reason": "Typically presents with tearing chest/back pain, unequal pulses, not isolated limb ischemia."},
+        {"option": "diabetic gangrene", "reason": "Usually chronic, insidious, and associated with infection and longstanding poorly controlled diabetes, not acute severe ischemia."},
+        {"option": "abdominal compartment syndrome (ACS)", "reason": "Results from increased intra-abdominal pressure; manifests with oliguria, tense abdomen, respiratory compromise—not acute limb ischemia."},
+        {"option": "popliteal artery aneurysm", "reason": "Can cause thrombosis/embolization but would not cause immediate loss of sensation and paralysis of the entire limb within 6 hours as dramatically as an embolus from the heart would."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_4",
+    "case": "A 66-year-old woman is admitted to the hospital because of a 3-month history of shortness of breath that has progressively worsened during the past month. Initially the symptom occurred with moderate exertion; now she has shortness of breath at rest. She also has a 1-week history of swelling of her legs and feet. She has hypertension treated with 5 mg bisoprolol. Her temperature is 37 °C, pulse is 120/min, respirations are 28/min, and blood pressure is 165/95 mm Hg in both extremities. Pulse oximetry on room air shows an oxygen saturation of 92%. Physical examination shows no cyanosis. Jugular venous distention is present 4 cm above the sternal angle. Auscultation of the lungs discloses bilateral crackles in the lower and mid lung fields. Cardiac examination discloses an S3 and S4. There is bilateral pitting edema of the lower extremities to the knee. An ECG shows sinus tachycardia and bi-atrial and biventricular hypertrophy. Which of the following is the most appropriate pharmacotherapy? [10/2021T_11/2022R_6/2023R_11/2023S_11/2023R_8/2024T]",
+    "options": [
+      "Furosemide and nitroglycerin",
+      "Nitroglycerin and Verapamil",
+      "Dopamine, furosemide",
+      "Epinephrine (adrenaline) and labetalol",
+      "Furosemide and verapamil"
+    ],
+    "correctAnswer": "Furosemide and nitroglycerin",
+    "explanation": {
+      "correct": "This patient has acute decompensated heart failure: pulmonary congestion (bilateral crackles, orthopnea, elevated JVP), S3/S4, and peripheral edema. Furosemide (loop diuretic) reduces preload via diuresis. Nitroglycerin (venodilator) reduces venous return and preload, relieving pulmonary congestion. Together they improve symptoms quickly.",
+      "incorrect": [
+        {"option": "Nitroglycerin and Verapamil", "reason": "Verapamil is contraindicated in heart failure because it depresses myocardial contractility and worsens outcomes."},
+        {"option": "Dopamine, furosemide", "reason": "Not indicated unless in cardiogenic shock with hypotension. Here BP is elevated, so inotropes are not needed."},
+        {"option": "Epinephrine (adrenaline) and labetalol", "reason": "Inappropriate. Epinephrine would worsen ischemia and arrhythmias; labetalol can exacerbate decompensated HF."},
+        {"option": "Furosemide and verapamil", "reason": "Again, verapamil is contraindicated in reduced ejection fraction cardiomyopathy because it depresses myocardial function."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_5",
+    "case": "A 3-month-old infant is found to have a continuous murmur all over the precordium during her routine well baby checkup. The infant is 6 kg in weight and appears well. All peripheral pulses are present and easily palpable. Oxygen saturation is 96%. What is the most likely finding on echocardiography? [10/2021T_1/2023M_5/2023M_6/2023R_11/2023T_11/2023S_11/2023R_2/2024T_2/2024S_2/2024R_8/2024T_8/2024R]",
+    "options": [
+      "Coarctation of the aorta",
+      "Persistent ductus arteriosus",
+      "Ventricular septal defect",
+      "Dextrocardia with situs inversus",
+      "Atrial septal defect"
+    ],
+    "correctAnswer": "Persistent ductus arteriosus",
+    "explanation": {
+      "correct": "A continuous 'machinery' murmur is diagnostic of PDA. Pulses are bounding due to wide pulse pressure from left-to-right shunt. Echocardiography will show a persistent connection between pulmonary artery and aorta shunting systemic blood.",
+      "incorrect": [
+        {"option": "Coarctation of the aorta", "reason": "Would present with diminished femoral pulses, BP differences in upper vs lower limbs—not bounding pulses with continuous murmur."},
+        {"option": "Ventricular septal defect", "reason": "Causes pansystolic murmur at left sternal border; not continuous."},
+        {"option": "Dextrocardia with situs inversus", "reason": "An anatomical mirror-image arrangement; would not produce a murmur."},
+        {"option": "Atrial septal defect", "reason": "Causes fixed splitting of S2 and systolic ejection murmur at pulmonary area; does not cause continuous murmur."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_6",
+    "case": "A 40-year-old male presents with palpitations. ECG showed atrial fibrillation. Blood pressure is 80/50, heart rate is 130, O2 saturation is 93%. Which is the best initial step [11/2020T]",
+    "options": [
+      "Adenosine",
+      "Labetalol",
+      "Amiodarone",
+      "Defibrillation",
+      "Cardioversion"
+    ],
+    "correctAnswer": "Cardioversion",
+    "explanation": {
+      "correct": "Unstable atrial fibrillation (hypotension, tachycardia, dyspnea) requires urgent synchronized electrical cardioversion to restore sinus rhythm and hemodynamic stability. Drugs will not act fast enough in this emergency.",
+      "incorrect": [
+        {"option": "Adenosine", "reason": "Used for paroxysmal supraventricular tachycardia, not atrial fibrillation, especially unstable AF."},
+        {"option": "Labetalol", "reason": "Beta-blockers worsen hypotension in unstable AF; unsafe choice."},
+        {"option": "Amiodarone", "reason": "Effective for rhythm control in AF but too slow in severe hemodynamic compromise—shock is preferred."},
+        {"option": "Defibrillation", "reason": "Defibrillation is for pulseless arrhythmias like ventricular fibrillation or pulseless VT; AF with a pulse requires synchronized cardioversion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_7",
+    "case": "A 12-year-old girl diagnosed as rheumatic fever has a 3-week history of intermittent fevers and malaise. Which of the following clinical findings occurs in infective endocarditis? [1/2023M_6/2023S_11/2023S_2/2024T_8/2024T]",
+    "options": [
+      "Cervical nodes",
+      "Eosinophilia",
+      "Extensor surface nodules",
+      "Renal artery bruit",
+      "Janeway lesions"
+    ],
+    "correctAnswer": "Janeway lesions",
+    "explanation": {
+      "correct": "Janeway lesions are painless erythematous macules on palms and soles caused by septic microemboli. They are a classical peripheral stigmata of infective endocarditis alongside Osler's nodes (painful nodules), Roth spots, splinter hemorrhages.",
+      "incorrect": [
+        {"option": "Cervical nodes", "reason": "Lymphadenopathy is not a hallmark of infective endocarditis."},
+        {"option": "Eosinophilia", "reason": "Seen in allergic/drug reactions or parasitic infections, not a typical feature of endocarditis."},
+        {"option": "Extensor surface nodules", "reason": "Suggestive of rheumatic fever (subcutaneous nodules), not septic emboli lesions."},
+        {"option": "Renal artery bruit", "reason": "Related to renovascular hypertension, not infective endocarditis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_8",
+    "case": "A 4-year-old child presented with shortness of breath and edema of both feet. Liver span was 16 cm and hepatic tenderness was noticed. Heart sounds were weak without any murmurs. Chest X-ray showed significant cardiomegaly. There was a history of upper respiratory infection 8 weeks ago. What is the most likely diagnosis? [5/2022M_2/2023R_6/2023S_11/2023T_2/2024S_2/2024R_8/2024R]",
+    "options": [
+      "Rheumatic mitral valve disease",
+      "Dilated cardiomyopathy",
+      "Fallot tetralogy",
+      "Congenital Aortic stenosis",
+      "Acute pulmonary edema"
+    ],
+    "correctAnswer": "Dilated cardiomyopathy",
+    "explanation": {
+      "correct": "Dilated cardiomyopathy often follows viral myocarditis (post-viral onset 6–8 weeks). Features: cardiomegaly, biventricular failure (edema, hepatomegaly), weak heart sounds without characteristic murmurs. Fits perfectly here.",
+      "incorrect": [
+        {"option": "Rheumatic mitral valve disease", "reason": "Would usually present with a diastolic murmur, not silent weak heart sounds."},
+        {"option": "Fallot tetralogy", "reason": "Cyanotic congenital heart disease with right-to-left shunt; not consistent with this case."},
+        {"option": "Congenital Aortic stenosis", "reason": "Would have a systolic murmur and not massive cardiomegaly with biventricular dilation."},
+        {"option": "Acute pulmonary edema", "reason": "This is a symptom/sign not a diagnosis, and doesn't explain cardiomegaly plus systemic congestion post-viral episode."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_9",
+    "case": "A 61-year-old female patient is admitted with an acute abdomen for a laparotomy. Medical problems include left ventricular failure and angina treated with frusemide and diltiazem respectively. Preoperative tests: raised urea/creatinine, LVH and ischemia on ECG. Bowel resection was performed for perforated diverticulum with fecal peritonitis. Intraoperatively she had cardiovascular instability and supraventricular tachycardia needing treatment. Which of the following should be offered postoperatively? [10/2021T_11/2022R_2/2024S_8/2024S]",
+    "options": [
+      "Abdominal ultrasound after 24 hours",
+      "Blood gases monitored hourly",
+      "Serum sodium every 6 hours",
+      "Referral to ICU for pre-existing renal and cardiac impairment",
+      "Triple antibiotics"
+    ],
+    "correctAnswer": "Referral to ICU for pre-existing renal and cardiac impairment",
+    "explanation": {
+      "correct": "This patient is high risk: LV failure, chronic renal impairment, peritonitis, intraoperative instability, arrhythmia. Optimal management is ICU admission for continuous monitoring, organ support, and infection control.",
+      "incorrect": [
+        {"option": "Abdominal ultrasound after 24 hours", "reason": "Not indicated routinely post resection unless specific suspicion of intra-abdominal complication."},
+        {"option": "Blood gases monitored hourly", "reason": "Excessive unless in ICU context. Monitoring is part of ICU care anyway."},
+        {"option": "Serum sodium every 6 hours", "reason": "Not specific. Broader monitoring (urea, creatinine, electrolytes, hemodynamics) in ICU is required."},
+        {"option": "Triple antibiotics", "reason": "Antibiotics should already have been given peri-operatively; they are necessary but not the central next step priority here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_10",
+    "case": "A 20-year-old basketball player collapses and dies while playing a game. Which of the following is the most likely cause? [2/2022R_11/2022R]",
+    "options": [
+      "Coronary artery disease",
+      "Pulmonary embolism",
+      "Hypertrophic cardiomyopathy",
+      "Subarachnoid hemorrhage (SAH)",
+      "Spontaneous pneumothorax"
+    ],
+    "correctAnswer": "Hypertrophic cardiomyopathy",
+    "explanation": {
+      "correct": "Sudden cardiac death in young athletes is most commonly due to hypertrophic cardiomyopathy (HCM). The hypertrophied interventricular septum predisposes to ventricular arrhythmias during exertion. Often there is a family history of sudden cardiac death at young age.",
+      "incorrect": [
+        {"option": "Coronary artery disease", "reason": "CAD is leading cause of sudden death in older adults, but not in healthy young athletes."},
+        {"option": "Pulmonary embolism", "reason": "Unlikely in a young fit athlete with no risk factors; presents with dyspnea, chest pain before collapse."},
+        {"option": "Subarachnoid hemorrhage (SAH)", "reason": "Would cause sudden severe headache, neurological symptoms, not typical exertional sudden collapse on court."},
+        {"option": "Spontaneous pneumothorax", "reason": "Presents with acute dyspnea and chest pain, not sudden cardiac arrest during exercise."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_11",
+    "case": "A 22-year-old man is having inflammatory bowel disease. Which one of the following does not occur as a systemic manifestation of inflammatory bowel disease? [12/2020T_12/2021T_2/2024S]",
+    "options": [
+      "Amyloidosis",
+      "Pyoderma gangrenosum",
+      "Scleritis",
+      "Cardiomyopathy",
+      "Sclerosing cholangitis"
+    ],
+    "correctAnswer": "Cardiomyopathy",
+    "explanation": {
+      "correct": "Systemic manifestations of IBD involve extra-intestinal immune-mediated conditions: arthritis, uveitis/scleritis, primary sclerosing cholangitis, pyoderma gangrenosum, erythema nodosum, and amyloidosis. Cardiomyopathy is not a recognized feature of IBD.",
+      "incorrect": [
+        {"option": "Amyloidosis", "reason": "Can occur as a chronic inflammatory complication of IBD, leading to deposition in kidneys etc."},
+        {"option": "Pyoderma gangrenosum", "reason": "Ulcerative neutrophilic dermatosis strongly associated with IBD."},
+        {"option": "Scleritis", "reason": "An ocular manifestation linked to systemic inflammation in IBD."},
+        {"option": "Sclerosing cholangitis", "reason": "Strongly associated with ulcerative colitis, a serious hepatobiliary manifestation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_12",
+    "case": "A 60-year-old man complains of chest pain of 2 hours duration. He is diabetic. The patient is sweaty, pulse is 110 b/min and BP is 90/60. There is bilateral basal crepitation over the chest. ECG showed ST elevation in V1-V6. Troponin is positive. Which of the following is the most likely diagnosis? [11/2021R_11/2022R_11/2023T_11/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Stable angina",
+      "Unstable angina",
+      "Acute myocardial infarction",
+      "Acute pulmonary embolism",
+      "Acute pericarditis"
+    ],
+    "correctAnswer": "Acute myocardial infarction",
+    "explanation": {
+      "correct": "The patient has acute chest pain with hypotension, pulmonary congestion, and clear ST elevation (V1–V6 ~ anterior wall MI), plus positive troponin → diagnostic of acute myocardial infarction.",
+      "incorrect": [
+        {"option": "Stable angina", "reason": "Predictable exertional chest pain, relieved by rest, normal biomarkers, no ST elevation."},
+        {"option": "Unstable angina", "reason": "Pain at rest with ECG changes but no troponin elevation."},
+        {"option": "Acute pulmonary embolism", "reason": "Presents with acute dyspnea, chest pain, RV strain on ECG—not anterior ST elevation."},
+        {"option": "Acute pericarditis", "reason": "Diffuse ST elevation and PR depression—not isolated V1–V6 elevations."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_13",
+    "case": "A 30-year-old woman complaining of shortness of breath and productive cough of 4 months duration. She noticed bilateral leg swelling. Exam: pulse 110, BP 105/60, raised JVP, bilateral edema, loud S1, mid-diastolic murmur at apex, ejection systolic murmur at pulmonary area. CXR showed cardiomegaly. What is the most likely diagnosis? [11/2021R_11/2022R_11/2023T_11/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Mitral stenosis",
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Aortic regurgitation",
+      "Ventricular septal defect"
+    ],
+    "correctAnswer": "Mitral stenosis",
+    "explanation": {
+      "correct": "Classic features of rheumatic mitral stenosis: loud S1, mid-diastolic murmur at apex (opening snap with rumble), pulmonary hypertension causing ejection systolic murmur at pulmonary area. JVP elevated due to right-sided failure from chronic pulmonary HTN.",
+      "incorrect": [
+        {"option": "Mitral regurgitation", "reason": "Would present with pansystolic murmur radiating to axilla, not mid-diastolic rumble."},
+        {"option": "Aortic stenosis", "reason": "Harsh ejection systolic murmur radiating to carotids; absent here."},
+        {"option": "Aortic regurgitation", "reason": "High-pitched early diastolic murmur; collapsing pulse; absent here."},
+        {"option": "Ventricular septal defect", "reason": "Pansystolic murmur at LSB, mainly in children—not fitting."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_14",
+    "case": "A patient in labor with a systolic BP of 125 mmHg has just been given a saddle block. While lying on her back, fetal heart tones show bradycardia to 105 bpm and her BP drops to 90 mmHg. Which is the most likely cause? [10/2021T_11/2022R_2/2023S_11/2023S_8/2024T]",
+    "options": [
+      "Ruptured uterus",
+      "Amniotic fluid embolism",
+      "Supine hypotensive syndrome",
+      "High spinal block",
+      "Cardiac failure"
+    ],
+    "correctAnswer": "Supine hypotensive syndrome",
+    "explanation": {
+      "correct": "Supine hypotension occurs in pregnancy when the gravid uterus compresses the inferior vena cava → reduced venous return → maternal hypotension → reflex fetal bradycardia. Classic scenario: recumbency late in pregnancy.",
+      "incorrect": [
+        {"option": "Ruptured uterus", "reason": "Presents with abdominal pain, vaginal bleeding, loss of fetal station, and shock—not isolated hypotension with positioning."},
+        {"option": "Amniotic fluid embolism", "reason": "Massive collapse, DIC, hypoxia—not simple hypotension with position change."},
+        {"option": "High spinal block", "reason": "Causes widespread sympathetic blockade → profound hypotension but usually with bradycardia and respiratory difficulty too."},
+        {"option": "Cardiac failure", "reason": "Gradual, not sudden hypotension with positional trigger."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_15",
+    "case": "A 72-year-old man admits with acute right leg pain of several hours. History: chronic claudication. Exam: right leg colder than left with dusky toes, absent pulses below femoral; movement and sensation preserved. Which is the investigation requested? [11/2021R_11/2022R_2/2024S_8/2024S]",
+    "options": [
+      "Coronary angiography",
+      "CT selective angiography",
+      "Echocardiography",
+      "Arterial angiography (peripheral arterial anatomy)",
+      "Carotid duplex"
+    ],
+    "correctAnswer": "Arterial angiography (peripheral arterial anatomy)",
+    "explanation": {
+      "correct": "Gold standard to assess peripheral arterial occlusive disease is arterial angiography to define anatomy before revascularization. Patient has critical limb ischemia (rest pain, absent pulses).",
+      "incorrect": [
+        {"option": "Coronary angiography", "reason": "Used for coronary artery evaluation, irrelevant here."},
+        {"option": "CT selective angiography", "reason": "CT angiography is modern alternative, but conventional angiography is still the predictor for anatomy before surgical decision."},
+        {"option": "Echocardiography", "reason": "Exam for cardiac structure/function, not limb ischemia."},
+        {"option": "Carotid duplex", "reason": "For carotid artery disease/stroke workup, not leg ischemia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_16",
+    "case": "A 60-year-old banker with no past medical history presents to the emergency department 4 hours after the onset of severe substernal crushing chest pain radiating to the left arm and neck. ECG reveals ST-elevation in leads I, aVL, V5, V6. What is the most probable diagnosis? [2/2021R_10/2021T_11/2022R_1/2023M_11/2023T_2/2024T_2/2024S]",
+    "options": [
+      "Lateral infarction",
+      "Posterior infarction",
+      "Inferior infarction",
+      "Unstable infarction",
+      "Anterior infarction"
+    ],
+    "correctAnswer": "Lateral infarction",
+    "explanation": {
+      "correct": "ST elevation in lateral leads (I, aVL, V5, V6) = lateral myocardial infarction, usually due to occlusion of the left circumflex artery or diagonal branch of LAD.",
+      "incorrect": [
+        {"option": "Posterior infarction", "reason": "ST depression in V1-V3 with tall R waves would point to posterior MI."},
+        {"option": "Inferior infarction", "reason": "Involves leads II, III, aVF—not present here."},
+        {"option": "Unstable infarction", "reason": "Not a valid diagnosis. Unstable angina refers to ACS without ST elevation or troponin rise."},
+        {"option": "Anterior infarction", "reason": "Anterior MI shows ST elevation in V1-V4, not lateral leads."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_17",
+    "case": "A 25-year-old man complaining of bilateral lower limb swelling for 6 months and abdominal distension for 1 month. Exam: pulse 100, BP 100/70, jaundice, raised JVP, pedal edema, loud S1 with mid‑diastolic murmur at apex, ejection systolic murmur at pulmonary area, hepatomegaly with ascites. What is the cause of this edema? [5/2022M_2/2023R]",
+    "options": [
+      "Cardiac",
+      "Renal",
+      "Hepatic",
+      "Nutritional",
+      "Respiratory"
+    ],
+    "correctAnswer": "Cardiac",
+    "explanation": {
+      "correct": "Findings are consistent with rheumatic mitral stenosis leading to pulmonary hypertension and secondary right heart failure. Edema and ascites are due to increased venous pressure from cardiac cause.",
+      "incorrect": [
+        {"option": "Renal", "reason": "Would show proteinuria, generalized edema, not murmurs or raised JVP."},
+        {"option": "Hepatic", "reason": "Liver disease causes edema via low albumin, but here it is congestive hepatomegaly."},
+        {"option": "Nutritional", "reason": "Protein deficiency edema unlikely in otherwise healthy adult male."},
+        {"option": "Respiratory", "reason": "Primary pulmonary disease does not cause peripheral edema unless cor pulmonale—which here is secondary to cardiac valvular disease."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_18",
+    "case": "A 16-year-old adolescent needs clearance to play football. Family history: uncle died suddenly at 25. Exam: harsh systolic murmur at left lower sternal border. ECG: LV hypertrophy. Next step? [2/2023S]",
+    "options": [
+      "Exercise stress test",
+      "Echocardiogram",
+      "Chest X-ray",
+      "Coronary catheterization",
+      "Reassure fit to play"
+    ],
+    "correctAnswer": "Echocardiogram",
+    "explanation": {
+      "correct": "Suspicion of hypertrophic cardiomyopathy (HCM): family history of sudden death, murmur, LV hypertrophy. Echocardiography confirms diagnosis, showing asymmetric septal hypertrophy and LV outflow obstruction.",
+      "incorrect": [
+        {"option": "Exercise stress test", "reason": "Contraindicated in suspected HCM—may precipitate arrhythmia or sudden death."},
+        {"option": "Chest X-ray", "reason": "Not diagnostic for HCM; may appear normal or show mild cardiomegaly."},
+        {"option": "Coronary catheterization", "reason": "Not initial test for a structurally suspected disease in a 16-year-old."},
+        {"option": "Reassure fit to play", "reason": "Dangerous—undiagnosed HCM can lead to sudden cardiac death during exertion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_19",
+    "case": "A 50-year-old man with a history of MI 6 months ago presents with 4h of severe chest pain, vomiting, sweating. ECG: ST elevation V1–V4. Troponin highly positive. What is the most appropriate line of therapy? [10/2021T_11/2021R_2/2023S]",
+    "options": [
+      "Heparin",
+      "Referred to coronary intervention",
+      "Nitrate",
+      "Aspirin and clopidogrel",
+      "Alteplase"
+    ],
+    "correctAnswer": "Referred to coronary intervention",
+    "explanation": {
+      "correct": "Primary PCI (percutaneous coronary intervention) is gold standard for STEMI if available within 120 minutes. This patient presents within 4 hours of chest pain onset and is eligible for urgent reperfusion via PCI.",
+      "incorrect": [
+        {"option": "Heparin", "reason": "Adjunct therapy but not definitive reperfusion."},
+        {"option": "Nitrate", "reason": "Symptom relief only; does not treat coronary occlusion."},
+        {"option": "Aspirin and clopidogrel", "reason": "Crucial in management but not sufficient as sole therapy without reperfusion."},
+        {"option": "Alteplase", "reason": "Thrombolysis is an option if PCI is unavailable within 120 mins."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_20",
+    "case": "A 16-year-old boy presents with prominent left precordium, fixed splitting of S2, ejection systolic murmur in second left intercostal space. What is the most likely underlying disorder? [10/2021T_2/2023S]",
+    "options": [
+      "ASD with pulmonary hypertension",
+      "ASD with aortic regurg",
+      "ASD with mitral regurg",
+      "Isolated ASD",
+      "ASD with aortic stenosis"
+    ],
+    "correctAnswer": "Isolated ASD",
+    "explanation": {
+      "correct": "Classic findings of isolated atrial septal defect: fixed wide splitting of S2 (due to prolonged RV systole), systolic ejection murmur at pulmonary area (increased flow across PV), and cardiac enlargement without cyanosis.",
+      "incorrect": [
+        {"option": "ASD with pulmonary hypertension", "reason": "Would progress to Eisenmenger physiology and cyanosis—not seen here."},
+        {"option": "ASD with aortic regurg", "reason": "No diastolic murmur or clinical AR signs present."},
+        {"option": "ASD with mitral regurg", "reason": "No pansystolic murmur at apex to suggest MR."},
+        {"option": "ASD with aortic stenosis", "reason": "No harsh murmur radiating to carotids."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_21",
+    "case": "A 19-year-old woman has had increasing malaise for the past 5 months. Exam: systolic murmur at left sternal border, raised JVP, enlarged liver, pedal edema. Labs: bilirubin normal, albumin normal, creatinine slightly raised. What is the most likely cause of her edema? [2/2021R_1/2023M_11/2023T_2/2024T]",
+    "options": [
+      "Renal edema",
+      "Cardiac edema",
+      "Nutritional edema",
+      "Hepatic edema",
+      "Respiratory edema"
+    ],
+    "correctAnswer": "Cardiac edema",
+    "explanation": {
+      "correct": "Raised JVP, hepatomegaly, pedal edema with systolic murmur point to right-sided heart failure. Edema is due to venous congestion (↑hydrostatic pressure), not low albumin or renal salt retention alone.",
+      "incorrect": [
+        {"option": "Renal edema", "reason": "Renal disease causes proteinuria and generalized edema (periorbital), not JVP elevation or cardiac murmur."},
+        {"option": "Nutritional edema", "reason": "Low albumin states e.g., kwashiorkor, not case here (albumin is normal)."},
+        {"option": "Hepatic edema", "reason": "Would see hypoalbuminemia and stigmata of chronic liver disease. Here liver enlargement is congestive, not primary."},
+        {"option": "Respiratory edema", "reason": "Lung disease doesn’t directly cause systemic edema unless via cor pulmonale; but murmur + JVP fits cardiac more."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_22",
+    "case": "Which sign is most alarming for acute aortic dissection in a 51-year-old male presenting with acute chest pain? [12/2020T_12/2021T_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Tachycardia",
+      "Pallor",
+      "Unequal pulse bilaterally",
+      "Pulmonary venous congestion",
+      "Hypotension"
+    ],
+    "correctAnswer": "Unequal pulse bilaterally",
+    "explanation": {
+      "correct": "Pulse asymmetry is classic for acute aortic dissection: extension of tear into major branches causing unequal arm or femoral pulses. This distinguishes it from other acute chest pain causes.",
+      "incorrect": [
+        {"option": "Tachycardia", "reason": "Non-specific finding in any chest pain/shock state."},
+        {"option": "Pallor", "reason": "Non-specific and not diagnostic."},
+        {"option": "Pulmonary venous congestion", "reason": "Seen with LV failure, not typical of dissection specifically."},
+        {"option": "Hypotension", "reason": "Occurs late with rupture/tamponade; serious but non-specific."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_23",
+    "case": "A 35-year-old woman presented with palpitations, cold extremities, dizziness. BP 60/40, HR 200. ECG: wide QRS tachycardia. What is the most appropriate first approach? [12/2020T_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Intravenous beta-blockers",
+      "Intravenous calcium channel blockers",
+      "Termination by DC cardioversion",
+      "Intravenous amiodarone",
+      "Carotid sinus massage"
+    ],
+    "correctAnswer": "Termination by DC cardioversion",
+    "explanation": {
+      "correct": "She is unstable (hypotension, cold extremities). Wide-complex tachycardia with hemodynamic compromise → immediate synchronized DC cardioversion is life-saving.",
+      "incorrect": [
+        {"option": "Intravenous beta-blockers", "reason": "Dangerous in hypotension; can worsen collapse."},
+        {"option": "Intravenous calcium channel blockers", "reason": "Contraindicated in VT, can cause cardiovascular collapse."},
+        {"option": "Intravenous amiodarone", "reason": "Useful for stable VT, but not in unstable patient—too slow."},
+        {"option": "Carotid sinus massage", "reason": "May work in SVT, but this is a wide-complex tachycardia in an unstable patient → unsafe delay."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_24",
+    "case": "A 75-year-old man resuscitated >45 min post‑cardiac arrest with no ROSC. Decision to stop CPR. Relatives unaware. What is the most appropriate next step? [11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Bring relatives into the resus room to break news",
+      "Send junior doctor",
+      "Send nurse to reassure them team is trying",
+      "Send senior nurse with security man",
+      "Team leader meets relatives in relatives’ room"
+    ],
+    "correctAnswer": "Team leader meets relatives in relatives’ room",
+    "explanation": {
+      "correct": "Sensitive task should always be done by the senior responsible doctor (team leader) in a private setting. Provides dignity, clarity, and compassionate support for the relatives.",
+      "incorrect": [
+        {"option": "Bring relatives into the resus room to break news", "reason": "Inappropriate and traumatic for family to witness scene."},
+        {"option": "Send junior doctor", "reason": "Not appropriate—they may lack experience and authority."},
+        {"option": "Send nurse to reassure them team is still trying", "reason": "Dishonest since resuscitation has stopped."},
+        {"option": "Send senior nurse with security man", "reason": "Again inappropriate; relatives deserve explanation from treating physician."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_25",
+    "case": "A 25-year-old woman with acute palpitations. BP 125/75, HR 150, SpO2 99%, conscious. ECG: regular narrow‑complex tachycardia. Best initial management step? [11/2023R_2/2024R]",
+    "options": [
+      "DC cardioversion",
+      "Intravenous lidocaine",
+      "Carotid sinus massage",
+      "Intravenous adenosine",
+      "Digitalis"
+    ],
+    "correctAnswer": "Carotid sinus massage",
+    "explanation": {
+      "correct": "Stable regular narrow-complex tachycardia (paroxysmal SVT). First-line: vagal maneuvers (carotid sinus massage/Valsalva). If fails → adenosine.",
+      "incorrect": [
+        {"option": "DC cardioversion", "reason": "Reserved for hemodynamically unstable tachycardia."},
+        {"option": "Intravenous lidocaine", "reason": "Antiarrhythmic for ventricular tachycardia, not SVT."},
+        {"option": "Intravenous adenosine", "reason": "Effective, but used after non-invasive vagal maneuvers fail."},
+        {"option": "Digitalis", "reason": "Obsolete for acute management of PSVT; not first-line."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_26",
+    "case": "A 45-year-old man presents with sudden onset of left substernal chest pain, pressure 8/10, hypercholesterolemia history. ECG: ST elevation in leads II, III, aVF. Diagnosed with acute myocardial infarction. On catheterization, which vessel is most likely occluded? [8/2024R]",
+    "options": [
+      "Circumflex artery",
+      "Left anterior descending artery",
+      "Left coronary artery",
+      "Posterior descending artery",
+      "Right coronary artery"
+    ],
+    "correctAnswer": "Right coronary artery",
+    "explanation": {
+      "correct": "ST elevation in II, III, and aVF localizes to inferior wall MI. The RCA supplies the inferior part of the heart in most individuals; occlusion leads to inferior STEMI.",
+      "incorrect": [
+        {"option": "Circumflex artery", "reason": "Supplies lateral wall (leads I, aVL, V5-V6), not inferior leads."},
+        {"option": "Left anterior descending artery", "reason": "Occlusion causes anterior STEMI (V1–V4)."},
+        {"option": "Left coronary artery", "reason": "Main trunk lesion causes widespread infarction, not isolated inferior STEMI."},
+        {"option": "Posterior descending artery", "reason": "Branch of RCA (most frequently) but occlusion manifests as posterior MI with ST depression V1–V3, not inferior ST elevation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_27",
+    "case": "A 60-year-old woman diagnosed with stage 1 hypertension, BP avg 135/85 mmHg, no comorbidities, otherwise healthy. What is the initial step in management? [8/2024R]",
+    "options": [
+      "Clonidine",
+      "Diltiazem",
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Lifestyle improvements"
+    ],
+    "correctAnswer": "Lifestyle improvements",
+    "explanation": {
+      "correct": "Stage 1 HTN without comorbidities—first-line is non-pharmacological: weight loss, low-salt diet, exercise, smoking cessation. Drugs like thiazides indicated if risk factors or persistent HTN despite lifestyle modification.",
+      "incorrect": [
+        {"option": "Clonidine", "reason": "Centrally acting agent reserved for resistant HTN; not first line."},
+        {"option": "Diltiazem", "reason": "Calcium channel blocker: pharmacological step, but not for otherwise healthy stage 1 HTN on first visit."},
+        {"option": "Furosemide", "reason": "Loop diuretic for volume overload states, not for chronic essential HTN treatment first line."},
+        {"option": "Hydrochlorothiazide", "reason": "Thiazide is first-line in stage ≥2 HTN, or if lifestyle alone fails."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_28",
+    "case": "A 65-year-old man with IHD and atrial fibrillation treated with Amiodarone presents with clubbing and cyanosis. Which of the following is a side effect of amiodarone in this patient? [2/2024R]",
+    "options": [
+      "Pulmonary fibrosis",
+      "Liver cirrhosis",
+      "Thyrotoxicosis",
+      "Corneal deposits",
+      "Peripheral neuropathy"
+    ],
+    "correctAnswer": "Pulmonary fibrosis",
+    "explanation": {
+      "correct": "Amiodarone causes interstitial pulmonary fibrosis, especially with prolonged use. Symptoms include dyspnea, cough, hypoxemia, and cyanosis. Clubbing may develop with chronic hypoxia.",
+      "incorrect": [
+        {"option": "Liver cirrhosis", "reason": "Amiodarone can elevate liver enzymes, but cirrhosis is rare."},
+        {"option": "Thyrotoxicosis", "reason": "Possible (iodine effect), but presentation here is cyanosis/clubbing consistent with pulmonary fibrosis."},
+        {"option": "Corneal deposits", "reason": "Lamellar corneal microdeposits cause halos/blur but not cyanosis or clubbing."},
+        {"option": "Peripheral neuropathy", "reason": "Neurological side effect possible but not cause of cyanosis/clubbing."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_29",
+    "case": "A 21-year-old primigravid woman at term complains of lightheadedness when lying on her back that resolves on sitting up. Most likely cause? [2/2024R]",
+    "options": [
+      "Atrial fibrillation",
+      "Fetal movement",
+      "Inferior vena cava compression",
+      "Pulmonary embolus",
+      "Ventricular tachycardia"
+    ],
+    "correctAnswer": "Inferior vena cava compression",
+    "explanation": {
+      "correct": "In pregnancy, gravid uterus compresses the IVC when supine → reduced venous return → hypotension → lightheadedness (supine hypotensive syndrome).",
+      "incorrect": [
+        {"option": "Atrial fibrillation", "reason": "Would not be positional and is not typical in healthy pregnancy."},
+        {"option": "Fetal movement", "reason": "Has no relation to maternal venous return or lightheadedness."},
+        {"option": "Pulmonary embolus", "reason": "Presents with chest pain, dyspnea, tachycardia—not solely positional presyncope."},
+        {"option": "Ventricular tachycardia", "reason": "Would cause sustained palpitations, syncope—not purely positional and not relieved by standing."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_30",
+    "case": "A 75-year-old woman with 2-month history of recurrent transient loss of vision in her right eye. ECG normal. Carotid duplex: 30% stenosis of right ICA. Best management? [2/2024R]",
+    "options": [
+      "Aspirin +/- clopidogrel",
+      "Carotid endarterectomy",
+      "Coronary angiography",
+      "Carotid stenting",
+      "No treatment required"
+    ],
+    "correctAnswer": "Aspirin +/- clopidogrel",
+    "explanation": {
+      "correct": "Symptomatic carotid disease with <50% stenosis is managed medically with antiplatelets and risk modification. Surgical intervention indicated if stenosis ≥70% and symptomatic.",
+      "incorrect": [
+        {"option": "Carotid endarterectomy", "reason": "Reserved for ≥70% stenosis in symptomatic patients."},
+        {"option": "Coronary angiography", "reason": "Irrelevant to problem affecting carotids."},
+        {"option": "Carotid stenting", "reason": "Alternative to surgery in high-risk surgical candidates but only in severe stenosis."},
+        {"option": "No treatment required", "reason": "Incorrect—symptomatic disease even with modest stenosis mandates antiplatelet therapy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_31",
+    "case": "Which of the following is the commonest acyanotic heart disease? [1/2023M_6/2023R]",
+    "options": [
+      "ASD",
+      "VSD",
+      "PDA",
+      "AS",
+      "MS"
+    ],
+    "correctAnswer": "VSD",
+    "explanation": {
+      "correct": "Ventricular septal defect (VSD) is the most common congenital acyanotic heart disease. It creates left-to-right shunt, causing pulmonary overcirculation and heart failure symptoms if large.",
+      "incorrect": [
+        {"option": "ASD", "reason": "Common but less frequent compared to VSD."},
+        {"option": "PDA", "reason": "Common in preterm infants, but overall incidence lower than VSD."},
+        {"option": "AS", "reason": "Aortic stenosis is rare congenital acyanotic heart disease."},
+        {"option": "MS", "reason": "Mitral stenosis is almost always acquired (rheumatic), not congenital."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_32",
+    "case": "A 52-year-old woman presents with calf pain on walking, followed by swelling after a long flight. Exam: fever 37.9 °C, calf swollen, tense, tender, pedal pulses normal. Most likely diagnosis? [10/2021T_6/2023R_11/2023T_2/2024T]",
+    "options": [
+      "Diabetic foot infection",
+      "Arterial embolism",
+      "Myositis",
+      "Deep venous thrombosis",
+      "Cellulitis"
+    ],
+    "correctAnswer": "Deep venous thrombosis",
+    "explanation": {
+      "correct": "The patient has classic DVT risk (long flight, diabetes, immobility) and clinical features (calf swelling, tenderness, fever, intact pulses). DVT is the most likely diagnosis.",
+      "incorrect": [
+        {"option": "Diabetic foot infection", "reason": "Would present with ulceration/erythema, not acute swelling after flight."},
+        {"option": "Arterial embolism", "reason": "Would cause absent distal pulses and cold pale limb, not intact pulses."},
+        {"option": "Myositis", "reason": "Muscle inflammation would cause pain/weakness but not localized swelling with fever."},
+        {"option": "Cellulitis", "reason": "Skin would be red and inflamed; here no erythema noted."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_33",
+    "case": "What is the most effective method of DVT prophylaxis for a 50‑year‑old woman undergoing anterior resection for colon cancer? [11/2020T_12/2021T_2/2024T_8/2024S]",
+    "options": [
+      "Electrical calf stimulation",
+      "Dextran 70 infusion",
+      "Graduated compression stockings",
+      "Intermittent pneumatic leg compression",
+      "Low-dose heparin (5000 units bd)"
+    ],
+    "correctAnswer": "Low-dose heparin (5000 units bd)",
+    "explanation": {
+      "correct": "In high-risk surgical patients (age, malignancy, major abdominal surgery), pharmacologic prophylaxis with low-dose unfractionated heparin or LMWH is the most effective method to reduce DVT risk.",
+      "incorrect": [
+        {"option": "Electrical calf stimulation", "reason": "Much less effective than pharmacological prophylaxis."},
+        {"option": "Dextran 70 infusion", "reason": "Not standard practice, less effective and carries side effects."},
+        {"option": "Graduated compression stockings", "reason": "Helpful adjunct, but not sufficient alone in high-risk surgery."},
+        {"option": "Intermittent pneumatic leg compression", "reason": "Useful, but again less effective than heparin in high-risk patients."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_34",
+    "case": "A 65-year-old man postoperative after rectal cancer resection, first day: fever 37.5 °C, swollen tender calf with shiny skin, pain on dorsiflexion. What is the appropriate diagnosis? [2/2021R_10/2021T_1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_11/2023S_11/2023R_8/2024T_8/2024R]",
+    "options": [
+      "Pelvic collection",
+      "Deep vein thrombosis",
+      "Superficial thrombophlebitis",
+      "Klippel-Trenaunay syndrome",
+      "Iatrogenic vascular injury"
+    ],
+    "correctAnswer": "Deep vein thrombosis",
+    "explanation": {
+      "correct": "Classic features of DVT: post-op patient, calf swelling, tenderness, positive Homans’ sign (pain on dorsiflexion). Most appropriate diagnosis is deep vein thrombosis.",
+      "incorrect": [
+        {"option": "Pelvic collection", "reason": "Would cause pelvic pain, fever, systemic signs but not isolated calf swelling/pain."},
+        {"option": "Superficial thrombophlebitis", "reason": "Presents with tender palpable superficial vein and erythema, not whole calf swelling."},
+        {"option": "Klippel-Trenaunay syndrome", "reason": "Congenital vascular malformation, would be chronic lifelong, not acute post-op event."},
+        {"option": "Iatrogenic vascular injury", "reason": "Would cause acute arterial occlusion/bleeding, not insidious tender calf swelling."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_35",
+    "case": "A 70-year-old hypertensive, heavy smoker with 3-month backache suddenly develops severe epigastric pain radiating to back, hypotension 80/50, tachycardia 130. Right femoral pulse absent, left weak. Abdomen rigid. What is the cause? [1/2023M_6/2023R]",
+    "options": [
+      "Acute appendicitis",
+      "Acute pancreatitis",
+      "Ascending cholangitis",
+      "Acute myocardial infarction",
+      "Ruptured abdominal aortic aneurysm"
+    ],
+    "correctAnswer": "Ruptured abdominal aortic aneurysm",
+    "explanation": {
+      "correct": "Elderly smoker, hypertensive, with classic triad: severe abdominal/back pain, hypotension, and absent femoral pulse—ruptured AAA is the cause of acute abdominal pain here.",
+      "incorrect": [
+        {"option": "Acute appendicitis", "reason": "Localized RLQ pain, not sudden collapse with hypotension."},
+        {"option": "Acute pancreatitis", "reason": "Causes epigastric pain radiating to back but not absent femoral pulse or shock so rapidly."},
+        {"option": "Ascending cholangitis", "reason": "Charcot’s triad: fever, jaundice, RUQ pain—not hypotensive collapse with absent pulses."},
+        {"option": "Acute myocardial infarction", "reason": "Chest pain radiating to arm/jaw; does not cause absent femoral pulses or rigid abdomen."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_36",
+    "case": "A 75-year-old man presents with sudden dizziness, visual disturbance, and limb numbness. BP 170/100 with a carotid bruit. What is the best initial diagnostic investigation? [10/2021T_6/2023R_2/2024T]",
+    "options": [
+      "Doppler ultrasonography (duplex)",
+      "Spiral CT angiography",
+      "Arch aortogram with selective carotid injections",
+      "Magnetic resonance arteriogram (MRA)",
+      "Cervical spine X-ray"
+    ],
+    "correctAnswer": "Doppler ultrasonography (duplex)",
+    "explanation": {
+      "correct": "Carotid duplex ultrasound is the first-line investigation for suspected carotid stenosis causing transient ischemic symptoms. Non-invasive, widely available, and reliable in assessing stenosis severity.",
+      "incorrect": [
+        {"option": "Spiral CT angiography", "reason": "Useful, but more invasive and involves radiation/contrast; not initial if duplex is available."},
+        {"option": "Arch aortogram with selective carotid injections", "reason": "Gold standard historically but invasive; now reserved for preoperative planning."},
+        {"option": "Magnetic resonance arteriogram (MRA)", "reason": "Non-invasive but often used after duplex for surgical evaluation."},
+        {"option": "Cervical spine X-ray", "reason": "Irrelevant to vascular evaluation here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_37",
+    "case": "Which of the following does NOT decrease the sensitivity/specificity of FAST exam in trauma? [11/2020T_12/2021T_11/2022R]",
+    "options": [
+      "Abdominal tenderness",
+      "Lumbar spine fracture",
+      "Traumatic aortic rupture",
+      "Pelvic fracture",
+      "Seatbelt sign (abdominal wall ecchymosis)"
+    ],
+    "correctAnswer": "Traumatic aortic rupture",
+    "explanation": {
+      "correct": "FAST (Focused Assessment with Sonography for Trauma) detects free intraperitoneal fluid. Aortic rupture causes thoracic bleeding, not intra-abdominal fluid → it does not affect FAST accuracy.",
+      "incorrect": [
+        {"option": "Abdominal tenderness", "reason": "Pain/guarding reduces exam accuracy due to poor probe contact and movement limitation."},
+        {"option": "Lumbar spine fracture", "reason": "Associated retroperitoneal hematomas → not well seen on FAST, reducing its utility."},
+        {"option": "Pelvic fracture", "reason": "Can cause retroperitoneal bleeding missed by FAST, reducing sensitivity."},
+        {"option": "Seatbelt sign", "reason": "Suggests hollow viscus injury → FAST misses these, lowering specificity for bleeding diagnosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_38",
+    "case": "A 55-year-old diabetic man complains of rest chest pain for 2 hours, sweaty. Pulse 100, BP 140/90. Troponin positive. Which one is the gold standard investigation? [5/2022M_11/2023S_8/2024T]",
+    "options": [
+      "Resting ECG",
+      "Stress ECG",
+      "Ventilation-perfusion scan",
+      "Cardiac catheterization",
+      "D-Dimer"
+    ],
+    "correctAnswer": "Cardiac catheterization",
+    "explanation": {
+      "correct": "Cardiac catheterization with coronary angiography is the gold standard for diagnosing coronary artery disease and acute coronary syndrome, allows visualization of coronary anatomy and PCI if needed.",
+      "incorrect": [
+        {"option": "Resting ECG", "reason": "First test but not definitive or gold standard."},
+        {"option": "Stress ECG", "reason": "Used in stable angina, contraindicated in acute chest pain."},
+        {"option": "Ventilation-perfusion scan", "reason": "Test for PE, not relevant here."},
+        {"option": "D-Dimer", "reason": "Screening for thromboembolism, not for acute MI."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_39",
+    "case": "A 65-year-old woman with progressive exertional dyspnea, BP 120/50. Exam: collapsing carotid pulse, soft S2, diastolic and systolic murmur at left sternal border. Diagnosis? [2/2023S_11/2023S_11/2023R_2/2024S_8/2024T]",
+    "options": [
+      "Mitral stenosis",
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Aortic regurgitation",
+      "Coarctation of aorta"
+    ],
+    "correctAnswer": "Aortic regurgitation",
+    "explanation": {
+      "correct": "Classic features of aortic regurgitation: wide pulse pressure, collapsing (water hammer) pulse, soft/absent A2, early diastolic murmur best at LSB, often with systolic flow murmur due to increased stroke volume.",
+      "incorrect": [
+        {"option": "Mitral stenosis", "reason": "Would present with opening snap and mid-diastolic murmur at apex."},
+        {"option": "Mitral regurgitation", "reason": "Pansystolic murmur radiating to axilla, not early diastolic murmur."},
+        {"option": "Aortic stenosis", "reason": "Harsh systolic murmur radiating to carotids, not collapsing pulse with diastolic murmur."},
+        {"option": "Coarctation of aorta", "reason": "Young patients with radio-femoral delay, not wide pulse pressure and diastolic murmur."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_40",
+    "case": "Which clinical feature is least consistent with type B aortic dissection? [12/2021T_2/2024T_8/2024S]",
+    "options": [
+      "Severe tearing chest pain",
+      "Elevated blood pressure",
+      "Asymmetry of femoral pulses",
+      "New early diastolic murmur",
+      "Acute renal failure"
+    ],
+    "correctAnswer": "New early diastolic murmur",
+    "explanation": {
+      "correct": "Type B dissection involves descending aorta distal to left subclavian. Diastolic murmur (AR) occurs in type A (ascending aorta affecting valve). So it's not typical of type B.",
+      "incorrect": [
+        {"option": "Severe tearing chest pain", "reason": "Classic presentation of dissection with acute onset, especially back pain in type B."},
+        {"option": "Elevated blood pressure", "reason": "Common finding in type B dissections due to chronic HTN background."},
+        {"option": "Asymmetry of femoral pulses", "reason": "Extension into iliacs may lead to asymmetric pulses."},
+        {"option": "Acute renal failure", "reason": "Renal artery involvement common in type B leading to renal ischemia and failure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_41",
+    "case": "A 62-year-old man developed right foot pain at rest and particularly at night for 2 weeks, causing sleep loss. History of claudication for months. Exam: pulses absent in both feet, right foot cold pale with dusky toes, carotid bruit present. What is the most likely diagnosis? [11/2021R_2/2024S_8/2024S_8/2024R]",
+    "options": [
+      "Dissecting aortic aneurysm",
+      "Arterial embolization",
+      "Spinal canal stenosis",
+      "Vascular rest pain due to occlusive disease",
+      "Buerger disease"
+    ],
+    "correctAnswer": "Vascular rest pain due to occlusive disease",
+    "explanation": {
+      "correct": "Rest pain at night, absent distal pulses, chronic course with previous claudication → critical limb ischemia due to severe peripheral arterial occlusive disease. Carotid bruit also supports widespread atherosclerosis.",
+      "incorrect": [
+        {"option": "Dissecting aortic aneurysm", "reason": "Presents with acute severe chest/back pain, not chronic foot rest pain."},
+        {"option": "Arterial embolization", "reason": "Sudden onset ischemia, not subacute rest pain over weeks."},
+        {"option": "Spinal canal stenosis", "reason": "Causes neurogenic claudication, relieved by flexion, not absent foot pulses."},
+        {"option": "Buerger disease", "reason": "Seen in young male heavy smokers with segmental inflammatory arterial disease, not 62yo with carotid bruit."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_42",
+    "case": "A 55-year-old man with mechanical prosthetic aortic valve is on warfarin 6 mg/day. Which test is essential to monitor warfarin dose? [2/2024R]",
+    "options": [
+      "International Normalized Ratio (INR)",
+      "Prothrombin fragment 1+2",
+      "aPTT",
+      "Platelet count",
+      "Thrombin time"
+    ],
+    "correctAnswer": "International Normalized Ratio (INR)",
+    "explanation": {
+      "correct": "Warfarin monitoring is done by PT expressed as INR. Target INR for mechanical aortic valve is usually 2.5–3.5.",
+      "incorrect": [
+        {"option": "Prothrombin fragment 1+2", "reason": "Research marker, not clinical monitoring."},
+        {"option": "aPTT", "reason": "Monitors heparin therapy, not warfarin."},
+        {"option": "Platelet count", "reason": "Not altered directly by warfarin therapy."},
+        {"option": "Thrombin time", "reason": "Used to investigate fibrinogen or heparin effects, not oral anticoagulation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_43",
+    "case": "A 37-year-old woman with leg edema developed sudden SOB and pleuritic chest pain. PE diagnosed. Which physical exam sign is most specific for pulmonary arterial hypertension? [10/2020T_1/2021T_10/2021T_11/2022R_2/2023S_6/2023R_11/2023S_2/2024S_8/2024T]",
+    "options": [
+      "Increased JVP",
+      "Loud P2 (P2 > A2)",
+      "Peripheral edema",
+      "Presence of S3",
+      "Pulmonary crackles"
+    ],
+    "correctAnswer": "Loud P2 (P2 > A2)",
+    "explanation": {
+      "correct": "A loud pulmonary component of S2 (P2 > A2 in pulmonary area) is specific for pulmonary hypertension due to high pressure closing pulmonary valve forcefully.",
+      "incorrect": [
+        {"option": "Increased JVP", "reason": "Seen in many right heart failure states, not specific."},
+        {"option": "Peripheral edema", "reason": "Common but non-specific for pulmonary HTN."},
+        {"option": "Presence of S3", "reason": "Occurs in many heart failure etiologies."},
+        {"option": "Pulmonary crackles", "reason": "Point toward left-sided failure, not isolated pulmonary hypertension."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_44",
+    "case": "A 40-year-old man, 18 hours after gastrectomy, becomes hypotensive (80/60), tachycardic, febrile 39 °C, CVP only +2. Most likely diagnosis? [12/2020T_12/2021T_11/2023R_2/2024S]",
+    "options": [
+      "Ruptured anastomosis",
+      "Hemorrhage",
+      "Acute gastric dilatation",
+      "Pulmonary embolism",
+      "Septicemia"
+    ],
+    "correctAnswer": "Ruptured anastomosis",
+    "explanation": {
+      "correct": "Early postoperative hypotension + tachycardia + peritonitis/rigidity with fever strongly suggests anastomotic leak/rupture causing peritonitis and septic shock. Classic within 24h post major GI surgery.",
+      "incorrect": [
+        {"option": "Hemorrhage", "reason": "Would cause shock but without fever; CVP might be low but no fever 39°C."},
+        {"option": "Acute gastric dilatation", "reason": "Causes abdominal distension, vomiting, not severe sepsis/hypotension."},
+        {"option": "Pulmonary embolism", "reason": "Can cause hypotension and fever but too early post-op and no chest pain findings given."},
+        {"option": "Septicemia", "reason": "General term, but here specifically source is ruptured anastomosis causing peritonitis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_45",
+    "case": "A 56-year-old woman with acute pulmonary embolism presents with pleuritic chest pain, hemoptysis, palpitations. Which ECG finding is most frequent in PE? [2/2024R]",
+    "options": [
+      "Q wave",
+      "P pulmonale",
+      "Sinus tachycardia",
+      "Sinus bradycardia",
+      "Left axis deviation"
+    ],
+    "correctAnswer": "Sinus tachycardia",
+    "explanation": {
+      "correct": "Most common ECG abnormality in PE is sinus tachycardia, seen in ~44% of cases. It's non-specific but frequent. The 'S1Q3T3' pattern and right axis deviation are less frequent.",
+      "incorrect": [
+        {"option": "Q wave", "reason": "Q waves are more indicative of prior MI; not typical in PE."},
+        {"option": "P pulmonale", "reason": "Tall peaked P waves may suggest right atrial strain but are not common."},
+        {"option": "Sinus bradycardia", "reason": "Rare in PE; usually tachyarrhythmia."},
+        {"option": "Left axis deviation", "reason": "May occur due to LV disease (HTN), not characteristic of acute PE."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_46",
+    "case": "A 48-year-old man admitted with an acute inferior MI. After 2 hours, BP 86/52, HR 40 sinus rhythm. History of angina relieved by rest/nitrates. Which initial therapy is best? [2/2024R]",
+    "options": [
+      "Temporary transvenous pacemaker",
+      "Normal saline 300ml over 15min",
+      "IV atropine 0.6 mg",
+      "IV dobutamine",
+      "IV isoproterenol"
+    ],
+    "correctAnswer": "IV atropine 0.6 mg",
+    "explanation": {
+      "correct": "Inferior MI often involves RCA → ischemia of SA/AV node → bradycardia. First-line for unstable sinus bradycardia/AV block post-MI is IV atropine. If fails, move to pacing.",
+      "incorrect": [
+        {"option": "Temporary transvenous pacemaker", "reason": "Indicated if atropine is ineffective or in complete heart block."},
+        {"option": "Normal saline 300ml", "reason": "May help preload, but does not correct severe symptomatic bradycardia."},
+        {"option": "IV dobutamine", "reason": "Inotrope for cardiogenic shock, not primary for bradycardia."},
+        {"option": "IV isoproterenol", "reason": "Contraindicated in MI; increases O2 demand and provokes arrhythmias."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_47",
+    "case": "A 45-year-old man with sudden dyspnea, pleuritic pain, tachycardia. Best initial diagnostic test for suspected pulmonary embolism? [2/2024R]",
+    "options": [
+      "Chest X-ray",
+      "ECG",
+      "D-dimer assay",
+      "Ventilation-perfusion scan",
+      "CT pulmonary angiography"
+    ],
+    "correctAnswer": "D-dimer assay",
+    "explanation": {
+      "correct": "In suspected PE: if clinical probability is low/intermediate, initial step is D-dimer test. If positive, proceed to imaging (CT pulmonary angiography). It reduces unnecessary scans.",
+      "incorrect": [
+        {"option": "Chest X-ray", "reason": "Useful to rule out other causes, not sensitive/specific for PE."},
+        {"option": "ECG", "reason": "May show sinus tachycardia or S1Q3T3 but non-diagnostic."},
+        {"option": "Ventilation-perfusion scan", "reason": "Used when CTPA is contraindicated, not as initial step in most patients."},
+        {"option": "CT pulmonary angiography", "reason": "Gold standard for PE imaging but not first if pre-test probability is not high. D-dimer first in low/moderate risk."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_48",
+    "case": "A 65-year-old patient with dilated cardiomyopathy wakes at night gasping for air, wheezy, and coughing pink frothy sputum. Most likely cause? [11/2023R]",
+    "options": [
+      "Cardiac asthma",
+      "Acute lung collapse",
+      "Pneumothorax",
+      "Bronchial asthma",
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": "Cardiac asthma",
+    "explanation": {
+      "correct": "Paroxysmal nocturnal dyspnea, wheeze, frothy sputum in dilated cardiomyopathy = pulmonary venous congestion from LV failure causing 'cardiac asthma'.",
+      "incorrect": [
+        {"option": "Acute lung collapse", "reason": "Would cause sudden unilateral absent breath sounds, not pink sputum."},
+        {"option": "Pneumothorax", "reason": "Sharp pleuritic pain, hyperresonant chest, collapse—not nocturnal dyspnea with sputum."},
+        {"option": "Bronchial asthma", "reason": "Causes wheeze but no pink frothy sputum or cardiomegaly/history of cardiomyopathy."},
+        {"option": "Pulmonary embolism", "reason": "Sudden chest pain, dyspnea, hemoptysis—not nocturnal orthopnea with frothy sputum."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_49",
+    "case": "A 45-year-old woman with hypothyroidism, fatigue, weight gain, depression, swelling, coarse skin. Untreated. What complication most likely if not treated? [2/2024R]",
+    "options": [
+      "Osteoporosis",
+      "Hypertension",
+      "Type 1 diabetes mellitus",
+      "Glaucoma",
+      "Myxedema coma"
+    ],
+    "correctAnswer": "Myxedema coma",
+    "explanation": {
+      "correct": "Severe untreated hypothyroidism can progress to myxedema coma: hypothermia, altered mental status, hypoventilation, hypotension. This is life-threatening.",
+      "incorrect": [
+        {"option": "Osteoporosis", "reason": "Seen with hyperthyroidism, not hypothyroidism."},
+        {"option": "Hypertension", "reason": "Diastolic hypertension may occur, but not the most feared complication."},
+        {"option": "Type 1 diabetes mellitus", "reason": "Autoimmune thyroid disease can co-exist but it is not a complication of hypothyroidism."},
+        {"option": "Glaucoma", "reason": "Not associated with hypothyroidism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_50",
+    "case": "A 54-year-old man presents with orthopnea, paroxysmal nocturnal dyspnea, ankle edema. Bilateral crackles in lung bases. Most likely type of heart failure? [2/2024R]",
+    "options": [
+      "Right-sided heart failure",
+      "Systolic heart failure",
+      "Diastolic heart failure",
+      "Biventricular heart failure",
+      "High-output heart failure"
+    ],
+    "correctAnswer": "Biventricular heart failure",
+    "explanation": {
+      "correct": "He has pulmonary congestion (left-sided failure signs) plus peripheral edema (right-sided). This indicates biventricular heart failure.",
+      "incorrect": [
+        {"option": "Right-sided heart failure", "reason": "Would explain edema, hepatomegaly but not pulmonary congestion."},
+        {"option": "Systolic heart failure", "reason": "Refers to reduced EF but need more info; here the key feature is both left and right signs."},
+        {"option": "Diastolic heart failure", "reason": "Can cause pulmonary congestion but peripheral edema less prominent alone."},
+        {"option": "High-output heart failure", "reason": "Caused by anemia, thyrotoxicosis—not matched with this presentation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_51",
+    "case": "A 78-year-old man with history of heart failure recently started new antihypertensive medication. Over the past week he became withdrawn, forgetful, and had falls. Most likely explanation for decline? [8/2024R]",
+    "options": [
+      "Vitamin deficiency",
+      "Side effect of new medication",
+      "Early dementia",
+      "Depression",
+      "Increased social isolation"
+    ],
+    "correctAnswer": "Side effect of new medication",
+    "explanation": {
+      "correct": "Elderly patients with heart failure are vulnerable to drug side effects (eg, beta-blockers, ACE inhibitors, diuretics) that can cause confusion, orthostatic hypotension, electrolyte imbalance → falls and cognitive change.",
+      "incorrect": [
+        {"option": "Vitamin deficiency", "reason": "Possible but subacute onset after new drug strongly points to medication."},
+        {"option": "Early dementia", "reason": "Would be progressive over months, not sudden with medication change."},
+        {"option": "Depression", "reason": "Explains withdrawal but not falls and acute confusion."},
+        {"option": "Increased social isolation", "reason": "Would not explain acute neurological symptoms."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_52",
+    "case": "A 55-year-old male smoker with diabetes, hypertension, chest pain on exertion. Stress test: anteroseptal ischemia. Cath: 80% left main coronary artery stenosis. Best intervention? [8/2024R]",
+    "options": [
+      "Re-exam in 6 months",
+      "Beta-blocker",
+      "Nitrates as needed",
+      "Percutaneous angioplasty",
+      "Coronary artery bypass grafting (CABG)"
+    ],
+    "correctAnswer": "Coronary artery bypass grafting (CABG)",
+    "explanation": {
+      "correct": "Significant left main (≥50%) disease requires CABG for survival benefit; PCI associated with worse outcomes in left main disease.",
+      "incorrect": [
+        {"option": "Re-exam in 6 months", "reason": "Dangerous—critical stenosis carries high sudden death risk."},
+        {"option": "Beta-blocker", "reason": "Provides symptom control, not definitive therapy."},
+        {"option": "Nitrates as needed", "reason": "Symptomatic relief, does not reduce mortality."},
+        {"option": "Percutaneous angioplasty", "reason": "Not first-line in left main disease; CABG provides superior outcomes."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_53",
+    "case": "A 55-year-old man with LDL 150 mg/dL. He is diabetic and obese. Which medication is indicated? [2/2024R]",
+    "options": [
+      "Atorvastatin",
+      "Fenofibrate",
+      "Ezetimibe",
+      "PCSK9 inhibitor",
+      "Niacin"
+    ],
+    "correctAnswer": "Atorvastatin",
+    "explanation": {
+      "correct": "Statins are first-line for LDL lowering in diabetic patients (high cardiovascular risk). High-intensity statin therapy like atorvastatin is indicated.",
+      "incorrect": [
+        {"option": "Fenofibrate", "reason": "Used mainly for hypertriglyceridemia, not isolated LDL elevation."},
+        {"option": "Ezetimibe", "reason": "Used as adjunct if statins are insufficient or not tolerated."},
+        {"option": "PCSK9 inhibitor", "reason": "Reserved for familial hypercholesterolemia or refractory LDL elevation."},
+        {"option": "Niacin", "reason": "Less used due to side effects; not first-line therapy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_54",
+    "case": "A 75-year-old man with heart failure presents with worsening SOB and ankle edema despite diuretics. He admits not restricting fluids. Next best management? [8/2024R]",
+    "options": [
+      "Change diuretic drug",
+      "Start beta-blocker",
+      "Stress fluid and sodium restriction",
+      "Schedule echocardiogram",
+      "Admit for IV diuretics"
+    ],
+    "correctAnswer": "Stress fluid and sodium restriction",
+    "explanation": {
+      "correct": "Noncompliance with fluid/salt restriction is a common cause of HF exacerbation. The immediate management here is reinforcing dietary/lifestyle compliance, not escalating drugs straight away.",
+      "incorrect": [
+        {"option": "Change diuretic drug", "reason": "He is non-compliant with fluid restriction; changing drug cocktail won't fix this issue."},
+        {"option": "Start beta-blocker", "reason": "Beta-blockers are beneficial long-term but not solution to acute fluid overload."},
+        {"option": "Schedule echocardiogram", "reason": "Helpful overall but not the immediate management priority here."},
+        {"option": "Admit for IV diuretics", "reason": "Reserved if patient is decompensated and unstable. Here the trigger is non-compliance."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_55",
+    "case": "A 72-year-old man postop day 2 after rectal cancer resection develops severe retrosternal crushing pain radiating to arm, tachycardia, SOB. What is the most appropriate next diagnostic test? [2/2024R]",
+    "options": [
+      "Blood gases",
+      "Chest X-ray",
+      "Pulmonary angiogram",
+      "Liver transaminases",
+      "Troponins"
+    ],
+    "correctAnswer": "Troponins",
+    "explanation": {
+      "correct": "This postoperative patient with crushing chest pain, SOB, tachycardia—suspect acute myocardial infarction. Troponin levels are the most appropriate diagnostic test to confirm.",
+      "incorrect": [
+        {"option": "Blood gases", "reason": "Show hypoxia/acidosis but not diagnostic for MI."},
+        {"option": "Chest X-ray", "reason": "May rule out pulmonary causes but not confirm MI."},
+        {"option": "Pulmonary angiogram", "reason": "Specific for PE, but presentation is classic for acute coronary syndrome."},
+        {"option": "Liver transaminases", "reason": "Assess liver injury, irrelevant here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_56",
+    "case": "A 40-year-old retired football player develops sudden palpitations and SOB 5 days after knee replacement. HR 100, SpO2 90%, ECG: sinus tachycardia, CXR normal. Next step in management? [2/2024R]",
+    "options": [
+      "Arterial blood gas",
+      "Lower limb Doppler ultrasound",
+      "Ventilation-perfusion scan",
+      "Supplemental oxygen",
+      "IV heparin"
+    ],
+    "correctAnswer": "IV heparin",
+    "explanation": {
+      "correct": "This is a classic postoperative pulmonary embolism scenario (dyspnea, hypoxemia, sinus tachycardia, normal chest X-ray). In moderate-high suspicion, immediate anticoagulation with IV heparin should be started rather than delaying for confirmatory tests.",
+      "incorrect": [
+        {"option": "Arterial blood gas", "reason": "Would show hypoxemia/respiratory alkalosis but does not confirm and delays therapy."},
+        {"option": "Lower limb Doppler ultrasound", "reason": "Can find DVT as source but waiting delays urgent treatment."},
+        {"option": "Ventilation-perfusion scan", "reason": "Diagnostic imaging, but not first step when PE is highly likely and patient is hypoxemic."},
+        {"option": "Supplemental oxygen", "reason": "Supportive only; necessary but not definitive therapy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_57",
+    "case": "A 62-year-old man has transient episodes of right arm weakness and aphasia resolving in 5-10 min. Smoker, high cholesterol. Carotid bruit present. What is the most appropriate initial diagnostic test? [10/2020T_2/2024S]",
+    "options": [
+      "Magnetic resonance angiography",
+      "Plain neck X-ray",
+      "Carotid angiography",
+      "Neck ultrasound",
+      "Duplex scanning of carotids"
+    ],
+    "correctAnswer": "Duplex scanning of carotids",
+    "explanation": {
+      "correct": "Transient ischemic attacks with carotid bruit strongly suggest carotid stenosis. First-line, non-invasive, safe test is carotid duplex scanning.",
+      "incorrect": [
+        {"option": "Magnetic resonance angiography", "reason": "Useful alternative, but duplex is first-line initial test."},
+        {"option": "Plain neck X-ray", "reason": "Irrelevant for vascular stenosis."},
+        {"option": "Carotid angiography", "reason": "Invasive; reserved for preoperative planning, not initial diagnosis."},
+        {"option": "Neck ultrasound", "reason": "General ultrasound less accurate. Duplex (US + Doppler) is standard."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_58",
+    "case": "A 14-year-old boy with exertional SOB and harsh mid-systolic murmur at LLSB. ECG: LVH + Q waves. Suspected hypertrophic cardiomyopathy. Which feature increases risk of sudden death? [11/2021R_11/2023R_2/2024R_8/2024S_8/2024R]",
+    "options": [
+      "Loudness of murmur",
+      "Family history of sudden death",
+      "Age",
+      "Degree of LVH",
+      "Asymmetrical septal hypertrophy"
+    ],
+    "correctAnswer": "Family history of sudden death",
+    "explanation": {
+      "correct": "The most powerful risk factor for sudden cardiac death in HOCM is a family history of sudden unexplained death, indicating genetic malignant mutations.",
+      "incorrect": [
+        {"option": "Loudness of murmur", "reason": "Does not correlate with risk of sudden death."},
+        {"option": "Age", "reason": "Younger age increases suspicion but not a risk factor by itself."},
+        {"option": "Degree of LVH", "reason": "Marked hypertrophy increases risk but family history always outweighs."},
+        {"option": "Asymmetrical septal hypertrophy", "reason": "This is the hallmark of HOCM but not the independent strongest predictor compared to family history."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_59",
+    "case": "A young girl with SOB and palpitations diagnosed by registrar with mitral stenosis. What auscultatory sign is cornerstone of diagnosis? [11/2023R]",
+    "options": [
+      "Ejection systolic murmur",
+      "Mid-diastolic murmur",
+      "Mid-systolic click",
+      "Pansystolic murmur",
+      "Third heart sound"
+    ],
+    "correctAnswer": "Mid-diastolic murmur",
+    "explanation": {
+      "correct": "Mitral stenosis classic finding: loud S1 + opening snap + low-pitched rumbling mid-diastolic murmur at apex. This sign is the key diagnostic feature.",
+      "incorrect": [
+        {"option": "Ejection systolic murmur", "reason": "Typical of aortic stenosis or increased flow murmurs, not MS."},
+        {"option": "Mid-systolic click", "reason": "Suggestive of mitral valve prolapse."},
+        {"option": "Pansystolic murmur", "reason": "Seen in mitral regurgitation or VSD, not mitral stenosis."},
+        {"option": "Third heart sound", "reason": "Indicates volume overload/heart failure, not specific for MS."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_60",
+    "case": "A 45-year-old man with palpitations and headache, BP 160/100, HR 100. Labs: normal glucose, mild creatinine rise. Most probable diagnosis? [2/2021R_1/2023M_11/2023T_2/2024T]",
+    "options": [
+      "Grade 1 hypertension",
+      "Grade 2 hypertension",
+      "Grade 3 hypertension",
+      "Pre-hypertension",
+      "Systolic hypertension"
+    ],
+    "correctAnswer": "Grade 2 hypertension",
+    "explanation": {
+      "correct": "BP 160/100 is consistent with WHO classification: Grade 2 hypertension. Symptoms (palpitations, headache) reflect uncontrolled moderate hypertension.",
+      "incorrect": [
+        {"option": "Grade 1 hypertension", "reason": "Defined as 140-159/90-99 mmHg."},
+        {"option": "Grade 3 hypertension", "reason": "Severe ≥180/110 mmHg."},
+        {"option": "Pre-hypertension", "reason": "BP 120-139/80-89 mmHg."},
+        {"option": "Systolic hypertension", "reason": "Would be isolated systolic ≥140 with diastolic <90; here both are elevated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_61",
+    "case": "A 44-year-old woman presents with palpitations. ECG shows atrial fibrillation. BP 120/80, HR 130, O2 sat 93%. What is the best initial step? [11/2020T_1/2023M_6/2023S]",
+    "options": [
+      "Adenosine",
+      "Labetalol",
+      "Amiodarone",
+      "Defibrillation",
+      "Cardioversion"
+    ],
+    "correctAnswer": "Amiodarone",
+    "explanation": {
+      "correct": "This patient is hemodynamically stable with AF. Amiodarone is appropriate for rhythm control in AF, especially in the acute setting with moderate tachycardia but preserved BP.",
+      "incorrect": [
+        {"option": "Adenosine", "reason": "Used for paroxysmal SVT, not atrial fibrillation."},
+        {"option": "Labetalol", "reason": "Alpha-beta blocker usually employed in hypertensive crisis, not AF management."},
+        {"option": "Defibrillation", "reason": "Indicated for pulseless arrhythmias (VF/VT), not AF with a pulse."},
+        {"option": "Cardioversion", "reason": "Synchronized cardioversion is reserved for AF with hemodynamic instability (hypotension, shock, pulmonary edema)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_62",
+    "case": "A 65-year-old female admitted with ischemic stroke (AF present). CT: ischemic, no hemorrhage. Started on aspirin. At what point should warfarin be started if patient stable? [12/2021T_1/2023M_5/2023M_6/2023S_11/2023T_2/2024T]",
+    "options": [
+      "After 14 days",
+      "Immediately",
+      "After 7 days",
+      "After repeat CT at 28 days",
+      "After repeat CT at 14 days"
+    ],
+    "correctAnswer": "After 14 days",
+    "explanation": {
+      "correct": "Oral anticoagulation after ischemic stroke due to AF is typically started after 14 days to reduce risk of hemorrhagic transformation. Immediate use is dangerous in acute infarct.",
+      "incorrect": [
+        {"option": "Immediately", "reason": "Carries high risk of hemorrhagic conversion of infarct."},
+        {"option": "After 7 days", "reason": "May still carry risk of bleeding; guidelines usually recommend 14 days unless stroke is very minor."},
+        {"option": "After repeat CT at 28 days", "reason": "Too delayed; most guidelines recommend ~2 weeks."},
+        {"option": "After repeat CT at 14 days", "reason": "Unnecessary in stable typical ischemic stroke—standard is to initiate after 14 days without routine repeat scan."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_63",
+    "case": "A 60-year-old woman, BP 135/85 mmHg, no comorbidities. Diagnosis: stage 1 hypertension. What initial therapy is most appropriate? [2/2021R_1/2023M_5/2023M]",
+    "options": [
+      "Diltiazem",
+      "Lifestyle modification",
+      "Clonidine",
+      "Hydrochlorothiazide",
+      "Furosemide"
+    ],
+    "correctAnswer": "Lifestyle modification",
+    "explanation": {
+      "correct": "Stage 1 HTN in otherwise healthy patients is managed initially with lifestyle changes: diet, exercise, weight reduction, low-salt intake. Medication is reserved if BP persists despite these changes or there are comorbidities.",
+      "incorrect": [
+        {"option": "Diltiazem", "reason": "Calcium channel blocker used in HTN, but not first-line for initial stage 1 without comorbidities."},
+        {"option": "Clonidine", "reason": "Centrally acting; reserved for resistant HTN, not initial therapy."},
+        {"option": "Hydrochlorothiazide", "reason": "Thiazide is first-line drug in many guidelines but usually started if lifestyle fails."},
+        {"option": "Furosemide", "reason": "Loop diuretic, used in edema/heart failure rather than essential HTN."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_64",
+    "case": "Regarding ultrasound for central venous catheter (CVC) placement, which of the following is FALSE? [12/2021T_11/2022R]",
+    "options": [
+      "Duplex ultrasound is necessary to distinguish arteries vs veins",
+      "US identification then insertion more effective than landmark technique",
+      "There is an operator learning curve with dynamic real-time US",
+      "US increases first-stick success for IJV CVC",
+      "Ultrasound has no role in subclavian CVC placement"
+    ],
+    "correctAnswer": "Ultrasound has no role in subclavian CVC placement",
+    "explanation": {
+      "correct": "Ultrasound guidance improves success/safety for internal jugular and femoral CVC. It can also help in subclavian placement in experienced hands. Statement saying 'no role' is false.",
+      "incorrect": [
+        {"option": "Duplex ultrasound is necessary to distinguish arteries vs veins", "reason": "Correct; Doppler flow/pulsatility shows artery vs compressible vein."},
+        {"option": "US identification then insertion more effective than landmark technique", "reason": "Correct; real-time imaging reduces complications and increases success."},
+        {"option": "There is an operator learning curve with dynamic real-time US", "reason": "Correct; training required."},
+        {"option": "US increases first-stick success for IJV CVC", "reason": "Correct; proven by multiple trials."}
+      ]
+    }
+  },
+  {
+    "CaseID": "cardiology_65",
+    "case": "A 46-year-old male with abdominal gunshot injury. VS: BP 74/32, HR 136 (carotid pulse only), RR 24 shallow. What is the target out-of-hospital fluid resuscitation? [1/2021T_11/2021R_11/2022R_8/2024S]",
+    "options": [
+      "SBP 120-130 mmHg",
+      "Pulse 100 bpm",
+      "Return of peripheral pulses",
+      "Maintain central pulse",
+      "Maintain GCS"
+    ],
+    "correctAnswer": "Maintain central pulse",
+    "explanation": {
+      "correct": "Permissive hypotension is advised in penetrating trauma until surgical control of bleeding. Goal is maintaining vital organ perfusion (central pulse palpable, patient conscious if possible), not normal SBP.",
+      "incorrect": [
+        {"option": "SBP 120-130 mmHg", "reason": "High pressures may dislodge clots and worsen bleeding."},
+        {"option": "Pulse 100 bpm", "reason": "Target is not a specific HR but perfusion."},
+        {"option": "Return of peripheral pulses", "reason": "Not priority; central perfusion is the safer goal."},
+        {"option": "Maintain GCS", "reason": "Useful monitoring but volume status should be targeted by central pulses."}
+      ]
+    }
+  }
+]

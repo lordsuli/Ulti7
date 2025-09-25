@@ -1,0 +1,1157 @@
+[
+  {
+    "CaseID": "hematology_1",
+    "case": "An 8-year-old child was brought to Emergency Room by pallor. No jaundice. Complete Blood Count showed that Hb is 7gm/dl, MCV 61, MCH 15, RDW 19, Hb electrophoresis Hb A2 3% Hb A 96%. Which of the following is the most likely diagnosis? [5/2022M_11/2023T_2/2024S_2/2024R_8/2024R]",
+    "options": [
+      "Iron deficiency anemia",
+      "B-thalassemia trait",
+      "Congenital spherocytosis",
+      "G6PD deficiency",
+      "Sickle cell anemia"
+    ],
+    "correctAnswer": "Iron deficiency anemia",
+    "explanation": {
+      "correct": "Microcytic hypochromic anemia (low MCV, low MCH) with ↑RDW, and normal electrophoresis (HbA2 normal) is diagnostic of iron deficiency anemia.",
+      "incorrect": [
+        {"option": "B-thalassemia trait", "reason": "Would show raised HbA2 >3.5% and normal RDW, not seen here."},
+        {"option": "Congenital spherocytosis", "reason": "Characterized by hemolysis, jaundice, and ↑MCHC, not microcytosis."},
+        {"option": "G6PD deficiency", "reason": "Episodic hemolysis after oxidant stress, not chronic microcytic anemia."},
+        {"option": "Sickle cell anemia", "reason": "Abnormal Hb electrophoresis (HbS), not predominantly HbA 96%."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_2",
+    "case": "A 7-year-old child presents to the emergency department with a history of diarrhea for the past two days. The diarrhea has been frequent, watery, and accompanied by abdominal cramps. The child's condition has worsened today, with the development of bloody stools and signs of dehydration. On examination, the child appears lethargic, with sunken eyes and dry mucous membranes. Laboratory investigations reveal thrombocytopenia and evidence of hemolytic anemia. Based on these findings, the child is diagnosed with hemolytic uremic syndrome (HUS). Which of the following is the commonest cause of diarrhea followed by hemolytic uremic syndrome (HUS)? [11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Shigella",
+      "Salmonella",
+      "Campylobacter",
+      "E.coli",
+      "Streptococcus"
+    ],
+    "correctAnswer": "E.coli",
+    "explanation": {
+      "correct": "Shiga toxin-producing E.coli (O157:H7) is the typical cause of bloody diarrhea leading to HUS in children.",
+      "incorrect": [
+        {"option": "Shigella", "reason": "Can rarely cause HUS but less common than E.coli O157:H7."},
+        {"option": "Salmonella", "reason": "Causes gastroenteritis but not typical for HUS."},
+        {"option": "Campylobacter", "reason": "Linked to bloody diarrhea and Guillain-Barré, not HUS."},
+        {"option": "Streptococcus", "reason": "Not a diarrheal pathogen leading to HUS."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_3",
+    "case": "A 39 male patient complains of right iliac fossa pain and swelling right sided tumors of the large bowel present more frequently with which of the following characteristics when compared to left sided tumors? [11/2023R]",
+    "options": [
+      "Large bowel obstruction",
+      "Small bowel obstruction",
+      "Blood mixed in with stools",
+      "Change in bowel habit",
+      "Iron deficiency anemia"
+    ],
+    "correctAnswer": "Iron deficiency anemia",
+    "explanation": {
+      "correct": "Right-sided colon tumors often present insidiously with occult bleeding and iron deficiency anemia. Left-sided tumors are more obstructive with change in bowel habit and fresh blood in stool.",
+      "incorrect": [
+        {"option": "Large bowel obstruction", "reason": "More common with left-sided tumors due to narrow lumen."},
+        {"option": "Small bowel obstruction", "reason": "Not typical of colon cancer."},
+        {"option": "Blood mixed in with stools", "reason": "Distal lesions, not right-sided, more often present with this."},
+        {"option": "Change in bowel habit", "reason": "Again, a feature of distal/left-sided colon pathology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_4",
+    "case": "A 63-year-old female presents with a 3-month history of increasing fatigue, she used to receive aspirin for knee osteoarthritis. On examination she is pale her hemoglobin level is 8 g/dl and the mean corpuscular volume is 67 fL. Which of following is the likely cause of her anemia? [11/2023R]",
+    "options": [
+      "Iron-deficiency anemia",
+      "Thalassemia",
+      "Vitamin C deficiency",
+      "Glucose 5 phosphate dehydrogenase deficiency",
+      "Folic acid deficiency"
+    ],
+    "correctAnswer": "Iron-deficiency anemia",
+    "explanation": {
+      "correct": "Chronic aspirin use predisposes to GI blood loss. With microcytosis (MCV 67), iron deficiency anemia is the most likely diagnosis.",
+      "incorrect": [
+        {"option": "Thalassemia", "reason": "Microcytosis present, but iron studies usually normal; clinical story suggests blood loss."},
+        {"option": "Vitamin C deficiency", "reason": "Leads to scurvy, not microcytic anemia."},
+        {"option": "Glucose 5 phosphate dehydrogenase deficiency", "reason": "Causes hemolysis, not microcytosis."},
+        {"option": "Folic acid deficiency", "reason": "Causes macrocytic anemia, not microcytic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_5",
+    "case": "A 49-year-old man is involved in a motor vehicle accident, resulting in large amounts of blood loss and hypotension. He is initially given normal saline at the accident site, and on arrival at the hospital, the trauma team orders an emergent blood transfusion with type O universal donor packed red cells. Which of the following is a possible complication of unmatched type O blood? [2/2021R_1/2023M]",
+    "options": [
+      "Conversion of the recipient to type O blood",
+      "Type O donors have a shorter survival time when transfused than do other cell types",
+      "At times type B blood may be mistyped as type O",
+      "Type O donors have a higher incidence of hepatitis C virus",
+      "Type O donors may have high titers of anti-A and anti-B in their plasma"
+    ],
+    "correctAnswer": "Type O donors may have high titers of anti-A and anti-B in their plasma",
+    "explanation": {
+      "correct": "Packed O red cells are safe, but plasma from type O donors can carry high titers of anti-A and anti-B, risking hemolysis if transfused without matching.",
+      "incorrect": [
+        {"option": "Conversion of the recipient to type O blood", "reason": "Impossible; blood type cannot change with transfusion."},
+        {"option": "Type O donors have a shorter survival time", "reason": "RBC survival depends on storage/handling, not donor type."},
+        {"option": "At times type B blood may be mistyped as type O", "reason": "Lab error unrelated to this complication."},
+        {"option": "Type O donors have a higher incidence of hepatitis C virus", "reason": "Infections relate to screening, not blood type."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_6",
+    "case": "A multiple trauma patient receives 14 units of packed red cells and several liters of Ringer's lactate solution during a laparotomy for multiple intra-abdominal injuries. The surgeons note that blood is oozing from all dissected raw surfaces, as well as from his IV line sites. His temperature is normal. Which of the following is the most appropriate next step in management? [2/2024R]",
+    "options": [
+      "Proceeding with surgery and giving blood transfusion as needed",
+      "Obtaining a stat coagulation profile to guide specific therapy",
+      "Empiric administration of fresh frozen plasma and platelet packs",
+      "Aborting the operation and closing the abdomen with towel clips",
+      "Leaving the abdomen open and covered with mesh until coagulation parameters can be corrected"
+    ],
+    "correctAnswer": "Empiric administration of fresh frozen plasma and platelet packs",
+    "explanation": {
+      "correct": "Massive transfusion can cause dilutional coagulopathy. The patient is actively bleeding from raw surfaces and IV sites → empiric FFP and platelet transfusion is indicated before waiting for labs.",
+      "incorrect": [
+        {"option": "Proceeding with surgery alone", "reason": "Ongoing coagulopathy will worsen bleeding."},
+        {"option": "Obtaining coagulation profile", "reason": "Takes time and patient is actively bleeding critically."},
+        {"option": "Aborting operation", "reason": "Unsafe with active bleeding not controlled."},
+        {"option": "Leaving abdomen open", "reason": "Temporary measure; correction of coagulopathy takes priority here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_7",
+    "case": "A 67-year-old man is complaining of easy fatigability. A routine complete blood count (CBC) reveals a platelet count of 800,000/ml, and the hemoglobin and WBC counts are normal. He reports no other symptoms, and his clinical examination is normal. Which of the following characteristics is most likely to be helpful in differentiating essential (primary) from reactive (secondary) thrombocytosis? [11/2021R_11/2022R_11/2023S_11/2023R_2/2024S_8/2024T_8/2024S]",
+    "options": [
+      "Increased megakaryocyte number",
+      "Increased total platelet mass",
+      "Increased platelet turnover",
+      "Normal platelet survival",
+      "Thromboembolism and hemorrhage"
+    ],
+    "correctAnswer": "Thromboembolism and hemorrhage",
+    "explanation": {
+      "correct": "Essential thrombocythemia is a myeloproliferative disorder with risk of both thrombosis and bleeding (qualitative platelet dysfunction), unlike reactive thrombocytosis which is usually benign.",
+      "incorrect": [
+        {"option": "Increased megakaryocyte number", "reason": "Found in both situation — not distinguishing."},
+        {"option": "Increased total platelet mass", "reason": "Non-specific feature."},
+        {"option": "Increased platelet turnover", "reason": "Seen in both, not specific."},
+        {"option": "Normal platelet survival", "reason": "Not diagnostic for differentiation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_8",
+    "case": "A 26-year-old patient came to the outpatient with a 6-week history of fever, bloody diarrhea and weight loss. On examination, he is clinically anemic and has aphthous ulcer of the mouth and mild tenderness of the abdomen. Sigmoidoscopy shows transmural inflammation and noncaseating granulomas of the colon and rectum. If the patient also complains of that lesion on his shins: What is the diagnosis of this skin lesion? [1/2023M_2/2023T_2/2023R_6/2023S_6/2023R]",
+    "options": [
+      "erythema nodosum",
+      "pyoderma gangrenosum",
+      "eczema",
+      "atopic dermatitis",
+      "dermatitis herpetitiformis"
+    ],
+    "correctAnswer": "erythema nodosum",
+    "explanation": {
+      "correct": "Crohn’s disease can be associated with extraintestinal manifestations. Tender red nodules on the shins are classic erythema nodosum.",
+      "incorrect": [
+        {"option": "pyoderma gangrenosum", "reason": "Also related to IBD but produces necrotic ulcers, not nodular shin lesions."},
+        {"option": "eczema", "reason": "Chronic itchy dermatitis, not nodules."},
+        {"option": "atopic dermatitis", "reason": "Allergic skin condition, not related to IBD."},
+        {"option": "dermatitis herpetitiformis", "reason": "Linked to celiac disease, not Crohn’s."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_9",
+    "case": "A 70-year-old woman presented with progressive weakness and fatigue about a month earlier, and she no longer felt well enough to do her housework or take her daily walk. Although her breathing was normal at rest, she was too short of breath on exertion. On physical examination, she is found to be anemic and has dyspepsia and peripheral neuropathy. Laboratory studies revealed: Hb 9gm/dl, Hct 29%, MCV 110 fl, MCH 40 pg, MCHC 34 g/dl, WBC and platelets slightly decreased. What is the most probable type of anemia seen in this patient? [2/2021R_1/2023M_5/2023M_11/2023T_2/2024T_2/2024R]",
+    "options": [
+      "Macrocytic megaloblastic anemia",
+      "Hemolytic anemia",
+      "Aplastic anemia",
+      "Macrocytic non-megaloblastic anemia",
+      "Iron deficiency anemia"
+    ],
+    "correctAnswer": "Macrocytic megaloblastic anemia",
+    "explanation": {
+      "correct": "Macrocytosis with megaloblastic indices, pancytopenia, dyspepsia and neuropathy all point toward vitamin B12 deficiency → macrocytic megaloblastic anemia.",
+      "incorrect": [
+        {"option": "Hemolytic anemia", "reason": "Would show increased reticulocyte count and indirect bilirubin, not neuropathy + macrocytosis."},
+        {"option": "Aplastic anemia", "reason": "Pancytopenia without macrocytosis or neuropathy."},
+        {"option": "Macrocytic non-megaloblastic anemia", "reason": "Seen in alcoholism or liver disease without megaloblastic changes or neuropathy."},
+        {"option": "Iron deficiency anemia", "reason": "Causes microcytosis, not macrocytosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_10",
+    "case": "A 35-year-old woman is suspected of having mycoplasma pneumonia based on symptoms of a dry cough, fever, the lung examination is normal. Chest x-ray shows bilateral infiltrates, her hemoglobin of 10.5 g/dl, reticulocyte count 7%, and WBC 12,000/mL. Hemolytic anemia from cold agglutinins is suspected as the cause. Which of the following tests will confirm an autoimmune cause of the anemia? [1/2021T_10/2021T_11/2021R_11/2022R_11/2023R_8/2024S]",
+    "options": [
+      "Positive antinuclear antibody (ANA)",
+      "Positive rheumatoid factor",
+      "Polyclonal gammopathy",
+      "Presence of Heinz bodies",
+      "Positive Coombs test"
+    ],
+    "correctAnswer": "Positive Coombs test",
+    "explanation": {
+      "correct": "The direct antiglobulin (Coombs) test is used to confirm immune-mediated hemolysis, including cold agglutinin disease triggered by mycoplasma infection.",
+      "incorrect": [
+        {"option": "Positive ANA", "reason": "Suggestive of lupus, not hemolysis mechanism here."},
+        {"option": "Positive rheumatoid factor", "reason": "Seen in RA, not diagnostic for hemolysis."},
+        {"option": "Polyclonal gammopathy", "reason": "Seen in chronic infection, not specific for hemolysis."},
+        {"option": "Presence of Heinz bodies", "reason": "Indicates oxidative hemolysis (G6PD deficiency)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_11",
+    "case": "A 33 year old presents with a one week history of malaise, fever, headache, myalgia with a sore throat, dry cough and pleuritic chest pain. On examination there is bilateral basal crepitations. There is evidence of erythema nodosum and bloods reveal a hemolytic anemia and cold agglutinins. Given the most likely diagnosis, what treatment should be commenced? [11/2021R_11/2022R_11/2023R_8/2024S]",
+    "options": [
+      "Erythromycin",
+      "Ciprofloxacin",
+      "Amoxicillin",
+      "Co-trimoxazole",
+      "Co-amoxiclav"
+    ],
+    "correctAnswer": "Erythromycin",
+    "explanation": {
+      "correct": "The picture is Mycoplasma pneumonia (erythema nodosum, cold agglutinins, mild hemolytic anemia). The treatment of choice is macrolide antibiotic (Erythromycin or Azithromycin).",
+      "incorrect": [
+        {"option": "Ciprofloxacin", "reason": "Fluoroquinolone not first-line against Mycoplasma pneumonia."},
+        {"option": "Amoxicillin", "reason": "Beta-lactams are ineffective as Mycoplasma lacks a cell wall."},
+        {"option": "Co-trimoxazole", "reason": "Not the drug of choice here."},
+        {"option": "Co-amoxiclav", "reason": "Broad-spectrum beta-lactam, also ineffective for Mycoplasma."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_12",
+    "case": "All of the following are side effects of prolonged use of corticosteroids except: [12/2020T_11/2022R]",
+    "options": [
+      "Anemia",
+      "Growth retardation",
+      "Increased susceptibility to infections",
+      "Increased blood pressure",
+      "Muscle weakness"
+    ],
+    "correctAnswer": "Anemia",
+    "explanation": {
+      "correct": "Corticosteroids cause growth retardation, immunosuppression, hypertension, muscle weakness, osteoporosis, etc. They do *not* cause anemia — in fact, they may increase Hb and RBC due to their stimulating effect.",
+      "incorrect": [
+        {"option": "Growth retardation", "reason": "Common in children on long-term steroids."},
+        {"option": "Increased susceptibility to infections", "reason": "Due to immunosuppression."},
+        {"option": "Increased blood pressure", "reason": "Due to fluid and sodium retention."},
+        {"option": "Muscle weakness", "reason": "Steroid myopathy is well described."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_13",
+    "case": "Which of the following is not a cause of hematuria? [11/2020T_11/2022R]",
+    "options": [
+      "Urinary tract infection",
+      "Renal stones",
+      "Acute post-streptococcal glomerulonephritis",
+      "Idiopathic thrombocytopenic purpura",
+      "Thalassemia"
+    ],
+    "correctAnswer": "Thalassemia",
+    "explanation": {
+      "correct": "Thalassemia causes anemia due to globin chain defects, but not hematuria. All the other causes—UTI, stones, glomerulonephritis, ITP—can lead to blood in urine.",
+      "incorrect": [
+        {"option": "Urinary tract infection", "reason": "Common cause of hematuria due to mucosal inflammation."},
+        {"option": "Renal stones", "reason": "Mechanical trauma to mucosa causes blood in urine."},
+        {"option": "Acute post-streptococcal GN", "reason": "Glomerular injury leads to hematuria."},
+        {"option": "Idiopathic thrombocytopenic purpura", "reason": "Bleeding tendency can cause blood in urine."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_14",
+    "case": "A 50-year-old woman presents with tiredness, dyspnea, and par-anesthesia. On examination she showed extensor plantar, brisk knee jerks and absent ankle jerks. Her blood film shows macrocytic anemia. Which of the following is the most probable cause? [10/2020T_1/2021T_10/2021T_2/2023S]",
+    "options": [
+      "Hemolytic anemia",
+      "Iron deficiency anemia",
+      "Pernicious anemia",
+      "Sickle-cell anemia",
+      "Sideroblastic anemia"
+    ],
+    "correctAnswer": "Pernicious anemia",
+    "explanation": {
+      "correct": "Macrocytic anemia with neurological findings (extensor plantar, absent ankle jerk = subacute combined degeneration) is classic for Vitamin B12 deficiency in Pernicious anemia.",
+      "incorrect": [
+        {"option": "Hemolytic anemia", "reason": "Would cause jaundice, reticulocytosis, not macrocytosis + neuropathy."},
+        {"option": "Iron deficiency anemia", "reason": "Leads to microcytic anemia, not macrocytosis."},
+        {"option": "Sickle-cell anemia", "reason": "Causes hemolysis, vaso-occlusion, no macrocytosis."},
+        {"option": "Sideroblastic anemia", "reason": "Microcytic or dimorphic anemia, not associated with neurologic features."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_15",
+    "case": "Which of the following is a cause of microcytic anemia? [12/2020T_11/2023T]",
+    "options": [
+      "Thalassemia",
+      "Sickle cell anemia",
+      "Vitamin B12 deficiency",
+      "G6PD deficiency",
+      "Autoimmune hemolytic anemia"
+    ],
+    "correctAnswer": "Thalassemia",
+    "explanation": {
+      "correct": "Microcytic anemia is caused by defective Hb synthesis: iron deficiency, thalassemia, sideroblastic anemia, anemia of chronic disease. Thalassemia is the correct option here.",
+      "incorrect": [
+        {"option": "Sickle cell anemia", "reason": "Normocytic hemolytic anemia."},
+        {"option": "Vitamin B12 deficiency", "reason": "Causes macrocytosis."},
+        {"option": "G6PD deficiency", "reason": "Causes normocytic hemolysis during oxidative stress."},
+        {"option": "Autoimmune hemolytic anemia", "reason": "Usually normocytic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_16",
+    "case": "A 25-year-old female presents to her primary care physician with complaints of fatigue, weakness, and pale skin. Upon further investigation, her blood work reveals a microcytic anemia, with a mean corpuscular volume (MCV) below the normal range. She denies any history of chronic illness or blood loss. Physical examination is pallor only. What is the most likely cause of her anemia? [2/2024T_8/2024S]",
+    "options": [
+      "Thalassemia",
+      "Sickle cell anemia",
+      "Vitamin B12 deficiency",
+      "G6PD deficiency",
+      "Autoimmune hemolytic anemia"
+    ],
+    "correctAnswer": "Thalassemia",
+    "explanation": {
+      "correct": "A young otherwise healthy female with persistent microcytosis, no iron deficiency, points toward thalassemia trait. These patients often have mild microcytic anemia with normal iron studies.",
+      "incorrect": [
+        {"option": "Sickle cell anemia", "reason": "Presents as normocytic hemolysis, not microcytosis."},
+        {"option": "Vitamin B12 deficiency", "reason": "Macrocytic, not microcytic."},
+        {"option": "G6PD deficiency", "reason": "Episodic hemolytic anemia, not chronic microcytic anemia."},
+        {"option": "Autoimmune hemolytic anemia", "reason": "Presents with normocytic hemolysis, not hypochromic microcytosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_17",
+    "case": "A 24-year-old man presents with a swollen right leg following a flight. He has no past medical history. On examination there is a 1 cm calf difference with mild edema. Clinical risk of DVT is low. Which blood test is most likely to exclude thrombosis in this patient? [10/2021T_5/2022M_11/2023S_11/2023R_8/2024R]",
+    "options": [
+      "C-reactive protein",
+      "D-dimer",
+      "Fibrinogen",
+      "INR",
+      "Platelet count"
+    ],
+    "correctAnswer": "D-dimer",
+    "explanation": {
+      "correct": "D-dimer has high negative predictive value. In low-risk patients, a normal D-dimer essentially rules out DVT.",
+      "incorrect": [
+        {"option": "C-reactive protein", "reason": "Inflammatory marker, not specific for thrombosis."},
+        {"option": "Fibrinogen", "reason": "Not helpful for diagnosis of acute DVT."},
+        {"option": "INR", "reason": "Used to monitor warfarin, not diagnose clot."},
+        {"option": "Platelet count", "reason": "Does not rule out DVT."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_18",
+    "case": "An 18-year-old man is found to have a hypochromic microcytic anemia of Hb 10 g/dl. Blood film shows anisopoikilocytosis and target cells. Reticulocyte 7%. Spleen is palpable. Which of the following is the most likely diagnosis? [5/2022M_11/2023S_2/2024S_8/2024T]",
+    "options": [
+      "Sickle cell trait",
+      "Thalassemia minor",
+      "HbS-C disease",
+      "Sideroblastic anemia",
+      "Hereditary spherocytosis"
+    ],
+    "correctAnswer": "Thalassemia minor",
+    "explanation": {
+      "correct": "Microcytic hypochromic anemia with target cells, high reticulocyte count and splenomegaly points toward thalassemia. HbS-C or spherocytosis have different morphology.",
+      "incorrect": [
+        {"option": "Sickle cell trait", "reason": "Usually asymptomatic, normal Hb most of life."},
+        {"option": "HbS-C disease", "reason": "Would show sickle forms and crystals, not pure microcytosis + target cells."},
+        {"option": "Sideroblastic anemia", "reason": "Shows ringed sideroblasts, not target cells."},
+        {"option": "Hereditary spherocytosis", "reason": "Shows spherocytes, normal MCV, not target cells."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_19",
+    "case": "A 62-year-old man with liver cirrhosis is admitted for surgical drainage of a hematoma. Preoperative screen: PT 20 seconds. What is the most appropriate management prior to his procedure? [12/2020T_1/2021T_10/2021T_11/2023R]",
+    "options": [
+      "Platelets transfusion",
+      "Fresh frozen plasma",
+      "Whole blood",
+      "Packed red blood cells",
+      "Nothing"
+    ],
+    "correctAnswer": "Fresh frozen plasma",
+    "explanation": {
+      "correct": "FFP contains clotting factors and is indicated for correction of prolonged PT/INR due to cirrhosis before procedures.",
+      "incorrect": [
+        {"option": "Platelets transfusion", "reason": "Useful if thrombocytopenia, here platelet not mentioned as low."},
+        {"option": "Whole blood", "reason": "Not used for correcting coagulopathy."},
+        {"option": "Packed red cells", "reason": "Corrects anemia, not PT abnormality."},
+        {"option": "Nothing", "reason": "Unsafe to proceed without correcting coagulopathy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_20",
+    "case": "A 35-year-old woman comes with fatigue, heavy menstruation, iron deficiency anemia diagnosed. Which test is used to assess response to treatment? [2/2024R]",
+    "options": [
+      "Serial serum iron measurements",
+      "Serial hemoglobin measurements",
+      "Serial complete blood count",
+      "Serial iron-binding capacity",
+      "Serial serum ferritin measurements"
+    ],
+    "correctAnswer": "Serial hemoglobin measurements",
+    "explanation": {
+      "correct": "The most direct way to monitor response to iron therapy is rise in hemoglobin (about 1 g/dl every 2-3 weeks).",
+      "incorrect": [
+        {"option": "Serial serum iron", "reason": "Fluctuates with meals and is not reliable."},
+        {"option": "Serial complete blood count", "reason": "Can reflect Hb indirectly but Hb monitoring is sufficient."},
+        {"option": "Serial iron-binding capacity", "reason": "Not used to monitor therapy."},
+        {"option": "Serial serum ferritin", "reason": "Reflects stores, normalizes after months, not early response."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_21",
+    "case": "A 35-year-old woman with suspected iron deficiency anemia. Which lab finding is consistent? [2/2024R]",
+    "options": [
+      "Elevated serum iron",
+      "Elevated ferritin",
+      "Elevated TIBC",
+      "Elevated Hb",
+      "Elevated RBC count"
+    ],
+    "correctAnswer": "Elevated TIBC",
+    "explanation": {
+      "correct": "Iron deficiency anemia is characterized by low serum iron, low ferritin, and elevated total iron-binding capacity (TIBC).",
+      "incorrect": [
+        {"option": "Elevated serum iron", "reason": "It is low, not high."},
+        {"option": "Elevated ferritin", "reason": "It is low, reflecting depleted stores."},
+        {"option": "Elevated Hb", "reason": "It is decreased, not elevated."},
+        {"option": "Elevated RBC count", "reason": "Counts are reduced, not high, in iron deficiency."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_22",
+    "case": "A 68-year-old man complains of weakness, dizziness, tingling in hands and feet. He has a history of stomach acid suppression therapy. Lab reveals macrocytosis. What anemia is most likely? [8/2024R]",
+    "options": [
+      "Iron deficiency anemia",
+      "Aplastic anemia",
+      "Sickle cell anemia",
+      "Pernicious anemia",
+      "Sideroblastic anemia"
+    ],
+    "correctAnswer": "Pernicious anemia",
+    "explanation": {
+      "correct": "Chronic acid suppression reduces intrinsic factor activity and Vitamin B12 absorption. Neurological signs plus macrocytosis strongly indicate pernicious anemia.",
+      "incorrect": [
+        {"option": "Iron deficiency anemia", "reason": "Would show microcytosis."},
+        {"option": "Aplastic anemia", "reason": "Pancytopenia without macrocytosis + neuropathy."},
+        {"option": "Sickle cell anemia", "reason": "Normocytic hemolytic anemia."},
+        {"option": "Sideroblastic anemia", "reason": "Microcytic or dimorphic, not pure macrocytic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_23",
+    "case": "A 34-year-old man undergoes colectomy for UC. Later develops bleeding, PT prolonged, APTT prolonged, fibrinogen low, fragmented RBCs. What’s the cause? [5/2022M_2/2023R_6/2023S]",
+    "options": [
+      "Idiopathic thrombocytopenia (ITP)",
+      "Protein C deficiency",
+      "Protein S deficiency",
+      "Glanzmann's thrombasthenia",
+      "Vitamin K deficiency"
+    ],
+    "correctAnswer": "Vitamin K deficiency",
+    "explanation": {
+      "correct": "Sepsis, broad-spectrum antibiotics, and lack of gut flora reduce vitamin K → impaired synthesis of clotting factors II, VII, IX, X. Hence PT & APTT prolonged.",
+      "incorrect": [
+        {"option": "ITP", "reason": "Platelet disorder, normal coagulation tests."},
+        {"option": "Protein C deficiency", "reason": "Hypercoagulable risk, not coagulopathy bleeding with low factors."},
+        {"option": "Protein S deficiency", "reason": "Same as protein C."},
+        {"option": "Glanzmann's", "reason": "Platelet function defect, does not prolong PT/APTT."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_24",
+    "case": "Which of the following causes pancytopenia? [11/2020T_1/2023M_2/2023T_6/2023S_2/2024S]",
+    "options": [
+      "Parvovirus B19",
+      "HAV",
+      "HBV",
+      "HCV",
+      "Pneumococci"
+    ],
+    "correctAnswer": "Parvovirus B19",
+    "explanation": {
+      "correct": "Parvovirus B19 infects progenitor RBC leading to aplastic crisis, and can suppress marrow causing pancytopenia especially in immunocompromised or sickle cell disease.",
+      "incorrect": [
+        {"option": "HAV", "reason": "Causes hepatitis, not marrow suppression."},
+        {"option": "HBV", "reason": "Liver disease, not direct pancytopenia."},
+        {"option": "HCV", "reason": "Can cause cryoglobulinemia, but not pancytopenia directly."},
+        {"option": "Pneumococci", "reason": "Bacterial infection, causes sepsis not bone marrow failure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_25",
+    "case": "A 30-year-old man with unexplained thrombocytopenia. What is the next best investigation? [12/2021T_11/2023T_2/2024T]",
+    "options": [
+      "D-dimer",
+      "PT",
+      "PTT",
+      "Reticulocytes",
+      "Schistocytes"
+    ],
+    "correctAnswer": "Schistocytes",
+    "explanation": {
+      "correct": "Peripheral smear for schistocytes is crucial: their presence indicates microangiopathic hemolysis (TTP/DIC/HUS). This helps direct further work-up.",
+      "incorrect": [
+        {"option": "D-dimer", "reason": "Helps in DIC, but smear is faster to establish cause of thrombocytopenia."},
+        {"option": "PT", "reason": "Assesses extrinsic coagulation, not etiology of thrombocytopenia."},
+        {"option": "PTT", "reason": "Same, not direct diagnostic of platelets cause."},
+        {"option": "Reticulocytes", "reason": "Show RBC regeneration, not platelet cause."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_26",
+    "case": "A 45-year-old man with a recent diagnosis of purpura seeks advice on activities to prevent excessive bleeding. Which of the following activities should he avoid to minimize the risk of bleeding? [2/2024R]",
+    "options": [
+      "Swimming",
+      "Cycling",
+      "Contact sports",
+      "Yoga",
+      "Walking"
+    ],
+    "correctAnswer": "Contact sports",
+    "explanation": {
+      "correct": "Patients with purpura (e.g., ITP, platelet disorders) should avoid activities carrying trauma risk → contact sports (boxing, football, martial arts). Safe activities are swimming, walking, yoga, cycling with protection.",
+      "incorrect": [
+        {"option": "Swimming", "reason": "Low-impact and safe."},
+        {"option": "Cycling", "reason": "Safe with helmet/pads unless severe thrombocytopenia."},
+        {"option": "Yoga", "reason": "Gentle and safe."},
+        {"option": "Walking", "reason": "Safe and encouraged for exercise."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_27",
+    "case": "A 70-year-old intensive care unit patient complains of fever and chills. Develops hypotension, bleeding from puncture sites, platelets 40,000, PT prolonged, PTT prolonged, fibrinogen low, fragmented red cells. Which is the most likely diagnosis? [5/2022M_11/2023S_2/2024S_8/2024T]",
+    "options": [
+      "Hemolytic uremic syndrome (HUS)",
+      "Thrombotic thrombocytopenic purpura (TTP)",
+      "Factor 5 mutation",
+      "Antiphospholipid syndrome",
+      "Disseminated intravascular coagulation (DIC)"
+    ],
+    "correctAnswer": "Disseminated intravascular coagulation (DIC)",
+    "explanation": {
+      "correct": "Classic: sepsis → consumption of platelets and clotting factors → bleeding + microangiopathic hemolysis (schistocytes). This is acute DIC.",
+      "incorrect": [
+        {"option": "HUS", "reason": "Triad: anemia, thrombocytopenia, renal failure in children after diarrhea. Not sepsis-induced coagulopathy."},
+        {"option": "TTP", "reason": "Pentad: hemolysis, thrombocytopenia, renal + neuro signs, fever. Normal PT/PTT (unlike DIC)."},
+        {"option": "Factor 5 mutation", "reason": "Leads to thrombosis, not bleeding/consumption."},
+        {"option": "Antiphospholipid syndrome", "reason": "Pro-thrombotic state, not consumptive bleeding."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_28",
+    "case": "Mark, a 35-year-old man, visits his doctor complaining of unusual bruising on his arms and legs. He mentions that he has been feeling more tired than usual lately. Doctor suspects idiopathic thrombocytopenic purpura. Which is the first-line therapy of ITP? [2/2024R]",
+    "options": [
+      "Platelet transfusion",
+      "Coagulant",
+      "Immunoglobulin",
+      "Oral corticosteroids",
+      "Splenectomy"
+    ],
+    "correctAnswer": "Oral corticosteroids",
+    "explanation": {
+      "correct": "First-line treatment for immune thrombocytopenic purpura is oral corticosteroids to suppress autoantibody-mediated platelet destruction. IVIG is alternative in severe bleeding or urgent rise needed.",
+      "incorrect": [
+        {"option": "Platelet transfusion", "reason": "Used if life-threatening bleeding, but not routine because platelets will be destroyed quickly."},
+        {"option": "Coagulant", "reason": "Not specific for ITP."},
+        {"option": "Immunoglobulin", "reason": "Effective but expensive and second-line; used if steroids fail or rapid rise needed."},
+        {"option": "Splenectomy", "reason": "Reserved for chronic refractory cases, not first line."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_29",
+    "case": "A 19-year-old man presents with easy bruising, prolonged bleeding from minor cuts, and mucosal bleeding. Laboratory tests reveal a normal platelet count but prolonged bleeding time. Which of the following is the most likely disorder? [2/2024R]",
+    "options": [
+      "Thrombocytopenia",
+      "Hemophilia A",
+      "Von Willebrand Disease",
+      "DIC",
+      "Vitamin K deficiency"
+    ],
+    "correctAnswer": "Von Willebrand Disease",
+    "explanation": {
+      "correct": "Normal platelet count with prolonged bleeding time indicates platelet function defect. Von Willebrand disease is commonest, with defective vWF impairing platelet adhesion and factor VIII stabilization.",
+      "incorrect": [
+        {"option": "Thrombocytopenia", "reason": "Would show low platelet count, here it's normal."},
+        {"option": "Hemophilia A", "reason": "Factor VIII deficiency, normal bleeding time (platelets unaffected)."},
+        {"option": "DIC", "reason": "Would cause low platelets, prolonged PT, PTT + bleeding."},
+        {"option": "Vitamin K deficiency", "reason": "Causes prolonged PT, PTT, not isolated bleeding time."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_30",
+    "case": "An 85-year-old woman with a history of sun exposure presents with scattered, dark red bruises (ecchymoses) on the backs of her hands and forearms. The skin in these areas appears thin. Which is the most likely diagnosis? [8/2024R]",
+    "options": [
+      "Vitamin E deficiency",
+      "Vitamin C deficiency",
+      "Henoch-Schoenlein purpura",
+      "Senile purpura",
+      "Leukemia"
+    ],
+    "correctAnswer": "Senile purpura",
+    "explanation": {
+      "correct": "Elderly with thin skin, sun-exposed, fragile dermal vessels → senile purpura. Benign, not due to systemic hematologic disease.",
+      "incorrect": [
+        {"option": "Vitamin E deficiency", "reason": "Neurological symptoms mainly."},
+        {"option": "Vitamin C deficiency", "reason": "Scurvy: bleeding gums, perifollicular hemorrhage, not bruises localized to sun-exposed skin."},
+        {"option": "Henoch-Schoenlein purpura", "reason": "Immune vasculitis in children with abdominal pain, arthritis, renal involvement, not elderly bruising."},
+        {"option": "Leukemia", "reason": "Causes pancytopenia and generalized bruises, not localized age-related purpura."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_31",
+    "case": "Which of the following statements about severe sepsis (sepsis syndrome) are false? [12/2021T_2/2024T_2/2024S_8/2024S]",
+    "options": [
+      "ARDS is common",
+      "There is absence of documented infection",
+      "MODS is the systemic effect of infection",
+      "MSOF is the end stage of uncontrolled MODS",
+      "MSOF is mediated by cytokines IL-6, TNF-alpha"
+    ],
+    "correctAnswer": "There is absence of documented infection",
+    "explanation": {
+      "correct": "By definition, sepsis requires evidence/suspicion of infection + systemic inflammatory response. Saying 'absence of documented infection' is false.",
+      "incorrect": [
+        {"option": "ARDS is common", "reason": "True, lungs are commonly affected."},
+        {"option": "MODS is the systemic effect", "reason": "Yes, occurs when multiple organs fail from sepsis cascade."},
+        {"option": "MSOF is end stage of MODS", "reason": "Correct, uncontrolled MODS culminates in MSOF."},
+        {"option": "Mediated by cytokines", "reason": "Correct: IL-6, TNF-alpha drive systemic effects."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_32",
+    "case": "A 33-year-old man with acute pain and swelling of his right big toe, red hot tender joint, uric acid 9.8 mg/dl, fever. Most appropriate treatment currently? [8/2024R]",
+    "options": [
+      "Allopurinol and NSAIDs",
+      "Aspirin",
+      "Colchicine",
+      "Intra-articular corticosteroids",
+      "NSAIDs alone"
+    ],
+    "correctAnswer": "NSAIDs alone",
+    "explanation": {
+      "correct": "Acute gout: first-line therapy is NSAIDs. Colchicine also option but NSAIDs preferred if no contraindication. Allopurinol is NOT used in acute attack, only prophylaxis post-attack.",
+      "incorrect": [
+        {"option": "Allopurinol and NSAIDs", "reason": "Allopurinol is not started in acute attacks, may worsen symptoms."},
+        {"option": "Aspirin", "reason": "Contraindicated, alters uric acid handling."},
+        {"option": "Colchicine", "reason": "Alternative therapy but slower onset, more side effects."},
+        {"option": "Intra-articular steroids", "reason": "Considered if NSAIDs contraindicated or severe monoarthritis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_33",
+    "case": "A 25-year-old woman presents with menorrhagia, easy bruising, iron deficiency anemia, prolonged PTT, prolonged bleeding time, normal PT, normal platelets. Most likely diagnosis? [8/2024R]",
+    "options": [
+      "Aspirin ingestion",
+      "Factor VII deficiency",
+      "Factor IX deficiency",
+      "Hemophilia A",
+      "Von Willebrand disease"
+    ],
+    "correctAnswer": "Von Willebrand disease",
+    "explanation": {
+      "correct": "Prolonged bleeding time + prolonged PTT + normal PT, platelets = impaired vWF → Von Willebrand disease.",
+      "incorrect": [
+        {"option": "Aspirin ingestion", "reason": "Prolongs bleeding time only, does not affect PTT."},
+        {"option": "Factor VII deficiency", "reason": "Prolongs PT, not PTT."},
+        {"option": "Factor IX deficiency", "reason": "Hemophilia B → prolonged PTT, but normal bleeding time (platelets ok)."},
+        {"option": "Hemophilia A", "reason": "Factor VIII deficiency → prolonged PTT, but bleeding time normal."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_34",
+    "case": "A 23-year-old man with recurrent nosebleeds, bruising, normal PT/APTT, normal platelets, prolonged bleeding time. Factor VIII level low, ristocetin assay abnormal. Which is the most likely diagnosis? [10/2021T_5/2022M_11/2022R_11/2023T_11/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Hemolytic uremic syndrome",
+      "Factor 5 mutation",
+      "Antiphospholipid syndrome",
+      "DIC",
+      "Von Willebrand disease"
+    ],
+    "correctAnswer": "Von Willebrand disease",
+    "explanation": {
+      "correct": "Von Willebrand disease → prolonged bleeding time, low FVIII (since vWF stabilizes it), abnormal ristocetin. Classic case.",
+      "incorrect": [
+        {"option": "HUS", "reason": "Shows hemolytic anemia, thrombocytopenia, renal failure, not isolated platelet function defect."},
+        {"option": "Factor 5 mutation", "reason": "Hypercoagulable risk, not bleeding."},
+        {"option": "Antiphospholipid syndrome", "reason": "Causes thrombosis, miscarriages, prolonged coag tests, not mucosal bleeding."},
+        {"option": "DIC", "reason": "Prolonged PT, APTT, low platelets, generalized consumption, not isolated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_35",
+    "case": "A 29-year-old man presents with fatigue, weight loss, painless cervical and axillary lymph nodes, which become painful with alcohol. Biopsy shows giant binucleate Reed-Sternberg cells. Most likely diagnosis? [2/2024R]",
+    "options": [
+      "Hodgkin lymphoma",
+      "Non-Hodgkin lymphoma",
+      "Tuberculosis",
+      "Sarcoidosis",
+      "Infectious mononucleosis"
+    ],
+    "correctAnswer": "Hodgkin lymphoma",
+    "explanation": {
+      "correct": "Classic presentation of Hodgkin lymphoma: painless lymphadenopathy, alcohol-induced pain, and Reed-Sternberg cells.",
+      "incorrect": [
+        {"option": "Non-Hodgkin lymphoma", "reason": "No Reed-Sternberg; usually more widespread at diagnosis."},
+        {"option": "Tuberculosis", "reason": "Granulomas, caseation, constitutional symptoms, not Reed-Sternberg."},
+        {"option": "Sarcoidosis", "reason": "Non-caseating granulomas, no Reed-Sternberg."},
+        {"option": "Infectious mononucleosis", "reason": "Can mimic but histology shows atypical lymphocytes, EBV+."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_36",
+    "case": "An 18-year-old male with sickle cell disease presented with hemolytic crisis. Hb dropped to 5.3. Which type of bilirubin increases in intravascular hemolysis? [11/2020T_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Conjugated bilirubin",
+      "Unconjugated bilirubin",
+      "Both conjugated and unconjugated",
+      "Haptoglobin",
+      "Lactate dehydrogenase"
+    ],
+    "correctAnswer": "Unconjugated bilirubin",
+    "explanation": {
+      "correct": "In hemolysis, RBCs breakdown → heme → bilirubin before reaching liver → unconjugated bilirubin increases. Accompanied by ↑LDH, ↓haptoglobin.",
+      "incorrect": [
+        {"option": "Conjugated bilirubin", "reason": "Elevates in cholestasis or hepatocellular dysfunction."},
+        {"option": "Both types", "reason": "Not both, only unconjugated goes up in pure hemolysis."},
+        {"option": "Haptoglobin", "reason": "It decreases (consumed binding free Hb)."},
+        {"option": "Lactate dehydrogenase", "reason": "Increases, but not the answer; the bilirubin fraction asked."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_37",
+    "case": "Which of the following is not expected to cause anaphylaxis? [1/2023M_6/2023S]",
+    "options": [
+      "Latex",
+      "Insect sting",
+      "Intravenous immunoglobulin therapy",
+      "Breast milk",
+      "Peanuts"
+    ],
+    "correctAnswer": "Breast milk",
+    "explanation": {
+      "correct": "Breast milk may cause intolerance/allergy, but full-blown anaphylaxis is extremely rare. Latex, stings, IVIg, nuts → well-recognized triggers of anaphylaxis.",
+      "incorrect": [
+        {"option": "Latex", "reason": "Common in healthcare exposure — severe reactions possible."},
+        {"option": "Insect sting", "reason": "Classic cause of fatal anaphylaxis."},
+        {"option": "IVIg", "reason": "Can rarely trigger anaphylaxis in IgA-deficient patients."},
+        {"option": "Peanuts", "reason": "One of the most common fatal allergen exposures."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_38",
+    "case": "A 45-year-old man with embolic stroke on warfarin needs tooth extraction. Which investigation best reflects effect of warfarin? [8/2024R]",
+    "options": [
+      "Bleeding time",
+      "Hematocrit",
+      "Platelet count",
+      "Prothrombin time (PT)",
+      "Thromboplastin time"
+    ],
+    "correctAnswer": "Prothrombin time (PT)",
+    "explanation": {
+      "correct": "Warfarin acts on vit K dependent clotting factors II, VII, IX, X which prolong PT/INR. So PT (and INR) are key monitoring tests.",
+      "incorrect": [
+        {"option": "Bleeding time", "reason": "Reflects platelet function, not affected by warfarin."},
+        {"option": "Hematocrit", "reason": "Measures RBCs, not coagulation."},
+        {"option": "Platelet count", "reason": "Unrelated, normal in warfarin therapy."},
+        {"option": "Thromboplastin time", "reason": "Ambiguous term. But APTT is for heparin, not warfarin."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_39",
+    "case": "A 22-year-old man develops fever 1 hr after transfusion of PRBC for post-surgical anemia. Otherwise stable. What is the most appropriate next step? [2/2024R]",
+    "options": [
+      "Sputum and urine cultures",
+      "Venous duplex ultrasound",
+      "Anticoagulant therapy",
+      "Empiric antibiotic therapy",
+      "Discontinuation of the transfusion"
+    ],
+    "correctAnswer": "Discontinuation of the transfusion",
+    "explanation": {
+      "correct": "Fever during blood transfusion may represent febrile non-hemolytic reaction or more serious hemolysis/sepsis. Always stop transfusion immediately for safety.",
+      "incorrect": [
+        {"option": "Sputum and urine cultures", "reason": "Not first step, primary is stop transfusion."},
+        {"option": "Venous ultrasound", "reason": "Irrelevant here."},
+        {"option": "Anticoagulant therapy", "reason": "No role in transfusion reactions."},
+        {"option": "Empiric antibiotics", "reason": "May be added if sepsis suspected, but only after transfusion is stopped."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_40",
+    "case": "A 15-year-old girl with 2-week fever, gum bleeding, pallor. Peripheral blood film shows pancytopenia. What is the most significant investigation? [11/2023R]",
+    "options": [
+      "Bone marrow examination",
+      "Coombs test",
+      "Reticulocyte count",
+      "Serum folic acid level",
+      "Serum iron level"
+    ],
+    "correctAnswer": "Bone marrow examination",
+    "explanation": {
+      "correct": "Bone marrow examination is essential to determine cause of pancytopenia — e.g., aplastic anemia, acute leukemia, marrow infiltration.",
+      "incorrect": [
+        {"option": "Coombs test", "reason": "For autoimmune hemolysis, not for pancytopenia."},
+        {"option": "Reticulocyte count", "reason": "Helpful but does not give cause."},
+        {"option": "Serum folic acid", "reason": "Detects deficiency but does not explain pancytopenia fully."},
+        {"option": "Serum iron", "reason": "Irrelevant in pancytopenia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_41",
+    "case": "A 14-year-old adolescent girl presented with palpable purpuric rash on the buttocks and lower extremities with arthritis of ankles and knees. Investigations: ESR, CRP and WBC are elevated. Platelet count is normal. Urinalysis shows hematuria. Which of the following is the most common immune complex associated with the disease? [2/2023T_2/2023R_6/2023S]",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgD",
+      "Non-specific Ig"
+    ],
+    "correctAnswer": "IgA",
+    "explanation": {
+      "correct": "Henoch-Schönlein Purpura (IgA vasculitis) is characterized by palpable purpura, arthritis, abdominal pain, renal involvement. It is due to deposition of IgA immune complexes in small vessels.",
+      "incorrect": [
+        {"option": "IgG", "reason": "Involved in autoimmune conditions like lupus nephritis, not HSP."},
+        {"option": "IgM", "reason": "Seen in rheumatoid arthritis immune complexes, not HSP."},
+        {"option": "IgD", "reason": "Not a key player in HSP."},
+        {"option": "Non-specific Ig", "reason": "Too vague, HSP specifically linked to IgA."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_42",
+    "case": "A 25-year-old female is bitten on her forearm by a raccoon. Which of the following is the most appropriate anatomical region to administer human rabies immune globulin (HRIG)? [11/2022R]",
+    "options": [
+      "Deltoid",
+      "Gluteus maximus",
+      "At the wound site",
+      "Contralateral forearm",
+      "Corpora cavernosum"
+    ],
+    "correctAnswer": "At the wound site",
+    "explanation": {
+      "correct": "Rabies immune globulin should be infiltrated around and into the wound site as much as feasible, with the remainder given intramuscularly at a distant site (e.g., deltoid). This ensures neutralization of virus locally.",
+      "incorrect": [
+        {"option": "Deltoid", "reason": "Used for vaccine administration, not immunoglobulin infiltration."},
+        {"option": "Gluteus maximus", "reason": "Discouraged due to poor absorption and sciatic injury risk."},
+        {"option": "Contralateral forearm", "reason": "No benefit; site of bite is important."},
+        {"option": "Corpora cavernosum", "reason": "Nonsensical choice."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_43",
+    "case": "At which point can arterial blood gas sampling be done? [11/2022R_2/2024S]",
+    "options": [
+      "Midway between ASIS and symphysis pubis",
+      "Midway between ASIS and pubic tubercle",
+      "Midway between ASIS and pubic crest",
+      "Lateral to the internal inguinal ring",
+      "Lateral to femoral triangle"
+    ],
+    "correctAnswer": "Lateral to femoral triangle",
+    "explanation": {
+      "correct": "ABG is typically done from the radial, brachial, or femoral artery. For femoral artery puncture, the site is just below inguinal ligament, midway, lateral to femoral vein within femoral triangle. Correct landmark is lateral femoral artery site.",
+      "incorrect": [
+        {"option": "Midway between ASIS and symphysis pubis", "reason": "This is along mid-inguinal point for femoral artery catheterization, but not precise ABG description."},
+        {"option": "Midway between ASIS and pubic tubercle", "reason": "Misplaced anatomy relative to inguinal ligament."},
+        {"option": "Midway between ASIS and pubic crest", "reason": "Not a standard anatomical description."},
+        {"option": "Lateral to internal inguinal ring", "reason": "Not appropriate for arterial puncture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_44",
+    "case": "A 20-year-old man has prolonged nasal bleeding and easy bruising since childhood. Hb 14.5, platelets 200k, PT/APTT normal, but bleeding time prolonged. Factor VIII reduced, ristocetin cofactor assay abnormal. Which is the most likely diagnosis? [10/2021T_5/2022M_11/2022R_11/2023T_11/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Hemolytic uremic syndrome",
+      "Factor 5 mutation",
+      "Antiphospholipid syndrome",
+      "Disseminated intravascular coagulation",
+      "Von Willebrand disease"
+    ],
+    "correctAnswer": "Von Willebrand disease",
+    "explanation": {
+      "correct": "vWD causes prolonged bleeding time, mildly prolonged APTT, low FVIII (since vWF stabilizes it), and abnormal ristocetin test. Classic pattern.",
+      "incorrect": [
+        {"option": "Hemolytic uremic syndrome", "reason": "Causes thrombocytopenia and renal failure, not isolated bleeding time prolongation."},
+        {"option": "Factor 5 mutation", "reason": "Causes thrombosis, not bleeding."},
+        {"option": "Antiphospholipid syndrome", "reason": "Associated with clotting risk, miscarriage, lupus anticoagulant — not mucosal bleeding history."},
+        {"option": "DIC", "reason": "Would have thrombocytopenia, prolonged PT and APTT universally."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_45",
+    "case": "A 29-year-old man presents with fatigue, weight loss, and multiple lymph nodes in neck and axilla painful after alcohol. LN biopsy: Reed-Sternberg cells. Which is the most likely diagnosis? [2/2024R]",
+    "options": [
+      "Hodgkin lymphoma",
+      "Non-Hodgkin lymphoma",
+      "Tuberculosis",
+      "Sarcoidosis",
+      "Infectious mononucleosis"
+    ],
+    "correctAnswer": "Hodgkin lymphoma",
+    "explanation": {
+      "correct": "Alcohol-induced lymph node pain is almost pathognomonic for Hodgkin lymphoma, plus biopsy shows Reed-Sternberg cells (giant binucleate).",
+      "incorrect": [
+        {"option": "Non-Hodgkin lymphoma", "reason": "No Reed-Sternberg cells. Presents with diffuse nodal involvement."},
+        {"option": "Tuberculosis", "reason": "Caseating granulomas on histology, not Reed-Sternberg."},
+        {"option": "Sarcoidosis", "reason": "Non-caseating granulomas, not Hodgkin histology."},
+        {"option": "Infectious mononucleosis", "reason": "Atypical lymphocytosis, EBV positive, but not Reed-Sternberg histology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_46",
+    "case": "An 18-year-old male with sickle cell disease developed hemolytic crisis after weather change, Hb dropped sharply. Which type of bilirubin increases in intravascular hemolysis? [11/2020T_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Conjugated bilirubin",
+      "Unconjugated bilirubin",
+      "Both conjugated and unconjugated",
+      "Haptoglobin",
+      "Lactate dehydrogenase"
+    ],
+    "correctAnswer": "Unconjugated bilirubin",
+    "explanation": {
+      "correct": "In intravascular hemolysis, Hb breakdown yields ↑unconjugated (indirect) bilirubin, elevated LDH, and low haptoglobin.",
+      "incorrect": [
+        {"option": "Conjugated bilirubin", "reason": "Elevates in obstructive jaundice, not hemolysis."},
+        {"option": "Both conjugated and unconjugated", "reason": "Not both, unconjugated is main rise."},
+        {"option": "Haptoglobin", "reason": "Decreases, not increases."},
+        {"option": "Lactate dehydrogenase", "reason": "Is increased, but question asked for bilirubin type."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_47",
+    "case": "Which of the following is not expected to cause anaphylaxis? [1/2023M_6/2023S]",
+    "options": [
+      "Latex",
+      "Insect sting",
+      "Intravenous immunoglobulin therapy",
+      "Breast milk",
+      "Peanuts"
+    ],
+    "correctAnswer": "Breast milk",
+    "explanation": {
+      "correct": "Breast milk can cause intolerance/allergy but not full anaphylaxis. Latex, insect stings, peanuts, IVIg are all classic anaphylaxis triggers.",
+      "incorrect": [
+        {"option": "Latex", "reason": "Recognized allergen causing severe reactions."},
+        {"option": "Insect sting", "reason": "Major cause of systemic anaphylaxis."},
+        {"option": "Intravenous immunoglobulin therapy", "reason": "Can rarely trigger severe reactions in IgA deficiency patients."},
+        {"option": "Peanuts", "reason": "Major food cause of severe/fatal anaphylaxis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_48",
+    "case": "A 45-year-old man with history of embolic stroke is on warfarin. He comes for tooth extraction. Which investigation reflects effect of warfarin best? [8/2024R]",
+    "options": [
+      "Bleeding time",
+      "Hematocrit",
+      "Platelet count",
+      "Prothrombin time (PT)",
+      "Thromboplastin time"
+    ],
+    "correctAnswer": "Prothrombin time (PT)",
+    "explanation": {
+      "correct": "Warfarin affects vitamin K-dependent factors (II, VII, IX, X). PT (expressed as INR) is used to monitor therapy. APTT/bleeding time are not relevant.",
+      "incorrect": [
+        {"option": "Bleeding time", "reason": "Platelet function test, unaffected by warfarin."},
+        {"option": "Hematocrit", "reason": "Not a coagulation measure."},
+        {"option": "Platelet count", "reason": "Unchanged with warfarin."},
+        {"option": "Thromboplastin time", "reason": "Ambiguous; APTT is for heparin monitoring."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_49",
+    "case": "A 22-year-old man gets fever 1 hour after blood transfusion. Stable vitals, exam normal. What is the most appropriate next step? [2/2024R]",
+    "options": [
+      "Sputum and urine cultures",
+      "Venous duplex ultrasound",
+      "Anticoagulant therapy",
+      "Empiric antibiotic therapy",
+      "Discontinuation of the blood transfusion"
+    ],
+    "correctAnswer": "Discontinuation of the blood transfusion",
+    "explanation": {
+      "correct": "Any fever during transfusion may be febrile non-hemolytic or more serious reaction. First and immediate step is to stop the transfusion at once.",
+      "incorrect": [
+        {"option": "Sputum and urine cultures", "reason": "Require to rule out sepsis, but not first step."},
+        {"option": "Venous duplex ultrasound", "reason": "Irrelevant here."},
+        {"option": "Anticoagulant therapy", "reason": "Unrelated."},
+        {"option": "Empiric antibiotics", "reason": "Not before stopping transfusion and confirming sepsis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_50",
+    "case": "A 15-year-old girl presents with 2-week fever, gum bleeding, pallor. Peripheral smear: pancytopenia. Which investigation is most important? [11/2023R]",
+    "options": [
+      "Bone marrow examination",
+      "Coomb's test",
+      "Reticulocyte count",
+      "Serum folic acid level",
+      "Serum iron level"
+    ],
+    "correctAnswer": "Bone marrow examination",
+    "explanation": {
+      "correct": "Bone marrow aspiration/biopsy is key to determine if aplastic anemia, leukemia, or infiltration causing pancytopenia.",
+      "incorrect": [
+        {"option": "Coomb's test", "reason": "For autoimmune hemolysis, not pancytopenia."},
+        {"option": "Reticulocyte count", "reason": "Shows marrow response, but doesn’t determine cause."},
+        {"option": "Serum folic acid level", "reason": "May cause megaloblastic anemia, not pancytopenia specifically."},
+        {"option": "Serum iron level", "reason": "Iron deficiency → microcytic anemia, not pancytopenia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_51",
+    "case": "A 14-year-old girl has palpable purpura on legs, arthritis, hematuria, normal platelets. Classic immunoglobulin involved? [repeat simplified HSP description]",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgD",
+      "Non-specific Ig"
+    ],
+    "correctAnswer": "IgA",
+    "explanation": {
+      "correct": "This is IgA vasculitis (Henoch-Schönlein Purpura) with purpura, arthritis, renal hematuria.",
+      "incorrect": [
+        {"option": "IgG", "reason": "More in lupus nephritis."},
+        {"option": "IgM", "reason": "Seen in RA, not HSP."},
+        {"option": "IgD", "reason": "Not implicated."},
+        {"option": "Non-specific Ig", "reason": "Too vague."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_52",
+    "case": "25-year-old female bitten by raccoon. HRIG administration site? [simplified repeat]",
+    "options": [
+      "Deltoid",
+      "Gluteus maximus",
+      "At wound site",
+      "Other arm",
+      "Corpora cavernosum"
+    ],
+    "correctAnswer": "At wound site",
+    "explanation": {
+      "correct": "HRIG is given by infiltration into wound margins, remainder IM distant from vaccine site.",
+      "incorrect": [
+        {"option": "Deltoid", "reason": "For rabies vaccine, not immunoglobulin."},
+        {"option": "Gluteus maximus", "reason": "Avoided for poor absorption/injury risk."},
+        {"option": "Other arm", "reason": "Not ideal, must neutralize virus at wound."},
+        {"option": "Corpora cavernosum", "reason": "Clearly irrelevant."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_53",
+    "case": "A 22-year-old anemic girl. Suspect iron deficiency anemia. Which lab finding supports it most? [simplified repeat]",
+    "options": [
+      "Low serum ferritin",
+      "High ferritin",
+      "Normal TIBC",
+      "High RBC count",
+      "Raised Hb"
+    ],
+    "correctAnswer": "Low serum ferritin",
+    "explanation": {
+      "correct": "Serum ferritin reflects iron storage and decreases in iron deficiency anemia.",
+      "incorrect": [
+        {"option": "High ferritin", "reason": "Seen in iron overload, not deficiency."},
+        {"option": "Normal TIBC", "reason": "TIBC is increased in iron deficiency, not normal."},
+        {"option": "High RBC count", "reason": "Reduced in anemia."},
+        {"option": "Raised Hb", "reason": "By definition anemia has reduced Hb."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_54",
+    "case": "68-year-old man with neuropathy, macrocytosis, on antacid long-term. Likely anemia? [simplified repeat]",
+    "options": [
+      "Pernicious anemia",
+      "Iron deficiency anemia",
+      "Sickle cell anemia",
+      "Aplastic anemia",
+      "Sideroblastic anemia"
+    ],
+    "correctAnswer": "Pernicious anemia",
+    "explanation": {
+      "correct": "Long-term PPI → reduced B12 absorption. Macrocytosis + neuropathy → B12 deficiency, pernicious anemia.",
+      "incorrect": [
+        {"option": "Iron deficiency anemia", "reason": "Microcytic."},
+        {"option": "Sickle cell anemia", "reason": "Hemolytic, normocytic."},
+        {"option": "Aplastic anemia", "reason": "Pancytopenia, not isolated macrocytosis."},
+        {"option": "Sideroblastic anemia", "reason": "Microcytic/mixed, not macrocytic with neuropathy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "hematology_55",
+    "case": "Elderly man with cirrhosis, PT prolonged before surgery. Best management? [simplified repeat]",
+    "options": [
+      "Fresh frozen plasma",
+      "Whole blood",
+      "Platelets",
+      "Do nothing",
+      "Tranexamic acid"
+    ],
+    "correctAnswer": "Fresh frozen plasma",
+    "explanation": {
+      "correct": "FFP corrects clotting factor deficiency due to cirrhosis when PT prolonged before an invasive procedure.",
+      "incorrect": [
+        {"option": "Whole blood", "reason": "Rarely used now, not specific."},
+        {"option": "Platelets", "reason": "Indicated if thrombocytopenia, here PT abnormality addressed."},
+        {"option": "Do nothing", "reason": "Unsafe."},
+        {"option": "Tranexamic acid", "reason": "Antifibrinolytic, not for clotting factor deficiency."}
+      ]
+    }
+  }
+]

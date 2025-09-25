@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Settings – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/settings.css">
+</head>
+<body style="display:none;">
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <header class="question-header" style="justify-content:space-between;">
+    <h2>⚙️ Settings</h2>
+    <button onclick="window.location.href='index.html'" class="btn-glass">← Dashboard</button>
+  </header>
+
+  <main class="settings-main">
+    <div class="settings-card">
+      <h3>Change Display Name</h3>
+      <input type="text" id="newName" placeholder="Enter new name">
+      <button class="btn-glass" onclick="updateName()">Update Name</button>
+    </div>
+    <div class="settings-card">
+      <h3>Change Password</h3>
+      <input type="password" id="newPassword" placeholder="Enter new password">
+      <button class="btn-glass" onclick="updatePassword()">Update Password</button>
+    </div>
+    <div class="settings-card danger">
+      <h3>Delete Account</h3>
+      <p>Be careful! This action is irreversible.</p>
+      <button class="btn-glass" onclick="deleteAccount()">Delete My Account</button>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase -->
+  <script type="module" src="js/settings.js"></script>
+</body>
+</html>

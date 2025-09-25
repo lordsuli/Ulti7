@@ -1,0 +1,266 @@
+/* ===== Reset & Layout ===== */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  background: #0b0b0f;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-footer {
+  text-align:center;
+  color:#fff;
+  font-size:0.85rem;
+  padding:.8rem;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(6px);
+  border-top:1px solid rgba(255,255,255,0.1);
+  margin-top:auto;
+}
+
+/* ===== Background Orbs ===== */
+.background {
+  position: fixed;
+  width: 100%;
+  height: 100%;   /* ← بدّلنا من 120% إلى 100% */
+  z-index: -1;
+  overflow: hidden;
+  top: 0;         /* خلي الخلفية مضبوطة */
+}
+
+.orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  opacity: 0.5;
+}
+
+.violet { width:500px; height:500px; background:#a020f0; top:5%; left:10%; }
+.blue   { width:400px; height:400px; background:#1e90ff; bottom:15%; right:15%; }
+.pink   { width:300px; height:300px; background:#ff1493; top:60%; left:65%; }
+
+/* ===== Header ===== */
+header {
+  text-align:center;
+  margin-top:2rem;
+  position:relative;
+}
+header h1 { font-size:3.2rem; margin:0; font-weight:700; }
+.subtitle { margin:.7rem 0; font-size:1.3rem; color:#bbb; }
+.subtitle b { color:violet; }
+
+.welcome-message {
+  margin:1.2rem auto 2rem auto;
+  display:inline-block;
+  padding:.7rem 1.5rem;
+  background:rgba(255,255,255,0.08);
+  border-radius:12px;
+  backdrop-filter:blur(12px);
+  font-size:1.4rem;
+  font-weight:600;
+  color:violet;
+}
+
+/* ===== Tabs ===== */
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+.tabs button {
+  background:rgba(255,255,255,0.1);
+  border:none;
+  border-radius:12px;
+  padding:.7rem 1.5rem;
+  cursor:pointer;
+  font-weight:600;
+  color:white;
+  box-shadow:0 0 6px rgba(186,85,211,0.4);
+  transition:.3s;
+}
+.tabs button:hover {
+  transform:translateY(-2px);
+  box-shadow:0 0 15px violet;
+  background:violet;
+}
+.tabs .active {
+  background:linear-gradient(45deg,violet,purple);
+  box-shadow:0 0 15px violet;
+}
+
+/* ===== Systems Grid ===== */
+.systems-section {
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  padding-inline:2rem;
+  margin-top:1.2rem;
+}
+.section-title {
+  text-align:center;
+  margin:0 0 2rem 0;
+  font-size:1.6rem;
+}
+.systems-row {
+  display:flex;
+  justify-content:center;
+  gap:1.2rem;
+  margin:1rem auto;
+}
+.system-btn {
+  background:rgba(255,255,255,0.12);
+  backdrop-filter:blur(18px) saturate(130%);
+  border:1px solid rgba(255,255,255,0.25);
+  border-radius:14px;
+  text-align:center;
+  padding:1rem 1.5rem;
+  color:white;
+  font-weight:600;
+  width:200px;
+  transition:.3s;
+  text-decoration:none;
+  cursor:pointer;
+}
+.system-btn:hover {
+  transform:translateY(-3px) scale(1.05);
+  box-shadow:0 8px 24px rgba(0,0,0,0.35);
+  border-color:violet;
+  background:rgba(255,255,255,0.2);
+}
+
+/* ===== Profile + Notifications ===== */
+.profile-area {
+  position:absolute;
+  top:0;
+  right:2rem;
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+.profile-btn, .notify-btn {
+  background:linear-gradient(135deg,violet,purple);
+  border:none;
+  border-radius:50%;
+  width:48px;
+  height:48px;
+  color:white;
+  font-weight:bold;
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.notify-btn i { font-size:18px; }
+
+/* ===== Dropdowns (macOS Style) ===== */
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.dropdown-menu, .notifications-menu {
+  position:absolute;
+  top:60px;
+  background:rgba(255,255,255,0.15);
+  backdrop-filter:blur(15px) saturate(160%);
+  border-radius:14px;
+  box-shadow:0 12px 35px rgba(0,0,0,0.4);
+  display:none;
+  flex-direction:column;
+  min-width:220px;
+  overflow:hidden;
+  padding:0.3rem 0;
+  transform-origin: top center;
+  animation:fadeDown 0.28s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+}
+
+.dropdown-menu{ right:0; }
+.notifications-menu{ right:60px; }
+
+.dropdown-menu button,
+.notifications-menu button {
+  border:none;
+  background:none;
+  color:white;
+  padding:.8rem 1rem;
+  text-align:left;
+  cursor:pointer;
+  transition:0.2s ease;
+}
+.dropdown-menu button:hover,
+.notifications-menu button:hover {
+  background:rgba(255,255,255,0.25);
+  color:violet;
+  padding-left:1.2rem;
+}
+
+/* ===== Modal ===== */
+.modal {
+  position:fixed;
+  top:0; left:0;
+  width:100%; height:100%;
+  background:rgba(0,0,0,0.6);
+  display:none;
+  justify-content:center;
+  align-items:center;
+  z-index:2000;
+}
+.modal-content {
+  background:rgba(255,255,255,0.08);
+  backdrop-filter:blur(20px) saturate(180%);
+  border-radius:16px;
+  border:1px solid rgba(255,255,255,0.2);
+  padding:2rem;
+  max-width:700px;
+  width:90%;
+  color:white;
+}
+.modal-actions {
+  display:flex;
+  gap:1rem;
+  justify-content:center;
+  margin-top:1.5rem;
+}
+.btn-glass {
+  padding:.6rem 1.4rem;
+  background:rgba(255,255,255,0.12);
+  border:1px solid rgba(255,255,255,0.25);
+  border-radius:12px;
+  font-size:.95rem;
+  font-weight:600;
+  color:#fff;
+  cursor:pointer;
+  transition:.3s;
+  backdrop-filter: blur(10px);
+}
+.btn-glass:hover {
+  background:linear-gradient(135deg,violet,purple);
+  border-color:violet;
+  transform: translateY(-2px) scale(1.05);
+  box-shadow:0 0 15px violet;
+}
+.btn-glass:active {
+  transform:translateY(0) scale(0.97);
+  box-shadow:0 0 8px rgba(238,130,238,0.6);
+}

@@ -1,0 +1,779 @@
+[
+  {
+    "CaseID": "Neurology_1",
+    "case": "A male patient aged 67-year-old, known to be hypertensive and diabetic, presented to the emergency room by disturbed consciousness. On examination the patient was feverish, with pinpoint unreactive pupils. Patient could not be aroused, even by powerful stimulation. What is the state of conscious level in this patient? [2/2021R_10/2021T_11/2022R_1/2023M_5/2023M_2/2024S]",
+    "options": [
+      "coma",
+      "delirium",
+      "stupor",
+      "drowsiness",
+      "confusion"
+    ],
+    "correctAnswer": "coma",
+    "explanation": {
+      "correct": "The defining feature of coma is a complete inability to be aroused even with vigorous or painful stimuli. The patient is unresponsive, cannot be awakened, and shows profound dysfunction of the ascending reticular activating system or both cerebral hemispheres. The additional detail of pinpoint, fixed pupils suggests pontine involvement (classically pontine hemorrhage or central opioid effect). This presentation is consistent with coma.",
+      "incorrect": [
+        {"option": "delirium", "reason": "Delirium involves fluctuating levels of awareness, disorientation, and impaired attention, but the patient can generally be aroused—unlike coma."},
+        {"option": "stupor", "reason": "Stupor describes a state of impaired consciousness in which the patient can only be aroused by vigorous/repeated stimulation, but here he was completely unarousable."},
+        {"option": "drowsiness", "reason": "Drowsy patients are easily aroused and interact briefly before falling asleep again, not the case here."},
+        {"option": "confusion", "reason": "Refers to disorientation and impaired thinking, but with maintained wakefulness and responsiveness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_2",
+    "case": "A 7 year-old female is brought in by EMS for evaluation of a depressed level of consciousness after an MVC. The girl was the restrained rear seat passenger in a car that hit a tree. She was initially acting normally but complained of a headache and subsequently became increasingly sleepy such that she can't be aroused upon arrival to the emergency department (ED). Her examination reveals anisocoria with a right-sided dilated pupil. CT reveals an epidural hematoma. What is the cause of her dilated pupil? [11/2022R]",
+    "options": [
+      "Traumatic mydriasis from an associated direct blow to the eye",
+      "Compression of the optic chiasm",
+      "Diffuse axonal injury affecting the occipital lobe",
+      "Compression of the oculomotor nerve",
+      "Compression of the brainstem"
+    ],
+    "correctAnswer": "Compression of the oculomotor nerve",
+    "explanation": {
+      "correct": "An epidural hematoma (classically arterial bleed from middle meningeal artery) causes rapid expansion and increased intracranial pressure. As it enlarges, it produces a transtentorial (uncal) herniation. The uncus compresses the ipsilateral cranial nerve III (oculomotor), resulting in an ipsilateral fixed dilated pupil, due to loss of parasympathetic fibers that normally constrict the pupil. This is a classic neurological emergency.",
+      "incorrect": [
+        {"option": "Traumatic mydriasis from an associated direct blow to the eye", "reason": "Would cause unilateral mydriasis, but history includes a head trauma with expanding hematoma, plus it wouldn’t account for coma."},
+        {"option": "Compression of the optic chiasm", "reason": "Optic chiasm compression causes bitemporal hemianopia, not pupillary dilation."},
+        {"option": "Diffuse axonal injury affecting the occipital lobe", "reason": "Would affect vision and consciousness but not cause isolated pupil dilation."},
+        {"option": "Compression of the brainstem", "reason": "While brainstem compression may cause coma or abnormal pupils, the classic mechanism here is uncal herniation compressing CN III first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_3",
+    "case": "A child presented to the Emergency room with a prolonged generalized seizure and you could not establish a venous access, which drug do you recommend to be given through rectal administration? [5/2022M_11/2023T_2/2024S_8/2024R]",
+    "options": [
+      "Diazepam",
+      "midazolam",
+      "Phenobarbital",
+      "Phenytoin",
+      "Valproic acid"
+    ],
+    "correctAnswer": "Diazepam",
+    "explanation": {
+      "correct": "Rectal diazepam is the standard rescue therapy for prolonged seizures (status epilepticus) if IV access is unavailable. It rapidly crosses the blood–brain barrier and enhances GABA-mediated inhibition, terminating seizures quickly. This route is especially practical in pediatrics, pre-hospital, or emergency settings when IV access is difficult.",
+      "incorrect": [
+        {"option": "midazolam", "reason": "Midazolam is used intranasally/buccally as an alternative, but rectal diazepam is more established for out-of-hospital emergency use."},
+        {"option": "Phenobarbital", "reason": "Usually given IV/IM for seizure control but not practical rectally for acute status epilepticus."},
+        {"option": "Phenytoin", "reason": "Requires slow IV infusion for second-line therapy, not rectal use."},
+        {"option": "Valproic acid", "reason": "Can be IV or oral, but not recommended for emergency rectal use in ongoing seizure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_4",
+    "case": "A 34-year-old woman who presents with confusion, headache and fever is admitted to the Emergency Department. Shortly after admission she has a seizure. A MRI scan is performed which shows patchy hemorrhagic changes in the temporal lobe. Which of the following is the commonest causative organism of encephalitis? [11/2020T_5/2022T_11/2023T_2/2024T]",
+    "options": [
+      "Pneumococcus",
+      "Meningeococcus",
+      "Hemophilus influenza",
+      "HSV",
+      "CMV"
+    ],
+    "correctAnswer": "HSV",
+    "explanation": {
+      "correct": "Herpes Simplex Virus (HSV, especially HSV-1) is the most common cause of sporadic encephalitis in adults. It characteristically affects the temporal lobes, producing hemorrhagic necrosis seen on MRI. Presentations include fever, headache, confusion, seizures, and sometimes psychiatric symptoms. It is a medical emergency requiring urgent IV acyclovir.",
+      "incorrect": [
+        {"option": "Pneumococcus", "reason": "Most common cause of bacterial meningitis, not encephalitis with temporal lobe hemorrhagic changes."},
+        {"option": "Meningeococcus", "reason": "Causes meningitis with rash and septicemia, but not temporal lobe encephalitis."},
+        {"option": "Hemophilus influenza", "reason": "Important cause of meningitis in children in the pre-vaccine era, not classic for encephalitis."},
+        {"option": "CMV", "reason": "Causes encephalitis in immunocompromised patients (HIV, transplant), but not the most common or typical in immunocompetent adults."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_5",
+    "case": "An 8-year-old girl is brought to the ER due to sleepiness over the last 2 days. Temperature is 37.5 °C. Her examination reveals nuchal rigidity. Her CSF analysis: Cells 85 lymphocytes, Protein 150mg (normal 15-45mg%), CSF Glucose 15mg% and serum glucose 130mg%, negative CSF Gram stain. Her brain CT with contrast shows enhancement of basal cisterns. Which of the following is the most likely diagnosis? [2/2024R_8/2024R]",
+    "options": [
+      "Tuberous sclerosis",
+      "Tuberculous meningitis",
+      "Acute hemorrhagic stroke",
+      "Acute bacterial meningitis",
+      "Pseudotumor cerebri"
+    ],
+    "correctAnswer": "Tuberculous meningitis",
+    "explanation": {
+      "correct": "The classic CSF profile of tuberculous meningitis is lymphocytic pleocytosis, severely elevated protein, and very low glucose despite a high serum glucose. Basal meningeal enhancement on neuroimaging is also characteristic. This subacute presentation with drowsiness, neck stiffness, and chronic inflammatory signs is diagnostic of tuberculous meningitis.",
+      "incorrect": [
+        {"option": "Tuberous sclerosis", "reason": "A genetic disorder with cortical tubers, seizures, adenoma sebaceum, but not meningitis."},
+        {"option": "Acute hemorrhagic stroke", "reason": "Presents with sudden focal neurologic deficit, not CSF lymphocytosis and basal cistern enhancement."},
+        {"option": "Acute bacterial meningitis", "reason": "Would show neutrophilic predominance on CSF, not lymphocytosis."},
+        {"option": "Pseudotumor cerebri", "reason": "Shows high intracranial pressure with NORMAL CSF composition, unlike this case."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_6",
+    "case": "An 85-year-old man with a history of Alzheimer's disease comes to the emergency room with his family because he is unusually agitated and confused. He has been forgetting to take his medications and hasn't been eating well. He has a fever, and a urinary tract infection is suspected. Which is the most important next step in managing this patient's condition? [8/2024R]",
+    "options": [
+      "Prescribe stronger medication for his Alzheimer's disease",
+      "Schedule an MRI scan to rule out a brain tumor.",
+      "Treat the urinary tract infection and address dehydration",
+      "Perform a comprehensive psychiatric evaluation",
+      "Recommend immediate placement in a nursing home"
+    ],
+    "correctAnswer": "Treat the urinary tract infection and address dehydration",
+    "explanation": {
+      "correct": "This is delirium: acute fluctuating changes in consciousness and cognition, often triggered by infection or metabolic disturbance. The priority is to treat the underlying cause, here a urinary tract infection and dehydration. Alzheimer’s disease is chronic and does not cause sudden agitation like this.",
+      "incorrect": [
+        {"option": "Prescribe stronger medication for his Alzheimer's disease", "reason": "Won’t address the acute reversible delirium caused by infection."},
+        {"option": "Schedule an MRI scan to rule out a brain tumor.", "reason": "Brain tumor would not present acutely with fever and UTI signs."},
+        {"option": "Perform a comprehensive psychiatric evaluation", "reason": "Correct later, but immediate step is medical stabilization/treatment."},
+        {"option": "Recommend immediate placement in a nursing home", "reason": "Social plan might be considered later but does not manage the acute delirium."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_7",
+    "case": "The most common etiology of an intracranial tumor is: [11/2022R]",
+    "options": [
+      "Meningioma",
+      "Astrocytoma",
+      "Medulloblastoma",
+      "Metastases",
+      "Pituitary adenoma"
+    ],
+    "correctAnswer": "Metastases",
+    "explanation": {
+      "correct": "The majority of intracranial tumors are secondary metastases rather than primary brain tumors. Common primary sources include lung, breast, melanoma, kidney, and colon cancers. They often appear as multiple lesions at the grey-white junction with surrounding edema.",
+      "incorrect": [
+        {"option": "Meningioma", "reason": "The most common primary intracranial tumor in adults, but not the overall most common etiology (metastasis is more frequent)."},
+        {"option": "Astrocytoma", "reason": "A common glial tumor but less frequent than metastases."},
+        {"option": "Medulloblastoma", "reason": "Common pediatric malignant brain tumor, not the overall most common brain mass cause."},
+        {"option": "Pituitary adenoma", "reason": "Frequent sellar tumor but overall less common than metastases."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_8",
+    "case": "A 35-year-old female presents with fever, headache, and blurry vision. Physical examination reveals complete oculomotor paralysis bilaterally and mild proptosis. Imaging reveals cerebral venous thrombosis (CVT). Which venous sinus is most likely affected? [11/2022R]",
+    "options": [
+      "Cavernous sinus",
+      "Sagittal sinus",
+      "Sphenoid sinus",
+      "Occipital sinus",
+      "Straight sinus"
+    ],
+    "correctAnswer": "Cavernous sinus",
+    "explanation": {
+      "correct": "The cavernous sinus drains the orbit and receives venous blood from the face. Cavernous sinus thrombosis leads to bilateral oculomotor palsy, proptosis, headache, and fever (often from infection spreading via facial/ophthalmic veins). This is a life-threatening condition.",
+      "incorrect": [
+        {"option": "Sagittal sinus", "reason": "Superior sagittal sinus thrombosis causes raised ICP, seizures, and diffuse headache but not selective cranial nerve palsies."},
+        {"option": "Sphenoid sinus", "reason": "This is an air-filled paranasal sinus, not a venous sinus."},
+        {"option": "Occipital sinus", "reason": "Rarely thrombosed, would not produce orbital findings."},
+        {"option": "Straight sinus", "reason": "Straight sinus thrombosis may cause raised ICP and coma, not ophthalmoplegia with proptosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_9",
+    "case": "A 45-year-old man comes to the clinic complaining of sudden-onset of severe headache, described as the worst headache in his life. He is also experiencing nausea, vomiting and neck stiffness. Vital signs are within normal limits. Which of the following is the most likely diagnosis? [2/2024R]",
+    "options": [
+      "Migraine headache",
+      "Cluster headache",
+      "Subarachnoid hemorrhage",
+      "Acute angle-closure glaucoma",
+      "Temporal arteritis"
+    ],
+    "correctAnswer": "Subarachnoid hemorrhage",
+    "explanation": {
+      "correct": "Severe sudden 'thunderclap' headache, often described as the worst in life, associated with meningeal irritation (neck stiffness, vomiting) is classic for subarachnoid hemorrhage, most often due to rupture of a berry aneurysm (e.g., in circle of Willis). Requires urgent CT/LP and neurosurgical care.",
+      "incorrect": [
+        {"option": "Migraine headache", "reason": "Severe but gradual onset, often hours, associated with aura, not thunderclap."},
+        {"option": "Cluster headache", "reason": "Causes unilateral orbital pain with lacrimation, rhinorrhea, not generalized thunderclap headache."},
+        {"option": "Acute angle-closure glaucoma", "reason": "Presents with sudden ocular pain, rainbow halos, mid-dilated pupil, not nuchal rigidity."},
+        {"option": "Temporal arteritis", "reason": "Causes scalp tenderness, jaw claudication, vision loss in elderly, not acute thunderclap."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_10",
+    "case": "A 65 years-old-man presented with inability to pass urine for 8 hours. Examination revealed tender distended suprapubic swelling. TRUS showed large symmetrical swelling of prostate with no focal lesions and increased thickness of bladder wall. What is the most expected cause of this condition? [11/2020T_1/2021T_10/2021T_5/2022M_11/2023T]",
+    "options": [
+      "Cancer prostate",
+      "BPH",
+      "Cancer urinary bladder",
+      "Urethral stricture",
+      "Diverticulum of urinary bladder"
+    ],
+    "correctAnswer": "BPH",
+    "explanation": {
+      "correct": "Benign prostatic hyperplasia (BPH) presents with acute urinary retention in elderly males. TRUS shows symmetrically enlarged prostate. The bladder wall thickness represents chronic outlet obstruction. Lack of focal lesions rules out carcinoma.",
+      "incorrect": [
+        {"option": "Cancer prostate", "reason": "Usually asymmetric, nodular, hard on exam with focal lesions, not diffuse symmetrical enlargement."},
+        {"option": "Cancer urinary bladder", "reason": "Would show mass lesions in the bladder, not prostate enlargement."},
+        {"option": "Urethral stricture", "reason": "Causes obstructive voiding symptoms, but here the primary TRUS finding was prostate enlargement."},
+        {"option": "Diverticulum of urinary bladder", "reason": "Secondary to obstruction, but the primary pathology lies in the enlarged prostate (BPH)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_11",
+    "case": "A 15-year-old girl arrives with a headache persisting for three days and escalating confusion. During examination, her temperature reads 39°C, and there is notable neck stiffness. The cerebrospinal fluid examination discloses a white cell count of 600/ml, primarily consisting of 95% neutrophils, alongside Gram-negative diplococci. What is the most probable organism causing this condition? [11/2023R]",
+    "options": [
+      "Hemophilus influenzae meningitis",
+      "Meningococcal meningitis",
+      "Pneumococcal meningitis",
+      "Tuberculous meningitis",
+      "Pseudomonas meningitis"
+    ],
+    "correctAnswer": "Meningococcal meningitis",
+    "explanation": {
+      "correct": "The presence of acute febrile illness with headache, confusion, neck stiffness, and CSF dominated by neutrophils plus Gram-negative diplococci all point to *Neisseria meningitidis* (meningococcus). It is a classic cause of bacterial meningitis in children and adolescents, highly contagious, and can rapidly progress to septicemia (meningococcemia).",
+      "incorrect": [
+        {"option": "Hemophilus influenzae meningitis", "reason": "More common in younger children (esp. <5 years) before widespread vaccination; Gram stain shows small Gram-negative pleomorphic rods, not diplococci."},
+        {"option": "Pneumococcal meningitis", "reason": "Would show Gram-positive lancet-shaped diplococci, not Gram-negative diplococci."},
+        {"option": "Tuberculous meningitis", "reason": "Has lymphocytic CSF predominance, elevated protein, low glucose, and chronic course, not acute neutrophilic meningitis."},
+        {"option": "Pseudomonas meningitis", "reason": "Usually a nosocomial infection (post-neurosurgery, shunt-related), not in a healthy child with this presentation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_12",
+    "case": "A 24-year-old man is referred to the neurology clinic with an 8-month history of headaches. He complains of feeling low for the past few months as well. He describes a generalized head pain, feeling like a tight band around the head and it feels like a clamp squeezing the head. He denies any other ocular or nasal symptoms and you find examination to be normal. What is the most likely diagnosis? [10/2021T_11/2022R_1/2023M_6/2023R_2/2024S_8/2024S]",
+    "options": [
+      "Migraine",
+      "Chronic sinusitis",
+      "Cluster headache",
+      "Trigeminal neuralgia",
+      "Tension-type headache"
+    ],
+    "correctAnswer": "Tension-type headache",
+    "explanation": {
+      "correct": "Tension-type headache is the most common primary headache disorder. It presents with chronic, bilateral 'band-like' or pressure-like pain around the head described often as a tight clamp, without aura, nausea, or focal neurological features. The exam is normal; depression or low mood may coexist.",
+      "incorrect": [
+        {"option": "Migraine", "reason": "Migraine headaches are typically unilateral, throbbing, associated with photophobia, phonophobia, nausea/vomiting, sometimes with visual aura, not diffuse 'tight band' pain."},
+        {"option": "Chronic sinusitis", "reason": "Causes facial pain/pressure associated with nasal obstruction or purulent discharge, not isolated tight generalized headache with normal exam."},
+        {"option": "Cluster headache", "reason": "Severe unilateral orbital headache with autonomic features (lacrimation, nasal congestion); not generalized dull clamp pain."},
+        {"option": "Trigeminal neuralgia", "reason": "Sharp stabbing electric-shock pains in distribution of trigeminal nerve, not steady band-like pain."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_13",
+    "case": "A 42-year-old male presents with a complaint of one day inability to close his left eye and deviation of the angle of the mouth while speaking. The patient is diabetic on metformin. On examination: Temperature 37o C, Pulse 75/m, BP 140/85. Patient is unable to wrinkle forehead on the left side, unable to close the left eye and unable to blow the cheek. Angle of the mouth deviates to right on attempt to show the teeth. There is no sensory deficit over the face. Examination of the tongue is normal. What is the neurological diagnosis in this patient? [10/2021T_11/2022R_6/2023R_2/2024T_2/2024R]",
+    "options": [
+      "Left sided trigeminal nerve palsy",
+      "Left facial nerve herpes zoster",
+      "Ischemic stroke",
+      "Left sided Bell’s palsy",
+      "Left sided cerebellopontine angle lesion"
+    ],
+    "correctAnswer": "Left sided Bell’s palsy",
+    "explanation": {
+      "correct": "Bell's palsy is an acute idiopathic lower motor neuron palsy of the facial nerve. The hallmark is unilateral weakness involving both upper and lower face: inability to wrinkle forehead, close eye, or puff cheek, with deviation of the mouth. No sensory loss is present. The absence of forehead sparing rules out a central (stroke) lesion. Diabetes is a known risk factor.",
+      "incorrect": [
+        {"option": "Left sided trigeminal nerve palsy", "reason": "Would cause loss of facial sensation and weak mastication, not isolated facial expression weakness."},
+        {"option": "Left facial nerve herpes zoster", "reason": "Ramsay Hunt syndrome includes vesicular eruptions in ear canal along with LMN facial palsy. No vesicles reported here."},
+        {"option": "Ischemic stroke", "reason": "Would cause UMN facial palsy with forehead sparing and associated hemiparesis, but here whole side of face is affected."},
+        {"option": "Left sided cerebellopontine angle lesion", "reason": "Causes progressive facial palsy plus hearing loss/tinnitus due to acoustic neuroma, not acute isolated palsy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_14",
+    "case": "An eight-year-old girl develops fever 39° C and headache for two days. She receives paracetamol suppositories. This morning the headache markedly increases in severity and she develops projectile vomiting and convulsions. On examination conscious level was disturbed together with neck rigidity and photophobia. What is the most probable diagnosis? [2/2021R_10/2021T_11/2021R_11/2022R_1/2023M_6/2023R_11/2023T_11/2023S_2/2024T_2/2024S_8/2024T_8/2024S]",
+    "options": [
+      "Meningitis",
+      "Posterior fossa tumor",
+      "Migraine",
+      "Paracetamol toxicity",
+      "Idiopathic epilepsy"
+    ],
+    "correctAnswer": "Meningitis",
+    "explanation": {
+      "correct": "The acute febrile illness with severe headache, projectile vomiting, convulsion, altered consciousness, nuchal rigidity, and photophobia is typical for acute meningitis. CSF analysis would confirm etiology, but clinically this is the most probable diagnosis.",
+      "incorrect": [
+        {"option": "Posterior fossa tumor", "reason": "Would cause chronic progressive headache, morning vomiting, ataxia—not acute febrile illness with neck stiffness."},
+        {"option": "Migraine", "reason": "Migraine causes recurrent headache with nausea +/- aura, but not fever and neck stiffness."},
+        {"option": "Paracetamol toxicity", "reason": "Causes hepatotoxicity symptoms (jaundice, coagulopathy), not meningitis picture."},
+        {"option": "Idiopathic epilepsy", "reason": "Would present as afebrile recurrent seizures; not associated with fever and meningism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_15",
+    "case": "A 55-year-old man comes with a one-day history of sudden onset of severe pain in his low back that radiates down his left leg, with pins and needles feeling in his left heel. Pain increases with static position, relieved slightly with lying down. Neuro exam: positive straight leg raising test at 30 degrees, otherwise power, reflexes, bladder are okay. What is the most likely cause of this patient’s symptoms? [10/2021T_6/2023R_11/2023S_11/2023R_2/2024T_8/2024T]",
+    "options": [
+      "Spondylolisthesis",
+      "Myositis",
+      "Spinal tumor",
+      "Herniated disc",
+      "Spinal stenosis"
+    ],
+    "correctAnswer": "Herniated disc",
+    "explanation": {
+      "correct": "Acute severe low back pain radiating down the leg with radicular sensory symptoms (pins and needles in heel), positive straight leg raising test, but preserved power and bladder function points strongly to lumbar disc herniation compressing nerve root (likely L5/S1).",
+      "incorrect": [
+        {"option": "Spondylolisthesis", "reason": "Causes chronic low back pain with step deformity, not acute radicular pain."},
+        {"option": "Myositis", "reason": "Would cause muscle tenderness and weakness, not radicular distribution of pain/numbness."},
+        {"option": "Spinal tumor", "reason": "Usually causes progressive, insidious neurological deficit, not sudden radiculopathy."},
+        {"option": "Spinal stenosis", "reason": "Presents with chronic neurogenic claudication (pain worse on walking, better with flexion), not sudden one-day event."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_16",
+    "case": "A 77-year-old man with no significant past medical history has become progressively more forgetful in the past 9 months. He has trouble remembering familiar places and people, can no longer balance his checkbook, and has increased trouble verbally expressing his thoughts. These symptoms have progressively worsened. Mini-mental state exam: 22/30. Labs: normal thyroid, B12, folate, electrolytes. RPR negative. Diagnosis? [11/2021R_11/2022R_11/2023T_11/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Alzheimer's disease",
+      "Creutzfeldt-Jakob disease",
+      "Delirium",
+      "Depression",
+      "Normal pressure hydrocephalus"
+    ],
+    "correctAnswer": "Alzheimer's disease",
+    "explanation": {
+      "correct": "The insidious, progressive memory impairment, impaired orientation, calculation, and language over months in an elderly patient with normal labs is classic for Alzheimer’s dementia. Mini-mental score confirms moderate impairment. There is no evidence of delirium, acute confusional state, or reversible causes.",
+      "incorrect": [
+        {"option": "Creutzfeldt-Jakob disease", "reason": "Rapidly progressive dementia with myoclonus over weeks/months, not years."},
+        {"option": "Delirium", "reason": "An acute reversible fluctuating condition, not progressive chronic."},
+        {"option": "Depression", "reason": "Can cause 'pseudo-dementia' but progression, visual-spatial disorientation, delusions are more consistent with AD."},
+        {"option": "Normal pressure hydrocephalus", "reason": "Triad: gait disturbance, urinary incontinence, dementia. Not present here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_17",
+    "case": "A 65-year-old male presents with acute onset of back pain and bilateral leg weakness after a recent diagnosis of prostate cancer. Exam: 3/5 power in both legs, spine tenderness. MRI shows epidural spinal cord compression secondary to metastasis. Which is the most appropriate initial consultation? [1/2021T_10/2021T_11/2021R_11/2022R_2/2023R_8/2024S_8/2024R]",
+    "options": [
+      "Neurosurgery",
+      "Urology",
+      "Radiation oncology",
+      "Neurology",
+      "General surgery"
+    ],
+    "correctAnswer": "Neurosurgery",
+    "explanation": {
+      "correct": "Emergent spinal cord compression from metastasis is a neurosurgical emergency. Immediate high-dose corticosteroids are given to reduce edema, followed by neurosurgical decompression if feasible, or radiotherapy if surgery not possible. First consultation is neurosurgery.",
+      "incorrect": [
+        {"option": "Urology", "reason": "Man has prostate cancer, but the acute neuro issue requires neurosurgeons, not urologists."},
+        {"option": "Radiation oncology", "reason": "Radiotherapy is used for bone mets/compression, but initial consult should be neurosurgery for urgent decompression."},
+        {"option": "Neurology", "reason": "Neurologists diagnose but do not operate; this needs surgical relief."},
+        {"option": "General surgery", "reason": "Not their field; spinal decompression is neurosurgical specialty."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_18",
+    "case": "A 30-year-old professional guitarist cut his right wrist and proximal forearm accidentally. On exam: superficial palmar cuts plus 1 cm deep laceration on ulnar border. Complains of numbness in little finger. Exam suggests division of the ulnar nerve at wrist, confirmed at exploration. What is the surgical management of a divided ulnar nerve in the first 24h? [11/2022R_11/2023R_8/2024S]",
+    "options": [
+      "Nerve transposition",
+      "Wrist arthrodesis",
+      "Nerve graft",
+      "Primary suturing if neurosurgeon is there",
+      "Just marking the two ends of the nerve if neurosurgeon is there"
+    ],
+    "correctAnswer": "Primary suturing if neurosurgeon is there",
+    "explanation": {
+      "correct": "For a clean cut of a peripheral nerve seen within 24 hours under optimal surgical conditions, the recommended management is primary end-to-end microsurgical repair (suturing). This preserves function, avoids fibrosis, and gives the best chance of nerve regeneration.",
+      "incorrect": [
+        {"option": "Nerve transposition", "reason": "Usually done for entrapment neuropathies like ulnar nerve at elbow, not for acute cut."},
+        {"option": "Wrist arthrodesis", "reason": "Procedure for severe wrist arthritis, irrelevant here."},
+        {"option": "Nerve graft", "reason": "Indicated if critical nerve gap prevents end-to-end repair, but here fresh sharp cut can be directly sutured."},
+        {"option": "Just marking the two ends of the nerve if neurosurgeon is there", "reason": "Delay will increase fibrosis and reduce function; immediate primary repair is gold standard."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_19",
+    "case": "A 25-year-old female presenting with acute onset of weakness of the left side of the body. Past history of transient unilateral vision loss in right eye. On exam: left hemiparesis, hemihypesthesia, left ataxia, and extensor plantar response, with no cardiac history. What is the most likely diagnosis? [2/2023S]",
+    "options": [
+      "Brain tumor",
+      "Cerebrovascular disorder",
+      "Motor neuron disease",
+      "Multiple sclerosis",
+      "Psychogenic"
+    ],
+    "correctAnswer": "Multiple sclerosis",
+    "explanation": {
+      "correct": "Relapsing neurological deficits in different sites separated in time/space is characteristic of multiple sclerosis. Previous optic neuritis (transient visual loss), now hemiparesis and ataxia, satisfies clinical criteria. Young age, no vascular risk factors, and multifocal deficits support MS.",
+      "incorrect": [
+        {"option": "Brain tumor", "reason": "Would cause progressive focal symptoms, not relapsing multifocal ones."},
+        {"option": "Cerebrovascular disorder", "reason": "Stroke is sudden but not recurrent transient optic neuritis and young age without vascular risk factors."},
+        {"option": "Motor neuron disease", "reason": "Causes progressive weakness without sensory or vision involvement."},
+        {"option": "Psychogenic", "reason": "Symptoms are consistent and objective, not inconsistent or variable like functional presentations."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_20",
+    "case": "A 45-year-old woman with ulcerative colitis is admitted with jaundice, pruritus, and intermittent abdominal pain. Exam: hepatosplenomegaly and mild ascites. Labs: obstructive jaundice, mitochondrial antibodies negative. What is the most likely diagnosis? [10/2021T_2/2023S_11/2023T-11/2023S_11/2023R_2/2024T_2/2024S_8/2024T_8/2024S]",
+    "options": [
+      "Chronic active hepatitis",
+      "Liver cirrhosis",
+      "Metastatic carcinoma",
+      "Pancreatic carcinoma",
+      "Sclerosing cholangitis"
+    ],
+    "correctAnswer": "Sclerosing cholangitis",
+    "explanation": {
+      "correct": "Primary sclerosing cholangitis is strongly associated with ulcerative colitis. It causes progressive cholestasis, pruritus, hepatosplenomegaly, and obstructive LFTs. Negative mitochondrial antibodies exclude PBC. PSC risk includes cholangiocarcinoma. This is the classic link examiners love.",
+      "incorrect": [
+        {"option": "Chronic active hepatitis", "reason": "Immune-mediated hepatitis usually not associated with IBD, often raised transaminases, not obstructive cholestasis."},
+        {"option": "Liver cirrhosis", "reason": "Represents end stage of liver disease, but obstructive pattern with IBD links to PSC specifically."},
+        {"option": "Metastatic carcinoma", "reason": "Would show focal lesions and rapid deterioration, not long IBD history with cholestasis."},
+        {"option": "Pancreatic carcinoma", "reason": "Also obstructive jaundice but not associated with UC nor hepatosplenomegaly in same way."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_21",
+    "case": "An 18-year-old male patient had long term history of suppurative otitis media, was presented to neurology department with high grade fever, headache, vomiting, and photophobia. On examination, chills, severe prostration and neck stiffness were prominent. The neurologist started immediate treatment after receiving a CSF sample. CSF profile showed elevated protein and decreased sugar. What is the causative organism of this condition? [2/2021R_10/2021T_1/2023M_11/2023T_11/2023R-2/2024T_2/2024R_8/2024R]",
+    "options": [
+      "Mycobacteria",
+      "Fungal",
+      "Bacterial",
+      "Protozoal",
+      "Viral"
+    ],
+    "correctAnswer": "Bacterial",
+    "explanation": {
+      "correct": "The acute onset with very toxic appearance, high fever, chills, neck stiffness, and CSF showing high protein with low glucose is classical of pyogenic (bacterial) meningitis. Long history of chronic ear infection (otitis media) predisposes to bacterial spread (often *Streptococcus pneumoniae*).",
+      "incorrect": [
+        {"option": "Mycobacteria", "reason": "Tuberculous meningitis causes subacute or chronic meningitis with lymphocytic pleocytosis and basal meningeal enhancement, not hyperacute septic features."},
+        {"option": "Fungal", "reason": "Fungal meningitis occurs in immunocompromised patients, usually subacute, with mild lymphocyte-predominant CSF findings."},
+        {"option": "Protozoal", "reason": "Uncommon except in special exposures (eg. Naegleria fowleri) causing meningoencephalitis, not typical here."},
+        {"option": "Viral", "reason": "Viral meningitis causes lymphocytosis, normal glucose, and less severe course."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_22",
+    "case": "A 32-year-old man presented with low back pain for 3 months. The pain is worse on awakening and gets better on movements. On examination, there was limitation in forward and lateral bending of the trunk. What is the most useful test for diagnosing the cause of his back pain? [2/2021R_1/2023M_11/2023T_11/2023R_2/2024T]",
+    "options": [
+      "Bone mineral density by DEXA scan",
+      "CT scan of lumbar spines and pelvis",
+      "HLA B27 detection",
+      "Nerve conduction studies for lower limbs",
+      "Plain X-ray lumbosacral spines"
+    ],
+    "correctAnswer": "Plain X-ray lumbosacral spines",
+    "explanation": {
+      "correct": "The typical inflammatory back pain (improves with exercise, worse at rest/morning stiffness) and limitation of motion in a young adult suggests ankylosing spondylitis. The most useful initial test is a plain X-ray of sacroiliac joints and lumbar spine to detect sacroiliitis and bamboo spine changes.",
+      "incorrect": [
+        {"option": "Bone mineral density by DEXA scan", "reason": "DEXA assesses osteoporosis, not inflammatory spondyloarthropathy."},
+        {"option": "CT scan of lumbar spines and pelvis", "reason": "CT gives more detail but plain radiograph is easier, cheaper, and first-line."},
+        {"option": "HLA B27 detection", "reason": "Supports diagnosis but is not confirmatory; many HLA-B27 positives never develop disease."},
+        {"option": "Nerve conduction studies for lower limbs", "reason": "Indicated for radiculopathy or neuropathy, not axial spondylarthritis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_23",
+    "case": "A 65-year-old female presenting with acute weakness of the left upper and lower limbs since 6 hours. Patient is smoker, with diabetes and hypertension. On examination, patient was semiconscious, BP was 150/95 mm Hg, left upper motor neuron facial and flaccid paralysis of left upper and lower limbs with left extensor plantar. What is the appropriate initial management? [2/2021R_1/2023M_11/2023T_2/2024T]",
+    "options": [
+      "Blood pressure lowering to normal as soon as possible",
+      "Cerebral artery thrombolysis",
+      "Heparin administration as soon as possible",
+      "Patient hospitalization and admission to ICU",
+      "Urgent diabetes control"
+    ],
+    "correctAnswer": "Cerebral artery thrombolysis",
+    "explanation": {
+      "correct": "This is an acute ischemic stroke within 6 hours of onset. With no contraindications and timing within window, the most appropriate initial management is IV thrombolysis (e.g. alteplase). BP 150/95 is acceptable prior to thrombolysis (<185/110 mm Hg). Rapid reperfusion is crucial to rescue ischemic penumbra.",
+      "incorrect": [
+        {"option": "Blood pressure lowering to normal as soon as possible", "reason": "Aggressive BP lowering is harmful—it reduces cerebral perfusion in acute stroke. Only reduce if >220/120 or required for thrombolysis."},
+        {"option": "Heparin administration as soon as possible", "reason": "Routine anticoagulation is not recommended and increases risk of hemorrhagic transformation."},
+        {"option": "Patient hospitalization and admission to ICU", "reason": "Necessary, but the acute therapeutic step is thrombolysis if eligible."},
+        {"option": "Urgent diabetes control", "reason": "Important for long term, but glycemic control is not first priority in acute setting."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_24",
+    "case": "A 73-year-old man under goes an elective total gastrectomy via an upper midline abdominal incision. On the first postoperative day, he is confused and disorientated in time, place and person, and pulling at his catheter and drains. On examination, his temperature is 38 C, O2 saturation is 87% on 2L O2. What is the most likely cause of the patient’s confusion? [12/2020T_1/2021T_10/2021T_11/2023T]",
+    "options": [
+      "Chest infection",
+      "Cerebrovascular accident (CVA)",
+      "Hypoxia",
+      "CO2 retention",
+      "Opiate toxicity"
+    ],
+    "correctAnswer": "Hypoxia",
+    "explanation": {
+      "correct": "Acute confusion in the immediate post-operative period with low oxygen saturation strongly suggests hypoxia as the cause of delirium. Although infection and fever are present, the acute low O₂ saturation explains the delirium primarily. Correcting oxygenation is the priority.",
+      "incorrect": [
+        {"option": "Chest infection", "reason": "Possible, but hypoxia is the direct and immediate cause of confusion rather than the infection itself."},
+        {"option": "Cerebrovascular accident (CVA)", "reason": "Would cause focal neurological deficit, not just confusion with hypoxia present."},
+        {"option": "CO2 retention", "reason": "Occurs in COPD patients, not seen here post-gastrectomy with hypoxemia."},
+        {"option": "Opiate toxicity", "reason": "Would cause pinpoint pupils, respiratory depression; not the main clue here, O₂ desaturation dominates."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_25",
+    "case": "A 53-year-old man had undergone a routine laparotomy for anterior resection 24-hours ago. The patient had an epidural catheter in place, and an infusion was given via the epidural for the first 12-hours. Pain relief had become less effective over the previous 5 hours and the pain team examined the patient and found that the epidural catheter had been misplaced. The patient was then given a patient-controlled analgesia (PCA) machine. The patient has become drowsy over the last hour and has a respiratory rate of 9 breaths/min. He is not in pain, and his oxygen saturation is 97%. Which of the following is the most likely etiology? [11/2021R_2/2024S_8/2024S]",
+    "options": [
+      "Opiate toxicity",
+      "Pulmonary embolism",
+      "Spinal shock",
+      "Transient ischemic attack (TIA)",
+      "Epidural hematoma"
+    ],
+    "correctAnswer": "Opiate toxicity",
+    "explanation": {
+      "correct": "PCA using opioids is strongly associated with opioid-induced respiratory depression. Clinical picture: drowsiness, low respiratory rate (RR 9), but maintained O₂ saturation via supplemental oxygen. Classical for opioid toxicity. Immediate management: stop opiate and administer naloxone if necessary.",
+      "incorrect": [
+        {"option": "Pulmonary embolism", "reason": "Would cause sudden dyspnea, hypoxia, tachypnea—not isolated drowsiness with bradypnea."},
+        {"option": "Spinal shock", "reason": "Occurs after spinal cord injury or surgery; not relevant here."},
+        {"option": "TIA", "reason": "Would cause transient focal neurological deficit, not pure respiratory depression."},
+        {"option": "Epidural hematoma", "reason": "Would cause paralysis, loss of sensation, severe pain; not isolated respiratory depression."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_26",
+    "case": "A 35-year-old female presents with dyspnea. The following blood gases are obtained on room air: pH 7.4, pCO2 20 mm Hg, pO2 98 mmHg. Which one of the following should not be included on the list of differential diagnoses? [5/2022M_8/2024R]",
+    "options": [
+      "Opiate overdose",
+      "Pulmonary embolism",
+      "Pregnancy",
+      "Encephalitis",
+      "Anxiety"
+    ],
+    "correctAnswer": "Opiate overdose",
+    "explanation": {
+      "correct": "ABGs show respiratory alkalosis (low pCO₂, normal pH with compensation, normal PaO₂). Causes include hyperventilation states like PE, pregnancy, anxiety, encephalitis. Opiate overdose, on the other hand, causes hypoventilation with respiratory acidosis, not alkalosis—so it must be excluded.",
+      "incorrect": [
+        {"option": "Pulmonary embolism", "reason": "PE causes hyperventilation due to hypoxemia and anxiety → respiratory alkalosis."},
+        {"option": "Pregnancy", "reason": "Progesterone stimulates central respiratory drive, causing physiologic respiratory alkalosis."},
+        {"option": "Encephalitis", "reason": "CNS pathology can drive hyperventilation producing respiratory alkalosis."},
+        {"option": "Anxiety", "reason": "Hyperventilation in panic attacks lowers CO₂, producing alkalosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_27",
+    "case": "An 80-year-old man whilst micturating suddenly feels sweaty, nauseous and lightheaded. He describes his vision as though looking into a tunnel before passing out. His past medical history includes benign prostatic hypertrophy. Clinical examination is normal. What is the most likely diagnosis? [11/2020T_12/2021T_5/2022T_11/2023T]",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Vasovagal syncope",
+      "Hypoglycemia",
+      "Subdural hemorrhage",
+      "Hypovolemia"
+    ],
+    "correctAnswer": "Vasovagal syncope",
+    "explanation": {
+      "correct": "This is classic micturition syncope—a form of situational vasovagal syncope triggered by urination. Characterized by nausea, sweating, lightheadedness, tunnel vision, followed by brief loss of consciousness. Exam between episodes is normal.",
+      "incorrect": [
+        {"option": "Subarachnoid hemorrhage", "reason": "Would cause sudden, severe thunderclap headache with meningism, not syncope on urination."},
+        {"option": "Hypoglycemia", "reason": "Causes sweating, confusion, seizure possibly, but no situational trigger like micturition."},
+        {"option": "Subdural hemorrhage", "reason": "Presents with progressive neurological deficits or reduced consciousness, often after trauma, not brief syncope."},
+        {"option": "Hypovolemia", "reason": "Associated with orthostatic symptoms, tachycardia, not isolated urination-triggered faint."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_28",
+    "case": "A 65-year-old man has had symptoms of progressive cognitive dysfunction over a 1-year period. Memory and calculation ability are worsening. He has also had episodes of paranoia and delusions. Antipsychotic medication resulted in extrapyramidal signs and was stopped. The patient has recently complained of visual hallucinations. No alcohol history. What is the most likely diagnosis? [1/2021T_10/2021T_5/2022M_8/2024R]",
+    "options": [
+      "Lewy body dementia",
+      "Alzheimer disease (AD)",
+      "Early parkinsonism",
+      "Delirium",
+      "Vascular dementia"
+    ],
+    "correctAnswer": "Lewy body dementia",
+    "explanation": {
+      "correct": "Lewy body dementia presents with fluctuating cognition, visual hallucinations, and parkinsonism. Patients are highly sensitive to antipsychotics (which may worsen motor symptoms). Visual hallucinations distinguish it from Alzheimer’s disease, and antipsychotic sensitivity is a red flag clue.",
+      "incorrect": [
+        {"option": "Alzheimer disease (AD)", "reason": "AD typically lacks prominent hallucinations and psychotic features early in disease course."},
+        {"option": "Early parkinsonism", "reason": "Parkinson’s disease dementia occurs after motor features precede by years. Here, cognitive/psychiatric symptoms dominate first."},
+        {"option": "Delirium", "reason": "Acute fluctuating confusional state, reversible, not progressive deterioration over a year."},
+        {"option": "Vascular dementia", "reason": "Stepwise cognitive decline after repeated strokes, not hallucinations and antipsychotic sensitivity."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_29",
+    "case": "A frail 89-year-old man has had a large pressure sore on the sacrum for the past 2 months. Medical history includes type 2 diabetes mellitus and multi-infarct dementia. He is incontinent of stool and urine. Which of the following factors is the most important contributor to the development of the pressure ulcer in this patient? [12/2020T_1/2021T_10/2021T_11/2023T]",
+    "options": [
+      "Fecal and urinary incontinence",
+      "Inadequate cushioning on the wheelchair",
+      "Malnutrition",
+      "Poorly controlled diabetes mellitus",
+      "Prolonged bed rest"
+    ],
+    "correctAnswer": "Prolonged bed rest",
+    "explanation": {
+      "correct": "The single most important factor in pressure ulcer development is unrelieved prolonged pressure over bony prominences from immobility (prolonged bed rest). This leads to ischemia and skin breakdown. Incontinence, nutrition, and diabetes aggravate risk but the primary driver is immobility.",
+      "incorrect": [
+        {"option": "Fecal and urinary incontinence", "reason": "Aggravates skin maceration and infection but not the primary driver without immobility."},
+        {"option": "Inadequate cushioning on the wheelchair", "reason": "Contributes but less important compared to sustained unrelieved pressure."},
+        {"option": "Malnutrition", "reason": "Slows healing and worsens prognosis, but not the most important cause."},
+        {"option": "Poorly controlled diabetes mellitus", "reason": "Impairs healing and increases infection risk but not the initial direct cause."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_30",
+    "case": "A 20-year-old college student wakes up feeling extremely unwell. She has a severe headache, fever, and a stiff neck. The healthcare provider suspects meningococcal meningitis. Which of the following is the drug of choice as empiric therapy in this case? [2/2024R]",
+    "options": [
+      "Penicillin G",
+      "Sulphonamides",
+      "Cephalosporins",
+      "Chloramphenicol",
+      "Tetracycline"
+    ],
+    "correctAnswer": "Cephalosporins",
+    "explanation": {
+      "correct": "Empiric therapy for suspected meningococcal meningitis is third-generation cephalosporin (ceftriaxone or cefotaxime). They are highly effective, cross the blood–brain barrier, and cover *Neisseria meningitidis*. Once culture confirms sensitivity, therapy may be narrowed.",
+      "incorrect": [
+        {"option": "Penicillin G", "reason": "Active against meningococcus but resistance is emerging; used as step-down after culture results."},
+        {"option": "Sulphonamides", "reason": "Resistance is common, rarely used now."},
+        {"option": "Chloramphenicol", "reason": "Effective alternative in resource-limited areas or allergy, but not first choice."},
+        {"option": "Tetracycline", "reason": "Not used for meningococcal meningitis as primary therapy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_31",
+    "case": "A 60-year-old female with a history of diabetes and hypertension presents with new-onset vertical diplopia. Examination reveals normal pupils, mild right sided ptosis, and slight inferior deviation of her right eye at rest. At times the right eye appears to 'get stuck' after being abducted in downward gaze. Which of the following is most likely affected? [1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_6/2023R]",
+    "options": [
+      "Cranial nerve II",
+      "Cranial nerve III",
+      "Cranial nerve IV",
+      "Cranial nerve VI",
+      "Occipital lobe"
+    ],
+    "correctAnswer": "Cranial nerve IV",
+    "explanation": {
+      "correct": "Vertical diplopia, worse on downward gaze (especially when going downstairs), with the affected eye deviated slightly up and in, is the hallmark of trochlear nerve (CN IV) palsy. Cranial nerve IV supplies the superior oblique muscle which depresses and intorts the eye in adduction. Diabetic microvascular ischemia is a common etiology of isolated cranial neuropathies.",
+      "incorrect": [
+        {"option": "Cranial nerve II", "reason": "Would cause vision loss or field defects, not diplopia/ocular misalignment."},
+        {"option": "Cranial nerve III", "reason": "Oculomotor palsy would cause dilated pupil, ptosis, and eye deviated 'down & out'—but here pupils are spared and the problem is vertical diplopia."},
+        {"option": "Cranial nerve VI", "reason": "CN VI palsy leads to horizontal diplopia and inability to abduct eye, not vertical diplopia."},
+        {"option": "Occipital lobe", "reason": "Injury would cause cortical visual field defects, not isolated motility disturbance."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_32",
+    "case": "A healthy 20-year-old man presents with a history of recurrent episodes of severe throbbing headache. The headaches are triggered or aggravated by noise and stress and last for several hours. The pain is frequently preceded by visual disturbances, such as luminous stars or zigzags of light, and accompanied by nausea and vomiting. His father experienced a similar form of headache. The patient has found no relief with aspirin and ibuprofen. Which of the following is the most appropriate drug treatment during the acute attacks? [8/2024R]",
+    "options": [
+      "Acetaminophen",
+      "Calcium-channel antagonists",
+      "Carbamazepine",
+      "Ergotamine",
+      "Prednisone"
+    ],
+    "correctAnswer": "Ergotamine",
+    "explanation": {
+      "correct": "Acute attacks of migraine, especially with aura and throbbing pain, are best treated with triptans or ergotamine. Ergotamine is a vasoconstrictor acting on serotonin receptors, reducing neurogenic inflammation and relieving migraine attacks. NSAIDs may fail in severe cases, making ergotamine effective.",
+      "incorrect": [
+        {"option": "Acetaminophen", "reason": "Helps in mild headache, but ineffective in severe acute migraine."},
+        {"option": "Calcium-channel antagonists", "reason": "Used for migraine prophylaxis, not aborting acute attacks."},
+        {"option": "Carbamazepine", "reason": "First-line for trigeminal neuralgia, not for migraine."},
+        {"option": "Prednisone", "reason": "Not a standard acute migraine therapy—steroids are rarely used in refractory cases."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_33",
+    "case": "A 32-year-old woman presents with a severe headache, nausea, and sensitivity to light. She has a history of similar episodes triggered by stress and lack of sleep. Physical examination is unremarkable. The diagnosis is migraine without aura. Which of the following is the character of headache of migraine? [2/2024R]",
+    "options": [
+      "Stitching",
+      "Aching",
+      "Throbbing",
+      "Burning",
+      "Constricting"
+    ],
+    "correctAnswer": "Throbbing",
+    "explanation": {
+      "correct": "Migraine headache is typically described as unilateral, throbbing or pulsatile pain lasting 4–72 hours. It worsens with exertion, light, and sound, and is often accompanied by nausea/vomiting. This vascular pounding quality differentiates it from tension and neuralgic pains.",
+      "incorrect": [
+        {"option": "Stitching", "reason": "Suggests sharp, localized pain, seen in neuralgia, not migraine."},
+        {"option": "Aching", "reason": "Tension-type headaches present as dull aching pressure, not pulsatile."},
+        {"option": "Burning", "reason": "Burning pains are characteristic of neuropathic pain syndromes."},
+        {"option": "Constricting", "reason": "Describes tension-type headache (‘tight band’), not migraine."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_34",
+    "case": "A 63-year-old man presents with a three month history of hands tremors. On examination, he had a resting tremor in his hands, cogwheel rigidity in both upper limbs and mild generalized bradykinesia. He denies medication intake or any chronic illness. Which of the following is the most likely diagnosis? [11/2023R]",
+    "options": [
+      "Idiopathic Parkinson's disease",
+      "Alzheimer’s disease",
+      "Benign essential tremor",
+      "Wilson’s disease",
+      "Dementia"
+    ],
+    "correctAnswer": "Idiopathic Parkinson's disease",
+    "explanation": {
+      "correct": "Rest tremor (‘pill-rolling’), bradykinesia, and cogwheel rigidity are the classic triad of Parkinsonism. Idiopathic Parkinson’s disease is the most common cause in elderly. The symptom progression (months-years) without cognitive impairment at onset confirms this diagnosis.",
+      "incorrect": [
+        {"option": "Alzheimer’s disease", "reason": "Presents with progressive memory loss and disorientation, not tremor and movement disorder."},
+        {"option": "Benign essential tremor", "reason": "Tremor is postural/action, not resting. Improves with alcohol—different from Parkinson."},
+        {"option": "Wilson’s disease", "reason": "Copper metabolism disorder in younger individuals, with liver disease and psychiatric features, not in a 63-year-old."},
+        {"option": "Dementia", "reason": "Refers to cognitive syndrome, not extrapyramidal motor disorder."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_35",
+    "case": "A 69-year-old man is suspected of having an acute onset of multiple small cerebral infarcts. The finding on mental status examination that would be most supportive of this diagnosis is: [11/2023R]",
+    "options": [
+      "Anxiety",
+      "Delusional thinking",
+      "Depressed mood",
+      "A change in cognitive functioning",
+      "Inappropriate affect"
+    ],
+    "correctAnswer": "A change in cognitive functioning",
+    "explanation": {
+      "correct": "Multiple cerebral infarcts produce vascular dementia, often stepwise. The most supportive finding is a change in cognitive functioning—such as impaired memory, calculation, executive function—consistent with multi-infarct state. Emotional features alone (mood/anxiety/delusions) are nonspecific.",
+      "incorrect": [
+        {"option": "Anxiety", "reason": "Can be comorbid but not diagnostic; not specific for infarcts."},
+        {"option": "Delusional thinking", "reason": "Most linked to psychiatric disorders or Lewy body dementia, not multi-infarct state."},
+        {"option": "Depressed mood", "reason": "Common in illness but not supportive for infarct pathology."},
+        {"option": "Inappropriate affect", "reason": "May occur, but the most direct supportive finding is measurable cognitive impairment."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_36",
+    "case": "A 36-year-old woman presents with a 2-month history of recurrent severe right-side headaches associated with vomiting and blurring of vision. She feels generally unwell, lethargic and nauseated about 12-24 hours before each episode. What is the cause of this headache? [12/2020T_12/2021T_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Subarachnoid hemorrhage",
+      "Cluster headache",
+      "Migraine",
+      "Tension headache",
+      "Giant cell arteritis"
+    ],
+    "correctAnswer": "Migraine",
+    "explanation": {
+      "correct": "Recurrent unilateral severe headache with vomiting, visual disturbances, prodrome of malaise/lethargy, all point towards migraine. The prodromal symptoms 12–24h before the attack are classic. Cluster headaches are shorter, tension headaches are dull non-specific, and SAH is thunderclap and acute once-off.",
+      "incorrect": [
+        {"option": "Subarachnoid hemorrhage", "reason": "Sudden thunderclap pain, not prolonged recurrent episodes."},
+        {"option": "Cluster headache", "reason": "Short-lasting retro-orbital pain with lacrimation, rhinorrhea, not nausea prodrome."},
+        {"option": "Tension headache", "reason": "Described as tightness/pressure, not nausea/vomiting prodrome."},
+        {"option": "Giant cell arteritis", "reason": "Occurs in >50 yrs, with temple tenderness, jaw claudication, at risk of vision loss—not recurrent migraine-like."}
+      ]
+    }
+  },
+  {
+    "CaseID": "Neurology_37",
+    "case": "A patient was lying down on the operating table in a position with his arms hanging down for 3 hours. Soon after he woke up, he complained of numbness and weakness in that hand and has limited wrist movement/wrist drop and sensory loss over dorsum of that hand with weakness of extension of the fingers and loss of sensation at the web of the thumb. What structure is likely to be damaged? [2/2021R_5/2022M_1/2023M_2/2023T-2/2023R_6/2023S_11/2023S_11/2023R_8/2024T]",
+    "options": [
+      "Ulnar nerve",
+      "Axillary nerve",
+      "Median nerve",
+      "Radial nerve",
+      "Suprascapular nerve"
+    ],
+    "correctAnswer": "Radial nerve",
+    "explanation": {
+      "correct": "Wrist drop with loss of finger extension and dorsal hand sensory deficit is classic for radial nerve injury. Intraoperative compression along the humerus (Saturday night palsy) commonly injures the radial nerve, which supplies extensors and dorsal sensation between thumb and index finger.",
+      "incorrect": [
+        {"option": "Ulnar nerve", "reason": "Causes claw hand deformity and sensory loss in medial 1.5 fingers, not wrist drop."},
+        {"option": "Axillary nerve", "reason": "Weakness of shoulder abduction + deltoid sensory deficit, not wrist/finger extensors."},
+        {"option": "Median nerve", "reason": "Leads to thenar weakness and sensory loss palmar aspect of lateral 3.5 fingers—not dorsal hand sensory loss."},
+        {"option": "Suprascapular nerve", "reason": "Innervates supraspinatus and infraspinatus, shoulder weakness, no wrist drop."}
+      ]
+    }
+  }
+]

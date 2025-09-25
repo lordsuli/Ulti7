@@ -1,0 +1,1980 @@
+[
+  {
+    "CaseID": "chest_1",
+    "case": "A 7-year-old boy presents with fever 39.2 and right sided abdominal pain. His mother gives history of poor appetite and cough for 2 days. On examination HR: 120/minute, RR: 45/minute breath sounds are diminished with bronchial breathing over right lower lung zone and abdomen is diffusely tense, which of the following is the initial diagnostic test?",
+    "options": [
+      "Abdominal CT",
+      "Abdominal ultrasound",
+      "Chest X ray",
+      "Liver function tests",
+      "examination under anesthesia"
+    ],
+    "correctAnswer": "Chest X ray",
+    "explanation": {
+      "correct": "Chest X-ray is the most appropriate initial diagnostic test. The clinical presentation strongly suggests right lower lobe pneumonia with referred abdominal pain. The key findings are: fever, cough, tachypnea (RR 45/min), diminished breath sounds with bronchial breathing over right lower lung zone. In children, lower lobe pneumonia commonly presents with abdominal pain due to diaphragmatic irritation. A chest X-ray will quickly confirm the diagnosis of pneumonia and is non-invasive, readily available, and cost-effective.",
+      "incorrect": [
+        {"option": "Abdominal CT", "reason": "While the child has abdominal pain, the respiratory findings (diminished breath sounds, bronchial breathing, tachypnea) point to a pulmonary pathology. CT involves high radiation exposure and is not the first-line investigation when pneumonia is suspected."},
+        {"option": "Abdominal ultrasound", "reason": "Although useful for evaluating abdominal pathology, the clinical picture suggests the abdominal pain is referred from lower lobe pneumonia. The respiratory findings take precedence and need to be investigated first."},
+        {"option": "Liver function tests", "reason": "Blood tests won't help diagnose pneumonia and don't address the primary respiratory findings. While they might be part of the workup, they're not the initial diagnostic test needed."},
+        {"option": "examination under anesthesia", "reason": "This is an invasive procedure reserved for surgical conditions. The clinical presentation doesn't suggest an acute surgical abdomen but rather pneumonia with referred pain. This would be inappropriate and potentially harmful."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_2",
+    "case": "Sign' that refers to a spontaneous cessation of inspiration on palpation of the hypochondrium just below the right costal margin. What is the eponymous sign or law being described?",
+    "options": [
+      "Courvoisier",
+      "Rovsing",
+      "Murphy",
+      "Grey Turner",
+      "Battle"
+    ],
+    "correctAnswer": "Murphy",
+    "explanation": {
+      "correct": "Murphy sign is the sudden cessation of inspiration (inspiratory arrest) when palpating the right hypochondrium just below the costal margin. This occurs because the inflamed gallbladder descends during inspiration and comes in contact with the examiner's fingers, causing sharp pain that makes the patient stop breathing in. It's a classic sign of acute cholecystitis.",
+      "incorrect": [
+        {"option": "Courvoisier", "reason": "Courvoisier's law states that in the presence of jaundice, a palpable gallbladder suggests malignant obstruction (not gallstones). It doesn't involve inspiratory arrest or pain on palpation."},
+        {"option": "Rovsing", "reason": "Rovsing's sign is pain in the right iliac fossa when pressure is applied to the left iliac fossa, indicating acute appendicitis. It has nothing to do with inspiration or the hypochondrium."},
+        {"option": "Grey Turner", "reason": "Grey Turner's sign is bruising/discoloration of the flanks seen in retroperitoneal hemorrhage, often in severe acute pancreatitis. It's a visual sign, not related to palpation or breathing."},
+        {"option": "Battle", "reason": "Battle's sign is bruising behind the ear (mastoid ecchymosis) indicating basilar skull fracture. It's completely unrelated to abdominal examination or respiratory movements."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_3",
+    "case": "A 4-year-old girl presents with coryzal symptoms, cough, fever & abdominal pain. There is no dysuria, & urine dipstick is unremarkable. On examination, the pain is in the left upper quadrant but is not severe. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Urinary tract infection (UTI)",
+      "Appendicitis",
+      "Pyelonephritis",
+      "Left basal chest infection",
+      "Mesenteric adenitis"
+    ],
+    "correctAnswer": "Left basal chest infection",
+    "explanation": {
+      "correct": "Left basal chest infection (pneumonia) is the most likely diagnosis. In children, lower lobe pneumonia frequently presents with abdominal pain due to diaphragmatic irritation. The key clues are: respiratory symptoms (cough, fever, coryzal symptoms) combined with left upper quadrant pain. The left lower lobe of the lung sits just above the diaphragm, and inflammation here can cause referred pain to the upper abdomen.",
+      "incorrect": [
+        {"option": "Urinary tract infection (UTI)", "reason": "Ruled out by the absence of dysuria and normal urine dipstick. UTI typically presents with urinary symptoms like frequency, urgency, dysuria, and would show abnormalities on urinalysis."},
+        {"option": "Appendicitis", "reason": "Appendicitis causes right iliac fossa pain, not left upper quadrant pain. It also doesn't typically present with respiratory symptoms like cough and coryzal symptoms."},
+        {"option": "Pyelonephritis", "reason": "Would present with loin/flank pain, high fever, and urinary symptoms. The normal urine dipstick makes this unlikely, as pyelonephritis would show pyuria, bacteriuria, and possibly hematuria."},
+        {"option": "Mesenteric adenitis", "reason": "While this can cause abdominal pain in children following viral infections, it typically causes central or right iliac fossa pain (mimicking appendicitis), not specifically left upper quadrant pain. The respiratory symptoms point more towards pneumonia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_4",
+    "case": "A 63-year-old woman is admitted to the hospital with severe abdominal pain of 3-hour duration. Abdominal examination reveals board-like rigidity, guarding, and rebound tenderness. Her blood pressure is 90/50 mm Hg, pulse 110 bpm (beats per minute), and respiratory rate is 30 breaths per minute. After a thorough history and physical, and initiation of fluid resuscitation, which of the following is the diagnostic study that should be performed?",
+    "options": [
+      "Supine abdominal x-rays",
+      "Upright chest x-ray",
+      "Gastrograffin swallow",
+      "Computerized axial tomography (CAT) scan of the abdomen",
+      "Abdominal sonogram"
+    ],
+    "correctAnswer": "Upright chest x-ray",
+    "explanation": {
+      "correct": "Upright chest x-ray is the most appropriate initial diagnostic study. The clinical presentation (board-like rigidity, guarding, rebound tenderness, hypotension, tachycardia) strongly suggests peritonitis from visceral perforation. An upright chest x-ray can quickly detect free air under the diaphragm (pneumoperitoneum), confirming perforation. It's fast, readily available, and can be done bedside if needed for this unstable patient.",
+      "incorrect": [
+        {"option": "Supine abdominal x-rays", "reason": "Supine films are poor at detecting free air. The patient needs to be upright (or left lateral decubitus if unable to sit up) for at least 5-10 minutes to allow free air to rise and be visible under the diaphragm."},
+        {"option": "Gastrograffin swallow", "reason": "This requires patient cooperation and time, which is inappropriate in an unstable patient with peritonitis. It also carries risk of aspiration and further contamination if there's a perforation."},
+        {"option": "Computerized axial tomography (CAT) scan of the abdomen", "reason": "While CT is more sensitive than plain films, it takes time and requires moving an unstable patient to the scanner. In clear peritonitis with hemodynamic instability, the patient may need urgent surgery without delay for CT."},
+        {"option": "Abdominal sonogram", "reason": "Ultrasound is operator-dependent and less reliable for detecting free air. Gas and guarding would make the examination difficult and painful. It's not the test of choice for suspected perforation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_5",
+    "case": "A 55-year-otd female patient underwent pelvic surgery. On the 10th day postoperative, she developed severe shortness of breath with chest tightness. Examination revealed pulse 110 bp min., BP 80/50 mmHg with central cyanosis. Chest examination was unremarkable. Which of the following is the most suitable treatment to start?",
+    "options": [
+      "Antithrombotic Enzymes",
+      "Clopidogrel",
+      "IV fluids",
+      "Aspirin",
+      "Warfarin"
+    ],
+    "correctAnswer": "Antithrombotic Enzymes",
+    "explanation": {
+      "correct": "Antithrombotic Enzymes (thrombolytics like alteplase, streptokinase) are the most appropriate immediate treatment. The clinical picture strongly suggests massive pulmonary embolism (PE): post-surgical patient, sudden dyspnea, chest tightness, hemodynamic instability (BP 80/50), tachycardia, and central cyanosis. Massive PE with hemodynamic compromise requires immediate thrombolysis to dissolve the clot and restore circulation.",
+      "incorrect": [
+        {"option": "Clopidogrel", "reason": "An antiplatelet agent that won't dissolve existing clots. It's used for arterial thrombosis prevention (like in coronary disease), not for treating acute venous thromboembolism, especially not massive PE."},
+        {"option": "IV fluids", "reason": "While supportive care is important, fluids alone won't address the underlying massive PE. In fact, aggressive fluid resuscitation in massive PE can worsen right ventricular strain. The patient needs immediate clot dissolution."},
+        {"option": "Aspirin", "reason": "Another antiplatelet agent with no role in treating acute PE. Like clopidogrel, it prevents platelet aggregation but doesn't dissolve existing clots or address the life-threatening situation."},
+        {"option": "Warfarin", "reason": "An oral anticoagulant that takes days to work and only prevents new clot formation. It doesn't dissolve existing clots and is far too slow-acting for this emergency situation. It would be used later for long-term anticoagulation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_6",
+    "case": "55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 38.5, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, crackles on the right lower lobe were heard. Which is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Pneumonia",
+    "explanation": {
+      "correct": "Pneumonia is the most likely diagnosis. The patient presents with the classic triad: fever (38.5°C), productive cough, and localized crackles on examination. The right lower lobe crackles indicate consolidation, and the mild hypoxia (O2 sat 93%) supports an infectious process affecting gas exchange. The fever particularly points to infection rather than other causes.",
+      "incorrect": [
+        {"option": "COPD exacerbation", "reason": "While the patient has tobacco history, COPD exacerbation typically presents with diffuse wheezes rather than localized crackles, and fever is uncommon unless there's superimposed infection. The localized findings suggest pneumonia."},
+        {"option": "Simple pneumothorax", "reason": "Pneumothorax would show decreased or absent breath sounds, not crackles. There would be hyperresonance to percussion and possible tracheal deviation, none of which are described here."},
+        {"option": "Pulmonary embolism", "reason": "PE typically presents with sudden onset dyspnea, pleuritic chest pain, and clear lungs on auscultation. Fever is uncommon, and localized crackles would not be expected. The presentation is more consistent with infection."},
+        {"option": "Tension pneumothorax", "reason": "This is a medical emergency with severe hemodynamic compromise, tracheal deviation, absent breath sounds, and hypotension. The patient's stable vitals and presence of crackles (not absent sounds) rule this out."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_7",
+    "case": "A 55 year old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 38.5, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, crackles on the right lower lobe were heard. Which is the most likely treatment?",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "needle thoracostomy"
+    ],
+    "correctAnswer": "Antibiotics",
+    "explanation": {
+      "correct": "Antibiotics are the appropriate treatment for pneumonia. Based on the previous clinical picture (fever, cough, localized crackles in right lower lobe), the patient has community-acquired pneumonia. Empirical antibiotic therapy should be started promptly, typically with coverage for common pathogens like Streptococcus pneumoniae and atypical organisms.",
+      "incorrect": [
+        {"option": "Steroids and bronchodilators", "reason": "These are used for COPD exacerbation or asthma, which present with wheezing and airflow obstruction, not localized crackles and fever. The patient's presentation is infectious, not obstructive."},
+        {"option": "Observation", "reason": "Pneumonia requires active treatment with antibiotics. Observation alone would allow the infection to progress and could lead to complications like sepsis, respiratory failure, or abscess formation."},
+        {"option": "Anticoagulants", "reason": "These are used for pulmonary embolism or DVT prophylaxis/treatment. The patient's fever and localized crackles indicate infection, not thromboembolism."},
+        {"option": "needle thoracostomy", "reason": "This emergency procedure is for tension pneumothorax, which presents with absent breath sounds, hemodynamic instability, and tracheal deviation - none of which this patient has. It would be dangerous and inappropriate here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_8",
+    "case": "55 year-old man with past medical history of tobacco abuse presents with shortness of breath. His vitals are as follows Temperature 37, blood pressure 110/70, heart rate 120, O2 saturation 88%, respiratory rate 33 On examination, lungs were clear to auscultation. CXR failed to show any infiltrates. Which is the most likely diagnosis?",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Pulmonary embolism (PE) is most likely given the presentation of acute dyspnea with significant hypoxia (88%), tachycardia (120), and tachypnea (33) BUT clear lungs on auscultation and normal CXR. This combination is classic for PE - the ventilation/perfusion mismatch causes hypoxia without lung field abnormalities. The absence of fever also supports PE over infection.",
+      "incorrect": [
+        {"option": "Pneumonia", "reason": "Pneumonia would show infiltrates on CXR and produce abnormal lung sounds (crackles, bronchial breathing). Clear lungs on both examination and imaging rule out pneumonia."},
+        {"option": "COPD exacerbation", "reason": "COPD exacerbation typically presents with wheezing, prolonged expiration, and often shows hyperinflation on CXR. The completely clear lung exam makes this unlikely."},
+        {"option": "Simple pneumothorax", "reason": "Pneumothorax would show decreased/absent breath sounds on the affected side and be visible on CXR as a collapsed lung with visible pleural line. Clear auscultation and normal CXR exclude this."},
+        {"option": "Tension pneumothorax", "reason": "This would cause hemodynamic instability (hypotension), tracheal deviation, and absent breath sounds. The patient's normal blood pressure and clear lung sounds rule this out completely."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_9",
+    "case": "55-year-old man with past medical history of tobacco abuse presents with shortness of breath. His vitals are as follows Temperature 37, blood pressure 80/50, heart rate 120, O2 saturation 88%, respiratory rate 33 On examination, lungs were clear to auscultation. CXR failed to show any infiltrates. Which is the most likely treatment?",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Thrombolytics",
+      "Anticoagulants",
+      "needle thoracostomy"
+    ],
+    "correctAnswer": "Thrombolytics",
+    "explanation": {
+      "correct": "Thrombolytics are indicated for massive pulmonary embolism with hemodynamic instability. The key change from the previous case is hypotension (80/50), indicating massive PE with shock. Combined with tachycardia, severe hypoxia, clear lungs, and normal CXR, this represents a life-threatening PE requiring immediate clot dissolution with thrombolytics (tPA, streptokinase) to restore pulmonary blood flow.",
+      "incorrect": [
+        {"option": "Antibiotics", "reason": "No evidence of infection - normal temperature, clear lungs, normal CXR. The hemodynamic instability with clear lungs points to massive PE, not sepsis or pneumonia."},
+        {"option": "Steroids and bronchodilators", "reason": "These treat airway obstruction (asthma/COPD), but the lungs are clear with no wheezing. The hypotension and hypoxia with clear lungs indicate vascular obstruction (PE), not bronchospasm."},
+        {"option": "Anticoagulants", "reason": "While anticoagulation is standard for stable PE, this patient has hemodynamic instability (hypotension) indicating massive PE. Anticoagulation alone is insufficient - immediate thrombolysis is needed to prevent death."},
+        {"option": "needle thoracostomy", "reason": "This emergency procedure is for tension pneumothorax. The clear lung sounds, normal CXR, and absence of tracheal deviation exclude pneumothorax. The clinical picture is consistent with massive PE, not pneumothorax."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_10",
+    "case": "A 55 year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, diffuse wheezes were heard. CXR failed to show any infiltrates. Which is the most diagnosis?",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "COPD exacerbation",
+    "explanation": {
+      "correct": "COPD exacerbation is the most likely diagnosis. The patient is a smoker presenting with dyspnea, cough, and diffuse wheezes on examination - classic for bronchospasm in COPD. The absence of fever suggests non-infectious exacerbation (though infection can trigger COPD exacerbations). The normal CXR is consistent with COPD exacerbation without pneumonia.",
+      "incorrect": [
+        {"option": "Pneumonia", "reason": "Pneumonia causes focal crackles, not diffuse wheezes. Additionally, pneumonia typically presents with fever and shows infiltrates on CXR. The clear CXR and wheeze pattern exclude pneumonia."},
+        {"option": "Simple pneumothorax", "reason": "Pneumothorax presents with decreased/absent breath sounds on the affected side, not wheezes. It would also be visible on CXR as a collapsed lung. Wheezing indicates airway obstruction, not pleural disease."},
+        {"option": "Pulmonary embolism", "reason": "PE typically presents with clear lungs on auscultation, not wheezes. PE causes vascular obstruction leading to V/Q mismatch, not the airway obstruction that produces wheezing."},
+        {"option": "Tension pneumothorax", "reason": "This emergency condition causes absent breath sounds, tracheal deviation, and hemodynamic instability. The presence of bilateral wheezes and stable vitals completely exclude this diagnosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_11",
+    "case": "55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 37, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, diffuse wheezes were heard. CXR failed to show any infiltrates. Which is the most initial treatment?",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "needle thoracostomy"
+    ],
+    "correctAnswer": "Steroids and bronchodilators",
+    "explanation": {
+      "correct": "Steroids and bronchodilators are the cornerstone of COPD exacerbation treatment. Bronchodilators (beta-agonists like albuterol, anticholinergics like ipratropium) provide immediate relief by relaxing bronchial smooth muscle. Systemic corticosteroids reduce airway inflammation, shorten recovery time, and prevent relapse. This combination addresses both the acute bronchospasm and underlying inflammation.",
+      "incorrect": [
+        {"option": "Antibiotics", "reason": "While antibiotics may be added if bacterial infection is suspected, they're not the initial treatment for COPD exacerbation. The absence of fever and purulent sputum suggests non-infectious exacerbation. Bronchodilation is the priority."},
+        {"option": "Observation", "reason": "Active treatment is needed for symptomatic COPD exacerbation. The patient has wheezing and mild hypoxia requiring bronchodilators and steroids. Observation alone would allow progression and potential respiratory failure."},
+        {"option": "Anticoagulants", "reason": "These are for thromboembolic disease, not COPD. The diffuse wheezes clearly indicate airway obstruction requiring bronchodilators, not vascular pathology requiring anticoagulation."},
+        {"option": "needle thoracostomy", "reason": "This emergency procedure is for tension pneumothorax. The presence of bilateral wheezes (not absent sounds) and stable hemodynamics exclude pneumothorax. This invasive procedure would be harmful."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_12",
+    "case": "A 55 year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 90/60, heart rate 105, O2 saturation 93%. On examination, decrease air entry on the left hemithorax was heard and trachea was shifted to the right. Which is the most diagnosis?",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Tension pneumothorax",
+    "explanation": {
+      "correct": "Tension pneumothorax is diagnosed by the triad of: decreased air entry on affected side (left), tracheal deviation to opposite side (right), and hemodynamic compromise (BP 90/60). Air trapped under pressure in the pleural space compresses the lung, shifts mediastinal structures, and impairs venous return causing hypotension. This is a life-threatening emergency requiring immediate decompression.",
+      "incorrect": [
+        {"option": "Pneumonia", "reason": "Pneumonia causes crackles or bronchial breathing, not absent breath sounds. It doesn't cause tracheal deviation or acute hypotension. The mechanical compression signs point to tension pneumothorax."},
+        {"option": "COPD exacerbation", "reason": "COPD causes bilateral wheezing, not unilateral absent breath sounds. It doesn't cause tracheal deviation or acute hypotension. The asymmetric findings exclude COPD exacerbation."},
+        {"option": "Simple pneumothorax", "reason": "While simple pneumothorax causes decreased air entry, it doesn't cause tracheal deviation or hypotension. The mediastinal shift and hemodynamic instability distinguish tension from simple pneumothorax."},
+        {"option": "Pulmonary embolism", "reason": "PE doesn't cause unilateral absent breath sounds or tracheal deviation. PE affects the pulmonary vasculature, not the pleural space. The mechanical signs clearly indicate tension pneumothorax."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_13",
+    "case": "55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 90/60, heart rate 105, O2 saturation 93%. On examination, decrease air entry on the left hemithorax was heard and trachea was shifted to the right. Which is the most urgent treatment?",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "needle thoracostomy"
+    ],
+    "correctAnswer": "needle thoracostomy",
+    "explanation": {
+      "correct": "Needle thoracostomy (decompression) is the immediate life-saving treatment for tension pneumothorax. A large-bore needle is inserted into the 2nd intercostal space, midclavicular line to release trapped air and convert tension to simple pneumothorax. This must be done immediately - even before chest X-ray - as delay can cause cardiac arrest from impaired venous return.",
+      "incorrect": [
+        {"option": "Antibiotics", "reason": "Antibiotics treat infection, not mechanical compression. Tension pneumothorax is a mechanical emergency where trapped air is compressing vital structures. Antibiotics would have no effect and delay would be fatal."},
+        {"option": "Steroids and bronchodilators", "reason": "These treat airway inflammation/bronchospasm, not pleural space emergencies. The problem is air trapped outside the lung compressing it, not airway obstruction. These medications are useless for tension pneumothorax."},
+        {"option": "Observation", "reason": "Observation would be fatal. Tension pneumothorax is immediately life-threatening due to cardiovascular compromise. Every minute of delay increases mortality risk. Immediate decompression is mandatory."},
+        {"option": "Anticoagulants", "reason": "Anticoagulants are for thrombotic conditions and would be dangerous here. They could cause bleeding without addressing the mechanical compression. The patient needs immediate needle decompression, not anticoagulation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_14",
+    "case": "A 4 years old child presents with chronic cough. Fine consonating crepitations were detected on chest auscultation. Which of the following conditions can be excluded from differential diagnosis?",
+    "options": [
+      "Bronchiectasis",
+      "Left sided heart failure",
+      "Interstitial pulmonary fibrosis",
+      "Bronchial asthma",
+      "Pneumonia (especially in the early or late phases)"
+    ],
+    "correctAnswer": "Bronchial asthma",
+    "explanation": {
+      "correct": "Bronchial asthma can be excluded because it produces wheezes, not fine crepitations. Asthma is characterized by reversible airway obstruction causing high-pitched musical sounds (wheezes) due to turbulent airflow through narrowed airways. Fine crepitations indicate alveolar or interstitial pathology with fluid/fibrosis, which is not a feature of asthma.",
+      "incorrect": [
+        {"option": "Bronchiectasis", "reason": "Bronchiectasis commonly causes coarse crepitations, but can produce fine crepitations in early disease or upper lobe involvement. The chronic cough and crepitations are consistent with bronchiectasis, so it cannot be excluded."},
+        {"option": "Left sided heart failure", "reason": "Heart failure causes pulmonary edema leading to fine crepitations, typically at lung bases. While less common in children, conditions like cardiomyopathy or congenital heart disease can cause it. Cannot be excluded based on the findings."},
+        {"option": "Interstitial pulmonary fibrosis", "reason": "IPF classically causes fine, dry, 'velcro-like' crepitations. Though rare in children, it can occur in certain genetic conditions or post-inflammatory states. The fine crepitations are consistent with IPF."},
+        {"option": "Pneumonia (especially in the early or late phases)", "reason": "Early pneumonia can present with fine crepitations before consolidation develops. Resolving pneumonia also shows fine crepitations as consolidation clears. The chronic nature needs investigation but pneumonia cannot be excluded."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_15",
+    "case": "A 48-year-old obese woman complains of a sharp pain on the left side of her chest with difficulty breathing. The pain started a few hours ago and does not radiate anywhere, the patient also reports feeling increasingly short of breath and became extremely anxious when she started coughing blood-stained sputum, the patient states she has been flying all week on business trips and is getting 1 late for his next flight, what is-The most likely diagnosis is?",
+    "options": [
+      "Myocardial infarction",
+      "Muscular injury",
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pericarditis"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Pulmonary embolism (PE) is the most likely diagnosis given multiple risk factors and classic presentation. Risk factors include: obesity, prolonged immobility from frequent flying (venous stasis). Classic symptoms: sharp pleuritic chest pain, progressive dyspnea, hemoptysis (blood-stained sputum), and anxiety. The combination of risk factors with this triad of symptoms is pathognomonic for PE.",
+      "incorrect": [
+        {"option": "Myocardial infarction", "reason": "MI typically causes crushing central chest pain that radiates to arm/jaw, not sharp localized pain. Hemoptysis is not a feature of MI. The pleuritic nature and blood-stained sputum point to PE, not cardiac ischemia."},
+        {"option": "Muscular injury", "reason": "Musculoskeletal pain doesn't cause hemoptysis, progressive dyspnea, or severe anxiety. It's usually reproducible with movement/palpation and improves with rest. The systemic symptoms exclude simple muscle strain."},
+        {"option": "Pneumothorax", "reason": "While pneumothorax can cause sharp chest pain and dyspnea, it doesn't cause hemoptysis. The history of prolonged flights (PE risk factor) and blood-stained sputum strongly favor PE over pneumothorax."},
+        {"option": "Pericarditis", "reason": "Pericarditis causes sharp pain that's worse lying flat and better sitting forward. It doesn't cause hemoptysis. The pain is usually central, not unilateral, and the blood-stained sputum is incompatible with pericarditis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_16",
+    "case": "Which of the following is not presenting with permanent finger clubbing?",
+    "options": [
+      "Congenital cyanotic heart disease",
+      "Cystic fibrosis",
+      "Biliary cirrhosis",
+      "Bronchial asthma",
+      "Bronchiectasis"
+    ],
+    "correctAnswer": "Bronchial asthma",
+    "explanation": {
+      "correct": "Bronchial asthma does not cause finger clubbing. Asthma is a reversible airway disease characterized by bronchospasm and inflammation, but it doesn't cause the chronic hypoxia or inflammatory mediators that lead to clubbing. Even severe, long-standing asthma doesn't produce clubbing. If clubbing is present in an asthmatic, look for another cause.",
+      "incorrect": [
+        {"option": "Congenital cyanotic heart disease", "reason": "Causes clubbing through chronic hypoxemia and right-to-left shunting. The persistent low oxygen saturation triggers vascular endothelial growth factor (VEGF) release, leading to proliferation of connective tissue in fingertips."},
+        {"option": "Cystic fibrosis", "reason": "Causes severe clubbing due to chronic suppurative lung disease, bronchiectasis, and hypoxia. The chronic inflammation and infection release growth factors that promote digital clubbing. It's one of the classic causes."},
+        {"option": "Biliary cirrhosis", "reason": "Primary biliary cirrhosis causes clubbing through unclear mechanisms, possibly related to circulating vasodilators, inflammatory mediators, or arteriovenous shunting. It's a well-recognized hepatic cause of clubbing."},
+        {"option": "Bronchiectasis", "reason": "Causes clubbing through chronic suppurative inflammation. The persistent infection and inflammation in dilated airways release cytokines and growth factors that lead to proliferative changes in the nail bed."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_17",
+    "case": "A 5 years old patient, complain of bulky, greasy offensive fatty stool which is a repeated complain and the mother added that this is his usual stool and what truly concerns her is the repeated chest infection which needed hospitalization for four times, what is your diagnosis?",
+    "options": [
+      "Coeliac",
+      "Ulcerative colitis",
+      "infection",
+      "Crohn's",
+      "Cystic fibrosis"
+    ],
+    "correctAnswer": "Cystic fibrosis",
+    "explanation": {
+      "correct": "Cystic fibrosis (CF) is the diagnosis, presenting with the classic combination of: 1) Steatorrhea (bulky, greasy, offensive stools) due to pancreatic insufficiency - thick secretions block pancreatic ducts preventing enzyme release, 2) Recurrent chest infections requiring hospitalization - thick mucus in airways promotes bacterial colonization. This dual GI and respiratory involvement is pathognomonic for CF.",
+      "incorrect": [
+        {"option": "Coeliac", "reason": "Coeliac disease causes malabsorption and steatorrhea but doesn't cause recurrent chest infections. It's an isolated GI condition triggered by gluten, affecting small bowel villi. The respiratory involvement excludes coeliac."},
+        {"option": "Ulcerative colitis", "reason": "UC causes bloody diarrhea with mucus, not steatorrhea. It's limited to the colon and doesn't cause malabsorption or chest infections. The clinical picture is completely different from this case."},
+        {"option": "infection", "reason": "Simple GI infection would be acute and self-limiting, not causing chronic steatorrhea. It also wouldn't explain the recurrent chest infections. The chronic nature and multi-system involvement point to CF."},
+        {"option": "Crohn's", "reason": "While Crohn's can cause malabsorption if it affects the terminal ileum, it doesn't typically cause the severe steatorrhea seen here, and definitely doesn't cause recurrent chest infections. The respiratory involvement is key to diagnosing CF."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_18",
+    "case": "Wheezy chest in children is a common problem, the causes include which of the following",
+    "options": [
+      "Bronchial asthma",
+      "Foreign body in the airway",
+      "Acute bronchiolitis",
+      "Allergic bronchopulmonary aspergillosis",
+      "Pneumonia"
+    ],
+    "correctAnswer": "Pneumonia",
+    "explanation": {
+      "correct": "This is a 'which does NOT cause wheeze' question. Pneumonia typically causes crackles/crepitations due to alveolar fluid/consolidation, NOT wheeze. Wheeze is produced by airway narrowing causing turbulent airflow. Pneumonia affects alveoli (air sacs), not airways, so it produces crackling sounds as air moves through fluid-filled alveoli.",
+      "incorrect": [
+        {"option": "Bronchial asthma", "reason": "Asthma is THE classic cause of wheeze in children. Bronchospasm and airway inflammation narrow the airways, creating the high-pitched musical wheeze. It's the most common cause of recurrent wheeze in children."},
+        {"option": "Foreign body in the airway", "reason": "Foreign body causes unilateral wheeze by partially obstructing a bronchus. The turbulent airflow around the obstruction creates wheeze. It's an important differential for sudden-onset unilateral wheeze."},
+        {"option": "Acute bronchiolitis", "reason": "Bronchiolitis causes wheeze by inflammation and mucus plugging of small airways (bronchioles). It's the most common cause of wheeze in infants under 2 years, typically caused by RSV."},
+        {"option": "Allergic bronchopulmonary aspergillosis", "reason": "ABPA causes wheeze through allergic inflammation of airways in response to Aspergillus. It causes bronchospasm, mucus plugging, and central bronchiectasis, all producing wheeze."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_19",
+    "case": "Reviewing the chest X-ray of a preterm newborn, you observe diffuse, fine, reticulogranular densities, which provide a ground-glass appearance. On the basis of these radiographic findings, which of the following conditions should you suspect?",
+    "options": [
+      "Persistent pulmonary hypertension of the newborn",
+      "Transient tachypnea of the newborn",
+      "bronchopulmonary dysplasia",
+      "Respiratory distress syndrome",
+      "Congenital pneumonia"
+    ],
+    "correctAnswer": "Respiratory distress syndrome",
+    "explanation": {
+      "correct": "Respiratory distress syndrome (RDS/Hyaline membrane disease) shows the classic 'ground-glass' appearance with fine reticulogranular densities on CXR. This occurs due to surfactant deficiency in preterm infants, causing alveolar collapse. The diffuse, homogeneous haziness with air bronchograms is pathognomonic for RDS in a preterm baby.",
+      "incorrect": [
+        {"option": "Persistent pulmonary hypertension of the newborn", "reason": "PPHN shows clear or oligemic lung fields due to reduced pulmonary blood flow, not ground-glass appearance. The CXR may be normal or show decreased vascular markings, opposite to the described findings."},
+        {"option": "Transient tachypnea of the newborn", "reason": "TTN shows perihilar streaking, fluid in fissures, and hyperinflation - a 'wet lung' appearance. It doesn't show the fine reticulogranular pattern. TTN also typically affects term or near-term infants."},
+        {"option": "bronchopulmonary dysplasia", "reason": "BPD develops after weeks of mechanical ventilation and oxygen therapy. It shows cystic changes, hyperinflation, and fibrosis - not the acute ground-glass pattern. BPD is a chronic condition, not present at birth."},
+        {"option": "Congenital pneumonia", "reason": "Congenital pneumonia shows patchy infiltrates, consolidation, or diffuse haziness, but not the specific fine reticulogranular/ground-glass pattern. The distribution is usually more heterogeneous than RDS."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_20",
+    "case": "A 76-year-old woman presented by fracture neck of left femur and treated by total hip replacement. 4 days after surgery, the patient developed dyspnea and chest pain. On examination the temperature was 37.8, RR 32/min, pulse 105B/min, right lower limb edema. Chest x-ray showed unremarkable findings. D-dimer was 1012μg/L (N: <250μg/L). The most suspected diagnosis is:",
+    "options": [
+      "Wound infection and sepsis",
+      "Fat embolism after surgery",
+      "Pneumonia complicating anesthesia",
+      "Pulmonary embolism",
+      "Heart failure due to undiagnosed cardiac valve disease"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Pulmonary embolism is the most likely diagnosis. Classic presentation: post-orthopedic surgery (major risk factor), acute dyspnea and chest pain, tachypnea (32/min), tachycardia (105/min), unilateral leg edema (suggesting DVT source), clear CXR despite respiratory symptoms, and markedly elevated D-dimer (>4x normal). Hip surgery carries very high PE risk due to venous stasis, endothelial injury, and hypercoagulability.",
+      "incorrect": [
+        {"option": "Wound infection and sepsis", "reason": "Sepsis would cause higher fever, hypotension, and systemic signs. The mild temperature elevation (37.8°C) and specific respiratory symptoms with unilateral leg swelling point to PE, not sepsis."},
+        {"option": "Fat embolism after surgery", "reason": "Fat embolism typically occurs within 24-72 hours of long bone fracture, presents with petechial rash, confusion, and bilateral infiltrates on CXR. The clear CXR and absence of neurological symptoms exclude this."},
+        {"option": "Pneumonia complicating anesthesia", "reason": "Post-operative pneumonia would show infiltrates on CXR, higher fever, and productive cough. The clear CXR, elevated D-dimer, and leg edema strongly favor PE over pneumonia."},
+        {"option": "Heart failure due to undiagnosed cardiac valve disease", "reason": "Heart failure would cause bilateral leg edema, pulmonary edema on CXR, and wouldn't explain the markedly elevated D-dimer. The unilateral edema and clear CXR exclude heart failure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_21",
+    "case": "A 64-year-old man noted to have congestive heart failure because of coronary artery disease. Over the past 2 days, he has developed progressive dyspnea and orthopnea. On examination, he is found to be in moderate respiratory distress, has jugular venous distention, and rales on pulmonary examination. He is diagnosed with pulmonary edema. Which of the following drugs is most appropriate currently?",
+    "options": [
+      "Carvedilol",
+      "Digitalis",
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Spironolactone"
+    ],
+    "correctAnswer": "Furosemide",
+    "explanation": {
+      "correct": "Furosemide (loop diuretic) is the most appropriate immediate treatment for acute pulmonary edema. It provides rapid symptom relief through: 1) Immediate venodilation (even before diuresis), reducing preload, 2) Potent diuresis removing excess fluid from lungs and reducing circulating volume. Loop diuretics are first-line for acute decompensated heart failure with volume overload.",
+      "incorrect": [
+        {"option": "Carvedilol", "reason": "Beta-blockers like carvedilol are contraindicated in acute decompensated heart failure. They reduce cardiac output and can worsen pulmonary edema. Beta-blockers are used in stable, chronic heart failure, not acute exacerbations."},
+        {"option": "Digitalis", "reason": "Digoxin has a slow onset of action and is not used for acute pulmonary edema. It's reserved for chronic heart failure with atrial fibrillation or as add-on therapy. The patient needs immediate preload reduction, not inotropic support."},
+        {"option": "Hydrochlorothiazide", "reason": "Thiazide diuretics are too weak for acute pulmonary edema. They're used in mild chronic heart failure or hypertension. The patient needs the potent, rapid diuresis that only loop diuretics provide."},
+        {"option": "Spironolactone", "reason": "Potassium-sparing diuretics like spironolactone have weak diuretic effects and slow onset. They're used for chronic heart failure mortality benefit and to prevent hypokalemia, not for acute pulmonary edema treatment."}
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_22",
+    "case": "67. A 7-year-old boy presents with fever 39.2 and right sided abdominal pain. His mother gives history of poor appetite and cough for 2 days. On examination HR: 120/minute, RR: 45/minute breath sounds are diminished with bronchial breathing over right lower lung zone and abdomen is diffusely tense, which of the following is the initial diagnostic test? [2/2023T_2/2023R_5/2023M_6/2023S_6/2023R]",
+    "options": [
+      "Abdominal CT",
+      "Abdominal ultrasound",
+      "Chest X ray",
+      "Liver function tests",
+      "Examination under anesthesia"
+    ],
+    "correctAnswer": "Chest X ray",
+    "explanation": {
+      "correct": "The child presents with fever, cough, tachypnea, and focal chest findings (bronchial breathing, diminished breath sounds), strongly suggestive of pneumonia affecting the right lower lobe. Right-sided lower lobe pneumonia can irritate the diaphragm and present with abdominal pain that mimics an acute abdomen. The first-line and most suitable diagnostic tool to confirm pneumonia is a chest X-ray, not abdominal imaging, because the primary suspicion is respiratory.",
+      "incorrect": [
+        { "option": "Abdominal CT", "reason": "Over-investigation in this context. The signs point to pneumonia, not an intra-abdominal cause. CT would expose unnecessary radiation without being first-line." },
+        { "option": "Abdominal ultrasound", "reason": "Can pick up abdominal pathology (appendicitis, intussusception), but here the abdominal pain is referred from the inflamed lower lobe of the lung, not primary abdominal pathology." },
+        { "option": "Liver function tests", "reason": "Not useful initially. There is no suspicion of primary hepatobiliary disease, and LFT abnormalities would not explain the acute chest findings." },
+        { "option": "Examination under anesthesia", "reason": "Reserved for acute surgical abdomen cases or suspected foreign body in anorectal/GU tracts, not in pneumonia presentation." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_23",
+    "case": "68. Sign' that refers to a spontaneous cessation of inspiration on palpation of the hypochondrium just below the right costal margin. What is the eponymous sign or law being described? [1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_6/2023R_2/2024T_8/2024S]",
+    "options": [
+      "Courvoisier’s",
+      "Rovsing’s",
+      "Murphy’s",
+      "Grey Turner’s",
+      "Battle’s"
+    ],
+    "correctAnswer": "Murphy’s",
+    "explanation": {
+      "correct": "Murphy’s sign is classically elicited when the examiner places their hand at the right costal margin (at the mid-clavicular line) and asks the patient to inspire deeply. A positive test is when the patient suddenly halts inspiration due to pain from an inflamed gallbladder coming into contact with the examiner’s hand. This indicates acute cholecystitis.",
+      "incorrect": [
+        { "option": "Courvoisier’s", "reason": "Courvoisier’s law refers to palpable, non-tender gallbladder with jaundice → usually indicates malignant obstruction (e.g., pancreatic carcinoma), not acute tenderness." },
+        { "option": "Rovsing’s", "reason": "Rovsing’s sign is pain in the right iliac fossa on palpation of the left iliac fossa, seen in appendicitis, not gallbladder disease." },
+        { "option": "Grey Turner’s", "reason": "This is flank ecchymosis due to retroperitoneal hemorrhage, typically in severe acute pancreatitis, not cholecystitis." },
+        { "option": "Battle’s", "reason": "Refers to postauricular ecchymosis, seen in basal skull fracture, not abdominal pathologies." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_24",
+    "case": "69. A 4-year-old girl presents with coryzal symptoms, cough, fever & abdominal pain. There is no dysuria, & urine dipstick is unremarkable. On examination, the pain is in the left upper quadrant but is not severe. Which of the following is the most likely diagnosis? [1/2023M_5/2023M_6/2023R]",
+    "options": [
+      "Urinary tract infection (UTI)",
+      "Appendicitis",
+      "Pyelonephritis",
+      "Left basal chest infection",
+      "Mesenteric adenitis"
+    ],
+    "correctAnswer": "Left basal chest infection",
+    "explanation": {
+      "correct": "Children often present with atypical symptoms of pneumonia, especially lower lobe pneumonia. Abdominal pain (especially upper quadrant) can occur due to diaphragmatic irritation. The child has fever, respiratory symptoms (cough, coryza), and a normal urine test, making a chest infection the most likely explanation.",
+      "incorrect": [
+        { "option": "Urinary tract infection (UTI)", "reason": "No dysuria, frequency, or positive urine dipstick. Unlikely given the chest symptoms." },
+        { "option": "Appendicitis", "reason": "Pain location (LUQ) is atypical, and the child has clear chest signs. Appendicitis usually presents with RIF pain, guarding, and systemic signs but lacks cough/coryza." },
+        { "option": "Pyelonephritis", "reason": "Would have urinary symptoms and systemic toxicity; urine test is normal here." },
+        { "option": "Mesenteric adenitis", "reason": "Usually follows viral illness with abdominal pain, but associated chest signs strongly point to pneumonia instead." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_25",
+    "case": "70. A 63-year-old woman is admitted to the hospital with severe abdominal pain of 3-hour duration. Abdominal examination reveals board-like rigidity, guarding, and rebound tenderness. Her blood pressure is 90/50 mm Hg, pulse 110 bpm (beats per minute), and respiratory rate is 30 breaths per minute. After a thorough history and physical, and initiation of fluid resuscitation, which of the following is the diagnostic study that should be performed? [1/2023M_2/2023T_2/2023R_6/2023S_6/2023R_11/2023T_8/2024R]",
+    "options": [
+      "Supine abdominal x-rays",
+      "Upright chest x-ray",
+      "Gastrograffin swallow",
+      "Computerized axial tomography (CAT) scan of the abdomen",
+      "Abdominal sonogram"
+    ],
+    "correctAnswer": "Upright chest x-ray",
+    "explanation": {
+      "correct": "This presentation suggests perforated viscus (sudden severe pain, rigid abdomen, peritonitis, shock). The most rapid, sensitive, and accessible test to demonstrate free intraperitoneal air is an upright chest X-ray, which can reveal free subdiaphragmatic air. It is the initial diagnostic study of choice in emergency settings.",
+      "incorrect": [
+        { "option": "Supine abdominal x-rays", "reason": "Less sensitive for free air than an upright chest X-ray. Free air may layer anteriorly and be missed." },
+        { "option": "Gastrograffin swallow", "reason": "Used in suspected esophageal perforation, not generalized peritonitis." },
+        { "option": "Computerized axial tomography (CAT) scan of the abdomen", "reason": "Highly sensitive but not the initial test in an unstable patient; immediate CXR is quicker and safer." },
+        { "option": "Abdominal sonogram", "reason": "Useful for fluid (ascites, effusion, gallstones), but not good for detecting free intraperitoneal air." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_26",
+    "case": "A 55-year-otd female patient underwent pelvic surgery. On the 10th day postoperative, she developed severe shortness of breath with chest tightness. Examination revealed pulse 110 bp min., BP 80/50 mmHg with central cyanosis. Chest examination was unremarkable. Which of the following is the most suitable treatment to start? [1/2023M_2/2023T_2/2023R_6/2023S_6/2023R]",
+    "options": [
+      "Antithrombotic Enzymes",
+      "Clopidogrel",
+      "IV fluids",
+      "Aspirin",
+      "Warfarin"
+    ],
+    "correctAnswer": "IV fluids",
+    "explanation": {
+      "correct": "This woman developed sudden severe dyspnea and hypotension postoperatively with central cyanosis — a classic presentation of massive pulmonary embolism leading to obstructive shock. While definitive therapy involves anticoagulation and sometimes thrombolysis, the MOST immediate and suitable treatment in this unstable patient is intravenous fluid resuscitation to support circulation and right heart preload before initiating definitive anticoagulation or advanced therapies.",
+      "incorrect": [
+        { "option": "Antithrombotic Enzymes", "reason": "This is a vague term but typically refers to thrombolytics. Thrombolysis is indeed indicated in massive unstable PE, but before that, initial supportive management with fluids is critical." },
+        { "option": "Clopidogrel", "reason": "An antiplatelet agent used in arterial thrombosis (MI, stroke), not in venous thromboembolism like PE." },
+        { "option": "Aspirin", "reason": "Also an antiplatelet agent, not useful for venous embolism. Has no role in acute PE management." },
+        { "option": "Warfarin", "reason": "This is for long-term anticoagulation. It has delayed onset and cannot be used acutely in unstable patients." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_27",
+    "case": "A 55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 38.5, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, crackles on the right lower lobe were heard. Which is the most likely diagnosis? [11/2020T_10/2020T]",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Pneumonia",
+    "explanation": {
+      "correct": "The patient has fever, cough, hypoxemia, and localized crackles in the right lower lobe — all pointing toward community-acquired pneumonia. Smoking is a risk factor, but the acute febrile presentation with focal chest signs fits pneumonia best.",
+      "incorrect": [
+        { "option": "COPD exacerbation", "reason": "COPD exacerbations usually present with increased sputum, wheeze, and without lobar crackles or high fever unless complicated by pneumonia." },
+        { "option": "Simple pneumothorax", "reason": "This would present with unilateral decreased breath sounds and hyperresonance, not fever and focal crackles." },
+        { "option": "Pulmonary embolism", "reason": "PE causes sudden dyspnea, chest pain, hypoxemia, but usually no fever or focal crackles." },
+        { "option": "Tension pneumothorax", "reason": "Would result in severe respiratory distress, hypotension, tracheal deviation, absent breath sounds — not consistent with this case." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_28",
+    "case": "A 55 year old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 38.5, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, crackles on the right lower lobe were heard. Which is the most likely treatment [11/2020T_10/2020T]",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "Needle thoracostomy"
+    ],
+    "correctAnswer": "Antibiotics",
+    "explanation": {
+      "correct": "This is a continuation of the previous case (classic pneumonia presentation). The cornerstone of treatment for bacterial pneumonia is prompt initiation of antibiotics, tailored to typical organisms and risk factors.",
+      "incorrect": [
+        { "option": "Steroids and bronchodilators", "reason": "These are used in COPD/asthma exacerbations rather than bacterial pneumonia." },
+        { "option": "Observation", "reason": "Dangerous in a febrile, hypoxemic patient with crackles; infection must be treated." },
+        { "option": "Anticoagulants", "reason": "Indicated in pulmonary embolism, not pneumonia." },
+        { "option": "Needle thoracostomy", "reason": "Life-saving in tension pneumothorax, but examination here does not match that diagnosis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_29",
+    "case": "A 55 year-old man with past medical history of tobacco abuse presents with shortness of breath. His vitals are as follows Temperature 37, blood pressure 110/70, heart rate 120, O2 saturation 88%, respiratory rate 33 On examination, lungs were clear to auscultation. CXR failed to show any infiltrates. Which is the most likely diagnosis [11/2020T_10/2020T]",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Clear lungs despite tachypnea, hypoxemia, and sudden dyspnea with no infiltrates on CXR point towards pulmonary embolism. It's a common pitfall: severe hypoxia with a normal chest exam and x-ray should always raise suspicion for PE.",
+      "incorrect": [
+        { "option": "Pneumonia", "reason": "Would show fever, infiltrates on CXR, local crackles — not clear lungs with no infiltrates." },
+        { "option": "COPD exacerbation", "reason": "Usually with wheezing, sputum production, and history of COPD — not clear chest." },
+        { "option": "Simple pneumothorax", "reason": "Would cause reduced breath sounds and hyperresonance on one side, not normal auscultation bilaterally." },
+        { "option": "Tension pneumothorax", "reason": "Would cause hypotension, tracheal deviation, and absent breath sounds — absent here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_30",
+    "case": "A 55-year-old man with past medical history of tobacco abuse presents with shortness of breath. His vitals are as follows Temperature 37, blood pressure 80/50, heart rate 120, O2 saturation 88%, respiratory rate 33. On examination, lungs were clear to auscultation. CXR failed to show any infiltrates. Which is the most likely treatment? [11/2020T_10/2020T]",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Thrombolytics",
+      "Anticoagulants",
+      "Needle thoracostomy"
+    ],
+    "correctAnswer": "Thrombolytics",
+    "explanation": {
+      "correct": "This patient is unstable (hypotension, tachycardia, hypoxemia, and clear lungs with a normal x-ray). This is massive pulmonary embolism. In the case of massive PE with hemodynamic instability, the most appropriate and life-saving initial management is thrombolytic therapy (systemic fibrinolysis), which helps to rapidly dissolve the obstructing clot.",
+      "incorrect": [
+        { "option": "Antibiotics", "reason": "Would treat pneumonia but here there is no infiltrate, no fever, and chest x-ray is clear." },
+        { "option": "Steroids and bronchodilators", "reason": "Indicated in asthma or COPD exacerbations, but chest sounds are clear and no wheeze is reported." },
+        { "option": "Anticoagulants", "reason": "Heparin or LMWH is used in stable PE. In unstable massive PE, urgent thrombolysis is superior and life-saving." },
+        { "option": "Needle thoracostomy", "reason": "This is the emergency treatment for tension pneumothorax, but here there’s no unilateral absent breath sounds or tracheal shift." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_31",
+    "case": "A 55 year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, diffuse wheezes were heard. CXR failed to show any infiltrates. Which is the most diagnosis [11/2020T_10/2020T_1/2023M_6/2023S]",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "COPD exacerbation",
+    "explanation": {
+      "correct": "Diffuse wheezes in a smoker with chronic symptoms and no infiltrates on CXR point toward COPD exacerbation. Infection or environmental triggers commonly cause worsening breathlessness, and the presence of wheezes confirms obstructive airway disease.",
+      "incorrect": [
+        { "option": "Pneumonia", "reason": "Would present with fever, focal crackles, and infiltrates seen in chest x-ray, which are absent here." },
+        { "option": "Simple pneumothorax", "reason": "Would present with unilateral decreased air entry and hyperresonance, not bilateral diffuse wheezes." },
+        { "option": "Pulmonary embolism", "reason": "PE gives clear lungs, hypoxemia, pleuritic chest pain or sudden collapse rather than diffuse wheezing." },
+        { "option": "Tension pneumothorax", "reason": "Would present acutely with hypotension, tracheal deviation, and absent breath sounds, none of which are found here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_32",
+    "case": "A 55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows temperature 37, blood pressure 110/70, heart rate 105, O2 saturation 93%. On examination, diffuse wheezes were heard. CXR failed to show any infiltrates. Which is the most initial treatment? [11/2020T_10/2020T]",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "Needle thoracostomy"
+    ],
+    "correctAnswer": "Steroids and bronchodilators",
+    "explanation": {
+      "correct": "The patient has COPD exacerbation. First-line management involves bronchodilator therapy such as nebulized beta-agonists or anticholinergics, often combined with systemic corticosteroids to reduce airway inflammation and improve symptoms.",
+      "incorrect": [
+        { "option": "Antibiotics", "reason": "Antibiotics may be considered if there’s evidence of bacterial infection (increased sputum purulence, fever, infiltrates), not the primary initial step here." },
+        { "option": "Observation", "reason": "Dangerous delay; the patient is symptomatic with hypoxemia and needs active management." },
+        { "option": "Anticoagulants", "reason": "Useful for PE but the clinical picture is airway obstruction with wheeze, not embolism." },
+        { "option": "Needle thoracostomy", "reason": "For life-threatening tension pneumothorax. Not applicable with bilateral wheezing and stable BP." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_33",
+    "case": "A 55 year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 90/60, heart rate 105, O2 saturation 93%. On examination, decrease air entry on the left hemithorax was heard and trachea was shifted to the right. Which is the most diagnosis [11/2020T_10/2020T_5/2023M]",
+    "options": [
+      "Pneumonia",
+      "COPD exacerbation",
+      "Simple pneumothorax",
+      "Pulmonary embolism",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Tension pneumothorax",
+    "explanation": {
+      "correct": "The presence of decreased air entry on the left, tracheal deviation to the opposite side, hypotension, and tachycardia indicates tension pneumothorax — a life-threatening emergency caused by progressive accumulation of air under pressure in the pleural space compressing the mediastinum.",
+      "incorrect": [
+        { "option": "Pneumonia", "reason": "Would cause infiltrates and crackles, not tracheal deviation." },
+        { "option": "COPD exacerbation", "reason": "Typically bilateral diffuse wheezing, not unilateral absent breath sounds with mediastinal shift." },
+        { "option": "Simple pneumothorax", "reason": "Would cause unilateral decreased sounds, but no hemodynamic compromise or tracheal shift seen with tension type." },
+        { "option": "Pulmonary embolism", "reason": "Would cause sudden dyspnea with clear lungs, not absent breath sounds and tracheal deviation." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_34",
+    "case": "A 55-year-old man with past medical history of tobacco abuse presents with shortness of breath and cough. His vitals are as follows Temperature 37, blood pressure 90/60, heart rate 105, O2 saturation 93%. On examination, decrease air entry on the left hemithorax was heard and trachea was shifted to the right. Which is the most urgent treatment? [11/2020T_10/2020T_1/2021T_10/2021T]",
+    "options": [
+      "Antibiotics",
+      "Steroids and bronchodilators",
+      "Observation",
+      "Anticoagulants",
+      "Needle thoracostomy"
+    ],
+    "correctAnswer": "Needle thoracostomy",
+    "explanation": {
+      "correct": "In a tension pneumothorax with hemodynamic instability (low BP, tracheal deviation, decreased unilateral breath sounds), the life-saving immediate treatment is emergent decompression by needle thoracostomy (large bore needle inserted in second intercostal space, midclavicular line) followed by chest tube placement.",
+      "incorrect": [
+        { "option": "Antibiotics", "reason": "Pneumonia treatment — does not address the life-threatening collapse." },
+        { "option": "Steroids and bronchodilators", "reason": "Used for COPD/asthma exacerbation, not appropriate here." },
+        { "option": "Observation", "reason": "Delay will be fatal, this is an emergency needing immediate decompression." },
+        { "option": "Anticoagulants", "reason": "Related to pulmonary embolism treatment, irrelevant here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_35",
+    "case": "A 4 years old child presents with chronic cough. Fine consonating crepitations were detected on chest auscultation. Which of the following conditions can be excluded from differential diagnosis? [11/2020T_1/2023M_6/2023S_11/2023S_2/2024T_8/2024T]",
+    "options": [
+      "Bronchiectasis",
+      "Left sided heart failure",
+      "Interstitial pulmonary fibrosis",
+      "Bronchial asthma",
+      "Pneumonia (especially in the early or late phases)"
+    ],
+    "correctAnswer": "Bronchial asthma",
+    "explanation": {
+      "correct": "Asthma presents with wheezing due to airway narrowing and bronchospasm, not fine crepitations. Chronic cough with fine crepitations is typically caused by bronchiectasis, fibrosis, or even recurrent pneumonia. Thus, asthma can be excluded from the differential here.",
+      "incorrect": [
+        { "option": "Bronchiectasis", "reason": "Causes chronic productive cough and crackles from dilated bronchi and mucus stasis." },
+        { "option": "Left sided heart failure", "reason": "Pulmonary edema results in basal crepitations due to fluid in alveoli." },
+        { "option": "Interstitial pulmonary fibrosis", "reason": "Causes fine 'Velcro' crepitations with chronic progressive breathlessness." },
+        { "option": "Pneumonia", "reason": "At early or resolving stages, fine crepitations can indeed be present." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_36",
+    "case": "A 48-year-old obese woman complains of a sharp pain on the left side of her chest with difficulty breathing. The pain started a few hours ago and does not radiate anywhere, the patient also reports feeling increasingly short of breath and became extremely anxious when she started coughing blood-stained sputum, the patient states she has been flying all week on business trips. What is the most likely diagnosis? [1/2023M_6/2023S]",
+    "options": [
+      "Myocardial infarction",
+      "Muscular injury",
+      "Pneumothorax",
+      "Pulmonary embolism",
+      "Pericarditis"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Multiple risk factors including obesity, prolonged air travel (risk of DVT), sudden pleuritic chest pain, dyspnea, hemoptysis, and anxiety point strongly to pulmonary embolism.",
+      "incorrect": [
+        { "option": "Myocardial infarction", "reason": "Usually central crushing chest pain radiating to left arm/jaw, not sudden pleuritic pain with hemoptysis." },
+        { "option": "Muscular injury", "reason": "Would cause localized tenderness reproducible with movement, not hypoxia and hemoptysis." },
+        { "option": "Pneumothorax", "reason": "Would cause sudden chest pain and SOB but no hemoptysis nor flight-DVT risk factors." },
+        { "option": "Pericarditis", "reason": "Sharp central pain improved by sitting forward, may follow viral infection, not associated with hemoptysis or DVT risk." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_37",
+    "case": "Which of the following is not presenting with permanent finger clubbing? [11/2022R]",
+    "options": [
+      "Congenital cyanotic heart disease",
+      "Cystic fibrosis",
+      "Biliary cirrhosis",
+      "Bronchial asthma",
+      "Bronchiectasis"
+    ],
+    "correctAnswer": "Bronchial asthma",
+    "explanation": {
+      "correct": "Asthma does not cause permanent digital clubbing. Clubbing is associated with long-standing hypoxia (congenital cyanotic heart disease, CF, bronchiectasis) or chronic suppurative/malignant processes. Biliary cirrhosis can also cause clubbing. Asthma attacks are intermittent and do not cause chronic hypoxemia leading to clubbing.",
+      "incorrect": [
+        { "option": "Congenital cyanotic heart disease", "reason": "Chronic hypoxemia from right-to-left shunting causes clubbing." },
+        { "option": "Cystic fibrosis", "reason": "Chronic suppurative lung infections and hypoxemia lead to clubbing." },
+        { "option": "Biliary cirrhosis", "reason": "Chronic liver disease can produce secondary clubbing." },
+        { "option": "Bronchiectasis", "reason": "Chronic suppurative airway disease often associated with clubbing." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_38",
+    "case": "A 5 years old patient, complain of bulky, greasy offensive fatty stool which is a repeated complain and the mother added that this is his usual stool and what truly concerns her is the repeated chest infection which needed hospitalization for four times, what is your diagnosis? [10/2021T_11/2022R]",
+    "options": [
+      "Coeliac",
+      "Ulcerative colitis",
+      "Infection",
+      "Crohn's",
+      "Cystic fibrosis"
+    ],
+    "correctAnswer": "Cystic fibrosis",
+    "explanation": {
+      "correct": "Cystic fibrosis is the classic presentation of steatorrhea (greasy offensive stools due to pancreatic insufficiency) plus recurrent pulmonary infections requiring hospitalization. The triad of fat malabsorption, growth problems, and recurrent chest infections is highly typical of CF.",
+      "incorrect": [
+        { "option": "Coeliac", "reason": "Causes malabsorption and bulky stools but would not explain repeated chest infections." },
+        { "option": "Ulcerative colitis", "reason": "Characterized by bloody diarrhea and abdominal pain, not fatty stools or chest infections." },
+        { "option": "Infection", "reason": "Single infection can cause symptoms but not the combination of chronic steatorrhea + recurrent admissions." },
+        { "option": "Crohn's", "reason": "Causes diarrhea, abdominal pain, weight loss but not recurrent lung infections." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_39",
+    "case": "Wheezy chest in children is a common problem, the causes include which of the following [12/2020T_12/2021T_11/2022R]",
+    "options": [
+      "Bronchial asthma",
+      "Foreign body in the airway",
+      "Acute bronchiolitis",
+      "Allergic bronchopulmonary aspergillosis",
+      "Pneumonia"
+    ],
+    "correctAnswer": "Pneumonia",
+    "explanation": {
+      "correct": "While wheeze is commonly due to asthma, bronchiolitis, or airway obstruction, it is not a classic feature of pneumonia. Pneumonia typically presents with crackles, bronchial breathing, dullness, fever, not generalized wheeze. Hence pneumonia is not usually a cause of wheezy chest in children.",
+      "incorrect": [
+        { "option": "Bronchial asthma", "reason": "Most frequent cause of recurrent wheezy chest." },
+        { "option": "Foreign body in the airway", "reason": "Can acutely cause unilateral wheeze and obstruction in children." },
+        { "option": "Acute bronchiolitis", "reason": "Classic cause of wheeze in infants, especially due to RSV." },
+        { "option": "Allergic bronchopulmonary aspergillosis", "reason": "Can complicate asthma/CF with wheezing exacerbations." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_40",
+    "case": "Reviewing the chest X-ray of a preterm newborn, you observe diffuse, fine, reticulogranular densities, which provide a ground-glass appearance. On the basis of these radiographic findings, which of the following conditions should you suspect? [11/2021R_11/2022R_11/2023S_11/2023R_8/2024T_8/2024S]",
+    "options": [
+      "Persistent pulmonary hypertension of the newborn",
+      "Transient tachypnea of the newborn",
+      "Bronchopulmonary dysplasia",
+      "Respiratory distress syndrome",
+      "Congenital pneumonia"
+    ],
+    "correctAnswer": "Respiratory distress syndrome",
+    "explanation": {
+      "correct": "A classic CXR of neonatal RDS shows diffuse fine reticulogranular densities or a 'ground glass' appearance with air bronchograms. This condition is due to surfactant deficiency in premature babies leading to alveolar collapse. It is the hallmark appearance of hyaline membrane disease (neonatal RDS).",
+      "incorrect": [
+        { "option": "Persistent pulmonary hypertension of the newborn", "reason": "Would manifest with severe hypoxemia without the ground-glass pattern on CXR." },
+        { "option": "Transient tachypnea of the newborn", "reason": "Usually term infants, CXR shows prominent vascular markings and fluid but not ground-glass densities." },
+        { "option": "Bronchopulmonary dysplasia", "reason": "Chronic result of long-term ventilation — shows thickened interstitium and irregular opacities, not uniform ground-glass." },
+        { "option": "Congenital pneumonia", "reason": "Shows patchy infiltrates or consolidation, not diffuse ground-glass with air bronchograms." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_41",
+    "case": "A 76-year-old woman presented by fracture neck of left femur and treated by total hip replacement. 4 days after surgery, the patient developed dyspnea and chest pain. On examination the temperature was 37.8, RR 32/min, pulse 105B/min, right lower limb edema. Chest x-ray showed unremarkable findings. D-dimer was 1012μg/L (N: <250μg/L). The most suspected diagnosis is: [11/2020T_11/2021R_1/2022T_5/2022M_11/2022R_2/2023S_11/2023T]",
+    "options": [
+      "Wound infection and sepsis",
+      "Fat embolism after surgery",
+      "Pneumonia complicating anesthesia",
+      "Pulmonary embolism",
+      "Heart failure due to undiagnosed cardiac valve disease"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "This elderly post-op patient with sudden dyspnea, chest pain, tachypnea, hypoxemia but clear CXR and markedly high D-dimer has typical features of pulmonary embolism. Post-surgical immobility and limb edema increase risk of DVT leading to PE.",
+      "incorrect": [
+        { "option": "Wound infection and sepsis", "reason": "Sepsis would present with fever, tachycardia, hypotension and local wound changes — not sudden dyspnea with clear x-ray and limb edema." },
+        { "option": "Fat embolism after surgery", "reason": "Typically occurs after long bone fractures, manifests with petechial rash, neuro signs, confusion, altered mental status — not just PE-like presentation." },
+        { "option": "Pneumonia complicating anesthesia", "reason": "Would show fever and infiltrates on CXR; here CXR is unremarkable." },
+        { "option": "Heart failure due to valve disease", "reason": "Heart failure shows pulmonary congestion on CXR, elevated JVP and pedal edema — not sudden post-op hypoxia with normal CXR." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_42",
+    "case": "A 64-year-old man noted to have congestive heart failure because of coronary artery disease. Over the past 2 days, he has developed progressive dyspnea and orthopnea. On examination, he is found to be in moderate respiratory distress, has jugular venous distention, and rales on pulmonary examination. He is diagnosed with pulmonary edema. Which of the following drugs is most appropriate currently? [2/2023S]",
+    "options": [
+      "Carvedilol",
+      "Digitalis",
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Spironolactone"
+    ],
+    "correctAnswer": "Furosemide",
+    "explanation": {
+      "correct": "In acute pulmonary edema, the patient is fluid overloaded and needs rapid relief. IV loop diuretics such as furosemide act quickly to reduce intravascular volume and pulmonary congestion, improving dyspnea.",
+      "incorrect": [
+        { "option": "Carvedilol", "reason": "A beta-blocker used for chronic heart failure management — contraindicated acutely as it may worsen decompensation." },
+        { "option": "Digitalis", "reason": "Used in atrial fibrillation for rate control or CHF with low EF, but does not rapidly relieve pulmonary edema." },
+        { "option": "Hydrochlorothiazide", "reason": "Thiazide diuretic is slower and weak for acute decompensation." },
+        { "option": "Spironolactone", "reason": "Potassium-sparing diuretic used for long-term CHF management, not rapid relief." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_43",
+    "case": "A 59-year-old man with a known history of chronic obstructive pulmonary disease presents with worsening dyspnea. On examination he is afebrile. His breath sounds are decreased bilaterally. He is noted to have jugular venous distension (JVD) and 2+ pitting edema of the lower extremities. Which of the following is the most likely cause of worsening his condition? [2/2021R_10/2021T_1/2023M_11/2023T_2/2024T_2/2024S]",
+    "options": [
+      "COPD exacerbation",
+      "Pneumonia",
+      "Pneumothorax",
+      "Cor pulmonale",
+      "Bronchogenic carcinoma"
+    ],
+    "correctAnswer": "Cor pulmonale",
+    "explanation": {
+      "correct": "This COPD patient presents with right heart failure signs (JVD, pitting edema) without fever or infection signs. This is cor pulmonale: right ventricular enlargement and failure secondary to chronic lung disease and pulmonary hypertension.",
+      "incorrect": [
+        { "option": "COPD exacerbation", "reason": "Would present with wheezing, worsening cough and sputum — here systemic venous congestion is more prominent." },
+        { "option": "Pneumonia", "reason": "Would cause fever, productive cough, infiltrates on chest x-ray, not generalized edema and JVD." },
+        { "option": "Pneumothorax", "reason": "Would cause sudden collapse, unilateral absent breath sounds, not gradual edema and JVD without pain." },
+        { "option": "Bronchogenic carcinoma", "reason": "Chronic cough, hemoptysis, weight loss, not acute worsening of right heart failure signs." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_44",
+    "case": "A 2-year-old boy presents to the emergency room with sudden onset of difficulty of breathing, cough and cyanosis. The boy was active all through the day and developed difficult breathing while playing with his lego bricks. What is the most likely diagnosis? [10/2021T_11/2022R_2/2023S_11/2023T_2/2024S]",
+    "options": [
+      "Bronchopneumonia",
+      "Bronchiolitis",
+      "Croup",
+      "Foreign body aspiration",
+      "Bronchitis"
+    ],
+    "correctAnswer": "Foreign body aspiration",
+    "explanation": {
+      "correct": "Classic story of a previously healthy toddler suddenly choking while playing with toys, followed by acute dyspnea and cyanosis. Sudden onset with clear triggering event is most consistent with foreign body aspiration.",
+      "incorrect": [
+        { "option": "Bronchopneumonia", "reason": "Would develop more gradually with fever, cough, malaise." },
+        { "option": "Bronchiolitis", "reason": "Caused by RSV, presents with tachypnea, wheeze, not sudden onset during play." },
+        { "option": "Croup", "reason": "Viral, presents with barking cough, stridor, gradual onset." },
+        { "option": "Bronchitis", "reason": "Develops with cough and sputum production, not acute cyanosis during play." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_45",
+    "case": "A 20-month-old female was brought to the emergency department because of increasing shortness of breath and cough that has worsened over the past several hours. Her pulse 136, respiratory rate 40 with intercostal retraction, temp 37. SpO2 93% on room air. An occasional ‘bark-like’ cough is noted, chest exam showed bilateral equal air entry, no audible rhonchi or crepitation. Which of the following is the most probable diagnosis? [11/2021R_11/2023S_2/2024R_8/2024T_8/2024S]",
+    "options": [
+      "Lobar pneumonia",
+      "Pleural effusion",
+      "Croup",
+      "Bronchiolitis",
+      "Epiglottitis"
+    ],
+    "correctAnswer": "Croup",
+    "explanation": {
+      "correct": "The hallmark feature here is the 'bark-like' cough with inspiratory stridor-like retraction. Croup (laryngotracheobronchitis) commonly affects toddlers and manifests with inspiratory difficulty, stridor, hoarse voice, and barking cough.",
+      "incorrect": [
+        { "option": "Lobar pneumonia", "reason": "Would present with fever, focal crepitations, bronchial breath sounds, not barking cough." },
+        { "option": "Pleural effusion", "reason": "Causes decreased breath sounds and stony dull percussion, not barking cough." },
+        { "option": "Bronchiolitis", "reason": "Lower airway disease causing wheeze and crackles, not bark-like cough." },
+        { "option": "Epiglottitis", "reason": "Child appears toxic, drooling, high fever, muffled voice, rather than barking cough." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_46",
+    "case": "A 12-year-old girl is seen by a pediatrician for a mild case of pneumonia. She is treated with an intramuscular injection of penicillin. About 15 minutes later, she develops extreme itchiness, accompanied by the development of wheals scattered over her chest and extremities. She also begins to wheeze and complains of difficulty breathing. The color of her lips and face remains rosy. Which of the following is the most appropriate first step in management? [2/2024R_8/2024R]",
+    "options": [
+      "Epinephrine injection",
+      "IV corticosteroids",
+      "Intubation",
+      "No specific therapy is needed",
+      "Oral corticosteroids"
+    ],
+    "correctAnswer": "Epinephrine injection",
+    "explanation": {
+      "correct": "This is a classic presentation of an anaphylactic reaction due to penicillin injection. Immediate intramuscular epinephrine is life-saving as it counteracts bronchospasm, vasodilation, and airway edema.",
+      "incorrect": [
+        { "option": "IV corticosteroids", "reason": "Adjunctive therapy, slower onset, not immediate management." },
+        { "option": "Intubation", "reason": "May be required if airway obstruction is severe, but first-line treatment is epinephrine." },
+        { "option": "No specific therapy is needed", "reason": "Unsafe: this is a medical emergency that requires immediate treatment." },
+        { "option": "Oral corticosteroids", "reason": "Too slow to act in acute anaphylaxis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_47",
+    "case": "A 6-yrs-old girl presents with morning sneezing, clear rhinorrhea, and poor sleep. Her body temperature was 37 C and she had dark halos below the eyes. What is the most likely diagnosis? [5/2022M_6/2023S_11/2023T_2/2024S_8/2024R]",
+    "options": [
+      "Foreign body",
+      "Vasomotor-rhinitis",
+      "Chronic sinusitis",
+      "Allergic rhinitis",
+      "Influenza infection"
+    ],
+    "correctAnswer": "Allergic rhinitis",
+    "explanation": {
+      "correct": "Morning sneezing, clear watery rhinorrhea, allergic shiners (dark halos under eyes), and poor sleep point strongly toward allergic rhinitis. Classic atopic condition in children.",
+      "incorrect": [
+        { "option": "Foreign body", "reason": "Typically causes unilateral purulent foul-smelling discharge, not clear bilateral rhinorrhea." },
+        { "option": "Vasomotor-rhinitis", "reason": "Non-allergic rhinitis triggered by irritants, but less common in children and no allergic signs like dark circles." },
+        { "option": "Chronic sinusitis", "reason": "Would cause purulent nasal discharge, facial pain, and fever." },
+        { "option": "Influenza infection", "reason": "Would have fever, myalgia, cough, systemic symptoms along with nasal congestion." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_48",
+    "case": "A 13-year old girl presents with a 5-day history of sore throat, low grade fever, and easy fatigability. Physical examination shows bilateral tonsillar enlargement with exudate. Her spleen is palpable 3 cm below the left costal margin. Her throat culture is negative for group A Streptococcus. Monospot test is positive. Which of the following is the most appropriate management for this patient? [8/2024R]",
+    "options": [
+      "Abdominal ultrasound",
+      "Avoidance of all contact sports",
+      "Complete blood count",
+      "Splenectomy",
+      "Oral penicillin"
+    ],
+    "correctAnswer": "Avoidance of all contact sports",
+    "explanation": {
+      "correct": "This girl has infectious mononucleosis (positive Monospot test, sore throat, splenomegaly). The most important management is supportive care and avoidance of contact sports because of the high risk of splenic rupture.",
+      "incorrect": [
+        { "option": "Abdominal ultrasound", "reason": "Not needed unless unclear diagnosis. Clinical + Monospot is diagnostic." },
+        { "option": "Complete blood count", "reason": "Shows atypical lymphocytosis but diagnosis already confirmed with Monospot." },
+        { "option": "Splenectomy", "reason": "Only for life-threatening rupture, not routine." },
+        { "option": "Oral penicillin", "reason": "Unhelpful — EBV is viral, not bacterial." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_49",
+    "case": "A 65-year-old man came to your clinic because of fever, dyspnea, cough, and expectoration of yellowish sputum. On examination, he had bronchial breathing and crepitation over the right upper lobe. Chest X ray showed upper lobe consolidation. Which of the following is the most likely diagnosis? [2/2024R]",
+    "options": [
+      "Pneumonia"
+    ],
+    "correctAnswer": "Pneumonia",
+    "explanation": {
+      "correct": "Classic case of community-acquired pneumonia with fever, productive sputum, focal bronchial breathing, crepitations, and lobar consolidation on CXR. The answer choices included only pneumonia in this case, so the diagnosis is straightforward."
+    }
+  },
+  {
+    "CaseID": "chest_50",
+    "case": "A 10-year-old girl is brought to the causality with difficult breathing and severe retractions. She is the known asthmatic patient. Which of the following medications is needed for treatment of this acute asthma exacerbation? [2/2024R_8/2024R]",
+    "options": [
+      "Inhaled corticosteroids",
+      "IV ketamine",
+      "IV magnesium",
+      "Nebulized albuterol or salbutamol",
+      "Nebulized saline"
+    ],
+    "correctAnswer": "Nebulized albuterol or salbutamol",
+    "explanation": {
+      "correct": "First-line in acute asthma exacerbation is rapid-acting inhaled β-agonists such as salbutamol (via nebulizer or MDI). These relax bronchial smooth muscle and provide immediate relief.",
+      "incorrect": [
+        { "option": "Inhaled corticosteroids", "reason": "Maintenance therapy, not acute rescue in severe exacerbation." },
+        { "option": "IV ketamine", "reason": "Reserved for refractory severe asthma when intubation considered." },
+        { "option": "IV magnesium", "reason": "Adjunctive therapy for severe asthma exacerbations if poor response to initial bronchodilators, not first-line." },
+        { "option": "Nebulized saline", "reason": "No bronchodilating effect, used as a diluent or for humidification only." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_51",
+    "case": "A 60 year-old man with recently diagnoses of chronic obstructive lung disease (COPD) presents with shortness of breath and wheeze. Blood gases reveal a PO2 of 60 mm Hg (Normal: 75 to 100 mm Hg), PCO2 of 53 mm Hg (Normal: 35 to 45 mm Hg), PH of 7.25 and a bicarbonate of 24 mEq/L (Normal: 22 to 26). What do these gases indicate? [11/2021R_11/2022R_11/2023R_8/2024S]",
+    "options": [
+      "Acute respiratory acidosis",
+      "Respiratory alkalosis",
+      "Metabolic acidosis",
+      "Respiratory acidosis with metabolic compensation",
+      "Acute on chronic respiratory acidosis"
+    ],
+    "correctAnswer": "Acute respiratory acidosis",
+    "explanation": {
+      "correct": "pH is acidotic (<7.35), PaCO2 is elevated (respiratory acidosis), HCO3 is normal (24) indicating no metabolic compensation yet. This means the event is acute respiratory acidosis, likely due to acute COPD exacerbation with hypoventilation.",
+      "incorrect": [
+        { "option": "Respiratory alkalosis", "reason": "Would require high pH and low PaCO2 — opposite here." },
+        { "option": "Metabolic acidosis", "reason": "Would occur with low bicarbonate, not the case here." },
+        { "option": "Respiratory acidosis with metabolic compensation", "reason": "If chronic, HCO3 would be elevated due to renal compensation; but HCO3 is normal." },
+        { "option": "Acute on chronic respiratory acidosis", "reason": "Would require elevated baseline HCO3 with further acute drop in pH, but here HCO3 is normal." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_52",
+    "case": "A 52-year-old man comes to the office because of a 2-day history of sore throat, cough productive of a small amount of whitish sputum, nasal discharge, and body aches. He has type 2 diabetes mellitus on metformin and hypertension treated with ACE inhibitors. He smokes occasionally. His temperature is 38.0°C, pulse is 85/min, respirations are 22/min, and blood pressure is 140/90 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Physical examination shows no cyanosis. The throat is mildly congested. Auscultation of the lungs discloses scattered wheezes. Air entry is equal bilaterally. Heart sounds are normal. Which of the following is the most likely diagnosis? [10/2021T_11/2022R_6/2023R_11/2023S_11/2023R_2/2024S]",
+    "options": [
+      "Bronchitis",
+      "Laryngitis",
+      "Asthma",
+      "Bronchiolitis",
+      "Pneumonia"
+    ],
+    "correctAnswer": "Bronchitis",
+    "explanation": {
+      "correct": "This is an acute presentation of cough, mild sputum, mild fever, wheeze, clear chest x-ray suggested by normal oxygen saturations. The description is consistent with acute bronchitis, often viral. Pneumonia less likely due to normal oxygenation and no focal crepitations on exam.",
+      "incorrect": [
+        { "option": "Laryngitis", "reason": "Would cause hoarseness and sore throat without lower airway findings." },
+        { "option": "Asthma", "reason": "Episodes of reversible wheezing; here it’s acute infection with systemic features." },
+        { "option": "Bronchiolitis", "reason": "Occurs in infants/toddlers under 2 years old, not adults." },
+        { "option": "Pneumonia", "reason": "Would cause focal crepitations, bronchial breathing, and clear consolidation signs. Not evident here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_53",
+    "case": "A 72-year-old woman comes to the physician because of a 3-day history of fever, shortness of breath, difficulty swallowing, chest pain, and cough. She is frail. Physical examination shows tachypnea and bilaterally equal pulse. Percussion of the chest shows dullness over the right lower lung field. Laboratory studies show arterial hypoxemia and decreased PCO2. A chest x-ray shows an area of opacification in the lower region of the right lung. Which of the following is the most likely cause of this patient's condition? [11/2020T_1/2021T_10/2021T_1/2023M_2/2023S_6/2023S_11/2023S_11/2023R-2/2024S_8/2024T]",
+    "options": [
+      "Alveolar proteinosis",
+      "Aspiration pneumonia",
+      "Chronic bronchitis",
+      "Emphysema",
+      "Vasculitis"
+    ],
+    "correctAnswer": "Aspiration pneumonia",
+    "explanation": {
+      "correct": "Elderly frail woman with swallowing difficulty, fever, right lower lobe consolidation — typical aspiration pneumonia due to aspiration of oropharyngeal secretions into dependent lung areas.",
+      "incorrect": [
+        { "option": "Alveolar proteinosis", "reason": "Rare, chronic, not acute with fever and consolidation." },
+        { "option": "Chronic bronchitis", "reason": "Causes productive cough for 3 months/year, not acute pneumonia." },
+        { "option": "Emphysema", "reason": "Leads to hyperinflated lungs, not focal consolidation." },
+        { "option": "Vasculitis", "reason": "Systemic features, multiple organ involvement, unlikely single RLL pneumonia." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_54",
+    "case": "A male patient aged 65 years, complains of hemoptysis. He had productive cough for years and was a heavy smoker. On examination he looked rather cachectic. Finger clubbing grade II was detected. His chest was emphysematous, and a localized wheeze was audible at the lower right back of the chest, which one is the probable diagnosis? [11/2023R]",
+    "options": [
+      "COPD",
+      "Bronchial asthma",
+      "Bronchogenic carcinoma",
+      "Pneumonia",
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": "Bronchogenic carcinoma",
+    "explanation": {
+      "correct": "Older man, heavy smoker, hemoptysis, weight loss, cachexia, localized wheeze and clubbing; this cluster is highly suspicious for bronchogenic carcinoma.",
+      "incorrect": [
+        { "option": "COPD", "reason": "Causes chronic cough and emphysematous chest, but does not explain weight loss, hemoptysis, and localized wheeze." },
+        { "option": "Bronchial asthma", "reason": "Causes reversible diffuse wheezes, not localized wheeze and cachexia." },
+        { "option": "Pneumonia", "reason": "Acute illness with fever, productive sputum, not chronic progressive weight loss and clubbing." },
+        { "option": "Pulmonary embolism", "reason": "Causes acute SOB, chest pain, sometimes hemoptysis, but not chronic cough or clubbing." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_55",
+    "case": "A 35-year-old lady complains of slowly increasing breathlessness, mild fever and fatigue for the past month. She is nonsmoker, does not have significant past medical history. Physical examination: temperature 37.8 °C, bilateral fine crackles on lung auscultation, enlarged liver and spleen. Chest xray showed bilateral symmetrical hilar lymphadenopathy and diffuse interstitial infiltrates. She has elevated serum calcium. Which of the following is the most likely diagnosis? [11/2023R]",
+    "options": [
+      "Mycoplasma pneumonia",
+      "Hyperparathyroidism",
+      "Hypervitaminosis D",
+      "Sarcoidosis",
+      "Tuberculosis"
+    ],
+    "correctAnswer": "Sarcoidosis",
+    "explanation": {
+      "correct": "Sarcoidosis causes non-caseating granulomatous inflammation, most commonly in young women. The presentation of bilateral hilar lymphadenopathy, diffuse lung infiltrates, hepatosplenomegaly, hypercalcemia (due to macrophages producing vitamin D) is highly typical.",
+      "incorrect": [
+        { "option": "Mycoplasma pneumonia", "reason": "Would cause atypical pneumonia with patchy infiltrates, not marked hilar lymphadenopathy or hypercalcemia." },
+        { "option": "Hyperparathyroidism", "reason": "Causes hypercalcemia but not bilateral hilar lymphadenopathy or pulmonary infiltrates." },
+        { "option": "Hypervitaminosis D", "reason": "Leads to hypercalcemia, but no pulmonary findings." },
+        { "option": "Tuberculosis", "reason": "Can cause hilar lymphadenopathy but usually asymmetric, with cavitation, fever, night sweats." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_56",
+    "case": "A 1 year previously healthy male came to the hospital in the last evening, with cough, high fever, and mild hypoxia. CXR revealed right upper lobar consolidation. Approximately 20 hours after hospitalization. The patient deteriorates; developing severe respiratory distress, hypotension, poor perfusion and his color becomes dusky. What is the most likely diagnosis? [2/2024T]",
+    "options": [
+      "Uncomplicated pneumonia",
+      "Pneumonia complicated with sepsis",
+      "Pneumonia complicated with heart failure",
+      "Pneumonia complicated with pneumothorax"
+    ],
+    "correctAnswer": "Pneumonia complicated with sepsis",
+    "explanation": {
+      "correct": "The boy presented with lobar consolidation (pneumonia). His sudden deterioration with shock (hypotension, poor perfusion, dusky color) indicates systemic inflammatory response and sepsis as a complication. Pneumonia progressing to septic shock is a dreaded complication.",
+      "incorrect": [
+        { "option": "Uncomplicated pneumonia", "reason": "Would not explain circulatory collapse or hypoperfusion." },
+        { "option": "Pneumonia complicated with heart failure", "reason": "Heart failure usually follows chronic disease, not acute infection in a previously healthy child." },
+        { "option": "Pneumonia complicated with pneumothorax", "reason": "Would cause sudden unilateral absent breath sounds, not systemic shock." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_57",
+    "case": "An 8-year-old girl is diagnosed with asthma and is receiving low-dose inhaled corticosteroids twice daily and a short acting bronchodilator as prescribed by the physician. She is concordant with her treatment and her inhaler technique is good. For three months she has had frequent cough at night and mild exercise-induced wheeze, which of the following is the most appropriate next step in her treatment? [10/2021T_2/2023S]",
+    "options": [
+      "Add leukotriene receptor antagonist",
+      "Add long acting bronchodilator",
+      "Add broad spectrum antibiotics",
+      "Add short course of oral corticosteroid",
+      "Increase dose of inhaled corticosteroid"
+    ],
+    "correctAnswer": "Increase dose of inhaled corticosteroid",
+    "explanation": {
+      "correct": "The child is on low-dose ICS for persistent asthma but remains symptomatic for 3 months. According to stepwise asthma management, the next step is to increase the ICS dose. Long acting bronchodilator (LABA) can be added later if symptoms persist on medium-dose ICS.",
+      "incorrect": [
+        { "option": "Add leukotriene receptor antagonist", "reason": "Can be useful add-on, but guidelines suggest escalating ICS dose first." },
+        { "option": "Add long acting bronchodilator", "reason": "Reserved if control not maintained with medium-dose ICS. Not first escalation." },
+        { "option": "Add broad spectrum antibiotics", "reason": "Asthma is non-infectious; antibiotics are not indicated unless bacterial infection suspected." },
+        { "option": "Add short course of oral corticosteroid", "reason": "Used only in acute severe exacerbation, not for long-term control." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_58",
+    "case": "A 38-year-old woman presents with progressively worsening dyspnea and cough. She has never smoked cigarettes, no known passive smoke exposure, and does not have any occupational exposure to chemicals. Pulmonary function testing shows obstructive lung disease that does not respond to bronchodilators, which of the following is the most likely etiology? [10/2021T_2/2023S]",
+    "options": [
+      "Alpha 1 antitrypsin deficiency",
+      "Asthma",
+      "COPD",
+      "Interstitial lung fibrosis",
+      "Radiation exposure"
+    ],
+    "correctAnswer": "Alpha 1 antitrypsin deficiency",
+    "explanation": {
+      "correct": "Alpha-1 antitrypsin deficiency causes early-onset emphysema in young nonsmokers, especially in lower lobes, with obstructive physiology not reversible with bronchodilators. Fits the profile of this 38-year-old woman.",
+      "incorrect": [
+        { "option": "Asthma", "reason": "Asthma is reversible airway disease, this case is non-reversible." },
+        { "option": "COPD", "reason": "Usually in smokers with risk exposure, not a young female nonsmoker." },
+        { "option": "Interstitial lung fibrosis", "reason": "Produces restrictive not obstructive pattern." },
+        { "option": "Radiation exposure", "reason": "Would cause restrictive lung disease with history of exposure." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_59",
+    "case": "A 65-year-old man was admitted to hospital for status asthmaticus. He was drowsy with PaO2:45 mm Hg. PaCO2 55 mm Hg. He was admitted to ICU for ventilation. Unfortunately, he developed right sided pneumothorax. His condition deteriorated and developed acute kidney insufficiency. His son was informed about the father condition. He was very upset and furious. He asked to meet the physician in the ward, which of the following is the best approach to manage this situation? [2/2023S_11/2023R]",
+    "options": [
+      "Advice the son to file a complaint to the authorities",
+      "Deny that the father is having any complications",
+      "Explain to the son that this complication is sometimes expected and can be managed",
+      "Inform the son that the father was having bad prognosis anyway",
+      "Refuse to meet with the son"
+    ],
+    "correctAnswer": "Explain to the son that this complication is sometimes expected and can be managed",
+    "explanation": {
+      "correct": "The ethical and professional approach is open, honest communication. Pneumothorax as complication of ventilation is possible, and acute kidney insufficiency can occur in critical illness. The physician should calmly explain, reassure, and outline the treatment plan, not deny or dismiss the concerns.",
+      "incorrect": [
+        { "option": "Advice the son to file a complaint", "reason": "Avoids responsibility and increases mistrust. Not professional." },
+        { "option": "Deny that the father is having complications", "reason": "Breaks trust and goes against patient-family rights." },
+        { "option": "Inform the son that the father was having bad prognosis anyway", "reason": "Insensitive and unethical response." },
+        { "option": "Refuse to meet", "reason": "Dismissive and improper. Physician must communicate with family clearly." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_60",
+    "case": "After a month-long history of fever and left-sided chest pain, an elderly woman undergoes a respiratory system examination, revealing reduced chest movements, a stony dull percussion note, and the absence of breath sounds on her left side. What would the probable findings be on her chest X-ray? [11/2023R]",
+    "options": [
+      "Collapse",
+      "Consolidation",
+      "Fibrosis",
+      "Pleural effusion",
+      "Pneumothorax"
+    ],
+    "correctAnswer": "Pleural effusion",
+    "explanation": {
+      "correct": "Classic examination findings of pleural effusion: reduced expansion, stony dull percussion, absent breath sounds. On chest x-ray, this would appear as fluid opacity with meniscus sign and blunting of costophrenic angle.",
+      "incorrect": [
+        { "option": "Collapse", "reason": "Would show tracheal shift toward lesion and dull percussion, not stony dullness with absent sounds." },
+        { "option": "Consolidation", "reason": "Would cause dull (not stony dull) percussion with bronchial breathing." },
+        { "option": "Fibrosis", "reason": "Causes volume loss with coarse crepitations, not stony dullness." },
+        { "option": "Pneumothorax", "reason": "Percussion would be hyperresonant, not stony dull." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_61",
+    "case": "A 70-year-old patient with chronic obstructive lung disease requires 2 L/min of nasal O2 to treat his hypoxia, which is sometimes associated with angina. The patient develops pleuritic chest pain, fever, and purulent sputum. While using his oxygen at an increased flow of 5 L/min he becomes stuporous and develops a respiratory acidosis with CO2 retention and worsening hypoxia. What would be the most appropriate next step in the management of this patient? [5/2022M_8/2024R]",
+    "options": [
+      "Begin medroxyprogesterone",
+      "Begin sodium bicarbonate",
+      "Intubate and begin mechanical ventilation",
+      "Observe patient 24 hours before changing therapy",
+      "Stop oxygen"
+    ],
+    "correctAnswer": "Intubate and begin mechanical ventilation",
+    "explanation": {
+      "correct": "The COPD patient deteriorated with CO2 narcosis (stupor, respiratory acidosis). He now requires ventilatory support with intubation and mechanical ventilation. Stopping oxygen is dangerous, as hypoxia must still be corrected. This is an acute decompensation requiring airway management.",
+      "incorrect": [
+        { "option": "Begin medroxyprogesterone", "reason": "Respiratory stimulant sometimes for central hypoventilation, not the emergency step here." },
+        { "option": "Begin sodium bicarbonate", "reason": "Does not address ventilation failure." },
+        { "option": "Observe patient 24 hours", "reason": "Unsafe, patient is stuporous and deteriorating rapidly." },
+        { "option": "Stop oxygen", "reason": "Would worsen hypoxia and risk death. Must ventilate, not stop oxygen." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_62",
+    "case": "A 45-year-old man comes to the clinic complaining of fever, chills, and a productive cough with rust-colored sputum. He has a history of diabetes. He reports feeling generally unwell for the past week. On examination, dullness to percussion and bronchial breath sounds are noted over the right lower lung field. A chest X-ray reveals consolidation in the right lower lobe. Which of the following is the most likely causative organism for his respiratory infection? [2/2024R]",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Mycobacterium tuberculosis",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus"
+    ],
+    "correctAnswer": "Streptococcus pneumoniae",
+    "explanation": {
+      "correct": "Classic history of community-acquired pneumonia: fever, rusty sputum, lobar consolidation with bronchial breath sounds. Streptococcus pneumoniae is the most common cause.",
+      "incorrect": [
+        { "option": "Haemophilus influenzae", "reason": "Common in COPD patients, but rust-colored sputum points more to S. pneumoniae." },
+        { "option": "Mycobacterium tuberculosis", "reason": "Causes chronic disease with night sweats, weight loss." },
+        { "option": "Pseudomonas aeruginosa", "reason": "Common in hospital-acquired pneumonia, immunosuppressed." },
+        { "option": "Staphylococcus aureus", "reason": "Causes post-influenza pneumonia, cavitating lesions, not classic rust sputum." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_63",
+    "case": "A 60-year-old smoker presents with fever, chills, and a productive cough with rusty-colored sputum. Which of the following is the causative organism of the patient's current condition? [2/2024R]",
+    "options": [
+      "Staphylococcus aureus",
+      "Mycoplasma pneumoniae",
+      "Legionella pneumophila",
+      "Klebsiella pneumoniae",
+      "Streptococcus pneumoniae"
+    ],
+    "correctAnswer": "Streptococcus pneumoniae",
+    "explanation": {
+      "correct": "Again, fever, chills, rusty sputum — most consistent with lobar pneumonia due to S. pneumoniae.",
+      "incorrect": [
+        { "option": "Staphylococcus aureus", "reason": "Post-influenza, cavitating disease." },
+        { "option": "Mycoplasma pneumoniae", "reason": "Atypical pneumonia with dry cough, extrapulmonary features." },
+        { "option": "Legionella pneumophila", "reason": "Severe atypical pneumonia with hyponatremia, confusion." },
+        { "option": "Klebsiella pneumoniae", "reason": "Currant-jelly sputum, classically in alcoholics, U/L lobe consolidation." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_64",
+    "case": "A 76-year-old woman is admitted to the surgical ward with an acute abdomen. She gave a history of passing blood per rectum a few weeks before admission, and had noted abdominal distension and constipation for 3 days. The patient gave a past history of mild hypertension and her only medication was Moduretic once daily. On examination her pulse was 92 beats/min sinus rhythm, and the blood pressure 130/70 mmHg. The central venous pressure was not elevated and the heart clinically mildly enlarged with the apex beat displaced laterally 2 cm. Examination of the heart and chest were normal apart from a few fine crepitations at the base of the right lung. Abdominal examination revealed general tenderness, with guarding and pain on palpation in the left iliac fossa. The abdominal X-ray was consistent with large-bowel obstruction and at laparotomy a Hartmann's procedure was performed for extensive sigmoid diverticular disease. Postoperatively she became rather confused with pyrexia (38.2°C), and percussion was dull at the base of the right lung. Which of the following is the most likely diagnosis? [8/2024S]",
+    "options": [
+      "ARDS",
+      "Postoperative pneumonia",
+      "Pulmonary embolism",
+      "Spontaneous pneumothorax",
+      "Sympathetic pleural effusion"
+    ],
+    "correctAnswer": "Postoperative pneumonia",
+    "explanation": {
+      "correct": "An elderly woman post-abdominal surgery develops fever, confusion, dull percussion and crepitations in lung base. This is most typical for postoperative pneumonia, a common complication due to impaired ventilation, atelectasis, aspiration risks.",
+      "incorrect": [
+        { "option": "ARDS", "reason": "Presents with hypoxic respiratory failure and diffuse infiltrates, not localized dullness at right lung base." },
+        { "option": "Pulmonary embolism", "reason": "Would show clear lungs and sudden dyspnea, not focal signs with fever." },
+        { "option": "Spontaneous pneumothorax", "reason": "Unlikely after abdominal surgery, and exam would show hyperresonance not dullness." },
+        { "option": "Sympathetic pleural effusion", "reason": "Small reactive effusion may occur, but more likely pneumonia given fever and basal crepitations." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_65",
+    "case": "During CPR you gave the adult victim 2 rescue breaths by bag valve mask. What is the immediate next step? [8/2024S]",
+    "options": [
+      "Ask for help (code blue)",
+      "Ask the people around to step back for safety",
+      "Check the mouth for any obstructing item",
+      "Return your hand without delay and give 30 chest compressions",
+      "Check for pulse and breathing for return of spontaneous circulation"
+    ],
+    "correctAnswer": "Return your hand without delay and give 30 chest compressions",
+    "explanation": {
+      "correct": "According to BLS guidelines for adults: the sequence is 30 chest compressions followed by 2 breaths (CAB). After giving 2 rescue breaths, immediately resume compressions without delay.",
+      "incorrect": [
+        { "option": "Ask for help (code blue)", "reason": "Should be done at beginning of resuscitation, not after breaths given." },
+        { "option": "Ask people around to step back", "reason": "Is relevant before a shock with defibrillator, not now." },
+        { "option": "Check the mouth", "reason": "Already assessed airway; not repeated now." },
+        { "option": "Check pulse/ROSC", "reason": "Pulse only checked every 2 minutes or after shocks, not after each breath." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_66",
+    "case": "A 58-year-old woman, previously fit and healthy; awoke in the night with nausea, shortly after, she vomited violently and returned to bed. The following morning she complained of severe, constant pain in the center of her chest and the epigastric region. She was admitted to hospital where she was found to be peripherally vasoconstricted with a blood pressure of 90/60 mmHg and a temperature of 38.7°C. A posteroanterior chest X-ray showed a left pleural effusion and air in the mediastinum. Hematological examination of a blood film provided a white cell count of 28 x 10^9/L. Which of the following is the possible diagnosis? [8/2024S]",
+    "options": [
+      "Boerhaave's syndrome",
+      "Flail chest",
+      "Mallory Weiss syndrome",
+      "Perforated duodenal ulcer",
+      "Tension pneumothorax"
+    ],
+    "correctAnswer": "Boerhaave's syndrome",
+    "explanation": {
+      "correct": "Boerhaave’s syndrome is spontaneous esophageal rupture due to forceful vomiting. Chest pain, shock, fever, mediastinal air, pleural effusion, leukocytosis — classic here.",
+      "incorrect": [
+        { "option": "Flail chest", "reason": "Due to trauma with paradoxical chest wall movement, unrelated to vomiting." },
+        { "option": "Mallory Weiss syndrome", "reason": "Also post-vomiting but causes mucosal tear and upper GI bleeding, not mediastinal air." },
+        { "option": "Perforated duodenal ulcer", "reason": "Causes peritonitis and free air under diaphragm, not mediastinal air." },
+        { "option": "Tension pneumothorax", "reason": "Causes hyperresonance and tracheal deviation, not mediastinum air after vomiting." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_67",
+    "case": "An 18-year-old woman with asthma has experienced worsening wheezing over the last two days. Following a salbutamol nebulizer treatment, her peak flow rate rose from 250 to 450 L/minute, and she reported significant improvement in her symptoms. Which is the most appropriate next management step? [8/2024R]",
+    "options": [
+      "Continue usual maintenance inhaler regime",
+      "Nebulized salbutamol as required",
+      "Oral amoxicillin",
+      "Oral chlorphenamine",
+      "Oral prednisolone"
+    ],
+    "correctAnswer": "Continue usual maintenance inhaler regime",
+    "explanation": {
+      "correct": "The patient's asthma exacerbation improved significantly after nebulized bronchodilator with good recovery of peak flow. She does not need steroids or antibiotics. The best next management is to continue her usual maintenance inhaler regime and monitoring.",
+      "incorrect": [
+        { "option": "Nebulized salbutamol as required", "reason": "Already given for acute relief; no ongoing requirement unless exacerbation persists." },
+        { "option": "Oral amoxicillin", "reason": "Antibiotics not indicated unless bacterial infection present." },
+        { "option": "Oral chlorphenamine", "reason": "Antihistamines not useful in acute asthma control." },
+        { "option": "Oral prednisolone", "reason": "Systemic steroids are for moderate/severe exacerbations unresponsive to bronchodilator — not needed here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_68",
+    "case": "A 40-year-old man reports having a high-grade fever for the past week along with a cough that produces rusty sputum. Upon auscultation, bronchial breathing is detected in the right lower chest. A chest X-ray confirms the presence of consolidation. Which is the most likely causative organism? [8/2024R]",
+    "options": [
+      "Anaerobic bacteria",
+      "Gram negative bacilli",
+      "Mycobacterium tuberculosis",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae"
+    ],
+    "correctAnswer": "Streptococcus pneumoniae",
+    "explanation": {
+      "correct": "Typical lobar pneumonia with high-grade fever, rusty sputum, focal bronchial breathing and consolidation — classic for S. pneumoniae.",
+      "incorrect": [
+        { "option": "Anaerobic bacteria", "reason": "Cause lung abscess with foul sputum after aspiration, not classic lobar rust-sputum pneumonia." },
+        { "option": "Gram negative bacilli", "reason": "Seen in hospital-acquired pneumonia and debilitated patients, not otherwise healthy adults." },
+        { "option": "Mycobacterium tuberculosis", "reason": "Chronic disease course, not acute rust sputum infection." },
+        { "option": "Staphylococcus aureus", "reason": "Causes post-viral pneumonia with cavitation, not classical rust sputum." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_69",
+    "case": "A 55-year-old man with a history of chronic alcohol dependence presents with fever and cough productive of mucopurulent sputum for 2 days. His temperature is 39 C (102 F) blood pressure is 120/75 mmHg, pulse is 110/min, and respirations are 26/min. Auscultation of the chest reveals rales and decreased breath sounds in the left lower lung field. Chest Xray films show a pulmonary infiltrate in the lower left lobe. Which of the following is the most likely pathogen? [8/2024R]",
+    "options": [
+      "Klebsiella pneumoniae",
+      "Legionella pneumophila",
+      "Mycoplasma pneumoniae",
+      "Pneumocystis carinii",
+      "Staphylococcus aureus"
+    ],
+    "correctAnswer": "Klebsiella pneumoniae",
+    "explanation": {
+      "correct": "Chronic alcoholic with pneumonia — classically associated with Klebsiella. It produces necrotizing pneumonia with thick mucoid sputum, often in dependent lobes (like lower lobe here).",
+      "incorrect": [
+        { "option": "Legionella pneumophila", "reason": "Causes severe pneumonia with diarrhea, low Na, often linked to contaminated water." },
+        { "option": "Mycoplasma pneumoniae", "reason": "Causes atypical pneumonia in young adults with mild course." },
+        { "option": "Pneumocystis carinii", "reason": "Seen in immunosuppressed (HIV/AIDS), not alcoholics without HIV." },
+        { "option": "Staphylococcus aureus", "reason": "Can cause pneumonia but not classically linked to alcoholics like Klebsiella." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_70",
+    "case": "A 38-year-old male presents with right-sided thoracic pain after tripping and falling against a counter. His vital signs are: Temp.37, HR.80, RR16, BP122/72, and O2 Sat 100% on room air. He has tenderness along the mid axillary line at the level of the nipple. He has no abdominal pain or tenderness. PA and lateral chest x-rays are negative for pneumothorax or hemothorax. He is very anxious about a rib injury. What is the most important next step in management? [5/2022M_8/2024R]",
+    "options": [
+      "Order a full rib x-ray series",
+      "Order a CT chest without contrast",
+      "Order a CT chest with contrast",
+      "Have hospital security escort him outside to comp",
+      "Provide pain control, education, and reassurance"
+    ],
+    "correctAnswer": "Provide pain control, education, and reassurance",
+    "explanation": {
+      "correct": "Chest trauma with focal tenderness, but stable vital signs and negative imaging. Even if there's a rib fracture, management is conservative: adequate analgesia, breathing exercises, reassurance to prevent complications like atelectasis.",
+      "incorrect": [
+        { "option": "Order a full rib x-ray series", "reason": "Not needed as management wouldn't change — findings already conservative." },
+        { "option": "Order a CT chest without contrast", "reason": "Unnecessary exposure for clinically stable patient with normal CXR." },
+        { "option": "Order a CT chest with contrast", "reason": "Again, excessive and no suspicion for vascular injury." },
+        { "option": "Have hospital security escort him outside", "reason": "Ridiculous option — not medical care." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_71",
+    "case": "A 75-year-old man underwent a right colectomy for stage 3 colon cancer. He had a history of emphysema requiring chronic steroid use. He also had diabetes and coronary heart disease. On postoperative day 2, the surgeon was called because the patient acutely began to have a large amount of pinkish, serous drainage from the wound. There was no evidence of infection. Which of the following factors probably contributed to this complication? [2/2024R]",
+    "options": [
+      "Using a running stitch to close the fascia instead of interrupted sutures",
+      "Coronary artery disease",
+      "Early mobilization of patient",
+      "Aggressive abdominal examination performed on postoperative day 1 by a medical student",
+      "Pulmonary disease"
+    ],
+    "correctAnswer": "Pulmonary disease",
+    "explanation": {
+      "correct": "The complication here is wound dehiscence — likely due to increased intra-abdominal pressure from coughing in a patient with chronic lung disease (emphysema). Pulmonary disease with chronic cough is a major risk factor because it stresses the abdominal wall closure.",
+      "incorrect": [
+        { "option": "Using a running stitch", "reason": "Technique matters, but chronic stress from cough is the key cause here." },
+        { "option": "Coronary artery disease", "reason": "Increases perioperative cardiac risk, not wound dehiscence." },
+        { "option": "Early mobilization", "reason": "Generally beneficial, not contributory to wound failure." },
+        { "option": "Aggressive abdominal exam by student", "reason": "Highly unlikely to cause wound dehiscence, not plausible." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_72",
+    "case": "During a routine health check-up, a 28-year-old man presents with complaints of persistent low-grade fever, night sweats, and unintentional weight loss over the past three months. He denies any cough, chest pain, or respiratory symptoms. The physician suspect to have extrapulmonary tuberculosis. Which of the following is the most common site of extrapulmonary tuberculosis? [2/2024R]",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Central nervous system",
+      "Skin and soft tissues"
+    ],
+    "correctAnswer": "Central nervous system",
+    "explanation": {
+      "correct": "The most common site of extrapulmonary TB is lymph nodes, but from the given options, the CNS (meningitis, tuberculomas) is the best answer. CNS TB is a typical severe manifestation beyond the lungs.",
+      "incorrect": [
+        { "option": "Liver", "reason": "TB may affect it but not the most common extrapulmonary site." },
+        { "option": "Spleen", "reason": "Part of miliary TB, less common." },
+        { "option": "Kidney", "reason": "Genitourinary TB occurs but less frequent overall." },
+        { "option": "Skin and soft tissues", "reason": "Cutaneous TB is rare compared to CNS involvement." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_73",
+    "case": "Dr. Mohamed is managing a patient diagnosed with pulmonary tuberculosis (TB). Despite being on a standard TB treatment regimen for 2 weeks, the patient is still experiencing a fever and productive cough. Which of the following is the most likely reason for the patient's continued symptoms? [8/2024R]",
+    "options": [
+      "Lack of dietary supplements",
+      "The chosen TB treatment regimen is ineffective",
+      "The patient has developed flu on top of the TB infection",
+      "The patient needs a stronger dose of the current medications",
+      "The TB bacteria have become resistant to the prescribed drugs"
+    ],
+    "correctAnswer": "The TB bacteria have become resistant to the prescribed drugs",
+    "explanation": {
+      "correct": "Persistent fever and cough despite adherence to regimen suggests drug-resistant TB. Standard therapy usually leads to gradual symptomatic improvement within 2 weeks. Resistance is the most likely explanation.",
+      "incorrect": [
+        { "option": "Lack of dietary supplements", "reason": "Might worsen immunity but not the main cause of persistent symptoms under therapy." },
+        { "option": "The chosen regimen is ineffective", "reason": "The regimen works in most cases — resistance is more specific." },
+        { "option": "The patient has developed flu", "reason": "Would not explain unrelieved productive cough and fever." },
+        { "option": "The patient needs a stronger dose", "reason": "TB dosing is standard; failure suggests resistance rather than dosage problem." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_74",
+    "case": "A 50-year-old man smoker presents with history of cough productive of mucoid sputum in every winter for last three years. Which is the most likely diagnosis? [8/2024R]",
+    "options": [
+      "Bronchial asthma",
+      "Bronchiectasis",
+      "Bronchogenic carcinoma",
+      "Chronic bronchitis",
+      "Pulmonary tuberculosis"
+    ],
+    "correctAnswer": "Chronic bronchitis",
+    "explanation": {
+      "correct": "The typical definition of chronic bronchitis is productive cough for at least 3 months per year, for 2 consecutive years. A smoking-associated winter cough-produces sputum—fits this criteria perfectly.",
+      "incorrect": [
+        { "option": "Bronchial asthma", "reason": "Asthma causes episodic wheezing, not chronic productive winter sputum." },
+        { "option": "Bronchiectasis", "reason": "Causes large-volume purulent sputum with recurrent infections, not seasonal pattern only." },
+        { "option": "Bronchogenic carcinoma", "reason": "Would cause hemoptysis, weight loss — not just recurrent productive cough." },
+        { "option": "Pulmonary tuberculosis", "reason": "Associated with chronic cough, fever, night sweats, infiltrates, not seasonal sputum." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_75",
+    "case": "A 25-year-old female kindergarten teacher comes to your office for evaluation of a cough she has had for one week. The preceding week she had symptoms of sore throat, malaise, and low-grade fever. She reports that episodes of coughing are so severe that vomiting is induced. She was evaluated at a walk-in clinic was diagnosed with bronchitis. Treatment with hydrocodone cough syrup and amoxicillin has not helped. On examination, her lungs are clear. A chest radiograph & CT showed infiltrations. Her laboratory results reveal lymphocytopenia. What is the most likely diagnosis? [10/2021T_11/2022R_6/2023R]",
+    "options": [
+      "Seasonal Influenza",
+      "Common cold",
+      "COVID 19",
+      "Swine flu",
+      "Avian Flu"
+    ],
+    "correctAnswer": "COVID 19",
+    "explanation": {
+      "correct": "The severe bouts of cough causing vomiting, lack of response to antibiotics, presence of infiltrates with lymphocytopenia is highly typical of COVID-19 infection. Influenza usually causes leukopenia, but lymphocytopenia strongly associates with COVID.",
+      "incorrect": [
+        { "option": "Seasonal Influenza", "reason": "Usually causes fever, myalgia, cough but less likely lymphocytopenia." },
+        { "option": "Common cold", "reason": "Milder symptoms with rhinorrhea, not severe cough + CT infiltrates." },
+        { "option": "Swine flu", "reason": "Similar to influenza A presentations with systemic symptoms." },
+        { "option": "Avian Flu", "reason": "Severe pneumonia from bird exposure, rare epidemiology compared to COVID pandemic setting." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_76",
+    "case": "A 75-year-old man comes to the office because of a 3-day history of cough productive of yellow sputum, stabbing chest pain, and fever. He has hypertension treated with ACE inhibitors he has smoked one pack of cigarettes daily for years. His temperature is 39.0℃, pulse is 100/min, respirations are 28/min, and blood pressure is 140/90 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 89%. Physical examination shows the patient was sweating no cyanosis is noted. Auscultation of the lungs discloses decreased air entry, wheezes, and crackles over the left hemithorax and dullness to percussion on the left side of the chest. Supplemental oxygen therapy is begun. Which of the following is the most appropriate next step in management? [10/2021T_11/2022R_6/2023R_2/2024T]",
+    "options": [
+      "Start antibiotic after results",
+      "Oral antibiotics",
+      "Thoracentesis",
+      "Intravenous antibiotic therapy",
+      "Bronchoscopy"
+    ],
+    "correctAnswer": "Intravenous antibiotic therapy",
+    "explanation": {
+      "correct": "This elderly smoker presents with severe pneumonia with hypoxemia, systemic toxicity, pleural involvement. Immediate IV antibiotics are required. Oral therapy insufficient in this unstable patient.",
+      "incorrect": [
+        { "option": "Start antibiotic after results", "reason": "Waiting for cultures delays therapy, unsafe in severe pneumonia." },
+        { "option": "Oral antibiotics", "reason": "Inadequate for such severe presentation." },
+        { "option": "Thoracentesis", "reason": "Needed if pleural effusion clinically significant, but antibiotic therapy must start immediately." },
+        { "option": "Bronchoscopy", "reason": "Reserved for obstruction suspicion or non-clear diagnosis, not acute therapy." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_77",
+    "case": "A 67-year-old man complained of cough, expectoration and dyspnea of 6 years. He is a heavy cigarette smoker. Examination revealed hyperresonance with encroachment on liver and cardiac dullness & vesicular breath sound with prolonged expiration and expiratory rhonchi. Which of the following is the most likely diagnosis? [11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "COPD",
+      "Bronchial asthma",
+      "Bronchiectasis",
+      "Lung abscess",
+      "Acute bronchitis"
+    ],
+    "correctAnswer": "COPD",
+    "explanation": {
+      "correct": "History of chronic cough & dyspnea in a heavy smoker, physical signs of hyperinflation, hyperresonance, prolonged expiration → classic COPD diagnosis.",
+      "incorrect": [
+        { "option": "Bronchial asthma", "reason": "Asthma is reversible, episodic wheeze, not fixed hyperinflation." },
+        { "option": "Bronchiectasis", "reason": "Copious purulent sputum and coarse crackles, not hyperresonance." },
+        { "option": "Lung abscess", "reason": "Fever, foul sputum, localized findings, not diffuse hyperinflation." },
+        { "option": "Acute bronchitis", "reason": "Acute, self-limiting, not chronic progressive disease." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_78",
+    "case": "A 22-year-old man presented with cough with expectoration and night fever of one month duration. The patient has therapeutic history of 2 courses of potent antibiotics without improvement. Clinical examination revealed: Temp. 37.6°C, pulse 95 b/min regular. BP 110/70. Respiratory rate 22. Chest examination showed bilateral infraclavicular crepitation. Which of the following is the recommended investigation to prove the diagnosis? [11/2023S_11/2023R_2/2024S_8/2024T_8/2024R]",
+    "options": [
+      "X-ray chest",
+      "Ventilation perfusion scan",
+      "Pulmonary function tests",
+      "Bronchoscopy",
+      "Sputum for acid fast bacilli"
+    ],
+    "correctAnswer": "Sputum for acid fast bacilli",
+    "explanation": {
+      "correct": "Chronic cough, night fever, no response to antibiotics, and bilateral infiltrates strongly suggest TB. The gold standard basic diagnostic test is direct identification of AFB in sputum smears/culture.",
+      "incorrect": [
+        { "option": "X-ray chest", "reason": "Helpful but not definitive, must confirm microbiologically." },
+        { "option": "Ventilation perfusion scan", "reason": "Used for pulmonary embolism, irrelevant here." },
+        { "option": "Pulmonary function tests", "reason": "Assess obstruction/restriction, not infection diagnosis." },
+        { "option": "Bronchoscopy", "reason": "Can assist but sputum AFB remains primary test for suspected TB." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_79",
+    "case": "A 65-year-old man presents to the clinic complaining of increasing shortness of breath, especially when lying flat, and swelling in his legs. He also reports feeling fatigued and has noticed a decrease in his ability to exercise. On further questioning, he mentions waking up at night with a feeling of suffocation. Physical examination reveals elevated jugular venous pressure, bilateral pitting edema in the lower extremities, and crackles in the lung bases. Which of the following symptoms is most indicative of heart failure? [2/2024R]",
+    "options": [
+      "Shortness of breath relieved by rest",
+      "Swelling in the hands",
+      "Increased appetite",
+      "Nocturia",
+      "Paroxysmal nocturnal dyspnea"
+    ],
+    "correctAnswer": "Paroxysmal nocturnal dyspnea",
+    "explanation": {
+      "correct": "PND (waking up suddenly gasping for breath) is a classic symptom of left-sided CHF due to pulmonary venous congestion. It’s much more specific than general fatigue or edema.",
+      "incorrect": [
+        { "option": "Shortness of breath relieved by rest", "reason": "Nonspecific; could be many things." },
+        { "option": "Swelling in the hands", "reason": "Less typical; edema usually in legs." },
+        { "option": "Increased appetite", "reason": "Not part of HF symptomatology." },
+        { "option": "Nocturia", "reason": "Common in HF but not diagnostic as PND." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_80",
+    "case": "A 62-year-old man is investigated for hypertension and proximal myopathy. On examination he is noted to have abdominal striae. Which one of the following is most associated with ectopic ACTH secretion? [2/2023T_2/2023R_6/2023S_11/2023S_11/2023R_2/2024S_8/2024T]",
+    "options": [
+      "Carcinoid tumor",
+      "Small cell lung cancer",
+      "Cardiac myxoma",
+      "Adrenal carcinoma",
+      "Multiple pregnancy"
+    ],
+    "correctAnswer": "Small cell lung cancer",
+    "explanation": {
+      "correct": "Small cell carcinoma of the lung is infamous for paraneoplastic syndromes, especially ectopic ACTH production causing Cushing’s (hypertension, myopathy, striae).",
+      "incorrect": [
+        { "option": "Carcinoid tumor", "reason": "Can secrete serotonin, rarely ACTH, but small cell is stronger association." },
+        { "option": "Cardiac myxoma", "reason": "Causes embolic or constitutional symptoms, not endocrine." },
+        { "option": "Adrenal carcinoma", "reason": "Producing cortisol itself, not ectopic ACTH." },
+        { "option": "Multiple pregnancy", "reason": "High hormones but not ACTH-related tumor secretion." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_81",
+    "case": "A 23-year-old female presents with pain in her right lateral chest after a low-speed motor vehicle collision. She is most tender in the fifth rib at the posterior axillary line. Her vital signs are normal. Which of the following is the most appropriate next step in evaluation? [1/2021T_10/2021T_5/2022M_2/2023R]",
+    "options": [
+      "Chest x-ray",
+      "CT brain",
+      "Lung ultrasound",
+      "Cervical spine radiographs",
+      "CT abdomen/pelvis"
+    ],
+    "correctAnswer": "Chest x-ray",
+    "explanation": {
+      "correct": "Chest trauma with suspected rib fracture → initial evaluation is conventional chest x-ray to assess for rib fractures, pneumothorax, or hemothorax.",
+      "incorrect": [
+        { "option": "CT brain", "reason": "No neurological signs or head trauma suspected." },
+        { "option": "Lung ultrasound", "reason": "Can support effusion/pneumothorax detection but x-ray remains first-line." },
+        { "option": "Cervical spine radiographs", "reason": "Unwarranted without neck pain or neurological findings." },
+        { "option": "CT abdomen/pelvis", "reason": "Not indicated here, since trauma isolated to chest wall." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_82",
+    "case": "A 75-year-old patient is found to be acutely short of breath after receiving her third unit of packed red cells. On examination, there are fine end inspiratory crackles up to mid zones in both lung fields. Which of the following is the most likely diagnosis? [12/2021T_11/2023T]",
+    "options": [
+      "Air embolus",
+      "Delayed hemolytic transfusion reaction",
+      "Hypocalcemia",
+      "Viral infection",
+      "Circulatory overload"
+    ],
+    "correctAnswer": "Circulatory overload",
+    "explanation": {
+      "correct": "This is transfusion-associated circulatory overload (TACO). It presents with pulmonary edema during transfusion (crackles, SOB, hypertension possible). Elderly patients at higher risk with multiple units.",
+      "incorrect": [
+        { "option": "Air embolus", "reason": "Would cause sudden chest pain, collapse, not gradual pulmonary edema." },
+        { "option": "Delayed hemolytic transfusion reaction", "reason": "Occurs days later with anemia, jaundice, not immediate pulmonary signs." },
+        { "option": "Hypocalcemia", "reason": "From citrate toxicity causes tetany or arrhythmias, not pulmonary edema." },
+        { "option": "Viral infection", "reason": "Not related to this immediate event post-transfusion." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_83",
+    "case": "A 22-year-old female college student, recently returned from a semester abroad in a country with a high prevalence of TB. She doesn't have any current cough or other symptoms but feels she should get checked just in case. Which of the following tests would most likely be used to determine if she has TB infection? [8/2024R]",
+    "options": [
+      "Chest X-ray",
+      "Sputum test",
+      "Tuberculin skin test",
+      "Blood test for TB antibodies",
+      "Lung biopsy"
+    ],
+    "correctAnswer": "Tuberculin skin test",
+    "explanation": {
+      "correct": "The initial screening test for TB infection in asymptomatic individuals is the Mantoux tuberculin skin test (or interferon-gamma release assays). Chest x-ray and sputum are used if active TB suspected.",
+      "incorrect": [
+        { "option": "Chest X-ray", "reason": "Used to assess suspected active disease, not latent infection." },
+        { "option": "Sputum test", "reason": "For symptomatic patients with cough, not screening asymptomatics." },
+        { "option": "Blood test for TB antibodies", "reason": "Not standard — antibody tests are unreliable." },
+        { "option": "Lung biopsy", "reason": "Invasive, only for atypical diagnostic dilemmas." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_84",
+    "case": "An 18-years old healthy woman came to your clinic with a recent purified protein derivatives tuberculin skin test that is positive after routine examination for employment. Clinical examination was irrelevant with no signs of disease. Chest examination was free. A chest radiograph was done and is negative. What is the most appropriate treatment? [10/2021T_11/2022R_6/2023R_11/2023S_11/2023R_8/2024T]",
+    "options": [
+      "INH, rifampin and streptomycin for 12 months",
+      "Streptomycin for 6 months",
+      "INH and rifampin for 6 months",
+      "Follow-up after 3 months",
+      "Isoniazid (INH) for 6 months"
+    ],
+    "correctAnswer": "Isoniazid (INH) for 6 months",
+    "explanation": {
+      "correct": "This is latent TB infection: positive TST, no symptoms, normal CXR. The recommended preventive treatment is isoniazid monotherapy for 6–9 months.",
+      "incorrect": [
+        { "option": "INH, rifampin and streptomycin for 12 months", "reason": "That’s for active TB, not latent." },
+        { "option": "Streptomycin for 6 months", "reason": "Not adequate regimen." },
+        { "option": "INH and rifampin for 6 months", "reason": "Overtreatment for latent TB." },
+        { "option": "Follow-up after 3 months", "reason": "Would risk progression, must treat latent TB now." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_85",
+    "case": "A 34-year-old man presents to the clinic with complaints of fever, night sweats, anorexia, with cough blood-tinged sputum. The chest x-ray reveals infiltrates in both the lower and upper lobes, with possible cavitation in the apices. The case was diagnosed as tuberculosis. What is the most appropriate preventive therapy after contact's screening? [2/2021R_10/2021T_1/2023M_5/2023M_11/2023T_2/2024T_2/2024S]",
+    "options": [
+      "Ethambutol",
+      "Rifampicin",
+      "Isoniazid (INH)",
+      "Fansidar",
+      "Pyrazinamide"
+    ],
+    "correctAnswer": "Isoniazid (INH)",
+    "explanation": {
+      "correct": "For contacts of TB patients, prophylaxis with isoniazid monotherapy is indicated after exclusion of active disease, to reduce risk of progression to active TB.",
+      "incorrect": [
+        { "option": "Ethambutol", "reason": "Used in active treatment regimen, not prophylaxis." },
+        { "option": "Rifampicin", "reason": "Also used for prophylaxis in some regimens, but INH is most widely recommended." },
+        { "option": "Fansidar", "reason": "Antimalarial drug, irrelevant." },
+        { "option": "Pyrazinamide", "reason": "Used in active TB treatment, not preventive therapy alone." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_86",
+    "case": "A 28-year-old previously healthy woman, presents with persistent cough, fatigue, and unintentional weight loss over the past months. She denies any recent travel history but reports close contact with her roommate who was diagnosed with active TB two months ago. On examination, there are no significant findings except for mild lymphadenopathy. Chest X-ray shows bilateral upper lobe infiltrates. A sputum sample is collected for testing. Which of the following is the most appropriate next step in managing this patient? [2/2024R]",
+    "options": [
+      "Initiating empiric treatment with first-line anti-TB drugs",
+      "Performing a tuberculin skin test or interferon-gamma release assay",
+      "Ordering a chest CT scan to confirm the diagnosis",
+      "Starting corticosteroid therapy to reduce inflammation",
+      "Admitting the patient to the hospital for isolation and further evaluation"
+    ],
+    "correctAnswer": "Admitting the patient to the hospital for isolation and further evaluation",
+    "explanation": {
+      "correct": "This patient has symptoms and suspicious findings for active TB with close contact history. Since active TB is highly contagious, the most appropriate immediate action is to admit her with respiratory isolation until results of sputum testing come back. Empirical therapy is initiated after microbiological confirmation or if very highly suspected.",
+      "incorrect": [
+        { "option": "Initiating empiric treatment", "reason": "Possible in very severe or highly suspicious cases, but here we need to confirm diagnosis and implement isolation first." },
+        { "option": "Tuberculin skin test", "reason": "Used for latent TB screening, not for symptomatic patient with radiological findings." },
+        { "option": "Ordering a chest CT scan", "reason": "May give more detail but not first line; initial management should be sputum-based diagnosis and isolation." },
+        { "option": "Starting corticosteroid therapy", "reason": "Not mainstay therapy unless TB meningitis or pericarditis case. Irrelevant here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_87",
+    "case": "Which of the following symptoms suggest a foreign body in the nasal passage? [11/2022R_1/2023M_6/2023R]",
+    "options": [
+      "Severe Pain and high fever",
+      "Clubbing",
+      "Mucopurulent, malodorous discharge",
+      "Crepitations",
+      "Wheezes"
+    ],
+    "correctAnswer": "Mucopurulent, malodorous discharge",
+    "explanation": {
+      "correct": "A unilateral, foul-smelling purulent nasal discharge in a child is a classic sign of a nasal foreign body. It often persists until the object is removed.",
+      "incorrect": [
+        { "option": "Severe Pain and high fever", "reason": "Suggests sinus infection or abscess, not typical for nasal FB." },
+        { "option": "Clubbing", "reason": "Unrelated, occurs in chronic hypoxia/lung disease." },
+        { "option": "Crepitations", "reason": "Lung finding, not nasal cavity." },
+        { "option": "Wheezes", "reason": "Associated with asthma/airway obstruction in chest, not nasal FB." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_88",
+    "case": "A 20-year-old man with asthma has been coughing for the past couple of days. He has developed shortness of breath in the past few hours and is finding it difficult to talk. His regular inhalers have not helped him. His heart rate is 112 bpm and respiratory rate 30 breaths/min. The severity of his asthma is which of the following? [11/2021R_11/2023T_2/2024T_8/2024S]",
+    "options": [
+      "Acute severe",
+      "Moderate exacerbation",
+      "Near fatal",
+      "Brittle",
+      "Life-threatening"
+    ],
+    "correctAnswer": "Acute severe",
+    "explanation": {
+      "correct": "The patient has HR >110, RR >25, difficulty speaking due to dyspnea, but is not yet hypoxic, cyanosed, or hypercapnic. This fits 'acute severe asthma'. Life-threatening asthma would include PCO2 rising, silent chest, bradycardia, confusion.",
+      "incorrect": [
+        { "option": "Moderate exacerbation", "reason": "Would be milder: talking in sentences, mild tachycardia, RR <25." },
+        { "option": "Near fatal", "reason": "Involves hypercapnia and ventilation required, which isn’t the case here." },
+        { "option": "Brittle", "reason": "Chronic classification for patients with very unstable asthma, not an acute description." },
+        { "option": "Life-threatening", "reason": "Would show signs of exhaustion, low PEF <33%, SpO2 <92%, silent chest or altered consciousness." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_89",
+    "case": "A 10-year-old male presents with chest pain. Which of the following is the most likely cause? [1/2021T_10/2021T_11/2022R_1/2023M_6/2023S]",
+    "options": [
+      "Psychogenic",
+      "Cardiac",
+      "Endocrine",
+      "Musculoskeletal",
+      "Gastrointestinal (GI)"
+    ],
+    "correctAnswer": "Musculoskeletal",
+    "explanation": {
+      "correct": "In children, chest pain is most commonly benign and musculoskeletal in origin (costochondritis, trauma, muscle strain), not cardiac. Cardiac chest pain is rare in pediatrics.",
+      "incorrect": [
+        { "option": "Psychogenic", "reason": "Possible, but organic musculoskeletal pain is most common." },
+        { "option": "Cardiac", "reason": "Rare cause in children unless congenital/cardiomyopathy." },
+        { "option": "Endocrine", "reason": "Not relevant to acute chest pain in children." },
+        { "option": "Gastrointestinal (GI)", "reason": "Reflux/esophageal pain possible, but less common than musculoskeletal." }
+      ]
+    }
+  },
+  {
+    "CaseID": "chest_90",
+    "case": "A 76-year-old woman presented by fracture neck of femur treated by replacement. She developed dyspnea, chest pain post-op, fever, right leg swelling, PE suspected. Which of the following is the most likely diagnosis? (Repetition of PE scenario, emphasized)",
+    "options": [
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Classic triad presentation: post-op immobilization, fever, unilateral leg swelling, sudden dyspnea and chest pain → pulmonary embolism diagnosis confirmed clinically."
+    }
+  },
+  {
+    "CaseID": "chest_91",
+    "case": "Patient with known COPD presenting with JVD, pedal edema, hypoxia, no fever, likely cause of worsening condition?",
+    "options": [
+      "Cor pulmonale"
+    ],
+    "correctAnswer": "Cor pulmonale",
+    "explanation": {
+      "correct": "Right heart failure secondary to chronic hypoxic pulmonary hypertension → cor pulmonale."
+    }
+  },
+  {
+    "CaseID": "chest_92",
+    "case": "A 2-year-old boy suddenly choked while playing, coughing, cyanosis ensued. Most likely diagnosis?",
+    "options": [
+      "Foreign body aspiration"
+    ],
+    "correctAnswer": "Foreign body aspiration",
+    "explanation": {
+      "correct": "Textbook scenario: healthy child suddenly choking, then coughing, struggling to breathe → airway foreign body aspiration."
+    }
+  },
+  {
+    "CaseID": "chest_93",
+    "case": "Asthmatic child presented with acute exacerbation, hypoxia, severe SOB, needs urgent treatment.",
+    "options": [
+      "Nebulized salbutamol"
+    ],
+    "correctAnswer": "Nebulized salbutamol",
+    "explanation": {
+      "correct": "First-line treatment for acute exacerbation is short-acting beta-agonist via nebulization or MDI."
+    }
+  },
+  {
+    "CaseID": "chest_94",
+    "case": "Patient with pneumonia and hypotension → sepsis, most likely complication?",
+    "options": [
+      "Sepsis"
+    ],
+    "correctAnswer": "Sepsis",
+    "explanation": {
+      "correct": "Pneumonia can progress to sepsis and septic shock as a complication if untreated or severe."
+    }
+  },
+  {
+    "CaseID": "chest_95",
+    "case": "Patient came with cough, fever, crackles on chest, CXR shows consolidation. Likely organism?",
+    "options": [
+      "Streptococcus pneumoniae"
+    ],
+    "correctAnswer": "Streptococcus pneumoniae",
+    "explanation": {
+      "correct": "Leading cause of community-acquired pneumonia presenting with consolidation and rust colored sputum."
+    }
+  },
+  {
+    "CaseID": "chest_96",
+    "case": "Middle-aged asthma patient, after bronchodilator peak flow improved dramatically. What’s the next step?",
+    "options": [
+      "Continue maintenance inhaler"
+    ],
+    "correctAnswer": "Continue maintenance inhaler",
+    "explanation": {
+      "correct": "If symptoms resolve after nebulizer, go back to usual regimen, no escalation needed."
+    }
+  },
+  {
+    "CaseID": "chest_97",
+    "case": "Elderly with history of tobacco abuse, sudden SOB, chest clear, CXR normal. Diagnosis?",
+    "options": [
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "Clear lungs with acute hypoxemia—must raise suspicion for pulmonary embolism."
+    }
+  },
+  {
+    "CaseID": "chest_98",
+    "case": "Young woman, bilateral hilar lymphadenopathy, hypercalcemia, diffuse infiltrates, diagnosis?",
+    "options": [
+      "Sarcoidosis"
+    ],
+    "correctAnswer": "Sarcoidosis",
+    "explanation": {
+      "correct": "Classic: hilar lymphadenopathy, lung infiltrates, systemic symptoms, hypercalcemia."
+    }
+  },
+  {
+    "CaseID": "chest_99",
+    "case": "Alcoholic man with pneumonia, currant jelly sputum, common organism?",
+    "options": [
+      "Klebsiella pneumoniae"
+    ],
+    "correctAnswer": "Klebsiella pneumoniae",
+    "explanation": {
+      "correct": "Klebsiella is strongly associated with pneumonia in alcoholics, produces currant jelly sputum, upper lobe predilection."
+    }
+  },
+  {
+    "CaseID": "chest_100",
+    "case": "Child with recurrent chest infection, fatty foul-smelling stool, pancreatic malabsorption. Diagnosis?",
+    "options": [
+      "Cystic fibrosis"
+    ],
+    "correctAnswer": "Cystic fibrosis",
+    "explanation": {
+      "correct": "Recurrent chest infections + steatorrhea in a child is the hallmark for cystic fibrosis."
+    }
+  }
+]

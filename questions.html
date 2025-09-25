@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ultimate EMELE – Questions</title>
+  <link rel="stylesheet" href="css/questions.css">
+</head>
+<body style="display:none;"> <!-- مخفي لحد ما نتأكد من اليوزر -->
+
+  <!-- الخلفية -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- الهيدر -->
+  <header class="question-header">
+    <button onclick="window.location.href='index.html'" class="btn-glass back-btn">← Dashboard</button>
+  </header>
+
+  <!-- اسم السيستم -->
+  <h2 id="systemTitle" class="system-title">System</h2>
+
+  <!-- Progression -->
+  <div id="progressContainer" class="progress-container">
+    <span id="progressText">Progress 0%</span>
+    <div class="progress-bar"><div id="progressFill"></div></div>
+    <button onclick="toggleNavigator()" class="btn-glass progress-toggle">☰</button>
+  </div>
+
+  <!-- Navigator -->
+  <div id="navigator" class="progress-nav"></div>
+
+  <!-- Question -->
+  <main id="questionsPage">
+    <div id="questionContainer" class="fade-container"></div>
+  </main>
+
+  <!-- Reset Modal -->
+  <div id="resetModal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Reset Progress?</h3>
+      <p>All progress & bookmarks will be lost.</p>
+      <div class="modal-actions">
+        <button onclick="confirmReset()" class="btn-glass">Yes, Reset</button>
+        <button onclick="closeReset()" class="btn-glass">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast hidden">Question has been Bookmarked</div>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase & Logic -->
+  <script type="module" src="js/questions.js"></script>
+</body>
+</html>

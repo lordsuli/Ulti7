@@ -1,0 +1,195 @@
+/* Body */
+body {
+  margin:0;
+  font-family:"Poppins", sans-serif;
+  color:white;
+  background:#0b0b0f;
+}
+
+/* =============== System Box =============== */
+.system-box {
+  max-width:800px;
+  margin:1.5rem auto;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(20px);
+  border-radius:20px;
+  padding:1rem 1.5rem;
+  border:1px solid rgba(255,255,255,0.1);
+  cursor:pointer;
+  transition:all 0.5s ease;
+}
+.system-box:hover {
+  box-shadow:0 0 12px violet;
+}
+.system-box h3 {
+  color:#fff;  /* ← خليت اسم السيستم أبيض بدل violet */
+  margin:0;
+  font-weight:700;
+  font-size:1.2rem;
+}
+
+.back-btn:hover {
+  background: rgba(255,255,255,0.1); /* عند الهوفر خلفية فاتحة */
+  color: violet;
+  border-color: violet;
+}
+
+/* =============== Collapsible Questions =============== */
+.bookmark-questions {
+  max-height:0;
+  overflow:hidden;
+  display:flex;
+  flex-wrap:wrap;
+  gap:0.8rem;
+  margin-top:1rem;
+  transition:max-height 0.5s ease, opacity 0.4s ease;
+  opacity:0;
+}
+.system-box.active .bookmark-questions {
+  max-height:500px;
+  opacity:1;
+}
+
+/* =============== Small Cards =============== */
+.bookmark-card {
+  flex:1 0 60px;
+  background:rgba(255,255,255,0.25);
+  backdrop-filter:blur(12px) saturate(180%);
+  border-radius:12px;
+  padding:0.6rem;
+  text-align:center;
+  cursor:pointer;
+  transition:transform 0.25s ease, box-shadow 0.3s ease;
+  color:#fff;
+  font-size:0.85rem;
+  border:1px solid rgba(255,255,255,0.3);
+  animation:fadeUp 0.5s ease both;
+}
+.bookmark-card:hover {
+  transform:translateY(-5px) scale(1.08);
+  box-shadow:0 6px 18px rgba(128,0,128,0.3);
+}
+
+@keyframes fadeUp {
+  from {opacity:0; transform:translateY(20px);}
+  to   {opacity:1; transform:translateY(0);}
+}
+
+/* =============== Modal Overlay =============== */
+.modal {
+  position:fixed;
+  top:0; left:0; right:0; bottom:0;
+  background:rgba(0,0,0,0.5);
+  backdrop-filter:blur(10px);
+  display:none;
+  justify-content:center;
+  align-items:center;
+  z-index:1000;
+}
+.modal.show {
+  display:flex;
+  animation:fadeIn 0.4s ease forwards;
+}
+@keyframes fadeIn {
+  from {opacity:0;} to {opacity:1;}
+}
+
+/* =============== Modal Content =============== */
+.modal-content {
+  background:rgba(255,255,255,0.08);
+  backdrop-filter:blur(20px) saturate(180%);
+  border-radius:16px;
+  border:1px solid rgba(255,255,255,0.2);
+  padding:2rem;
+  max-width:700px;
+  width:90%;
+  font-family:"Poppins",sans-serif;
+  box-shadow:0 8px 30px rgba(0,0,0,0.3);
+  transform:translateY(40px);
+  opacity:0;
+  animation:slideUp 0.5s ease forwards;
+}
+@keyframes slideUp {
+  from {transform:translateY(40px); opacity:0;}
+  to {transform:translateY(0); opacity:1;}
+}
+
+/* Question Case Box */
+#modalQuestion {
+  background: linear-gradient(135deg, #7b1fa2, #9c27b0); /* درجتين Violet */
+  color: white;
+  font-weight:600;
+  font-size:1.05rem;
+  line-height:1.6;
+  padding:1rem;
+  border-radius:14px;
+  margin-bottom:1.2rem;
+  text-align:left;
+  box-shadow:0 0 15px rgba(156,39,176,0.4);
+}
+
+/* Explanation Box */
+.explanation-box {
+  background:#fff;
+  border-radius:12px;
+  padding:1rem 1.2rem;
+  text-align:left;
+  border:1px solid rgba(0,0,0,0.1);
+  box-shadow:0 2px 8px rgba(0,0,0,0.1);
+  color:#111;
+  font-size:0.95rem;
+  line-height:1.5;
+}
+.explanation-box strong {
+  color:#4a148c;
+}
+.explanation-box ul {
+  margin:0.5rem 0 0 1.2rem;
+}
+.explanation-box li {
+  margin-bottom:0.4rem;
+}
+
+/* =============== Modal Buttons =============== */
+.modal-actions {
+  display:flex;
+  gap:1rem;
+  flex-wrap:wrap;
+  justify-content:center;
+  margin-top:1.5rem;
+}
+
+.modal-actions .btn-glass:disabled {
+  opacity:0.4;
+  cursor:not-allowed;
+}
+
+/* =============== footer =============== */
+/* Body flex لضمان الفوتر يثبت */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main ياخد المساحة */
+main {
+  flex: 1;
+}
+
+/* Footer - نفس index */
+.site-footer {
+  text-align:center;
+  color:#fff;
+  font-size:0.85rem;
+  padding:.6rem;
+  background:rgba(255,255,255,0.05);
+  backdrop-filter:blur(6px);
+  border-top:1px solid rgba(255,255,255,0.1); 
+  margin-top:auto;
+}
+
+/* العنوان Bookmarked Questions */
+.system-title {
+  color:#fff; /* ← أبيض */
+}

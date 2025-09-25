@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Statistics – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/statistics.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body style="display:none; display:flex; flex-direction:column; min-height:100vh; margin:0;">
+
+  <!-- الخلفية -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- الهيدر -->
+  <header class="question-header">
+    <button onclick="window.location.href='index.html'" class="btn-glass back-btn">← Dashboard</button>
+  </header>
+
+  <!-- العنوان -->
+  <h2 class="system-title">Performance Statistics</h2>
+
+  <!-- Total chart -->
+  <section id="totalSection">
+    <div class="chart-box total">
+      <h3>Overall Performance</h3>
+      <canvas id="totalChart"></canvas>
+    </div>
+  </section>
+
+  <!-- Charts per system -->
+  <main id="statisticsPage" style="flex:1;">
+    <div id="chartsContainer" class="charts-grid"></div>
+  </main>
+
+  <!-- مودال للأسئلة الغلط -->
+  <div id="wrongModal" class="modal hidden">
+    <div class="modal-content">
+      <div id="wrongQuestionBox"></div>
+      <div id="wrongExplanationBox"></div>
+      <div class="modal-actions">
+        <button id="wrongPrevBtn" class="btn-glass">Previous</button>
+        <button id="wrongNextBtn" class="btn-glass">Next</button>
+        <button onclick="closeWrongModal()" class="btn-glass">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase & Logic -->
+  <script type="module" src="js/statistics.js"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+body {
+  margin:0;
+  font-family:"Poppins", sans-serif;
+  color:white;
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  background:#0b0b0f; /* غامق زي index */
+}
+.background { position:fixed; width:100%; height:100%; z-index:-1; }
+.orb { position:absolute; border-radius:50%; filter:blur(120px); opacity:.55; }
+.violet{width:500px;height:500px;background:#a020f0;top:10%;left:15%;}
+.blue{width:400px;height:400px;background:#1e90ff;bottom:10%;right:15%;}
+.pink{width:300px;height:300px;background:#ff1493;top:50%;left:60%;}
+
+/* ضبط صندوق الدخول */
+.auth-box {
+  max-width: 400px;
+  width: 90%;
+  margin: 10vh auto;
+  padding: 2rem;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(16px);
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 0 25px rgba(0,0,0,0.4);
+}
+
+/* خانات الإدخال */
+.auth-box input[type="email"],
+.auth-box input[type="password"],
+.auth-box input[type="text"] {
+  width: 100%;              /* يملى مساحة البوكس */
+  padding: 12px 15px;       /* ارتفاع مريح */
+  margin: 0.8rem 0;         /* مسافة بين الخانات */
+  border-radius: 10px;      /* نفس ستايل الزوايا */
+  border: 1px solid rgba(255,255,255,0.2);
+  font-size: 1rem;
+  outline: none;
+  box-sizing: border-box;   /* padding جزء من العرض */
+}
+
+/* زرار الدخول */
+.auth-box button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.auth-box button.submit-btn {
+  background: linear-gradient(45deg, violet, purple);
+  color: #fff;
+}
+
+.auth-box button.submit-btn:hover {
+  box-shadow: 0 0 15px violet;
+}
+
+/* زرار جوجل */
+.auth-box .google-btn {
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.2);
+  margin-top: 0.8rem;
+}
+.auth-box .google-btn:hover {
+  background: rgba(255,255,255,0.2);
+}
+
+.btn-glass {
+  width:100%; background:linear-gradient(45deg,violet,purple);
+  border:none; border-radius:12px;
+  padding:0.8rem; cursor:pointer; color:white; font-weight:600;
+  transition:.3s; box-shadow:0 0 10px rgba(186,85,211,0.3);
+}
+.btn-glass:hover { transform:scale(1.03); box-shadow:0 0 18px violet; }
+
+.btn-google {
+  margin-top:0.7rem;width:100%;
+  background:rgba(255,255,255,0.1);
+  border:1px solid rgba(255,255,255,0.25);
+  border-radius:12px;
+  padding:0.8rem; color:white; font-weight:600;
+}
+.btn-google:hover { background:rgba(255,255,255,0.25); }
+
+.toggle { margin-top:1rem;font-size:0.9rem;color:#aaa; cursor:pointer; }
+.toggle:hover { color:violet; }
+
+.site-footer {
+  text-align:center;color:#fff; font-size:0.85rem;
+  padding:0.5rem; position:fixed; bottom:0; left:0;
+  width:100%; background:rgba(255,255,255,0.05); backdrop-filter:blur(6px);
+  border-top:1px solid rgba(255,255,255,0.15);
+}
+@keyframes fadeIn { from{opacity:0;transform:translateY(20px);} to{opacity:1;transform:translateY(0);} }
+.hidden { display:none; }
+.form-slide { transition:all 0.6s ease; }
+.slide-signup { transform:translateX(20px);opacity:0.2; }
+.slide-login { transform:translateX(-20px);opacity:0.2; }

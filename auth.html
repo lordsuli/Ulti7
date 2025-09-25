@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/auth.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- نفس خلفية index -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- صندوق الـLogin/Signup -->
+  <div class="auth-box">
+    <h1 class="site-title">Ultimate EMELE – Qbank</h1>
+    <p class="welcome-text">Ignite your medical brilliance ✨<br>Please login to continue.</p>
+    
+    <div id="formContainer" class="form-slide">
+      <h2 id="formTitle">Login</h2>
+
+      <!-- يظهر بس في وضع Sign Up -->
+      <input type="text" id="nameField" placeholder="Full Name" class="auth-input hidden">
+
+      <input type="email" id="email" placeholder="Email" class="auth-input">
+      <input type="password" id="password" placeholder="Password" class="auth-input">
+
+      <button class="btn-glass" onclick="submitForm()">Submit</button>
+      <button class="btn-google" onclick="loginWithGoogle()">Continue with Google</button>
+
+      <div class="toggle" onclick="toggleForm()">Don't have an account? Sign up</div>
+    </div>
+  </div>
+
+  <!-- Footer Inject -->
+  <div id="footer"></div>
+
+  <!-- ✅ Firebase Auth Logic -->
+  <script type="module" src="js/auth.js"></script>
+  <script src="js/footer.js"></script>
+</body>
+</html>

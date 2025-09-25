@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulation – Ultimate EMELE</title>
+  <link rel="stylesheet" href="css/questions.css">
+  <link rel="stylesheet" href="css/simulation.css">
+</head>
+<body style="display:none; display:flex; flex-direction:column; min-height:100vh; margin:0;">
+
+  <!-- الخلفية -->
+  <div class="background">
+    <div class="orb violet"></div>
+    <div class="orb blue"></div>
+    <div class="orb pink"></div>
+  </div>
+
+  <!-- الهيدر -->
+  <header class="question-header">
+    <button onclick="window.location.href='index.html'" class="btn-glass back-btn">← Dashboard</button>
+  </header>
+
+  <!-- العنوان الكبير -->
+  <h2 class="system-title">Simulation Exams</h2>
+
+  <!-- المحتوى -->
+  <main class="simulation-main">
+    <!-- كارت Enroll -->
+    <div class="sim-card enroll" onclick="showEnroll()">
+      <h3>Enroll in a Simulation Exam</h3>
+    </div>
+
+    <!-- كارت Previous Exams -->
+    <div class="sim-card previous">
+      <h3>Your Previous Exams</h3>
+      <div id="previousExams"></div>
+      <button onclick="resetExams()" class="btn-glass reset-btn">🗑 Reset All Exams</button>
+    </div>
+  </main>
+
+  <!-- Enroll Modal -->
+  <div id="enrollModal" class="modal hidden">
+    <div class="modal-content">
+      <h3>Simulation Exam Instructions</h3>
+      <ul style="text-align:left; color:#333;">
+        <li>Similar to the official Medical Licensing exam.</li>
+        <li>Time limited: <b>120 minutes</b>.</li>
+        <li>Passing Score: <b>50%</b>.</li>
+        <li>Good luck</li>
+      </ul>
+      <div class="modal-actions">
+        <button onclick="generateExam()" class="btn-glass">Generate Exam</button>
+        <button onclick="closeEnroll()" class="btn-glass">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="site-footer">Designed and Powered by Ahmed Suliman</footer>
+
+  <!-- ✅ Firebase & Logic -->
+  <script type="module" src="js/simulation.js"></script>
+</body>
+</html>

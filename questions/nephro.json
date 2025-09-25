@@ -1,0 +1,1078 @@
+[
+  {
+    "CaseID": "nephro_1",
+    "case": "A female patient, 31 years old, complained of increased abdominal girth after delivery. Abdominal examination revealed ascites by shifting dullness. Laboratory investigations reported marked proteinuria and hypoalbuminemia. Abdominal ultrasonography revealed fatty liver and ascites. Which of the following is the most likely cause of ascites?",
+    "options": [
+      "Nephrosis",
+      "Pancreatic ascites",
+      "Liver cirrhosis and ascites",
+      "Abdominal tuberculosis",
+      "Tuberculosis"
+    ],
+    "correctAnswer": "Nephrosis",
+    "explanation": {
+      "correct": "The patient has nephrotic syndrome (nephrosis). Heavy proteinuria causes severe hypoalbuminemia, lowering intravascular oncotic pressure and leading to edema and ascites. Key clues: proteinuria + hypoalbuminemia + ascites. Fatty liver is incidental here.",
+      "incorrect": [
+        {"option": "Pancreatic ascites", "reason": "Causes high-protein, amylase-rich ascitic fluid in chronic pancreatitis—not fitting the labs here."},
+        {"option": "Liver cirrhosis and ascites", "reason": "Cirrhosis causes ascites, but there’s no stigmata (portal hypertension, coagulopathy). Instead, labs focus on renal protein loss."},
+        {"option": "Abdominal tuberculosis", "reason": "Usually gives exudative ascites with fever/night sweats—no proteinuria/hypoalbuminemia."},
+        {"option": "Tuberculosis", "reason": "Too vague, and doesn’t match nephrotic findings of this patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_2",
+    "case": "Which of the following is a character of angioedema?",
+    "options": [
+      "It usually causes pleural effusion",
+      "May cause suffocation",
+      "Treated by topical steroids",
+      "Treat with antibiotics",
+      "Just reassure"
+    ],
+    "correctAnswer": "May cause suffocation",
+    "explanation": {
+      "correct": "Angioedema is abrupt subcutaneous and mucosal swelling. The danger is laryngeal/glottis edema → airway obstruction → suffocation if not managed urgently.",
+      "incorrect": [
+        {"option": "It usually causes pleural effusion", "reason": "Pleural effusions are not part of angioedema pathology."},
+        {"option": "Treated by topical steroids", "reason": "Topical therapy is ineffective for systemic swelling; needs systemic management (antihistamines, adrenaline, corticosteroids)."},
+        {"option": "Treat with antibiotics", "reason": "It is not infectious."},
+        {"option": "Just reassure", "reason": "Mild cases resolve, but reassurance alone can be fatal if airway is compromised."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_3",
+    "case": "A 6-year-old has a sore throat and has been given antibiotics. Three weeks later, he presents with feverish feeling, nausea, vomiting and tea-colored urine. Urine dipstick confirms hematuria and protein. BP 100/60. What is the most likely diagnosis?",
+    "options": [
+      "Nephritic syndrome",
+      "UTI",
+      "Acute tubulointerstitial nephritis",
+      "Minimal change glomerulonephritis",
+      "Post streptococcal glomerulonephritis"
+    ],
+    "correctAnswer": "Post streptococcal glomerulonephritis",
+    "explanation": {
+      "correct": "Classical PSGN: develops 2–3 weeks post-strep throat. Clinical hallmark = tea/cola-colored hematuria, proteinuria, mild edema, nephritic BP changes. Fits perfectly.",
+      "incorrect": [
+        {"option": "Nephritic syndrome", "reason": "A syndrome description only; PSGN is the specific cause."},
+        {"option": "UTI", "reason": "Would cause dysuria/urgency/pyuria, not RBC casts + post-strep timing."},
+        {"option": "Acute tubulointerstitial nephritis", "reason": "Drug-induced, with eosinophilia and fever—not case here."},
+        {"option": "Minimal change GN", "reason": "Classic nephrotic cause—proteinuria/edema but no hematuria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_4",
+    "case": "An 8-year-old girl developed fever and tea-colored urine 3 weeks after sore throat. Urine analysis shows red cell casts. Which is the most likely diagnosis?",
+    "options": [
+      "Lupus nephritis",
+      "Nephrotic syndrome",
+      "Acute cystitis",
+      "Poststreptococcal glomerulonephritis",
+      "Acute rheumatic fever"
+    ],
+    "correctAnswer": "Poststreptococcal glomerulonephritis",
+    "explanation": {
+      "correct": "RBC casts = origin in glomerulus. The timeline after strep throat + hematuria makes PSGN the textbook answer.",
+      "incorrect": [
+        {"option": "Lupus nephritis", "reason": "Requires SLE systemic features—absent here."},
+        {"option": "Nephrotic syndrome", "reason": "Heavy proteinuria/edema dominate nephrotic—different picture."},
+        {"option": "Acute cystitis", "reason": "Would cause dysuria, suprapubic pain, but no RBC casts."},
+        {"option": "Acute rheumatic fever", "reason": "Post-strep complication, yes—but affects heart/joints/skin, not kidneys."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_5",
+    "case": "An 8-year-old girl with sore throat history develops tea-colored urine 3 weeks later. What urine finding is diagnostic for post-streptococcal glomerulonephritis?",
+    "options": [
+      "Small volume",
+      "High specific gravity",
+      "Red cells in excess",
+      "Red cell casts",
+      "Proteinuria"
+    ],
+    "correctAnswer": "Red cell casts",
+    "explanation": {
+      "correct": "RBC casts form inside renal tubules, proving glomerular origin of bleeding—pathognomonic for GN (here, PSGN).",
+      "incorrect": [
+        {"option": "Small volume", "reason": "Shows oliguria but is non-specific."},
+        {"option": "High specific gravity", "reason": "Concentrated urine only—not diagnostic."},
+        {"option": "Red cells in excess", "reason": "Hematuria is common but could be from bladder/ureter also—need casts."},
+        {"option": "Proteinuria", "reason": "Seen in GN but not specific; many renal disorders have proteinuria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_6",
+    "case": "A 30-year-old woman presents with neglected labor. Urine output is charted for dehydration suspicion. At what urine volume is oliguria diagnosed?",
+    "options": [
+      "Less than 800-1600 ml/24h",
+      "Less than 400-500 ml/24h",
+      "Less than 100-400 ml/24h",
+      "Less than 50-100 ml/24h",
+      "Less than 1000-4000 ml/24h"
+    ],
+    "correctAnswer": "Less than 400-500 ml/24h",
+    "explanation": {
+      "correct": "Clinical definition of oliguria is urine output <400 mL/24h in adults. This signifies inadequate renal perfusion or tubular dysfunction.",
+      "incorrect": [
+        {"option": "Less than 800-1600 ml/24h", "reason": "This is within normal urine daily range."},
+        {"option": "Less than 100-400 ml/24h", "reason": "This describes severe stage but definition cut-off is <400-500."},
+        {"option": "Less than 50-100 ml/24h", "reason": "This is anuria/extreme—more severe than oliguria."},
+        {"option": "Less than 1000-4000 ml/24h", "reason": "This describes normal to polyuric range, not oliguria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_7",
+    "case": "A 36-year-old female with pallor, puffiness, edema of lower limbs. BP 180/100. 24h urine protein = 8 g/dl, 2-3 RBCs/HPF, creatinine 1.0, normal complement, ANA/anti-dsDNA negative. Most likely diagnosis?",
+    "options": [
+      "Nephritic syndrome",
+      "Heart failure",
+      "Lupus nephritis",
+      "Nephrotic syndrome",
+      "Cluster headache"
+    ],
+    "correctAnswer": "Nephrotic syndrome",
+    "explanation": {
+      "correct": "Massive proteinuria (>3.5 g/day), edema and normal renal function suggest nephrotic syndrome. Hypertension is common too.",
+      "incorrect": [
+        {"option": "Nephritic syndrome", "reason": "Would show hematuria, azotemia, and low complement—not here."},
+        {"option": "Heart failure", "reason": "Could cause edema but not 8g proteinuria."},
+        {"option": "Lupus nephritis", "reason": "ANA and anti-dsDNA are negative, ruling out lupus nephritis."},
+        {"option": "Cluster headache", "reason": "Irrelevant to case, classic exam distractor."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_8",
+    "case": "A 36-year-old man with type 1 diabetes presents with 3-day dysuria, fever, chills, severe back pain. Exam shows loin tenderness. UA consistent with infection. Most likely diagnosis?",
+    "options": [
+      "Prostatitis",
+      "Pyelonephritis",
+      "Cystitis",
+      "Glomerulonephritis",
+      "Nephrotic syndrome"
+    ],
+    "correctAnswer": "Pyelonephritis",
+    "explanation": {
+      "correct": "Features: fever, chills, costovertebral angle tenderness, systemic infection → upper UTI = pyelonephritis. Diabetes is a risk factor.",
+      "incorrect": [
+        {"option": "Prostatitis", "reason": "Gives perineal pain, tender prostate—not typical flank tenderness."},
+        {"option": "Cystitis", "reason": "Lower urinary tract only (dysuria, frequency), no fever/loin pain."},
+        {"option": "Glomerulonephritis", "reason": "Manifested by RBC casts, proteinuria—not infection."},
+        {"option": "Nephrotic syndrome", "reason": "Protein loss and edema—not acute fever/UTI picture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_9",
+    "case": "A 16-year-old type 1 diabetic in ICU with coma, dehydration, RBS 450, K+ 5.4, BUN 68, Cr 2.8, oliguria 200ml/24h. What is most likely diagnosis?",
+    "options": [
+      "Hypoglycemia",
+      "Acute kidney injury",
+      "Chronic kidney injury",
+      "Nephrotic syndrome",
+      "Obstructive uropathy"
+    ],
+    "correctAnswer": "Acute kidney injury",
+    "explanation": {
+      "correct": "Hyperglycemia + dehydration → prerenal AKI, with raised creatinine and BUN, oliguria. Chronic disease unlikely given abrupt onset.",
+      "incorrect": [
+        {"option": "Hypoglycemia", "reason": "Sugar is high not low."},
+        {"option": "Chronic kidney injury", "reason": "Needs long-standing history + shrunken kidneys on imaging."},
+        {"option": "Nephrotic syndrome", "reason": "Proteinuria, edema dominate, not acute renal shutdown."},
+        {"option": "Obstructive uropathy", "reason": "No history of LUTS/obstruction; coma due to DKA + AKI."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_10",
+    "case": "Which of the following is the most common type of nephrotic syndrome in children?",
+    "options": [
+      "Membranous",
+      "Crescentic",
+      "Minimal change",
+      "Membrane proliferative",
+      "Membranous"
+    ],
+    "correctAnswer": "Minimal change",
+    "explanation": {
+      "correct": "Minimal change disease is the most common pediatric nephrotic syndrome (>70% cases). Classic: edema, heavy proteinuria, but normal renal function.",
+      "incorrect": [
+        {"option": "Membranous", "reason": "More common in adults."},
+        {"option": "Crescentic", "reason": "This is RPGN—rapid progression, not the common nephrotic form."},
+        {"option": "Membrane proliferative", "reason": "Less common cause with mixed features, not the leading pediatric etiology."},
+        {"option": "Membranous (duplicate)", "reason": "Again adult predominant, not pediatric pattern."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_11",
+    "case": "A 58 year-old male patient presents with painless hematuria. Which of the following is the most likely cause?",
+    "options": [
+      "Renal carcinoma",
+      "Bladder carcinoma",
+      "Urinary tract infection (UTI)",
+      "Glomerulonephritis",
+      "Nephrotic syndrome"
+    ],
+    "correctAnswer": "Bladder carcinoma",
+    "explanation": {
+      "correct": "Painless hematuria is the classic red flag symptom for urinary tract malignancy, most commonly transitional cell carcinoma of the bladder. Pain is usually absent until advanced disease.",
+      "incorrect": [
+        {"option": "Renal carcinoma", "reason": "Can cause hematuria, but typically also flank pain or palpable mass (classic triad). Less likely as isolated painless hematuria."},
+        {"option": "Urinary tract infection (UTI)", "reason": "Would be painful with dysuria, urgency, and fever—not just painless hematuria."},
+        {"option": "Glomerulonephritis", "reason": "Produces RBC casts, proteinuria, systemic features—not isolated painless hematuria."},
+        {"option": "Nephrotic syndrome", "reason": "Characterized by proteinuria, hypoalbuminemia, and edema—not gross hematuria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_12",
+    "case": "A 42-year-old female presents with painless hematuria and increased urinary frequency. Which of the following is the most likely cause?",
+    "options": [
+      "Renal carcinoma",
+      "Bladder carcinoma",
+      "Urinary tract infection (UTI)",
+      "Glomerulonephritis",
+      "Nephrotic syndrome"
+    ],
+    "correctAnswer": "Bladder carcinoma",
+    "explanation": {
+      "correct": "Again classic: painless hematuria points to bladder cancer, this time with irritative voiding symptoms, often due to carcinoma in situ or tumor affecting bladder mucosa.",
+      "incorrect": [
+        {"option": "Renal carcinoma", "reason": "Would typically cause flank pain and mass along with hematuria—not just urinary frequency."},
+        {"option": "UTI", "reason": "Would cause painful urination + pyuria, not painless hematuria."},
+        {"option": "Glomerulonephritis", "reason": "Microscopic hematuria + proteinuria, not gross painless hematuria."},
+        {"option": "Nephrotic syndrome", "reason": "Protein loss + edema dominate—not frank hematuria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_13",
+    "case": "Minimal lesion nephrotic syndrome is characterized by all of the following except:",
+    "options": [
+      "Pitting edema is a constant feature",
+      "Hypertension is always present",
+      "Selective proteinuria exceeding 3 g/24 hours",
+      "Relapses may occur",
+      "Common in pediatric age"
+    ],
+    "correctAnswer": "Hypertension is always present",
+    "explanation": {
+      "correct": "Hypertension is usually absent or mild in minimal change disease, not 'always present.' The rest are characteristic features.",
+      "incorrect": [
+        {"option": "Pitting edema is a constant feature", "reason": "True—edema is hallmark of nephrotic syndrome."},
+        {"option": "Selective proteinuria exceeding 3 g/24h", "reason": "Accurate: mainly albuminuria with minimal change disease."},
+        {"option": "Relapses may occur", "reason": "Correct: Minimal change often relapses, especially in children."},
+        {"option": "Common in pediatric age", "reason": "Yes, this is the most common nephrotic syndrome in children."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_14",
+    "case": "A 5-year-old boy with glomerulonephritis: edema, hematuria, 3 weeks after tonsillitis treated with antibiotics. Otherwise well, no rash/joint pain. Likely cause?",
+    "options": [
+      "Post-streptococcal glomerulonephritis (PSGN)",
+      "Berger's disease (IgA nephropathy)",
+      "Hemolytic uremic syndrome (HUS)",
+      "Henoch-Schönlein purpura (HSP)",
+      "Goodpasture syndrome"
+    ],
+    "correctAnswer": "Post-streptococcal glomerulonephritis (PSGN)",
+    "explanation": {
+      "correct": "Classic post-infectious GN after streptococcal infection, with latency of ~2-3 weeks, edema, hematuria. Fits PSGN.",
+      "incorrect": [
+        {"option": "Berger's (IgA)", "reason": "Causes hematuria within 24-48h of URTI—not weeks later."},
+        {"option": "HUS", "reason": "Triad: hemolysis + thrombocytopenia + AKI, usually post-diarrheal—not case here."},
+        {"option": "HSP", "reason": "IgA vasculitis with purpuric rash, arthritis, abdominal pain—absent here."},
+        {"option": "Goodpasture syndrome", "reason": "Associated with pulmonary hemorrhage and anti-GBM antibodies, not present."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_15",
+    "case": "A 5-year-old boy with generalized morning edema, hypoproteinemia, hypercholesterolemia, proteinuria +++. Normal creatinine. Most probable pathological diagnosis?",
+    "options": [
+      "Minimal change glomerulonephritis",
+      "Focal segmental glomerulosclerosis",
+      "Membranous glomerulopathy",
+      "Microangiopathy",
+      "IgA nephropathy"
+    ],
+    "correctAnswer": "Minimal change glomerulonephritis",
+    "explanation": {
+      "correct": "Hallmark pediatric nephrotic case: edema, proteinuria, low albumin, high cholesterol, normal renal function. Pathology is minimal change disease.",
+      "incorrect": [
+        {"option": "Focal segmental glomerulosclerosis", "reason": "Also nephrotic, but more resistant and occurs in older children/adults; biopsy needed if nonresponsive."},
+        {"option": "Membranous glomerulopathy", "reason": "Common nephrotic in adults, not children."},
+        {"option": "Microangiopathy", "reason": "Not picture of nephrotic—no hemolysis or thrombocytopenia."},
+        {"option": "IgA nephropathy", "reason": "Presents with hematuria, not full nephrotic syndrome."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_16",
+    "case": "A 33-year-old woman, bilateral loin pain, hematuria, edema in feet, onset 24h after sore throat. BP 120/80. UA: blood 4+, protein 2+. Likely diagnosis?",
+    "options": [
+      "IgA nephropathy",
+      "Microscopic polyangiitis",
+      "Nephrolithiasis",
+      "Post-streptococcal glomerulonephritis",
+      "Septicemia"
+    ],
+    "correctAnswer": "IgA nephropathy",
+    "explanation": {
+      "correct": "IgA nephropathy causes hematuria within 24–48h after mucosal infection (synpharyngitic hematuria). PSGN takes weeks delay.",
+      "incorrect": [
+        {"option": "Microscopic polyangiitis", "reason": "Systemic vasculitis with ANCA, not isolated hematuria this soon after URTI."},
+        {"option": "Nephrolithiasis", "reason": "Would cause colicky pain, stones, not proteinuria + infection relation."},
+        {"option": "Post-streptococcal GN", "reason": "Occurs 2-3 weeks after infection, not 24h."},
+        {"option": "Septicemia", "reason": "Systemic infection picture absent, no sepsis signs here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_17",
+    "case": "IV pyelogram shows hydronephrosis in a cervical cancer patient confined to cervix of normal size. This indicates which stage?",
+    "options": [
+      "Microinvasive stage",
+      "I",
+      "II",
+      "III",
+      "IV b"
+    ],
+    "correctAnswer": "III",
+    "explanation": {
+      "correct": "Hydronephrosis due to ureteral obstruction = stage III cervical cancer (extension to pelvic wall causing ureteric obstruction).",
+      "incorrect": [
+        {"option": "Microinvasive stage", "reason": "Limited to cervix microscopic invasion, no hydronephrosis."},
+        {"option": "I", "reason": "Confined to cervix, no spread."},
+        {"option": "II", "reason": "Extends beyond cervix but not to pelvic wall; no hydronephrosis."},
+        {"option": "IV b", "reason": "Distant metastasis—too advanced."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_18",
+    "case": "An 8-year-old boy with generalized edema, normal BP. UA shows protein 4+. Serum albumin 2.9 g/dl, cholesterol 550. Most appropriate initial line of therapy?",
+    "options": [
+      "furosemide therapy",
+      "IV albumin transfusion",
+      "IV methyl prednisolone",
+      "lipid lowering agents",
+      "oral steroids"
+    ],
+    "correctAnswer": "oral steroids",
+    "explanation": {
+      "correct": "Minimal change disease (most common nephrotic in children). First-line treatment = oral corticosteroids. Most respond dramatically.",
+      "incorrect": [
+        {"option": "furosemide therapy", "reason": "May help temporarily with edema but not definitive treatment."},
+        {"option": "IV albumin transfusion", "reason": "Used if severe hypovolemia, not first-line."},
+        {"option": "IV methyl prednisolone", "reason": "Reserved for steroid-resistant or severe relapse cases."},
+        {"option": "lipid lowering agents", "reason": "Hypercholesterolemia is secondary—will resolve when nephrosis treated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_19",
+    "case": "A 73-year-old man after AAA repair, hypotension intra-op, transfused. Post-op Cr 3.5, BUN 50, urine Na 50, FeNa 3.5%. What is likely cause of AKI?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Acute glomerulonephritis",
+      "Acute tubular necrosis",
+      "Prerenal azotemia",
+      "Contrast-induced nephropathy"
+    ],
+    "correctAnswer": "Acute tubular necrosis",
+    "explanation": {
+      "correct": "FeNa >2% + granular casts = intrinsic renal injury. Hypotensive insult (ischemic damage) causes ATN. Classic post-op finding.",
+      "incorrect": [
+        {"option": "Acute interstitial nephritis", "reason": "Due to drug allergy; pyuria, eosinophilia—not here."},
+        {"option": "Acute GN", "reason": "Would show hematuria, dysmorphic RBCs, not seen here."},
+        {"option": "Prerenal azotemia", "reason": "FeNa <1%, not 3.5%."},
+        {"option": "Contrast nephropathy", "reason": "No evidence of contrast exposure—cause was surgery hypotension."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_20",
+    "case": "A 30-year-old pregnant woman, 3rd trimester ultrasound: bilateral fetal hydronephrosis + hydroureter, oligohydramnios. Most probable diagnosis?",
+    "options": [
+      "Posterior urethral valve",
+      "Polycystic kidney disease",
+      "Bilateral pelvi-ureteric junction obstruction",
+      "Renal dysplasia",
+      "Bilateral renal vein thrombosis"
+    ],
+    "correctAnswer": "Posterior urethral valve",
+    "explanation": {
+      "correct": "Posterior urethral valves are the most common cause of bladder outlet obstruction in male infants → bilateral hydronephrosis with decreased amniotic fluid.",
+      "incorrect": [
+        {"option": "Polycystic kidney disease", "reason": "Would show cysts, not just hydronephrosis/ureteric dilatation."},
+        {"option": "PUJ obstruction", "reason": "Usually unilateral, not bilateral symmetrical with hydroureter."},
+        {"option": "Renal dysplasia", "reason": "Would show poorly formed kidneys rather than hydronephrosis."},
+        {"option": "Renal vein thrombosis", "reason": "Would cause enlarged echogenic kidneys, hematuria—not bilateral hydronephrosis in fetus."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_21",
+    "case": "A 63-year-old man presents with a 2- day history of a dull left-sided loin pain. He has a known history of a left sided renal calculus. On examination, his temperature is 38.5° C and he has rigors. Urea 9.9 mmol/L and creatinine 155 pmol/L. A CT KUB confirms a large left pelvi-ureteric junction calculus with left sided hydronephrosis. Which of the following is the appropriate management?",
+    "options": [
+      "extracorporeal shock wave lithotripsy (ESWL)",
+      "conservative management",
+      "ureteric stenting",
+      "Percutaneous nephrolithotomy"
+    ],
+    "correctAnswer": "ureteric stenting",
+    "explanation": {
+      "correct": "This is obstructed infected stone (obstructive uropathy with infection). The first priority is urgent drainage of the kidney—ureteric stenting or nephrostomy. ESWL or lithotripsy are contraindicated in acute obstructed infection.",
+      "incorrect": [
+        {"option": "extracorporeal shock wave lithotripsy (ESWL)", "reason": "Contraindicated in infected obstructed systems—risk of sepsis/shock."},
+        {"option": "conservative management", "reason": "Inappropriate; obstruction + infection needs urgent decompression, not watchful waiting."},
+        {"option": "Percutaneous nephrolithotomy", "reason": "Definitive treatment but not initial in emergency infected obstruction. Stabilization first is stenting/nephrostomy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_22",
+    "case": "A 42-year-old male patient presents with severe sudden onset right loin pain, radiating to his groin. He states the pain is 10/10 in intensity. He has 3+ hemoglobin on urinalysis, and you suspect a ureteric calculus. He undergoes a CT of his kidney, ureter and bladder (KUB) which confirms a 3 mm right vesico-ureteric junction calculus. What is the most appropriate management?",
+    "options": [
+      "extracorporeal shock wave lithotripsy (ESWL)",
+      "conservative management",
+      "ureteric stenting",
+      "Percutaneous nephrolithotomy"
+    ],
+    "correctAnswer": "conservative management",
+    "explanation": {
+      "correct": "Small ureteric stones (<5 mm) at the vesico-ureteric junction usually pass spontaneously with analgesia and hydration. No intervention required initially.",
+      "incorrect": [
+        {"option": "extracorporeal shock wave lithotripsy (ESWL)", "reason": "Reserved for larger stones (>1 cm). Not indicated for 3 mm stone."},
+        {"option": "ureteric stenting", "reason": "Used for obstruction or infection, not indicated here."},
+        {"option": "Percutaneous nephrolithotomy", "reason": "Used for very large renal stones, not tiny distal ureter stones."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_23",
+    "case": "A 5-year-old presents with hematuria, proteinuria, and hypertension. Renal biopsy shows diffuse proliferation of glomerular cells and immune deposits. What is the most likely diagnosis?",
+    "options": [
+      "Minimal change disease",
+      "Membranous nephropathy",
+      "IgA nephropathy (Berger’s disease)",
+      "Acute glomerulonephritis",
+      "Alport syndrome"
+    ],
+    "correctAnswer": "Acute glomerulonephritis",
+    "explanation": {
+      "correct": "Typical biopsy of post-infectious or acute proliferative GN: diffuse proliferation + immune complex deposits. Presentation with hematuria, proteinuria, hypertension is nephritic picture. ",
+      "incorrect": [
+        {"option": "Minimal change disease", "reason": "Shows normal light microscopy, only podocyte foot process effacement on EM. Presents with nephrotic syndrome."},
+        {"option": "Membranous nephropathy", "reason": "Causes nephrotic syndrome, thickened basement membrane with subepithelial deposits, not this picture."},
+        {"option": "IgA nephropathy", "reason": "Immune deposits mainly IgA, but clinical history would be hematuria within 1-2 days of URTI, not post-infectious GN."},
+        {"option": "Alport syndrome", "reason": "Hereditary nephritis + hearing loss/ocular abnormalities, not acute proliferative histology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_24",
+    "case": "A 45-year-old man presents with hematuria and proteinuria. Renal biopsy reveals mesangial deposits of IgA. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Minimal change disease",
+      "Focal segmental glomerulosclerosis",
+      "IgA nephropathy",
+      "Membranous nephropathy",
+      "Alport syndrome"
+    ],
+    "correctAnswer": "IgA nephropathy",
+    "explanation": {
+      "correct": "IgA nephropathy (Berger’s disease) is due to IgA deposition in mesangium. Clinical picture: recurrent hematuria often after URTI + biopsy confirming IgA deposits.",
+      "incorrect": [
+        {"option": "Minimal change disease", "reason": "Glomeruli look normal under light microscope, not mesangial IgA."},
+        {"option": "Focal segmental sclerosis", "reason": "Segmental scarring of glomeruli, not IgA deposition."},
+        {"option": "Membranous nephropathy", "reason": "Thickened capillary walls with subepithelial immune deposits, not mesangial IgA."},
+        {"option": "Alport syndrome", "reason": "Hereditary problem with type IV collagen, often with hearing/vision issues, not IgA deposition."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_25",
+    "case": "A 40-year-old woman with a family history of autoimmune diseases presents with persistent fatigue, blood in her urine (hematuria), and high blood pressure. A kidney biopsy reveals signs of immune deposits in the glomeruli (small filtering units in the kidneys). Which is the most likely diagnosis in this case?",
+    "options": [
+      "IgA Nephropathy",
+      "Membranous nephropathy",
+      "Minimal change disease",
+      "Diabetic Nephropathy",
+      "Lupus Nephritis"
+    ],
+    "correctAnswer": "Lupus Nephritis",
+    "explanation": {
+      "correct": "The family history of autoimmunity + hematuria, hypertension, fatigue, and biopsy with immune deposits favors lupus nephritis. Systemic autoimmune etiology fits best.",
+      "incorrect": [
+        {"option": "IgA nephropathy", "reason": "Would likely mention synpharyngitic hematuria + mesangial IgA deposits, no systemic autoimmune history."},
+        {"option": "Membranous nephropathy", "reason": "Subepithelial deposits, mainly nephrotic—not associated with systemic autoimmune features."},
+        {"option": "Minimal change disease", "reason": "Common in children, no immune complex deposits on biopsy."},
+        {"option": "Diabetic nephropathy", "reason": "History of long-term diabetes required; biopsy shows nodular glomerulosclerosis, not immune deposits."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_26",
+    "case": "A 26-year-old woman has a 10-year history of type 1 diabetes mellitus. She has maintained strict glycemic control and has had no significant diabetic complications so far. On her last routine examination, her blood pressure is 125/78 mmHg. Blood chemistry studies are within normal limits. Funduscopic examination reveals no evidence of diabetic retinopathy. Which of the following is the most appropriate next step in management to prevent diabetic nephropathy?",
+    "options": [
+      "Periodic measurement of serum creatinine levels",
+      "Screening for microalbuminuria with dipstick examination of urine",
+      "Screening for microalbuminuria with 24-hour urine collection",
+      "Administration of beta blockers",
+      "Renal biopsy"
+    ],
+    "correctAnswer": "Screening for microalbuminuria with 24-hour urine collection",
+    "explanation": {
+      "correct": "Early diabetic nephropathy is detected by microalbuminuria (30–300 mg/day). Best done initially with 24-hour urine or urine albumin/creatinine ratio—not dipstick, which lacks sensitivity.",
+      "incorrect": [
+        {"option": "Periodic serum creatinine", "reason": "Creatinine rises late in nephropathy—too late for prevention."},
+        {"option": "Dipstick urine test", "reason": "Not sensitive to microalbumin levels under 300 mg/day."},
+        {"option": "Beta blockers", "reason": "Do not specifically prevent nephropathy. ACE inhibitors are gold standard in microalbuminuria."},
+        {"option": "Renal biopsy", "reason": "Not indicated for screening—too invasive, reserved for atypical presentations."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_27",
+    "case": "A 36-year-old man presents to the emergency room with renal colic. His vital signs are normal and a urine analysis shows microscopic hematuria. A radiograph reveals a 1.5-cm calyceal stone. Which of the following is the most appropriate management of this patient?",
+    "options": [
+      "Extracorporeal lithotripsy",
+      "Percutaneous nephrostomy tube"
+    ],
+    "correctAnswer": "Extracorporeal lithotripsy",
+    "explanation": {
+      "correct": "For 1.5 cm calyceal stone in a stable patient, extracorporeal shockwave lithotripsy is best non-invasive management. Nephrostomy is for urgent drainage (sepsis/obstruction), not here.",
+      "incorrect": [
+        {"option": "Percutaneous nephrostomy tube", "reason": "Indicated mainly in obstructed infected kidneys requiring urgent decompression—not needed in this stable stone case."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_28",
+    "case": "A 75-year-old man presents with sudden onset frank hematuria. He had catheterization for postoperative urinary retention 5 days ago (hernia repair). Catheter removed, and he voided freely since. Examination shows frank hematuria with clots. What is the most likely diagnosis?",
+    "options": [
+      "Benign prostatic hypertrophy",
+      "Urethral trauma",
+      "Urinary tract infection",
+      "Transitional cell carcinoma",
+      "Renal calculi"
+    ],
+    "correctAnswer": "Urethral trauma",
+    "explanation": {
+      "correct": "History of recent catheterization followed days later by hematuria with clots strongly suggests urethral trauma. Clot retention is typical after trauma to urinary tract lining.",
+      "incorrect": [
+        {"option": "BPH", "reason": "Cause of retention, but timing linked to catheter suggests trauma, not prostatic bleed."},
+        {"option": "UTI", "reason": "Usually has dysuria and pus cells, not frank clot hematuria."},
+        {"option": "Transitional cell carcinoma", "reason": "Would cause painless hematuria but not immediately post-catheter."},
+        {"option": "Renal calculi", "reason": "Would present with colic pain, not isolated hematuria following catheter."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_29",
+    "case": "A 32-year-old, para 2 lactating woman complains of increased urinary urgency over the last week. On her way to the bathroom, most of her urine involuntarily escapes. Urine culture is negative. Which of the following is the most appropriate next step in her management?",
+    "options": [
+      "Starting IV antibiotics",
+      "Intravenous pyelography",
+      "Cystoscopy",
+      "Fixing on indwelling catheter for one week",
+      "Urodynamic studies"
+    ],
+    "correctAnswer": "Urodynamic studies",
+    "explanation": {
+      "correct": "The description is urge incontinence with negative culture. Before treatment, urodynamic studies are indicated to confirm type of incontinence.",
+      "incorrect": [
+        {"option": "IV antibiotics", "reason": "Not needed, no infection (culture negative)."},
+        {"option": "IV pyelography", "reason": "Not useful for incontinence etiology."},
+        {"option": "Cystoscopy", "reason": "Reserved for suspected bladder pathology (tumor, stones), not first step here."},
+        {"option": "Indwelling catheter", "reason": "Temporary catheterization has no role in diagnosing urge incontinence."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_30",
+    "case": "A 61-year-old man with 6-month history of urinary hesitancy, weak stream, nocturia, 2–3 times per night. DRE: symmetrically enlarged prostate, soft consistency. PSA: 8.9 → 8.8 ng/ml, residual urine 70 ml, prostate 60 gm. Most appropriate next step in management?",
+    "options": [
+      "Transrectal ultrasound-guided biopsy",
+      "Transurethral biopsy of the prostate",
+      "Transurethral resection of the prostate",
+      "Finasteride 5 mg/day orally",
+      "Tamsulosin 0.4 mg/day orally"
+    ],
+    "correctAnswer": "Transrectal ultrasound-guided biopsy",
+    "explanation": {
+      "correct": "Persistently elevated PSA in setting of enlarged prostate requires biopsy to exclude prostate cancer, even though DRE is benign-feeling. PSA >4 warrants evaluation.",
+      "incorrect": [
+        {"option": "Transurethral biopsy", "reason": "Biopsies are done via transrectal approach, not resection route."},
+        {"option": "TURP", "reason": "Therapy for symptomatic obstruction, but diagnosis needed first due to high PSA."},
+        {"option": "Finasteride", "reason": "Would shrink prostate in BPH, but not before ruling out malignancy."},
+        {"option": "Tamsulosin", "reason": "Provides symptomatic relief but again not the first step with suspicious PSA."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_31",
+    "case": "A 4-year-old boy is brought to the physician with blood pressure of 135/90 mm Hg. Past medical history is positive for three urinary tract infections. Which of the following symptoms or signs he is likely to exhibit?",
+    "options": [
+      "Multiple cranial nerve palsy",
+      "Headache",
+      "Hyporeflexia",
+      "Increased urine output",
+      "Right ventricular hypertrophy"
+    ],
+    "correctAnswer": "Headache",
+    "explanation": {
+      "correct": "In children, hypertension often presents with headache. His history of recurrent UTI suggests underlying renal scarring (e.g. reflux nephropathy), leading to secondary hypertension.",
+      "incorrect": [
+        {"option": "Multiple cranial nerve palsy", "reason": "Not related to hypertension—seen in intracranial tumors or meningitis complications."},
+        {"option": "Hyporeflexia", "reason": "Would suggest neuropathy or hyperkalemia—not a direct sign of hypertension."},
+        {"option": "Increased urine output", "reason": "Less likely with kidney scarring—these children often have impaired urine concentration, not polyuria."},
+        {"option": "Right ventricular hypertrophy", "reason": "Caused by pulmonary hypertension—not systemic hypertension from renal disease."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_32",
+    "case": "A 27-year-old man was brought to casualty following a fall from the third floor. Pelvic X-ray shows fracture and sacroiliac disruption. On exam: tachycardia, hypotension, bruised scrotum, blood at meatus, suprapubic swelling. Which of the following is most likely associated injury?",
+    "options": [
+      "Membranous urethral injury",
+      "Urinary bladder injury",
+      "Penile urethral injury",
+      "Seminal vesicle injury",
+      "Prostatic injury"
+    ],
+    "correctAnswer": "Membranous urethral injury",
+    "explanation": {
+      "correct": "Posterior urethral injuries (especially membranous urethra) are associated with pelvic fractures. Blood at the meatus and inability to void with suprapubic swelling are classic features.",
+      "incorrect": [
+        {"option": "Urinary bladder injury", "reason": "Can occur with pelvic trauma but blood at meatus is typical of urethral, not bladder, injury."},
+        {"option": "Penile urethral injury", "reason": "Anterior urethra injuries are linked to straddle injury or catheter trauma, not pelvic fracture."},
+        {"option": "Seminal vesicle injury", "reason": "Very rare in isolation, not the classic injury described."},
+        {"option": "Prostatic injury", "reason": "May be associated, but hallmark signs point to membranous urethra."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_33",
+    "case": "A 37-year-old woman came to the clinic with severe vertigo which started while taking antibiotics for a urinary tract infection. Which of the following antibiotics is the cause of her symptoms?",
+    "options": [
+      "Ciprofloxacin",
+      "Nitrofurantoin"
+    ],
+    "correctAnswer": "Ciprofloxacin",
+    "explanation": {
+      "correct": "Fluoroquinolones (like ciprofloxacin) can cause CNS side effects such as dizziness, confusion, or vertigo. Nitrofurantoin typically causes pulmonary or hepatic side effects in long-term use, not CNS vertigo.",
+      "incorrect": [
+        {"option": "Nitrofurantoin", "reason": "Associated with pulmonary fibrosis (long term), interstitial lung disease, and hepatitis—not vertigo."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_34",
+    "case": "A 55-year-old man presents with fever and pain in the perineal region. He also complains of frequency, urgency, dysuria, and decreased urinary stream. Digital rectal exam: tender prostate. Labs: leukocytosis, urinalysis + infection. What is the most likely diagnosis?",
+    "options": [
+      "Urinary tract infection",
+      "Benign prostatic hyperplasia",
+      "Prostatitis",
+      "Pyelonephritis",
+      "Nephrolithiasis"
+    ],
+    "correctAnswer": "Prostatitis",
+    "explanation": {
+      "correct": "Acute bacterial prostatitis: fever, chills, irritative voiding symptoms, perineal pain, and exquisitely tender prostate on DRE.",
+      "incorrect": [
+        {"option": "UTI", "reason": "Would not cause tender prostate on exam."},
+        {"option": "BPH", "reason": "Causes obstruction/weak stream but not infection, fever, tenderness."},
+        {"option": "Pyelonephritis", "reason": "CVA tenderness, flank pain—not perineal tenderness with prostate findings."},
+        {"option": "Nephrolithiasis", "reason": "Severe colicky pain, hematuria, but no fever or prostate tenderness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_35",
+    "case": "A 60-year-old man presents with fatigue, swelling, decreased urine output. Hx of poorly controlled HTN and type 2 diabetes. Exam: pallor, periorbital edema, HTN. Labs: high creatinine, high BUN, hyperkalemia, metabolic acidosis. Diagnosis?",
+    "options": [
+      "Acute kidney injury",
+      "Glomerulonephritis",
+      "Polycystic kidney disease",
+      "Chronic kidney disease",
+      "Urinary tract infection"
+    ],
+    "correctAnswer": "Chronic kidney disease",
+    "explanation": {
+      "correct": "Gradual onset over months with edema, progressive renal failure, anemia, electrolyte imbalance → chronic kidney disease due to diabetes/HTN.",
+      "incorrect": [
+        {"option": "Acute kidney injury", "reason": "Onset is chronic, not sudden, with background comorbidities."},
+        {"option": "Glomerulonephritis", "reason": "Would show hematuria and RBC casts, not necessarily this chronic picture."},
+        {"option": "Polycystic kidney disease", "reason": "Needs family history and cystic kidneys—not described."},
+        {"option": "UTI", "reason": "Would not cause chronic creatinine rise or anemia."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_36",
+    "case": "A 25-year-old man presents with a testicular mass. Ultrasound confirms parenchymal mass. What is the next step in management?",
+    "options": [
+      "Close observation and repeat ultrasound",
+      "Tumor markers (HCG, AFP, LDH)",
+      "Fine needle aspiration",
+      "Trans-scrotal orchiectomy",
+      "Trial of antibiotics and reassess"
+    ],
+    "correctAnswer": "Tumor markers (HCG, AFP, LDH)",
+    "explanation": {
+      "correct": "All testicular masses are malignant until proven otherwise. Next step after ultrasound is serum tumor markers (AFP, beta-HCG, LDH) before definitive orchiectomy. FNA/biopsy is avoided.",
+      "incorrect": [
+        {"option": "Close observation", "reason": "Testicular tumors must not be observed—delays can kill."},
+        {"option": "Fine needle aspiration", "reason": "Contraindicated: risks tumor seeding into scrotum."},
+        {"option": "Trans-scrotal orchiectomy", "reason": "Wrong approach; inguinal orchiectomy is the standard, after tumor markers."},
+        {"option": "Trial of antibiotics", "reason": "Not appropriate for solid testicular mass—rule of thumb: treat as cancer until excluded."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_37",
+    "case": "A 64-year-old woman complains of leakage of urine whenever she laughs, coughs, sneezes, or during activity. Exam: mild uterine prolapse, cystocele. Postvoid residual 25 ml. Diagnosis?",
+    "options": [
+      "Genuine stress urinary incontinence (GSUI)",
+      "Detrusor instability",
+      "Neurogenic bladder",
+      "Urinary tract infection",
+      "Urge incontinence"
+    ],
+    "correctAnswer": "Genuine stress urinary incontinence (GSUI)",
+    "explanation": {
+      "correct": "Classic features of stress incontinence: small urine leaks during raised intra-abdominal pressure, normal residual, normal cystometry. Often due to pelvic floor weakness/prolapse.",
+      "incorrect": [
+        {"option": "Detrusor instability", "reason": "Would present with urgency and urge incontinence, not cough/laugh leakage."},
+        {"option": "Neurogenic bladder", "reason": "Would show incomplete emptying and high residual volumes."},
+        {"option": "UTI", "reason": "Would cause dysuria, frequency, positive culture—not stress-induced leakage."},
+        {"option": "Urge incontinence", "reason": "Involves sudden urge, not leaks only on physical stress."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_38",
+    "case": "A 40-year-old woman reports nocturia and occasional urge incontinence. No LUTS otherwise, urine tests normal. Diagnosis?",
+    "options": [
+      "Urinary tract infection",
+      "Stress incontinence",
+      "Urge incontinence",
+      "Vesicovaginal fistula",
+      "Overflow incontinence"
+    ],
+    "correctAnswer": "Urge incontinence",
+    "explanation": {
+      "correct": "Classic urge incontinence: sudden strong urge to void followed by leakage, normal residual urine. No infection here.",
+      "incorrect": [
+        {"option": "UTI", "reason": "Would cause painful urination, frequency, positive culture."},
+        {"option": "Stress incontinence", "reason": "Leakage with coughs or laughs—not urge."},
+        {"option": "Vesicovaginal fistula", "reason": "Continuous leakage unrelated to urgency, usually post-surgery."},
+        {"option": "Overflow incontinence", "reason": "Dribbling with high residuals—not nocturia with urgency."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_39",
+    "case": "A 38-year-old female with urge incontinence, drinks excessive fluids. Urinalysis normal. Best next step?",
+    "options": [
+      "Kegel exercises",
+      "Hold urine for 6h",
+      "Eliminate excess water/caffeine",
+      "Start anticholinergic",
+      "Cystoscopy"
+    ],
+    "correctAnswer": "Eliminate excess water/caffeine",
+    "explanation": {
+      "correct": "First-line management of mild urge incontinence is behavioral: fluid/caffeine restriction before medication. Anticholinergics used if lifestyle fails.",
+      "incorrect": [
+        {"option": "Kegel exercises", "reason": "First choice in stress incontinence, not urge type."},
+        {"option": "Hold urine 6h", "reason": "Bladder training is gradual, extreme long holding not safe."},
+        {"option": "Anticholinergic", "reason": "Effective but not initial management."},
+        {"option": "Cystoscopy", "reason": "Reserved for suspected bladder pathology, not first-line for pure urge incontinence."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_40",
+    "case": "A 16-year-old girl presents with fever, rash, oliguria after ampicillin. UA: hematuria, leukocytes, eosinophils, WBC casts. Labs: raised creatinine, eosinophilia, high ASO. Most likely diagnosis?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Acute pyelonephritis",
+      "Acute tubular necrosis",
+      "Post streptococcal GN",
+      "Vasculitis"
+    ],
+    "correctAnswer": "Acute interstitial nephritis",
+    "explanation": {
+      "correct": "Classic AIN: fever, rash, AKI, eosinophiluria, after drug exposure (ampicillin). Pathology = immune-mediated renal interstitial inflammation.",
+      "incorrect": [
+        {"option": "Pyelonephritis", "reason": "Infection with bacteria, not eosinophils. Also presents with CVA pain."},
+        {"option": "ATN", "reason": "Granular muddy casts are typical, not eosinophils."},
+        {"option": "Post-strep GN", "reason": "Occurs weeks after strep throat—not after drug exposure."},
+        {"option": "Vasculitis", "reason": "Would need systemic symptoms, purpura, positive ANCA—not typical here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_41",
+    "case": "A 4-year-old has a positive urine dip for nitrites and leucocytes. You are going to start antibiotics and know that for an upper UTI/pyelonephritis he requires a course of 7-10 days and for a lower UTI/cystitis he will require 3 days. Which of the following suggests pyelonephritis may be present?",
+    "options": [
+      "Dysuria",
+      "Enuresis",
+      "Frequency",
+      "Temp > 38 degrees",
+      "Mild abdominal pain"
+    ],
+    "correctAnswer": "Temp > 38 degrees",
+    "explanation": {
+      "correct": "Fever above 38°C suggests systemic infection, indicating upper urinary tract involvement (pyelonephritis). Lower UTI typically does not cause high fever.",
+      "incorrect": [
+        {"option": "Dysuria", "reason": "Common in lower UTI (cystitis), not diagnostic of pyelonephritis."},
+        {"option": "Enuresis", "reason": "Can occur in UTIs, nonspecific."},
+        {"option": "Frequency", "reason": "Typical bladder symptom, not location-specific."},
+        {"option": "Mild abdominal pain", "reason": "Not specific. Pyelonephritis should show systemic fever, flank pain, CVA tenderness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_42",
+    "case": "A 38-year-old man, previously healthy, suddenly develops severe abdominal pain radiating from the left loin to the groin with nausea, sweating, frequency. Restless in bed. What is the most likely diagnosis?",
+    "options": [
+      "Herpes zoster infection",
+      "Left ureteral calculus",
+      "Sigmoid diverticulitis",
+      "Torsion of the left testicle",
+      "Retroperitoneal hemorrhage"
+    ],
+    "correctAnswer": "Left ureteral calculus",
+    "explanation": {
+      "correct": "Classic renal colic: sudden, severe loin-to-groin radiating pain, restlessness, hematuria often present. Fits ureteric stone perfectly.",
+      "incorrect": [
+        {"option": "Herpes zoster", "reason": "Causes burning dermatomal rash, not colicky pain."},
+        {"option": "Diverticulitis", "reason": "Causes localized LLQ pain, fever—not colicky flank-to-groin pain."},
+        {"option": "Testicular torsion", "reason": "Severe testicular pain and swelling, not abdominal colic."},
+        {"option": "Retroperitoneal hemorrhage", "reason": "Rare, but usually with trauma or anticoagulation—no urinary features."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_43",
+    "case": "A 26-year-old man with prerenal acute renal dysfunction. Which level of urine sodium (mmol/L) is typical?",
+    "options": [
+      "> 40",
+      "> 30",
+      "<20",
+      "<10",
+      "<30"
+    ],
+    "correctAnswer": "<20",
+    "explanation": {
+      "correct": "Prerenal AKI = kidneys conserve sodium avidly due to hypoperfusion. Urine Na+ <20 mmol/L is characteristic.",
+      "incorrect": [
+        {"option": "> 40", "reason": "Suggests intrinsic renal failure (e.g. ATN)."},
+        {"option": "> 30", "reason": "Too high for prerenal; fits ATN."},
+        {"option": "<10", "reason": "Could be possible but classic teaching cut-off is <20 mmol/L."},
+        {"option": "<30", "reason": "A bit non-specific, but textbook cut is <20 not <30."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_44",
+    "case": "Which of the following is the cause of raised phosphate level in patients with chronic kidney disease?",
+    "options": [
+      "Decreased renal excretion",
+      "Increased gut absorption",
+      "Hypervitaminosis D",
+      "Primary hyperparathyroidism",
+      "Decreased 1,25 alpha hydroxylation of vitamin D"
+    ],
+    "correctAnswer": "Decreased renal excretion",
+    "explanation": {
+      "correct": "CKD leads to phosphate retention due to reduced GFR and impaired renal excretion, causing hyperphosphatemia.",
+      "incorrect": [
+        {"option": "Increased gut absorption", "reason": "Not the main mechanism unless taking excess phosphate."},
+        {"option": "Hypervitaminosis D", "reason": "Raises calcium/phosphate, but in CKD the cause is retention not excess vitamin."},
+        {"option": "Primary hyperparathyroidism", "reason": "Causes hypophosphatemia (increased renal loss)."},
+        {"option": "Decreased 1,25 hydroxylation", "reason": "Reduces calcium absorption leading to hypocalcemia—not phosphate rise."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_45",
+    "case": "A 40-year-old diabetic man develops sudden right loin → right iliac fossa pain, fever, vomiting, loin tenderness. What is the most probable diagnosis?",
+    "options": [
+      "appendicitis",
+      "cholecystitis",
+      "diverticulitis",
+      "perforated peptic ulcer",
+      "pyelonephritis"
+    ],
+    "correctAnswer": "pyelonephritis",
+    "explanation": {
+      "correct": "Flank pain + fever + vomiting in diabetic → acute pyelonephritis. Renal angle tenderness fits. Others involve abdominal organs but not pyuria/renal pain.",
+      "incorrect": [
+        {"option": "appendicitis", "reason": "Pain localizes in RLQ, not flank-to-iliac fossa with fever due to urinary source."},
+        {"option": "cholecystitis", "reason": "RUQ pain radiates to scapula—not right loin/iliac fossa."},
+        {"option": "diverticulitis", "reason": "Pain in LLQ usually—not loin in diabetic patient."},
+        {"option": "PUD perforation", "reason": "Generalized peritonitis, not localized loin tenderness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_46",
+    "case": "During elective major vascular surgery the best way to reduce the risk of acute renal failure is to maintain a normal:",
+    "options": [
+      "Central venous pressure",
+      "Mean arterial blood pressure",
+      "Renal blood flow",
+      "Systemic vascular resistance",
+      "Urine output"
+    ],
+    "correctAnswer": "Mean arterial blood pressure",
+    "explanation": {
+      "correct": "Renal perfusion is driven by mean arterial pressure. Maintaining normal MAP is the most important intra-op factor preventing AKI.",
+      "incorrect": [
+        {"option": "Central venous pressure", "reason": "Informs preload, not direct kidney perfusion."},
+        {"option": "Renal blood flow", "reason": "Cannot be measured in routine OR; dependent on MAP."},
+        {"option": "Systemic vascular resistance", "reason": "Indirect; MAP is the goal to ensure renal perfusion."},
+        {"option": "Urine output", "reason": "A result after perfusion is established, not the control variable."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_47",
+    "case": "A 56-year-old male with chronic renal failure missed his dialysis. Potassium 7.6 mEq/L. Which drug acts by shifting potassium intracellularly?",
+    "options": [
+      "Insulin",
+      "Calcium gluconate",
+      "Furosemide",
+      "Hemodialysis",
+      "Sodium polystyrene sulfonate"
+    ],
+    "correctAnswer": "Insulin",
+    "explanation": {
+      "correct": "Insulin drives potassium into cells (especially with glucose infusion). This temporarily lowers serum K until dialysis. Calcium stabilizes cardiac membrane but doesn’t lower K.",
+      "incorrect": [
+        {"option": "Calcium gluconate", "reason": "Protects heart, no effect on K+ level."},
+        {"option": "Furosemide", "reason": "Increases urinary K+ excretion, ineffective in anuric renal failure."},
+        {"option": "Hemodialysis", "reason": "Removes K+ but not by intracellular shift—actual elimination."},
+        {"option": "Sodium polystyrene sulfonate", "reason": "Removes K+ via gut binding—slow onset, not intracellular shift."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_48",
+    "case": "Six year old male presenting with generalized edema more in the morning. Which of the following is NOT an expected finding?",
+    "options": [
+      "Abdominal pain",
+      "ascites",
+      "infection",
+      "Polyuria",
+      "jaundice"
+    ],
+    "correctAnswer": "Polyuria",
+    "explanation": {
+      "correct": "Nephrotic syndrome → edema, ascites, infections (due to Ig/albumin loss), but NOT polyuria. Instead oliguria is typical.",
+      "incorrect": [
+        {"option": "Abdominal pain", "reason": "Can occur with nephrotic edema."},
+        {"option": "Ascites", "reason": "Due to hypoalbuminemia and fluid retention."},
+        {"option": "Infection", "reason": "Prone to infections due to hypogammaglobulinemia and loss of complement."},
+        {"option": "Jaundice", "reason": "Can occur from liver dysfunction but not classical. Polyuria is classically absent."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_49",
+    "case": "A 50-year-old man with progressive renal failure over 4 years presents with numbness in hands/feet. Exam: neuropathy, absent reflexes. Labs: very high creatinine (8.5). Next best step?",
+    "options": [
+      "vitamin B12",
+      "blood gas analysis",
+      "Bicarbonate supplements",
+      "Peritoneal dialysis",
+      "recombinant erythropoietin"
+    ],
+    "correctAnswer": "Peritoneal dialysis",
+    "explanation": {
+      "correct": "He has end-stage renal disease (Cr 8.5 mg/dl, uremic neuropathy). Definitive therapy = initiation of dialysis. Supporting therapies won’t help without dialysis.",
+      "incorrect": [
+        {"option": "vitamin B12", "reason": "Neuropathy here is uremic not nutritional."},
+        {"option": "blood gas", "reason": "Confirms acidosis, but patient needs renal replacement."},
+        {"option": "Bicarbonate supplements", "reason": "May help acidosis but not substitute for dialysis."},
+        {"option": "Erythropoietin", "reason": "Used in anemia from CKD, but main issue is neuropathy + uremia, needs dialysis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_50",
+    "case": "A 75-year-old woman with painless microscopic hematuria and blood staining in underwear. Exam: red mass at urethral meatus. IV urogram and cystoscopy normal. Diagnosis?",
+    "options": [
+      "Cystitis",
+      "Renal papillary necrosis",
+      "Urethral caruncle",
+      "Urethritis",
+      "Urolithiasis"
+    ],
+    "correctAnswer": "Urethral caruncle",
+    "explanation": {
+      "correct": "Small benign vascular lesion on urethral meatus in postmenopausal women—appears as red mass causing bleeding. Urogram/cystoscopy normal supports diagnosis.",
+      "incorrect": [
+        {"option": "Cystitis", "reason": "Would cause painful frequency and pyuria—not a mass."},
+        {"option": "Renal papillary necrosis", "reason": "Associated with diabetes, analgesic abuse—not localized urethral lesion."},
+        {"option": "Urethritis", "reason": "Causes dysuria, urethral discharge—not visible red mass."},
+        {"option": "Urolithiasis", "reason": "Causes renal colic, hematuria, no red meatal lesion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_51",
+    "case": "A 20-year-old man presents with acute right hemiscrotal pain lasting 2 hours. History of shorter episodes previously. Exam: high-riding testis, thickened cord, extreme tenderness. Expected outcome if treated within 4 hours?",
+    "options": [
+      "Secondary hydrocele",
+      "Loss of endocrine function regardless",
+      "Loss of testis",
+      "Complete preservation if treated within 4 h",
+      "Malignant transformation final outcome"
+    ],
+    "correctAnswer": "Complete preservation if treated within 4 h",
+    "explanation": {
+      "correct": "Testicular torsion: surgical detorsion within 4–6h usually preserves testis completely. Beyond that, risk of necrosis rises drastically.",
+      "incorrect": [
+        {"option": "Secondary hydrocele", "reason": "Not the typical outcome of torsion treatment."},
+        {"option": "Loss of endocrine function regardless", "reason": "If rescued in time, both hormonal and fertility functions can remain intact."},
+        {"option": "Loss of testis", "reason": "Occurs if treatment delayed too long, not immediate outcome if urgent surgery performed."},
+        {"option": "Malignant transformation", "reason": "No correlation between torsion and cancer. Trick answer."}
+      ]
+    }
+  },
+  {
+    "CaseID": "nephro_52",
+    "case": "A 40-year-old man with enlarging painless testicular lump. Lab: high alpha fetoprotein, normal beta-hCG. Which tumor is most likely?",
+    "options": [
+      "Choriocarcinoma",
+      "Leydig cell tumor",
+      "Seminoma",
+      "Testicular lymphoma",
+      "Yolk sac carcinoma"
+    ],
+    "correctAnswer": "Yolk sac carcinoma",
+    "explanation": {
+      "correct": "Yolk sac (endodermal sinus tumor) characteristically secretes AFP. Seminoma does not raise AFP. Normal beta-HCG confirms non-seminomatous germ cell tumor (AFP-exclusive).",
+      "incorrect": [
+        {"option": "Choriocarcinoma", "reason": "Produces beta-HCG, not AFP."},
+        {"option": "Leydig cell tumor", "reason": "May raise testosterone/estrogen but not tumor markers AFP/βHCG."},
+        {"option": "Seminoma", "reason": "Most common testicular tumor but does not raise AFP."},
+        {"option": "Testicular lymphoma", "reason": "Occurs in older men with systemic features—not AFP increase."}
+      ]
+    }
+  }
+]

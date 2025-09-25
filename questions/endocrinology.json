@@ -1,0 +1,1224 @@
+[
+  {
+    "CaseID": "endocrine_1",
+    "case": "A 45-year-old female presents with depressed mental status, hypothermia, hypotension, and bradycardia. She has not been taking her thyroid replacement therapy. Which of the following findings is most likely to be present?",
+    "options": [
+      "Hyperglycemia",
+      "Hypernatremia",
+      "Hypercapnia",
+      "Hyper-reflexia",
+      "Polycythemia"
+    ],
+    "correctAnswer": "Hypercapnia",
+    "explanation": {
+      "correct": "This is myxedema coma (life-threatening hypothyroidism). Characterized by hypoventilation due to decreased respiratory drive, leading to CO₂ retention (hypercapnia). Hypothermia, bradycardia, and hypotension are also typical.",
+      "incorrect": [
+        {"option": "Hyperglycemia", "reason": "Hypothyroid states are more often associated with hypoglycemia (due to reduced metabolism)."},
+        {"option": "Hypernatremia", "reason": "Hyponatremia is more typical due to impaired free water clearance in hypothyroidism."},
+        {"option": "Hyper-reflexia", "reason": "Hypothyroidism causes hyporeflexia (delayed relaxation), not hyperreflexia."},
+        {"option": "Polycythemia", "reason": "No relation—anemia is more likely in hypothyroidism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_2",
+    "case": "An edentulous 63-year-old woman is admitted to the ICU with inhalation injury after a house fire. As she is being observed she begins to have respiratory stridor. There is difficulty with bag mask ventilation and intubation attempts, which of the following is the next step in management?",
+    "options": [
+      "Cricothyrotomy",
+      "corticosteroids then anterior trial of intubation",
+      "trans nasal intubation",
+      "Laryngeal mask intubation",
+      "None of the above"
+    ],
+    "correctAnswer": "Cricothyrotomy",
+    "explanation": {
+      "correct": "Stridor after inhalational injury indicates impending complete airway obstruction. Failed intubation + difficult ventilation → emergency surgical airway. Cricothyrotomy is the lifesaving next step.",
+      "incorrect": [
+        {"option": "Corticosteroids then anterior intubation", "reason": "Steroids won’t resolve acute airway obstruction quickly."},
+        {"option": "Trans nasal intubation", "reason": "Inappropriate when other attempts failed and stridor worsening."},
+        {"option": "Laryngeal mask intubation", "reason": "LMA can provide temporary ventilation but in severe upper airway burn edema it’s not reliable."},
+        {"option": "None of the above", "reason": "Wrong—cricothyrotomy is definitely correct here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_3",
+    "case": "A 35-year-old male patient undergoes an elective thyroid surgery. The patient is not diabetic nor suffering from any systemic illness. How can you describe his wound?",
+    "options": [
+      "Wound to heal by secondary intention",
+      "Class IV, Dirty",
+      "Class I, Clean/contaminated",
+      "Class I, Clean",
+      "Class I, Contaminated"
+    ],
+    "correctAnswer": "Class I, Clean",
+    "explanation": {
+      "correct": "Thyroidectomy involves sterile, elective surgery with no entry into respiratory, alimentary, or genitourinary tract. Hence classified as Clean wound (Class I).",
+      "incorrect": [
+        {"option": "Secondary intention", "reason": "Not true, wound will be closed primarily."},
+        {"option": "Class IV, Dirty", "reason": "No pre-existing infection or pus."},
+        {"option": "Class I, Clean/contaminated", "reason": "This category is only if tracts entered under controlled conditions (eg bowel surgery)."},
+        {"option": "Class I, Contaminated", "reason": "Contamination occurs with major break in sterile technique—not the case here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_4",
+    "case": "Follicle-stimulating hormone is elaborated by which of the followings?",
+    "options": [
+      "Chromophobe cells of the adenohypophysis",
+      "Basophilic cells of the adenohypophysis",
+      "Acidophilic cells of the adenohypophysis",
+      "Follicular granulosa",
+      "Follicular cumulus"
+    ],
+    "correctAnswer": "Basophilic cells of the adenohypophysis",
+    "explanation": {
+      "correct": "FSH (along with LH, TSH, ACTH) is secreted by basophilic cells of anterior pituitary (adenohypophysis). Acidophils secrete GH and prolactin. Chromophobes are non-staining supporting cells.",
+      "incorrect": [
+        {"option": "Chromophobe cells", "reason": "They are supporting, non-secretory cells."},
+        {"option": "Acidophilic cells", "reason": "Secrete GH and prolactin, not FSH."},
+        {"option": "Follicular granulosa", "reason": "In ovary, respond to FSH; they don’t secrete FSH."},
+        {"option": "Follicular cumulus", "reason": "Also ovarian supportive cells, not source of pituitary hormones."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_5",
+    "case": "Three hours after difficult thyroidectomy, for huge retrosternal goiter, A 30-year-old woman developed agitation and difficulty in breathing, tachycardia. Anterior cervical swelling was detected in front of the wound with bluish discoloration of the overlying skin but the overlying dressing was dry. What is the appropriate immediate step?",
+    "options": [
+      "High flow O2 mask.",
+      "Reopening of the cervical wound.",
+      "Insertion of an endotracheal tube.",
+      "Estimation of serum calcium level.",
+      "Slow injection of calcium gluconate"
+    ],
+    "correctAnswer": "Reopening of the cervical wound.",
+    "explanation": {
+      "correct": "Post-thyroidectomy hematoma causing severe airway compromise. Dressing may look dry if blood accumulates deep. Immediate bedside decompression/reopening is lifesaving.",
+      "incorrect": [
+        {"option": "High flow O2", "reason": "Will not relieve mechanical obstruction of hematoma."},
+        {"option": "Endotracheal tube", "reason": "Will not succeed if hematoma compressing neck; airway must be relieved first."},
+        {"option": "Estimate calcium", "reason": "Hypocalcemia causes tetany, not neck swelling and airway obstruction."},
+        {"option": "Calcium gluconate", "reason": "Treatment of tetany, not acute obstructive hematoma."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_6",
+    "case": "A 52-year-old man who developed hoarseness of voice following thyroid surgery 16 weeks ago and showing no improvement. Which anatomical site is most likely affected?",
+    "options": [
+      "Vocal cords",
+      "Unilateral recurrent laryngeal nerve",
+      "Bilateral recurrent laryngeal nerve",
+      "Unilateral external laryngeal nerve",
+      "Bilateral external laryngeal nerve"
+    ],
+    "correctAnswer": "Unilateral recurrent laryngeal nerve",
+    "explanation": {
+      "correct": "Persistent hoarseness after thyroidectomy → injury to recurrent laryngeal nerve (most commonly unilateral). Leads to ipsilateral vocal cord palsy.",
+      "incorrect": [
+        {"option": "Vocal cords", "reason": "Cords themselves aren’t injured; nerve damage leads to dysfunction."},
+        {"option": "Bilateral recurrent laryngeal nerve", "reason": "Would cause severe airway obstruction/stridor, not just hoarseness."},
+        {"option": "Unilateral external laryngeal nerve", "reason": "Leads to loss of high-pitched phonation, not gross hoarse voice."},
+        {"option": "Bilateral external laryngeal nerve", "reason": "Uncommon, causes voice fatigue/change—not persistent hoarseness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_7",
+    "case": "The mother of a 2-week old infant received a letter reporting that her newborn screen is abnormal indicating possible hypothyroidism, the tests are repeated and proven low T4 and high TSH. Which of the following is the most appropriate approach at this point?",
+    "options": [
+      "Begin sodium L-thyroxine therapy.",
+      "Close follow-up.",
+      "Serum for maternal anti-thyroid antibodies",
+      "Thyroid ultrasound and scan",
+      "Examination under anesthesia"
+    ],
+    "correctAnswer": "Begin sodium L-thyroxine therapy.",
+    "explanation": {
+      "correct": "Congenital hypothyroidism: immediate treatment with levothyroxine to prevent irreversible mental retardation. Imaging and antibody tests can wait, therapy cannot be delayed.",
+      "incorrect": [
+        {"option": "Close follow-up", "reason": "Unacceptable—delays cognitive outcome."},
+        {"option": "Maternal antibody", "reason": "Not urgent; must treat promptly regardless of etiology."},
+        {"option": "Thyroid ultrasound and scan", "reason": "Performed later to determine etiology but therapy cannot be delayed."},
+        {"option": "Examination under anesthesia", "reason": "Not relevant here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_8",
+    "case": "65-year-old presents with fatigue and dizziness for the past 6 months. On examination, blood pressure was 90/60. Her skin was hyperpigmented and her electrolytes was as follows. Na 125 (135 – 145), K 6 (3.5 – 5.3). Her blood pressure failed to improve after fluids. Which is the most diagnosis?",
+    "options": [
+      "hypothyroidism",
+      "Adrenal insufficiency",
+      "Diabetes",
+      "septic shock",
+      "Cardiogenic shock"
+    ],
+    "correctAnswer": "Adrenal insufficiency",
+    "explanation": {
+      "correct": "Primary adrenal insufficiency (Addison’s): hypotension, hyperpigmentation (high ACTH), hyponatremia, hyperkalemia, unresponsive to fluids.",
+      "incorrect": [
+        {"option": "Hypothyroidism", "reason": "Can cause hypotension but not hyperkalemia or pigmentation."},
+        {"option": "Diabetes", "reason": "Hyperglycemia not present."},
+        {"option": "Septic shock", "reason": "Would have fever, leukocytosis, infection."},
+        {"option": "Cardiogenic shock", "reason": "Signs of heart failure absent."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_9",
+    "case": "A 70-year-old man comes presents with coma. The patient’s temperature is 32.2°C. He is bradycardic with puffy eyes and face. His thyroid gland is enlarged. There is diffuse hyporeflexia. BP is 100/60. Which of the following is the best next step in management?",
+    "options": [
+      "Await results of T4 and TSH.",
+      "Obtain T4 & TSH; begin IV thyroid hormone & glucocorticoid.",
+      "Begin rapid rewarming.",
+      "Obtain CT scan of the head.",
+      "Begin intravenous fluid resuscitation."
+    ],
+    "correctAnswer": "Obtain T4 & TSH; begin IV thyroid hormone & glucocorticoid.",
+    "explanation": {
+      "correct": "This is myxedema coma. Management: immediate IV thyroid hormone + IV hydrocortisone, do not await labs. Mortality is high without urgent treatment.",
+      "incorrect": [
+        {"option": "Await results", "reason": "Delaying therapy is dangerous."},
+        {"option": "Rapid rewarming", "reason": "Slow passive rewarming is preferred; aggressive warming increases arrhythmia risk."},
+        {"option": "CT scan", "reason": "Less urgent—fits hypothyroid coma."},
+        {"option": "IV fluids", "reason": "Helpful but not sufficient—hormone replacement is lifesaving."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_10",
+    "case": "A 5 year-old female patient is brought in by her father after choking on a plastic toy. She was coughing violently and gasping in the car, so the father tried the Heimlich maneuver and a blind finger sweep but she seemed to get worse. His daughter is now unconscious and cyanotic. After performing a jaw- thrust maneuver, you fail to locate the foreign body. Attempts to place an endotracheal tube fail, as the tube seems to be striking an object. What is the best next step?",
+    "options": [
+      "Laryngeal mask airway",
+      "Surgical cricothyroidotomy",
+      "Back blows to dislodge the foreign body",
+      "Blind finger sweeps to remove the foreign body",
+      "Needle cricothyroidotomy"
+    ],
+    "correctAnswer": "Needle cricothyroidotomy",
+    "explanation": {
+      "correct": "In children under 12, surgical cricothyrotomy is avoided due to risk of laryngeal damage. Emergency airway → needle cricothyrotomy with transtracheal jet ventilation is indicated.",
+      "incorrect": [
+        {"option": "Laryngeal mask", "reason": "Does not bypass the obstruction below cords."},
+        {"option": "Surgical cricothyrotomy", "reason": "Contraindicated in children <12."},
+        {"option": "Back blows", "reason": "Not effective in unconscious child, CPR maneuvers superior."},
+        {"option": "Blind finger sweeps", "reason": "Contraindicated—may push object further."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_11",
+    "case": "The thyroid gland moves with deglutition due to action of which of the following?",
+    "options": [
+      "Platysma",
+      "Cervical investing fascia",
+      "Pretracheal fascia",
+      "Thyrohyoid muscle",
+      "Pharyngeal muscles"
+    ],
+    "correctAnswer": "Pretracheal fascia",
+    "explanation": {
+      "correct": "The thyroid gland is enclosed by the pretracheal fascia, which is attached to the larynx and trachea. When swallowing (deglutition), the larynx moves upward, and the gland is pulled with it via this fascial connection.",
+      "incorrect": [
+        {"option": "Platysma", "reason": "Thin superficial muscle of facial expression, not related to thyroid movement."},
+        {"option": "Cervical investing fascia", "reason": "Encloses sternocleidomastoid and trapezius, not specifically the thyroid."},
+        {"option": "Thyrohyoid muscle", "reason": "Elevates the larynx but does not directly control thyroid movement."},
+        {"option": "Pharyngeal muscles", "reason": "Involved in swallowing, not in lifting thyroid gland specifically."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_12",
+    "case": "A 30-year-old woman is noted to have blood pressures in the 160/100 mmHg range. She also has increased obesity, especially around her abdomen, with striae. She has been bruising very easily and has hirsutism, which of the following is the most likely diagnosis?",
+    "options": [
+      "Hyperthyroidism",
+      "Coarctation of the aorta",
+      "Cushing syndrome",
+      "pheochromocytoma",
+      "acute renal failure"
+    ],
+    "correctAnswer": "Cushing syndrome",
+    "explanation": {
+      "correct": "Truncal obesity, purple striae, easy bruising, hirsutism, and hypertension are classic features of hypercortisolism (Cushing syndrome).",
+      "incorrect": [
+        {"option": "Hyperthyroidism", "reason": "Typically weight loss, tremor, heat intolerance—opposite of this presentation."},
+        {"option": "Coarctation of the aorta", "reason": "Causes upper limb hypertension with weak femoral pulses—not truncal obesity/striae."},
+        {"option": "Pheochromocytoma", "reason": "Paroxysmal hypertension with headache, sweating, and palpitations—not striae and obesity."},
+        {"option": "Acute renal failure", "reason": "Presents with oliguria, rising creatinine—not Cushing’s signs."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_13",
+    "case": "Which of the following is the most common cause of secondary adrenal insufficiency?",
+    "options": [
+      "Autoimmune process",
+      "Surgical excision",
+      "Exogenous corticosteroids",
+      "ACTH failure due to panhypopituitarism",
+      "pregnancy"
+    ],
+    "correctAnswer": "Exogenous corticosteroids",
+    "explanation": {
+      "correct": "Most common cause: long-term corticosteroid therapy leading to suppression of hypothalamic-pituitary-adrenal axis → adrenal atrophy.",
+      "incorrect": [
+        {"option": "Autoimmune process", "reason": "Cause of primary adrenal insufficiency (Addison’s), not secondary."},
+        {"option": "Surgical excision", "reason": "Possible but less common compared to steroid suppression."},
+        {"option": "ACTH failure due to panhypopituitarism", "reason": "Can cause it, but less common overall."},
+        {"option": "Pregnancy", "reason": "Not a cause of adrenal insufficiency."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_14",
+    "case": "A 60-year-old man with history of T2 DM and COPD hospitalized for COPD exacerbation, treated with steroids. His glucose rises to 200–300 mg/dl despite glargine insulin. Which management is best?",
+    "options": [
+      "Divide the insulin glargine dose in half and administer the drug twice daily",
+      "Add prandial insulin",
+      "Replace prednisone with dexamethasone",
+      "Start a long-acting sulfonylurea",
+      "Increase the insulin glargine dose"
+    ],
+    "correctAnswer": "Add prandial insulin",
+    "explanation": {
+      "correct": "Steroids cause postprandial glucose spikes. Basal insulin alone not enough. Best management = add rapid-acting prandial insulin to cover meals.",
+      "incorrect": [
+        {"option": "Divide dose", "reason": "Changing timing won’t address postprandial hyperglycemia."},
+        {"option": "Replace prednisone", "reason": "Both prednisone and dexamethasone are glucocorticoids; not a valid solution."},
+        {"option": "Sulfonylurea", "reason": "Not good in acute inpatient steroid-induced hyperglycemia; less precise than insulin."},
+        {"option": "Increase glargine", "reason": "Raises basal coverage but doesn’t address meal-related spikes."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_15",
+    "case": "A 46-year-old woman is referred with tender neck swelling. Labs: TSH <0.1, T4 high, ESR 65 mm/hr. Thyroid scan: decreased global uptake. Most likely diagnosis?",
+    "options": [
+      "Sick thyroid syndrome",
+      "Acute bacterial thyroiditis",
+      "Hashimoto thyroiditis",
+      "Subacute thyroiditis",
+      "Toxic multinodular goiter"
+    ],
+    "correctAnswer": "Subacute thyroiditis",
+    "explanation": {
+      "correct": "Painful/tender thyroid, high ESR, low uptake on scan is diagnostic of subacute (de Quervain’s) thyroiditis, often post-viral.",
+      "incorrect": [
+        {"option": "Sick thyroid syndrome", "reason": "Occurs in severely ill patients without thyroid pain or swelling."},
+        {"option": "Acute bacterial thyroiditis", "reason": "Very rare, with fever and purulent discharge—not just inflammation + low uptake."},
+        {"option": "Hashimoto", "reason": "Chronic painless goiter, anti-TPO antibodies; not acute painful presentation."},
+        {"option": "Toxic multinodular goiter", "reason": "Would show hot/cold nodules with increased uptake, not globally reduced uptake."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_16",
+    "case": "A 7-years-old patient with painless lump in the front of the neck which moves up and down with swallowing and with the protrusion of the tongue. She gives history of recurrent pain and inflammation that respond to treatment by antibiotics, which of the following is your diagnosis?",
+    "options": [
+      "bronchial cyst",
+      "cancer larynx",
+      "cystic hygroma",
+      "thyroglossal cyst",
+      "thyroid nodule"
+    ],
+    "correctAnswer": "thyroglossal cyst",
+    "explanation": {
+      "correct": "Thyroglossal duct cyst: midline neck mass, moves with swallowing and tongue protrusion. Recurrent infections common.",
+      "incorrect": [
+        {"option": "Bronchial cyst", "reason": "Typically lateral neck mass, not midline."},
+        {"option": "Cancer larynx", "reason": "Wouldn’t move with swallowing/tongue movement."},
+        {"option": "Cystic hygroma", "reason": "Soft transilluminant mass, usually posterior triangle."},
+        {"option": "Thyroid nodule", "reason": "More fixed to thyroid, does not move with tongue protrusion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_17",
+    "case": "Thyroid screening in a normal 5 days old neonate shows high TSH = 200 and FT4 = 0.2 (very low). Weight normal. Exam normal. Which is the most appropriate next step?",
+    "options": [
+      "begin treatment with levothyroxine (T4)",
+      "begin treatment with TSH",
+      "measure serum thyroglobulin",
+      "thyroid radionuclide uptake scan",
+      "thyroid ultrasonography"
+    ],
+    "correctAnswer": "begin treatment with levothyroxine (T4)",
+    "explanation": {
+      "correct": "Congenital hypothyroidism must be treated immediately with T4. Imaging/etiology workup can wait—neurologic development depends on urgent treatment.",
+      "incorrect": [
+        {"option": "Begin TSH", "reason": "Therapy is T4 not TSH hormone."},
+        {"option": "Serum thyroglobulin", "reason": "May help etiology but not urgent."},
+        {"option": "Radionuclide scan", "reason": "Unnecessary before treatment; can delay life-saving therapy."},
+        {"option": "Ultrasound", "reason": "Etiology only. Must not delay start of thyroxine therapy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_18",
+    "case": "A 32-year-old female came to the clinic complaining of irritability, nervousness, heat intolerance and protrusion of the eye. Exam: BP 140/90, pulse 100, enlarged thyroid gland. Investigations confirm Grave’s disease. In this patient hormonal assay is?",
+    "options": [
+      "High TSH, high T3 &T4",
+      "Normal TSH, T3& T4",
+      "High TSH, low T3 &T4",
+      "Low TSH, low T3 & T4",
+      "Low TSH, high T3 &T4"
+    ],
+    "correctAnswer": "Low TSH, high T3 &T4",
+    "explanation": {
+      "correct": "Primary hyperthyroidism → thyroid secretes excess T3/T4 → pituitary feedback suppression of TSH. So labs: Low TSH + high T3/T4.",
+      "incorrect": [
+        {"option": "High TSH, high T3 & T4", "reason": "Seen in TSH-secreting pituitary adenoma, not Graves."},
+        {"option": "Normal TSH, T3 & T4", "reason": "Not consistent with overt hyperthyroidism."},
+        {"option": "High TSH, low T3 & T4", "reason": "That’s primary hypothyroidism."},
+        {"option": "Low TSH, low T3 & T4", "reason": "That’s secondary hypothyroidism (pituitary problem)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_19",
+    "case": "A 40-year-old woman presents with a slowly growing right-sided lump at the base of the neck. Thyroid nodule with lymphadenopathy. She has recent history of adrenalectomy.",
+    "options": [
+      "Graves’ disease",
+      "follicular adenoma",
+      "medullary carcinoma",
+      "De Quervain’s thyroiditis",
+      "papillary carcinoma"
+    ],
+    "correctAnswer": "medullary carcinoma",
+    "explanation": {
+      "correct": "Medullary carcinoma of thyroid arises from parafollicular C cells (calcitonin-secreting). Often associated with MEN2 syndrome (adrenalectomy suggests pheochromocytoma was removed).",
+      "incorrect": [
+        {"option": "Graves", "reason": "Diffuse toxic goiter, no lymphadenopathy/mass."},
+        {"option": "Follicular adenoma", "reason": "Benign, no lymph node spread."},
+        {"option": "De Quervain’s", "reason": "Painful thyroiditis, not a painless nodule with LN spread."},
+        {"option": "Papillary carcinoma", "reason": "Commonest thyroid cancer, LN spread yes—but MEN association and adrenalectomy point to medullary carcinoma."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_20",
+    "case": "A 55-year-old African man is referred to the ENT clinic with a large, smooth goiter increasing for 20 years. What is the likely diagnosis?",
+    "options": [
+      "follicular carcinoma",
+      "Hashimoto’s disease",
+      "anaplastic carcinoma",
+      "endemic goiter",
+      "lymphoma"
+    ],
+    "correctAnswer": "endemic goiter",
+    "explanation": {
+      "correct": "Large smooth long-standing goiter in man from endemic region points to iodine deficiency goiter (endemic goiter). Slow enlargement over decades, no signs of malignancy.",
+      "incorrect": [
+        {"option": "Follicular carcinoma", "reason": "Faster growth and may invade capsule/vessels."},
+        {"option": "Hashimoto", "reason": "Firm irregular goiter, autoimmune, not smooth over 20 years."},
+        {"option": "Anaplastic carcinoma", "reason": "Very rapid expansion in elderly, aggressive, not benign 20-year history."},
+        {"option": "Lymphoma", "reason": "Associated with Hashimoto’s, presents as rapidly enlarging mass, not decades of smooth goiter."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_21",
+    "case": "A 59-year-old diabetic patient is hospitalized because of acute cholecystitis. His diabetes is controlled with metformin1000 mg twice daily; a recent hemoglobin A1C level was 5.9. Cholecystectomy is performed, but is complicated by postoperative pneumonia and septic shock. The patient requires endotracheal intubation and ICU care. Blood cultures grow gram-negative rods, and are required to maintain peripheral perfusion. Which of the following is the best method of controlling blood sugars in this patient?",
+    "options": [
+      "Continue metformin via nasogastric tube",
+      "IV insulin infusion to maintain blood glucose 140 to 180 mg/dL",
+      "Sliding scale regular insulin to maintain blood glucose 80 to120 mg/dL",
+      "IV insulin infusion to maintain blood glucose below 100 mg/dL",
+      "Contact endocrinology for subcutaneous insulin pump and continuous glucose monitoring"
+    ],
+    "correctAnswer": "IV insulin infusion to maintain blood glucose 140 to 180 mg/dL",
+    "explanation": {
+      "correct": "Critically ill patients in ICU with sepsis should be managed with continuous IV insulin infusion targeting moderate glycemia (140–180 mg/dL). This reduces complications without the risk of severe hypoglycemia. Oral hypoglycemics like metformin are contraindicated in septic shock due to lactic acidosis risk.",
+      "incorrect": [
+        {"option": "Continue metformin", "reason": "Dangerous in shock/sepsis because of lactic acidosis risk."},
+        {"option": "Sliding scale insulin 80–120", "reason": "Targets are too tight and sliding scale alone leads to fluctuations and erratic control."},
+        {"option": "Infusion targeting <100", "reason": "Too aggressive—high hypoglycemia risk in ICU setting."},
+        {"option": "Insulin pump/CGM", "reason": "Not appropriate for unstable septic ICU patient; IV insulin is gold standard."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_22",
+    "case": "A 50-year-old man with type 2 diabetes mellitus presents with a 6-month history of diarrhea. He has up to 10 explosive watery stools a day with occasional fecal incontinence. There is no associated bleeding or abdominal pain. He has not lost weight. Complete blood cell count and chemistry analysis results are unremarkable. Prior testing shows multiple negative stool study results for white blood cells, occult blood, and pathogens. He had a normal flexible sigmoidoscopy with biopsy result. A serologic test result for celiac disease with tissue transglutaminase antibodies was negative. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Irritable bowel syndrome",
+      "inflammatory bowel syndrome",
+      "Diabetic neuropathy",
+      "Lactose intolerance",
+      "hyperthyrodism"
+    ],
+    "correctAnswer": "Diabetic neuropathy",
+    "explanation": {
+      "correct": "Chronic watery diarrhea in long-standing diabetes, with negative infection/inflammatory/celiac tests, most likely due to autonomic neuropathy. This leads to poor control of gut motility and secretions (diabetic diarrhea).",
+      "incorrect": [
+        {"option": "Irritable bowel syndrome", "reason": "Typically involves abdominal pain/bloating related to defecation, not continuous watery diarrhea."},
+        {"option": "Inflammatory bowel disease", "reason": "Would show positive stool inflammatory markers, blood, abnormal biopsy."},
+        {"option": "Lactose intolerance", "reason": "Would be diet-related, causing bloating/gas, but not persistent explosive diarrhea if on normal diet."},
+        {"option": "Hyperthyroidism", "reason": "May cause increased stool frequency but not 10 profuse watery episodes/day without systemic thyrotoxic symptoms."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_23",
+    "case": "The parents of a 6-year-old boy bring their son for clinical evaluation as he has nocturnal enuresis after being fully toilet trained for a year. On examination the boy is apparently growing normally but urinates several times during the day with increase in urine volume and is always very thirsty. The physician suspects type I diabetes and orders a fasting blood glucose, which of the following level of fasting blood glucose can confirm diagnosis?",
+    "options": [
+      ">80mg/dl",
+      ">100 mg/dl",
+      ">120 mg/d",
+      ">140 mg/dl",
+      ">160 mg/dl"
+    ],
+    "correctAnswer": ">140 mg/dl",
+    "explanation": {
+      "correct": "Diagnosis of diabetes mellitus in children: Fasting plasma glucose ≥126 mg/dL (confirmed), Random ≥200 mg/dL with symptoms, HbA1c ≥6.5%. The closest diagnostic cutoff available here is >140 mg/dL.",
+      "incorrect": [
+        {"option": ">80", "reason": "Normal threshold, does not indicate diabetes."},
+        {"option": ">100", "reason": "Indicates impaired fasting glucose (prediabetes), not diabetes."},
+        {"option": ">120", "reason": "Not an official diagnostic threshold."},
+        {"option": ">160", "reason": "Much higher than required; diagnosis made earlier."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_24",
+    "case": "A 21-year-old athletic woman with diabetes on a low-dose oral contraceptive comes to your clinic with irregular menses and bilateral breast discharge. On examination, the discharge is expressed, and galactorrhea is confirmed with fat globules seen microscopically. She currently takes metoclopramide for delayed gastric emptying. A random serum prolactin level is 65 ng/ml (normal values: 5-20 ng/dl). Which of the following is the most likely cause for her hyperprolactinemia?",
+    "options": [
+      "metoclopramide",
+      "pregnancy",
+      "oral contraceptive",
+      "pituitary macroadenoma",
+      "exercise"
+    ],
+    "correctAnswer": "metoclopramide",
+    "explanation": {
+      "correct": "Metoclopramide is a dopamine antagonist. Dopamine normally inhibits prolactin secretion. Blocking dopamine pathways increases prolactin and causes galactorrhea.",
+      "incorrect": [
+        {"option": "Pregnancy", "reason": "Common cause but not the case here (patient not said to be pregnant)."},
+        {"option": "Oral contraceptive", "reason": "Rarely cause prolactin rise; metoclopramide is the clear culprit."},
+        {"option": "Pituitary macroadenoma", "reason": "Would cause persistently very high prolactin levels (>200), not just 65, and not drug-related."},
+        {"option": "Exercise", "reason": "May transiently raise prolactin mildly, not symptomatic galactorrhea."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_25",
+    "case": "A 40-year-old woman presents with increased nervousness for the past 3 months. She reports insomnia, frequent palpitations without an identifiable cause, and weakness. She has no significant past medical history and takes no medications. Vital signs are remarkable for a blood pressure of 150/60 mm Hg and a pulse of 135/mm. She appears anxious, and despite being in the middle of winter, is dressed in a T-shirt. Physical examination reveals proptosis and eyelid retraction, moist skin, mild hand tremor, and a palpable diffuse goiter. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Euthyroid sick syndrome",
+      "Follicular carcinoma of the thyroid",
+      "Graves disease",
+      "Hashimoto thyroiditis",
+      "Subacute thyroiditis"
+    ],
+    "correctAnswer": "Graves disease",
+    "explanation": {
+      "correct": "Diffuse goiter + ophthalmopathy (proptosis, lid retraction), hyperthyroid symptoms (palpitations, tremor, heat intolerance) → Graves disease. It is the only cause associated with eye disease.",
+      "incorrect": [
+        {"option": "Euthyroid sick syndrome", "reason": "Seen in critically ill patients; thyroid function tests altered without true thyroid disease."},
+        {"option": "Follicular carcinoma", "reason": "Would present as discrete thyroid nodule, not diffuse goiter with eye signs."},
+        {"option": "Hashimoto", "reason": "Hypothyroidism, firm goiter, no hypermetabolic state."},
+        {"option": "Subacute thyroiditis", "reason": "Painful tender gland, transient thyrotoxic state but no ophthalmopathy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_26",
+    "case": "A forty-year-old lady gives a history of weight gain and hoarseness of voice. On examination her pulse is 64 per minute and skin is pale, coarse, and dry. Which investigation holds the greatest significance in diagnosing this patient condition?",
+    "options": [
+      "adrenocorticotrophin hormone",
+      "cortisol level",
+      "gonadotrophin levels",
+      "insulin like growth factor",
+      "thyroid function test"
+    ],
+    "correctAnswer": "thyroid function test",
+    "explanation": {
+      "correct": "Classic hypothyroidism symptoms/signs. TSH and T4 measurement gives definitive diagnosis. TFT is the gold standard here.",
+      "incorrect": [
+        {"option": "ACTH", "reason": "Assesses adrenal axis, not thyroid."},
+        {"option": "Cortisol level", "reason": "Evaluates adrenal function, unrelated here."},
+        {"option": "Gonadotrophins", "reason": "Useful in infertility/ovarian issues, not in hypothyroid suspicion."},
+        {"option": "IGF-1", "reason": "Used in acromegaly screening, not hypothyroidism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_27",
+    "case": "A 45-year-old man comes to the clinic with mild lower limb swelling. The patient is diabetic and hypertensive. On examination, he has bilateral lower limb edema. Laboratory investigations revealed elevated serum creatinine 2.5 mg/dl and potassium level 5.9 meq/l. Which of the following treatment modalities for hyperkalemia removes potassium from his body?",
+    "options": [
+      "Potassium exchange resin",
+      "Insulin"
+    ],
+    "correctAnswer": "Potassium exchange resin",
+    "explanation": {
+      "correct": "Resins (e.g., sodium polystyrene sulfonate) remove potassium via the gut. This is actual removal. Insulin only shifts potassium intracellularly temporarily but doesn't remove it.",
+      "incorrect": [
+        {"option": "Insulin", "reason": "Shifts K+ into cells acutely but does not remove it from body. Temporary measure."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_28",
+    "case": "A 35-year-old woman came to the clinic because of palpitation and loss of weight. On examination, she had exophthalmos and thyroid swelling. Which of the following is the best initial step for the diagnosis of this patient?",
+    "options": [
+      "RAIU scan",
+      "Free T4 level",
+      "Free T3 level",
+      "TSH level",
+      "TSI including antithyroglobulin and antimicrosomal Ab"
+    ],
+    "correctAnswer": "TSH level",
+    "explanation": {
+      "correct": "The initial test in suspected thyroid disease is serum TSH. If low, follow with free T4/T3. This approach is recommended by guidelines for cost-effective evaluation.",
+      "incorrect": [
+        {"option": "RAIU scan", "reason": "Done after confirming hyperthyroidism, to identify cause—not initial test."},
+        {"option": "Free T4", "reason": "Useful but should be guided by TSH results first."},
+        {"option": "Free T3", "reason": "Assessed in T3-toxicosis but after TSH screening."},
+        {"option": "TSI antibodies", "reason": "Used to confirm Graves disease after biochemical diagnosis established."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_29",
+    "case": "A 45-year-old woman presents with fatigue, weight gain, and cold intolerance. On examination, she has dry skin and bradycardia. Laboratory tests reveal elevated thyroid-stimulating hormone levels with decreased free thyroxine levels. Which of the following is the investigation of choice for confirming primary hypothyroidism?",
+    "options": [
+      "Thyroid ultrasound",
+      "Thyroid scintigraphy",
+      "Thyroid peroxidase antibodies assay",
+      "Free triodothyronine measurement",
+      "Serum thyroglobulin measurement"
+    ],
+    "correctAnswer": "Thyroid peroxidase antibodies assay",
+    "explanation": {
+      "correct": "Primary hypothyroidism diagnosis is biochemical (high TSH, low T4). To confirm cause, anti-TPO antibodies are the most useful, as Hashimoto thyroiditis is the leading etiology.",
+      "incorrect": [
+        {"option": "US", "reason": "Shows goiter/nodules but not diagnostic of autoimmune hypothyroidism."},
+        {"option": "Scintigraphy", "reason": "Assesses thyroid uptake but not commonly required in classic hypothyroidism."},
+        {"option": "Free T3", "reason": "Not reliable marker for hypothyroidism staging."},
+        {"option": "Thyroglobulin", "reason": "Marker for thyroid cancer follow-up, not hypothyroidism cause."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_30",
+    "case": "A 47-year-old man who underwent total thyroidectomy 24 hours ago now complains of a generalized 'tingling' sensation and muscle cramps. Appropriate treatment would include which of the following?",
+    "options": [
+      "Intravenous infusion of calcium gluconate",
+      "Administration of oxygen by mask",
+      "Administration of an anticonvulsant",
+      "Administration of a tranquilizer",
+      "Neurologic consultation"
+    ],
+    "correctAnswer": "Intravenous infusion of calcium gluconate",
+    "explanation": {
+      "correct": "This is post-thyroidectomy hypocalcemia due to hypoparathyroidism. Acute symptomatic hypocalcemia presents with tingling, cramps, tetany. IV calcium gluconate is immediate treatment.",
+      "incorrect": [
+        {"option": "Oxygen", "reason": "No hypoxemia in this case—symptoms are hypocalcemia not hypoxia."},
+        {"option": "Anticonvulsant", "reason": "Not indicated; correct calcium deficiency instead."},
+        {"option": "Tranquilizer", "reason": "Won’t address underlying hypocalcemia."},
+        {"option": "Neuro consult", "reason": "Not primary; must correct urgent calcium defect first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_31",
+    "case": "A 55-year-old man presents to his primary care physician complaining of increased thirst frequent urination, and fatigue over the past few months. His medical history is significant for hypertension and obesity. On examination, his body mass index is 32 kg/m³, and his blood pressure is 150/90 mmHg. Laboratory tests reveal fasting blood glucose levels of 180 mg/dl and HbA1c of 8.5%. He was diagnosed to have type 2 DM. Which of the following is the condition of C peptide in this patients?",
+    "options": [
+      "Absent",
+      "Present",
+      "Increased",
+      "Decreased",
+      "Not affected"
+    ],
+    "correctAnswer": "Increased",
+    "explanation": {
+      "correct": "In type 2 diabetes mellitus, pancreatic beta cells are still present and secrete insulin initially, often in high amounts due to insulin resistance. Hence C-peptide levels (marker of endogenous insulin production) are often normal or increased, unlike type 1 DM where it is absent.",
+      "incorrect": [
+        {"option": "Absent", "reason": "Seen in type 1 DM (absolute insulin deficiency)."},
+        {"option": "Present", "reason": "Too vague—should specify level; here it is elevated."},
+        {"option": "Decreased", "reason": "Would be expected in later stages (burned-out T2DM) but not at diagnosis."},
+        {"option": "Not affected", "reason": "It is affected—it rises in insulin resistance."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_32",
+    "case": "A 45-year-old woman comes to the office because she has noticed during the past several months that her fingernails have become white and increasingly brittle. During this time, she also has had episodes of feeling warm and perspiring. The patient takes only multivitamins. Last menstrual period was 3 weeks ago. She appears thin and mildly anxious. She is 170 cm tall, weighs 48.5 kg and BMI is 17 kg/m2. Temperature 37.0°C, pulse 106/min, respirations 20/min, and blood pressure 136/92 mm Hg. Physical examination of the hands shows a white discoloration of the nail beds. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Chronic obstructive pulmonary disease",
+      "Diabetes mellitus",
+      "Endocarditis",
+      "Hyperthyroidism",
+      "Perimenopause"
+    ],
+    "correctAnswer": "Hyperthyroidism",
+    "explanation": {
+      "correct": "Features: low BMI, tachycardia, sweating, heat intolerance, brittle nails (onycholysis 'Plummer’s nails')—all are consistent with hyperthyroidism.",
+      "incorrect": [
+        {"option": "Chronic obstructive pulmonary disease", "reason": "Would cause weight loss and clubbing/hypoxia signs, not sweaty thin anxious state."},
+        {"option": "Diabetes mellitus", "reason": "Polyuria/polydipsia are absent, not nail/brittleness symptoms."},
+        {"option": "Endocarditis", "reason": "Causes fever, murmurs, splinter hemorrhages—not sympathetic overdrive features."},
+        {"option": "Perimenopause", "reason": "Can cause hot flushes, but nail changes + tachycardia strongly suggest thyroid disease."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_33",
+    "case": "A 36-year-old woman presents with a history of increasing weight gain, tiredness and neck swelling. On examination the patient has a firm rubbery goiter. Fine needle aspiration shows a diffuse lymphocytic and plasma cell infiltrate. The report also mentions the presence of lymphoid follicles and parenchymal atrophy. Which is the most likely diagnosis?",
+    "options": [
+      "follicular carcinoma",
+      "Hashimoto’s disease",
+      "anaplastic carcinoma",
+      "endemic goiter",
+      "lymphoma"
+    ],
+    "correctAnswer": "Hashimoto’s disease",
+    "explanation": {
+      "correct": "Hashimoto thyroiditis is characterized by firm rubbery goiter, autoimmune lymphocytic infiltration, plasma cells, germinal centers, and glandular atrophy. It is the most common cause of hypothyroidism in iodine-sufficient areas.",
+      "incorrect": [
+        {"option": "Follicular carcinoma", "reason": "Shows isolated follicular cells, not diffuse lymphoid infiltrate."},
+        {"option": "Anaplastic carcinoma", "reason": "Aggressive tumor, not rubbery diffuse enlargement with lymphocytes."},
+        {"option": "Endemic goiter", "reason": "Due to iodine deficiency, with diffuse colloid enlargement, not autoimmune infiltration."},
+        {"option": "Lymphoma", "reason": "May occur in Hashimoto background but biopsy here shows thyroiditis not lymphoma."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_34",
+    "case": "A 50-year-old obese lady present with polyurea and polydipsia her blood glucose revealed with mild hyperglycemia. She was diagnosed as a diabetic. Which anti-diabetic agent is of choice for her condition?",
+    "options": [
+      "Chlorpropamide",
+      "Glibenclamide",
+      "Insulin",
+      "Metformin",
+      "Repaglinide"
+    ],
+    "correctAnswer": "Metformin",
+    "explanation": {
+      "correct": "In obese patients with type 2 DM, metformin is first-line. It reduces hepatic glucose output, improves insulin sensitivity, and does not cause weight gain (can cause modest weight loss).",
+      "incorrect": [
+        {"option": "Chlorpropamide", "reason": "First-generation sulfonylurea, risk of prolonged hypoglycemia and not first choice today."},
+        {"option": "Glibenclamide", "reason": "Sulfonylurea—causes weight gain, not suitable for obese diabetic initial therapy."},
+        {"option": "Insulin", "reason": "Used when oral agents fail or glucose is very high—not first line in stable mild case."},
+        {"option": "Repaglinide", "reason": "Short-acting secretagogue—used for postprandial rise but not preferred as first-line in obese diabetic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_35",
+    "case": "A 55-year-old man with a history of type 2 diabetes mellitus (T2DM) presents for a routine follow up. His current treatment regimen includes metformin and lifestyle modifications. His latest HbA1C is 8.5%. Which of the following is the most appropriate next step in managing his diabetes?",
+    "options": [
+      "Initiating insulin therapy",
+      "Adding a sulfonylurea",
+      "Prescribing a GLP-1 receptor agonist",
+      "Increasing the dose of metformin",
+      "Starting SGLT2 inhibitor therapy"
+    ],
+    "correctAnswer": "Adding a sulfonylurea",
+    "explanation": {
+      "correct": "Next step after metformin monotherapy fails in T2DM (assuming no compelling contraindications) is to add a second oral agent. Sulfonylurea (e.g., gliclazide) is the traditional choice. Insulin is reserved for very high A1c (>10% or symptomatic).",
+      "incorrect": [
+        {"option": "Insulin therapy", "reason": "Indicated if severe uncontrolled or symptomatic, but here HbA1c 8.5% can still add oral agent."},
+        {"option": "GLP-1 receptor agonist", "reason": "Excellent choice especially if obese, but sulfonylurea is traditional second-line and cheaper."},
+        {"option": "Increase metformin", "reason": "Already on optimal dose (2 g daily)."},
+        {"option": "SGLT2 inhibitor", "reason": "Also valid alternative, but sulfonylurea remains the expected answer in exams."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_36",
+    "case": "A 55-year-old man presents to the clinic with elevated blood pressure readings. His medical history includes type 2 diabetes and hyperlipidemia. Which of the following medications is the most appropriate initial choice for treating his hypertension?",
+    "options": [
+      "Atenolol",
+      "Lisinopril",
+      "Amlodipine",
+      "Hydrochlorothiazide",
+      "Losartan"
+    ],
+    "correctAnswer": "Lisinopril",
+    "explanation": {
+      "correct": "Diabetic hypertensive → first-line antihypertensive is an ACE inhibitor (eg. lisinopril) to protect kidneys and delay diabetic nephropathy.",
+      "incorrect": [
+        {"option": "Atenolol", "reason": "Beta-blockers not first-line; less renal protective."},
+        {"option": "Amlodipine", "reason": "Calcium-channel blocker can be used but ACE preferred in diabetes."},
+        {"option": "Hydrochlorothiazide", "reason": "Effective antihypertensive but no renal protection."},
+        {"option": "Losartan", "reason": "ARB equally effective; but ACE inhibitors usually first-line unless intolerance."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_37",
+    "case": "In a patient with history of muscle cramps and carpopedal spasm. Which of the following serum electrolyte level is most likely to be low?",
+    "options": [
+      "Calcium",
+      "Chloride",
+      "Magnesium",
+      "Potassium",
+      "Sodium"
+    ],
+    "correctAnswer": "Calcium",
+    "explanation": {
+      "correct": "Muscle cramps, tetany, and carpopedal spasm are classical features of hypocalcemia. Low ionized calcium increases neuromuscular excitability.",
+      "incorrect": [
+        {"option": "Chloride", "reason": "Not directly related to cramps/tetany."},
+        {"option": "Magnesium", "reason": "Causes tetany too, but classical and most common is hypocalcemia."},
+        {"option": "Potassium", "reason": "Causes weakness, arrhythmia—not tetany features."},
+        {"option": "Sodium", "reason": "Low sodium causes confusion, seizures—not spasms."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_38",
+    "case": "An 82-year-old woman comes to her primary care physician's office complaining of feeling dizzy and light-headed, especially when she stands up quickly. She has a history of hypertension, diabetes, and osteoarthritis. She also mentions that she has been taking multiple medications for her various health conditions. Which of the following is the most likely contributing factor to her symptoms?",
+    "options": [
+      "Recent dietary changes",
+      "Hypovolemia",
+      "Polypharmacy",
+      "Lack of physical activity",
+      "Age-related vestibular dysfunction"
+    ],
+    "correctAnswer": "Polypharmacy",
+    "explanation": {
+      "correct": "Elderly patient with multiple comorbidities and many drugs → orthostatic hypotension/dizziness commonly due to polypharmacy (antihypertensives, antidiabetics, etc.).",
+      "incorrect": [
+        {"option": "Dietary changes", "reason": "No such history given."},
+        {"option": "Hypovolemia", "reason": "No dehydration noted; BP drop is positional and likely drug-related."},
+        {"option": "Lack of activity", "reason": "Doesn’t cause sudden dizziness when standing."},
+        {"option": "Age-related vestibular dysfunction", "reason": "Can cause imbalance but not specifically postural hypotension/dizziness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_39",
+    "case": "A forty-year-old man presents with cold intolerance and weight gain. Examination reveals goiter. What is the most probable outcome during the central nervous system examination?",
+    "options": [
+      "ataxia",
+      "delayed relaxation of ankle jerk",
+      "hypotonia",
+      "hyperreflexia",
+      "loss of sensations"
+    ],
+    "correctAnswer": "delayed relaxation of ankle jerk",
+    "explanation": {
+      "correct": "In hypothyroidism, classic neurological sign is delayed relaxation phase of deep tendon reflexes (especially ankle jerk).",
+      "incorrect": [
+        {"option": "Ataxia", "reason": "Not specific for hypothyroidism."},
+        {"option": "Hypotonia", "reason": "Seen in infants with hypothyroidism, less typical in adults."},
+        {"option": "Hyperreflexia", "reason": "Seen in hyperthyroidism due to hypermetabolic state."},
+        {"option": "Loss of sensations", "reason": "Not a defining neurological feature here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_40",
+    "case": "A 52-year-old man has been recently diagnosed with type 2 diabetes and has been following a plan of life style measures to improve his diet and increase his level of exercise for the last 3 months. On returning to clinic his BMl is 28, fasting plasma glucose 154 mg/dl, glycated hemoglobin HbA1c 7.5%, s creatinine 0.9 mg/dL, BP 135/80 mmHg. Which of the following is the most appropriate next management step?",
+    "options": [
+      "Ghbenclamide",
+      "Metformin",
+      "Insulin",
+      "Continue diet and exercise regimen only",
+      "Sleeve gastrectomy"
+    ],
+    "correctAnswer": "Metformin",
+    "explanation": {
+      "correct": "In a newly diagnosed T2DM patient with HbA1c 7.5% despite lifestyle modifications, first-line drug = Metformin (safe renal function, BMI overweight).",
+      "incorrect": [
+        {"option": "Ghbenclamide", "reason": "Sulfonylureas are second-line after failure of metformin."},
+        {"option": "Insulin", "reason": "Reserved for very high glucose levels or symptomatic catabolic state."},
+        {"option": "Continue lifestyle only", "reason": "HbA1c above 6.5–7 indicates need for pharmacological therapy."},
+        {"option": "Sleeve gastrectomy", "reason": "Considered if severe obesity (BMI >40 or >35 with comorbidities), not BMI 28."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_41",
+    "case": "A 52-year-old man complains of bilateral knee pain for about 1 year. He is noted to have a BMI of 40 kg/m2. Which of the following is the best therapy?",
+    "options": [
+      "Allopurinol",
+      "Ibuprofen",
+      "Methotrexate",
+      "intravenous ceftriaxone",
+      "oral glucocorticoids"
+    ],
+    "correctAnswer": "Ibuprofen",
+    "explanation": {
+      "correct": "Obese patient with chronic bilateral knee pain = osteoarthritis (OA). Best therapy for OA symptomatic management is NSAIDs such as ibuprofen, especially in obese individuals with mechanical joint stress.",
+      "incorrect": [
+        {"option": "Allopurinol", "reason": "Used in gout for lowering uric acid, not OA."},
+        {"option": "Methotrexate", "reason": "DMARD for rheumatoid arthritis, not OA."},
+        {"option": "IV ceftriaxone", "reason": "For septic arthritis, not chronic bilateral OA."},
+        {"option": "Oral glucocorticoids", "reason": "Not standard for OA; can worsen comorbidities (obesity, diabetes)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_42",
+    "case": "A 19-year-old female with moon face and a hump on the upper back. On examination: pulse 90 bpm regular, BP was 150/90 mmHg and abdominal striae. What is the first lab test change found in this patient?",
+    "options": [
+      "Disturbed FSH and LH levels",
+      "Low 24-hour urine cortisol",
+      "High morning cortisol level",
+      "Hyperkalemia",
+      "Loss of cortisol diurnal variation"
+    ],
+    "correctAnswer": "Loss of cortisol diurnal variation",
+    "explanation": {
+      "correct": "Cushing syndrome initially shows loss of the normal diurnal rhythm of cortisol (normally high AM, low PM). Later, consistent elevated cortisol (in 24h urine or serum) develops. That’s why loss of variation is the earliest abnormality.",
+      "incorrect": [
+        {"option": "Disturbed FSH/LH", "reason": "Not the earliest change; menstrual irregularities occur later."},
+        {"option": "Low 24-hour cortisol", "reason": "Opposite: cortisol is elevated, not low."},
+        {"option": "High morning cortisol", "reason": "Not specific—normal people also have high AM cortisol."},
+        {"option": "Hyperkalemia", "reason": "Occurs in Addison’s (adrenal insufficiency), not Cushing’s."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_43",
+    "case": "A 14-month-old boy presented to emergency room with disturbed level of consciousness. Laboratory studies revealed: plasma glucose 650 mg/dl; arterial PH; 7.35, serum bicarbonate 17 mmol/L, effective serum osmolarity 340 mOsm/kg, anion gap 12 mmol/L, absent ketonuria. What is the most likely diagnosis?",
+    "options": [
+      "Diabetic ketoacidosis",
+      "Lactic acidosis",
+      "Hyperglycemic hyperosmolar state",
+      "Hyperchloremic acidosis",
+      "Salicylate intoxication"
+    ],
+    "correctAnswer": "Hyperglycemic hyperosmolar state",
+    "explanation": {
+      "correct": "Features: profound hyperglycemia, hyperosmolarity, minimal acidosis (pH ~normal, bicarbonate >15), and no ketones = Hyperosmolar Hyperglycemic State (HHS). Rare in infants but presentation fits.",
+      "incorrect": [
+        {"option": "DKA", "reason": "Would show significant acidosis (pH <7.3, HCO3 <15) and positive ketones."},
+        {"option": "Lactic acidosis", "reason": "Would have high lactate and anion gap, not the case here."},
+        {"option": "Hyperchloremic acidosis", "reason": "Would show normal AG acidosis, not due to hyperglycemia."},
+        {"option": "Salicylate intoxication", "reason": "Gives mixed metabolic acidosis + respiratory alkalosis, not hyperglycemia/osmolarity."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_44",
+    "case": "A 10-year-old boy presents to the emergency department with progressive acute abdominal pain over the past 48 hours associated with vomiting. His parents reported that lately he was always tired. He had increased urination and excessive water drinking over the past 3 to 4 weeks before developing the abdominal pain. On examination the boy is conscious, irritable and has rapid deep respiration. Abdominal examination shows no tenderness or guarding. What is the most probable provisional diagnosis?",
+    "options": [
+      "food poisoning",
+      "acute viral hepatitis",
+      "diabetic ketoacidosis",
+      "acute renal colic",
+      "gastroenteritis"
+    ],
+    "correctAnswer": "diabetic ketoacidosis",
+    "explanation": {
+      "correct": "Children with new-onset T1DM: polyuria, polydipsia, weight loss, fatigue → then DKA: abdominal pain, vomiting, Kussmaul respirations (deep, rapid breathing). Exam shows no guarding (not surgical).",
+      "incorrect": [
+        {"option": "Food poisoning", "reason": "Would cause abdominal pain with diarrhea/fever, not polyuria history."},
+        {"option": "Viral hepatitis", "reason": "Would cause jaundice and liver tenderness."},
+        {"option": "Renal colic", "reason": "Presents with sudden severe flank pain, not polyuria/polydipsia prodrome."},
+        {"option": "Gastroenteritis", "reason": "Causes diarrhea, fever, dehydration—not Kussmaul breathing."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_45",
+    "case": "A 25-year-old diabetic man is brought to the emergency room unconscious; he is dehydrated and shocked. Investigations reveal blood glucose level 270mg/dl, pH 7.26 (7.35 to 7.45), HCO3 15 mEq/l (22-28mEq/l). Urinalysis shows ketone bodies positive. Which of the following is most useful in the management of this case?",
+    "options": [
+      "basal insulin only",
+      "metformin with short acting insulin",
+      "mixed short acting and NPH insulin",
+      "NPH insulin",
+      "short acting insulin by IV infusion"
+    ],
+    "correctAnswer": "short acting insulin by IV infusion",
+    "explanation": {
+      "correct": "This is diabetic ketoacidosis (DKA): moderate hyperglycemia, acidosis, positive ketonuria. Standard initial management is IV infusion of short-acting insulin (regular insulin).",
+      "incorrect": [
+        {"option": "Basal insulin only", "reason": "Too slow, not used in acute DKA."},
+        {"option": "Metformin + insulin", "reason": "Metformin contraindicated in acutely ill patients, risk lactic acidosis."},
+        {"option": "Mixed short + NPH", "reason": "Used in chronic therapy, not in acute DKA."},
+        {"option": "NPH alone", "reason": "Not appropriate for acute management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_46",
+    "case": "A 2-year-old boy was brought to the ER with a one day history of tachypnea and respiratory distress. His blood pH was 7.26, PCO2 55mmHg and bicarbonate of 24mmol/L were found. Which of the following is the interpretation of this data?",
+    "options": [
+      "Metabolic acidosis",
+      "Metabolic alkalosis",
+      "Acute respiratory acidosis",
+      "Chronic respiratory acidosis",
+      "Respiratory alkalosis"
+    ],
+    "correctAnswer": "Acute respiratory acidosis",
+    "explanation": {
+      "correct": "pH is low (7.26 → acidosis). PCO₂ is high (55 mmHg, >45). HCO₃⁻ is normal (24), so no metabolic compensation yet. This fits acute respiratory acidosis.",
+      "incorrect": [
+        {"option": "Metabolic acidosis", "reason": "Would show low HCO3, not here."},
+        {"option": "Metabolic alkalosis", "reason": "Would raise pH, opposite of findings."},
+        {"option": "Chronic resp. acidosis", "reason": "Would show elevated bicarbonate as compensation—not seen here."},
+        {"option": "Respiratory alkalosis", "reason": "Would show high pH, low CO₂—not the case."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_47",
+    "case": "A 45-year-old man is brought to the emergency department with oliguria, vomiting and lower limb swelling. On examination, he is earthy looking with bilateral lower limb edema. Laboratory investigations reveal serum creatinine level 6.7 mg/dl, potassium level 5.4 meq/l, and PH is 6.8. Which of the following is an indication for dialysis in this patient?",
+    "options": [
+      "Severe metabolic acidosis"
+    ],
+    "correctAnswer": "Severe metabolic acidosis",
+    "explanation": {
+      "correct": "This patient with CKD/AKI has severe metabolic acidosis (pH 6.8), which is one of the absolute indications for dialysis. Others include refractory hyperkalemia, volume overload, uremic symptoms.",
+      "incorrect": []
+    }
+  },
+  {
+    "CaseID": "endocrine_48",
+    "case": "A 10-month-old infant is brought to the emergency room with a one-week history of watery diarrhea. His blood pressure is 90/54 mmHg, pulse rate 102 bpm, respiratory rate 18/min. He is moderately dehydrated and shows signs of altered consciousness. What laboratory finding would be anticipated in this scenario?",
+    "options": [
+      "Metabolic acidosis",
+      "Respiratory acidosis",
+      "Metabolic alkalosis",
+      "Respiratory alkalosis",
+      "Normal ABG"
+    ],
+    "correctAnswer": "Metabolic acidosis",
+    "explanation": {
+      "correct": "Severe diarrheal dehydration results in loss of bicarbonate in stool → metabolic acidosis with low pH, low HCO₃⁻. Consciousness altered due to acidosis.",
+      "incorrect": [
+        {"option": "Respiratory acidosis", "reason": "Not due to diarrheal bicarbonate loss."},
+        {"option": "Metabolic alkalosis", "reason": "Occurs with vomiting, not diarrhea."},
+        {"option": "Respiratory alkalosis", "reason": "Would increase pH, unrelated here."},
+        {"option": "Normal ABG", "reason": "Patient has severe disturbance from dehydration."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_49",
+    "case": "A 9-month-old boy brought to the ER with history of watery diarrhea for the past week. His blood pressure = 90/54, pulse = 102, respiratory rate = 18, and altered level of consciousness. Which of the following lab is expected?",
+    "options": [
+      "Metabolic acidosis",
+      "Respiratory acidosis",
+      "Metabolic alkalosis",
+      "Respiratory alkalosis",
+      "Normal ABG"
+    ],
+    "correctAnswer": "Metabolic acidosis",
+    "explanation": {
+      "correct": "Same as Q500, chronic diarrhea → bicarbonate loss → metabolic acidosis. Hypoperfusion may worsen lactic acidosis.",
+      "incorrect": [
+        {"option": "Respiratory acidosis", "reason": "Not from diarrhea."},
+        {"option": "Metabolic alkalosis", "reason": "Seen in persistent vomiting not diarrhea."},
+        {"option": "Respiratory alkalosis", "reason": "Not caused by diarrhea, would involve hyperventilation."},
+        {"option": "Normal ABG", "reason": "Not with severe dehydration and altered consciousness."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_50",
+    "case": "A 35-year man was admitted to hospital in a coma. Analysis of the arterial blood gave the following values: PaCO2 25 mmHg (normal 35-45), HCO3 5 mmol/l (normal 22-26) and pH 7.1. Which of the following is the underlying acid-base disorder?",
+    "options": [
+      "metabolic acidosis",
+      "metabolic alkalosis",
+      "mixed respiratory and metabolic acidosis",
+      "respiratory acidosis",
+      "respiratory alkalosis"
+    ],
+    "correctAnswer": "metabolic acidosis",
+    "explanation": {
+      "correct": "pH 7.1 = acidosis. HCO₃⁻ is very low (5), so metabolic acidosis. PaCO₂ is low (compensatory hyperventilation). No mixed disorder detected.",
+      "incorrect": [
+        {"option": "Metabolic alkalosis", "reason": "Would show high pH, high HCO3, opposite picture."},
+        {"option": "Mixed acidosis", "reason": "CO₂ is low, not high, so no resp. acidosis here."},
+        {"option": "Respiratory acidosis", "reason": "Would show high CO₂, not low."},
+        {"option": "Respiratory alkalosis", "reason": "Would show alkalemia (high pH), not seen."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_51",
+    "case": "A 64-year-old man undergoes an anterior resection for rectal carcinoma. On day 7 post-operation his arterial blood gases are: pH 7.35, PA (O2) 10.2 kPa, PA (CO2) 2.5 kPa, base excess -8 mmol/liter; serum blood results are: Na+ 138 mEq/L, K+ 4.0 mEq/L, urea 84 mg/dl, creatinine 1.2 mg/dL, [HCO] - 16 mmol/litre. He has become increasingly unwell for the past 2 days. What is the appropriate interpretation of this arterial blood gases?",
+    "options": [
+      "Compensated metabolic acidosis",
+      "Compensated respiratory alkalosis",
+      "Metabolic acidosis and increased anion gap",
+      "Metabolic alkalosis",
+      "Respiratory acidosis"
+    ],
+    "correctAnswer": "Compensated metabolic acidosis",
+    "explanation": {
+      "correct": "Low bicarbonate (16), base excess negative, pH almost normal (7.35 on lower end), PaCO2 decreased (hyperventilation compensation). This is compensated metabolic acidosis.",
+      "incorrect": [
+        {"option": "Compensated respiratory alkalosis", "reason": "pH would be high (alkalemia) if it was respiratory alkalosis."},
+        {"option": "Metabolic acidosis with increased anion gap", "reason": "No data suggesting anion gap increase beyond base deficit, normal electrolytes."},
+        {"option": "Metabolic alkalosis", "reason": "Would see high bicarbonate and high pH—not the case here."},
+        {"option": "Respiratory acidosis", "reason": "Would see elevated CO2, not significantly low as here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_52",
+    "case": "A 24 year-old female patient presents with episodes of bizarre behavior, memory lapse, and unconsciousness. She also demonstrated previously episodes of extreme hunger, sweating, and tachycardia. During one of these episodes, her blood sugar was tested and was found to be 35mg/dL. Which of the following would most appropriately indicate a diagnosis of insulinoma?",
+    "options": [
+      "Demonstration of insulin antibodies in blood",
+      "Abnormal glucagon level",
+      "CT of the pancreas showing a mass",
+      "Hypoglycemia during a symptomatic episode with relief of symptoms by intravenous glucose",
+      "Decreased circulating C peptide in the blood"
+    ],
+    "correctAnswer": "Hypoglycemia during a symptomatic episode with relief of symptoms by intravenous glucose",
+    "explanation": {
+      "correct": "The diagnosis is based on **Whipple’s triad**: (1) hypoglycemia symptoms, (2) low blood glucose measured, (3) relief of symptoms after giving glucose. That confirms insulinoma.",
+      "incorrect": [
+        {"option": "Insulin antibodies", "reason": "Seen in type 1 DM, autoimmune—not insulinoma."},
+        {"option": "Abnormal glucagon", "reason": "Not relevant to insulinoma diagnosis."},
+        {"option": "CT pancreas", "reason": "Imaging is supportive after diagnosis is clinically/biochemically confirmed."},
+        {"option": "Low C-peptide", "reason": "Insulinoma produces insulin + C-peptide, so C-peptide would be high not low."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_53",
+    "case": "A 50 year-old male presents with postoperative bloating. The consulting surgeon suspects an ileus. Which of the following lab findings is most likely contributing to the patient’s symptoms?",
+    "options": [
+      "Lactic acidosis",
+      "Hypokalemia",
+      "Hypomagnesemia",
+      "Hypercalcemia",
+      "Uremia"
+    ],
+    "correctAnswer": "Hypokalemia",
+    "explanation": {
+      "correct": "Postoperative ileus is exacerbated by electrolyte imbalance, especially hypokalemia, which impairs smooth muscle contractility leading to bowel paralysis.",
+      "incorrect": [
+        {"option": "Lactic acidosis", "reason": "Suggests tissue hypoperfusion, but not direct cause of ileus."},
+        {"option": "Hypomagnesemia", "reason": "Can impair neuromuscular function but ileus is classically related to low potassium."},
+        {"option": "Hypercalcemia", "reason": "Causes constipation but less commonly postoperative ileus."},
+        {"option": "Uremia", "reason": "Chronic renal failure causes nausea/vomiting, not specifically ileus."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_54",
+    "case": "The manifestations of hyperphosphatemia are related to its effects on:",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Magnesium",
+      "Calcium",
+      "Chloride"
+    ],
+    "correctAnswer": "Calcium",
+    "explanation": {
+      "correct": "Hyperphosphatemia lowers free calcium levels by binding calcium and precipitating as calcium-phosphate. Clinical manifestations are mainly those of hypocalcemia (tetany, seizures).",
+      "incorrect": [
+        {"option": "Sodium", "reason": "Phosphate doesn’t directly affect sodium levels."},
+        {"option": "Potassium", "reason": "Not involved directly with phosphate balance."},
+        {"option": "Magnesium", "reason": "Does not explain effects of phosphate on symptoms."},
+        {"option": "Chloride", "reason": "Unrelated to phosphate physiology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_55",
+    "case": "What is the most appropriate screening investigation to exclude a pheochromocytoma?",
+    "options": [
+      "Phenoxy benzamine suppression test",
+      "24-hour urinary collection of Vanillylmandelic acid",
+      "24-hour urinary collection of metanephrines",
+      "Plasma adrenaline (morning)",
+      "B HCG"
+    ],
+    "correctAnswer": "24-hour urinary collection of metanephrines",
+    "explanation": {
+      "correct": "Best screening tool: 24-hr urinary fractionated metanephrines (or plasma metanephrines). They are sensitive for pheochromocytoma detection.",
+      "incorrect": [
+        {"option": "Phenoxybenzamine suppression test", "reason": "Not a diagnostic test, it is treatment related."},
+        {"option": "VMA", "reason": "Old test, less sensitive compared with metanephrines."},
+        {"option": "Plasma adrenaline", "reason": "Very variable and nonspecific."},
+        {"option": "B HCG", "reason": "Pregnancy test, irrelevant."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_56",
+    "case": "A 70-year-old female presents with sudden, painful loss of vision in her right eye. Her visual acuity is markedly decreased in the affected eye. Which of the following is the most likely cause of his symptoms?",
+    "options": [
+      "Vitreous hemorrhage",
+      "Retinal detachment",
+      "Central retinal vein occlusion",
+      "Acute angle closure glaucoma",
+      "Central retinal artery occlusion"
+    ],
+    "correctAnswer": "Central retinal artery occlusion",
+    "explanation": {
+      "correct": "Sudden, painless (sometimes painful only early), severe monocular vision loss in elderly: CRAO. Fundoscopy would show pale retina with cherry red spot.",
+      "incorrect": [
+        {"option": "Vitreous hemorrhage", "reason": "Causes floaters and blur, but not immediate profound loss with cherry spot."},
+        {"option": "Retinal detachment", "reason": "Causes flashing lights, curtain vision—not acute profound loss."},
+        {"option": "Central retinal vein occlusion", "reason": "Presents with subacute blur + 'blood and thunder' fundus, not abrupt severe loss."},
+        {"option": "Acute angle closure glaucoma", "reason": "Very painful, red eye with halos—not just loss of vision."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_57",
+    "case": "Which of the following is the most appropriate outpatient management for mechanical corneal abrasions?",
+    "options": [
+      "Eye patching",
+      "Topical anesthetic",
+      "Topical steroids",
+      "Topical antibiotics",
+      "Topical saline solution"
+    ],
+    "correctAnswer": "Topical antibiotics",
+    "explanation": {
+      "correct": "Corneal abrasions risk secondary infection. Outpatient management: topical antibiotic ointment/drops (like erythromycin) to prevent bacterial keratitis. Patching is not recommended.",
+      "incorrect": [
+        {"option": "Eye patching", "reason": "No longer recommended—increases infection risk."},
+        {"option": "Topical anesthetic", "reason": "Relieves pain but toxic to corneal epithelium if used outpatient—contraindicated."},
+        {"option": "Topical steroids", "reason": "Delay healing and increase infection risk."},
+        {"option": "Topical saline", "reason": "Provides comfort only—not prophylaxis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_58",
+    "case": "A 45 year-old female presents for evaluation of headaches and horizontal diplopia. Her examination reveals normal vital signs, mild papilledema, and she is unable to move her right eye outward. CT brain is normal. Which of the following is the most likely finding on lumbar puncture?",
+    "options": [
+      "Elevated protein",
+      "Opening pressure of 320 mm H2O",
+      "Low glucose",
+      "Increased lymphocyte predominant white blood cells",
+      "Oligoclonal bands"
+    ],
+    "correctAnswer": "Opening pressure of 320 mm H2O",
+    "explanation": {
+      "correct": "This is benign intracranial hypertension (pseudotumor cerebri). Papilledema, CN VI palsy, normal neuroimaging. LP shows elevated opening pressure (>250–300 mm H2O).",
+      "incorrect": [
+        {"option": "Elevated protein", "reason": "Seen in Guillain-Barré, not pseudotumor cerebri."},
+        {"option": "Low glucose", "reason": "Suggests infection (meningitis), not the case."},
+        {"option": "Increased lymphocytes", "reason": "Again meningitis, not here."},
+        {"option": "Oligoclonal bands", "reason": "Seen in multiple sclerosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "endocrine_59",
+    "case": "Which of the following drugs is most likely to cause impaired glucose tolerance?",
+    "options": [
+      "Interferon alpha",
+      "Bromocriptine",
+      "Imipramine",
+      "none of the above"
+    ],
+    "correctAnswer": "Interferon alpha",
+    "explanation": {
+      "correct": "Interferon alpha therapy can impair glucose tolerance by inducing insulin resistance and even autoimmune diabetes. Bromocriptine (dopamine agonist) and Imipramine (TCA) don’t classically impair glucose control.",
+      "incorrect": [
+        {"option": "Bromocriptine", "reason": "Used in prolactinoma, can actually improve glucose in some cases."},
+        {"option": "Imipramine", "reason": "May cause weight gain but not significant impaired glucose tolerance."},
+        {"option": "none of the above", "reason": "Incorrect because interferon alpha is the right answer."}
+      ]
+    }
+  }
+]

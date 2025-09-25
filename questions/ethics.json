@@ -1,0 +1,980 @@
+[
+  {
+    "CaseID": "ethics_1",
+    "case": "If you are employed as a doctor in the emergency room: What is your recommendation to the nurses on when to revise their hand hygiene?",
+    "options": [
+      "Before contact with blood, body fluids or contaminated surfaces",
+      "Before removal of personal protective equipment (PPE).",
+      "Before performing an aseptic task e.g. insertion of an IV cannula",
+      "If hands will be moving from a clean body site to a contaminated body site during patient care",
+      "After contact with a patient"
+    ],
+    "correctAnswer": "Before performing an aseptic task e.g. insertion of an IV cannula",
+    "explanation": {
+      "correct": "WHO '5 moments of hand hygiene' include: before touching a patient, **before aseptic tasks**, after body fluid exposure, after touching a patient, after touching patient surroundings. This question highlights a critical moment: before aseptic tasks like IV insertion.",
+      "incorrect": [
+        {"option": "Before contact with blood/fluids", "reason": "Hand hygiene is after risk of exposure, not necessarily before contact with fluids."},
+        {"option": "Before removing PPE", "reason": "Performed after taking PPE off, not before."},
+        {"option": "Clean → dirty site", "reason": "True, but the highlighted teaching priority is 'before aseptic procedure'."},
+        {"option": "After patient contact", "reason": "Correct moment too, but not the one emphasized in this single-best context."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_2",
+    "case": "As an emergency room doctor, how would you advise the nursing staff regarding the timing for updating their hand hygiene practices?",
+    "options": [
+      "Before contact with blood, body fluids or contaminated surfaces",
+      "Before removal of personal protective equipment (PPE).",
+      "Before performing an aseptic task e.g. insertion of an IV cannula",
+      "If hands will be moving from a clean body site to a contaminated body site during patient care",
+      "After contact with a patient"
+    ],
+    "correctAnswer": "After contact with a patient",
+    "explanation": {
+      "correct": "Another key 'moment' is **immediately after patient contact**. This prevents spreading microorganisms to environment or other patients.",
+      "incorrect": [
+        {"option": "Before blood/fluids", "reason": "More relevant after risk of exposure, not before."},
+        {"option": "Before PPE removal", "reason": "Not a recognized standard moment."},
+        {"option": "Before aseptic task", "reason": "Important—but here scenario directs to 'update' after contact."},
+        {"option": "Clean → dirty", "reason": "Yes, but less emphasized moment in this stem than direct contact."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_3",
+    "case": "While doing your duty as a resident in charge of the emergency room your hands have been visibly contaminated with blood and body fluids by which of the following will you disinfect your hands?",
+    "options": [
+      "scrubbing your hands with a brush and any disinfectant",
+      "wishing your hands with on alcohol based hand rub",
+      "washing your hands with Chlorhexidine",
+      "washing your hands with iodophor (betadine)",
+      "washing your hands with soap and water"
+    ],
+    "correctAnswer": "washing your hands with soap and water",
+    "explanation": {
+      "correct": "If hands are visibly contaminated (soil, blood, body fluids), alcohol rub is ineffective. Proper washing with soap and water is the standard recommendation.",
+      "incorrect": [
+        {"option": "Scrubbing + brush", "reason": "Not necessary and damages skin."},
+        {"option": "Alcohol rub", "reason": "Not effective against heavily soiled/dirty hands."},
+        {"option": "Chlorhexidine", "reason": "Antiseptic, but soap + water remains standard first step for visible blood."},
+        {"option": "Betadine", "reason": "Not standard, used for surgical prep not routine cleaning."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_4",
+    "case": "The neighbor of a 14-year-old boy brings him to the emergency department after sustaining a slight laceration to the scalp from head trauma. You evaluate him and determine that suturing of the scalp will be necessary, which of the following is the most accurate?",
+    "options": [
+      "both parents have to give consent",
+      "consent is not necessary in this case",
+      "one parent has to give a consent",
+      "the neighbor can give consent",
+      "the patient can give consent"
+    ],
+    "correctAnswer": "one parent has to give a consent",
+    "explanation": {
+      "correct": "In minors, consent must come from parents/guardians. Either parent is sufficient (unless specific legal issues). Emergency life-threatening situations can proceed without formal consent, but here not life-threatening.",
+      "incorrect": [
+        {"option": "Both parents", "reason": "Not required legally; one parent suffices."},
+        {"option": "No consent", "reason": "Incorrect—suturing is not trivial, consent is required."},
+        {"option": "Neighbor", "reason": "Not a legal guardian, cannot consent."},
+        {"option": "Patient", "reason": "14-year-old lacks legal capacity though can assent."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_5",
+    "case": "During a surgery, the surgical team notices a breach (failing) in sterile technique. What is the immediate action to prevent infection?",
+    "options": [
+      "Completing the surgery quickly",
+      "Discarding the contaminated instruments and replacing them",
+      "Continuing the procedure and administering prophylactic antibiotics",
+      "Closing the incision as soon as possible",
+      "Cleaning the area with antiseptics"
+    ],
+    "correctAnswer": "Discarding the contaminated instruments and replacing them",
+    "explanation": {
+      "correct": "Breached sterility = immediate discard of contaminated item and replace with sterile one. Continuing or rushing surgery increases infection risks.",
+      "incorrect": [
+        {"option": "Completing quickly", "reason": "Doesn't eliminate contamination."},
+        {"option": "Give antibiotics", "reason": "Not a substitute for sterile technique."},
+        {"option": "Close incision early", "reason": "Also doesn’t address contamination."},
+        {"option": "Clean with antiseptics", "reason": "External antiseptic doesn’t restore lost sterility of instruments."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_6",
+    "case": "A 30-year-old woman is booked for an elective caesarean section. She comes to the antenatal care clinic to discuss her preoperative preparation in order to reduce her wound infection. Which of the following should be recommended?",
+    "options": [
+      "Wearing specific theatre wear that is appropriate for the procedure",
+      "Offering her prophylactic antibiotics after skin incision"
+    ],
+    "correctAnswer": "Wearing specific theatre wear that is appropriate for the procedure",
+    "explanation": {
+      "correct": "This was designed as a trick. For a patient (not staff), the relevant precaution is appropriate clean patient clothing/hygiene, not antibiotics timing (that is intra-op responsibility).",
+      "incorrect": [
+        {"option": "Prophylactic antibiotics after incision", "reason": "Wrong timing—should be before incision, not after."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_7",
+    "case": "A 30-year-old woman is booked for an elective caesarean section. She comes to the antenatal care clinic to discuss her preoperative preparation in order to reduce her risk of having wound infection. Which of the following should be recommended?",
+    "options": [
+      "Using razors for pubic hair removal",
+      "Advising the patient not to shower on the day of surgery",
+      "Using mechanical bowel preparation",
+      "Offering her prophylactic antibiotics before skin incision",
+      "Manual separation of the placenta"
+    ],
+    "correctAnswer": "Offering her prophylactic antibiotics before skin incision",
+    "explanation": {
+      "correct": "Evidence shows perioperative antibiotics must be given **before incision** to reduce postoperative wound infection risk in obstetric surgery.",
+      "incorrect": [
+        {"option": "Razors for hair", "reason": "Razors increase infection (micro-abrasions); if needed use clippers."},
+        {"option": "No shower", "reason": "Actually pre-op hygiene/bathing is encouraged."},
+        {"option": "Bowel prep", "reason": "Unnecessary for C-section, for bowel surgery instead."},
+        {"option": "Manual placenta", "reason": "Increases infection risk, not intended here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_8",
+    "case": "A 40-year-old fatty woman came to OPD because of chronic nausea and mild right upper quadrant pain. It is suspected that the patient may have gallstones as a cause of her trouble. Which of the following is the best imaging study?",
+    "options": [
+      "Abdominal CT",
+      "Abdominal MRI",
+      "Abdominal ultrasound",
+      "Plane x-ray abdomen",
+      "ERCP"
+    ],
+    "correctAnswer": "Abdominal ultrasound",
+    "explanation": {
+      "correct": "First-line investigation for suspected gallstones = ultrasonography. It’s sensitive, safe, and non-invasive.",
+      "incorrect": [
+        {"option": "CT", "reason": "CT misses many gallstones (radiolucent cholesterol stones)."},
+        {"option": "MRI", "reason": "Used for choledocholithiasis suspicion (MRCP), not initial test."},
+        {"option": "X-ray", "reason": "Most stones radiolucent—poor sensitivity."},
+        {"option": "ERCP", "reason": "Therapeutic tool, risks complications, not a primary diagnostic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_9",
+    "case": "A 25-year-old pregnant woman was coming alone to the Gynecology clinic. Suddenly she collapsed and became unconscious, having a suspected ruptured and disturbed ectopic pregnancy. Immediate resuscitation and emergency laparotomy with right salpingectomy was done and the patient survived. Which of the following medical ethics principles better describes this action?",
+    "options": [
+      "Battery",
+      "Beneficence",
+      "Negligence",
+      "Non maleficence",
+      "Paternalism"
+    ],
+    "correctAnswer": "Beneficence",
+    "explanation": {
+      "correct": "Beneficence = acting in the best interest of the patient. In emergencies where consent not possible, life-saving treatment is justified ethically by beneficence.",
+      "incorrect": [
+        {"option": "Battery", "reason": "Would be applying procedure without consent when not justified. Emergencies exempt."},
+        {"option": "Negligence", "reason": "Carelessness—opposite, here was prompt action."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm; not the principle primarily highlighted here."},
+        {"option": "Paternalism", "reason": "Doctor overruling patient wishes—here patient unconscious, so not paternalism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_10",
+    "case": "Which one of the following ethical principles is most relevant in guiding the physician's decision when faced with a dilemma where disclosing a patient's confidential medical information could potentially prevent harm to others?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Non-maleficence",
+      "Justice",
+      "Confidentiality"
+    ],
+    "correctAnswer": "Non-maleficence",
+    "explanation": {
+      "correct": "In rare cases, breaking confidentiality is justified to prevent serious harm to others. This is guided ethically by 'non-maleficence' (duty to prevent harm). Example: reporting communicable diseases or threats.",
+      "incorrect": [
+        {"option": "Autonomy", "reason": "Deals with respecting patient’s choices."},
+        {"option": "Beneficence", "reason": "Acting for patient’s good—here focus is preventing harm to others."},
+        {"option": "Justice", "reason": "Fairness/resource distribution, not confidentiality conflict."},
+        {"option": "Confidentiality", "reason": "Normally overriding principle, but limited when harm prevention required."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_11",
+    "case": "A 44-year-old female with a history of metastatic breast cancer is currently being treated in the ICU for leptomeningeal disease, and her prognosis is grave. The patient asks that you do not discuss any aspect of her care with her family, as she does not believe they are emotionally equipped to handle the news, and you promise to uphold her wish. Which of the following ethical principles aligns with your promise?",
+    "options": [
+      "Beneficence",
+      "non-maleficence",
+      "Autonomy",
+      "Fidelity",
+      "Justice"
+    ],
+    "correctAnswer": "Fidelity",
+    "explanation": {
+      "correct": "Fidelity = faithfulness to promises/commitments made to the patient. Here, physician promised not to disclose → keeping that promise is fidelity.",
+      "incorrect": [
+        {"option": "Beneficence", "reason": "Doing good for patient, but this scenario is about fulfilling a promise."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm, not about honoring promises."},
+        {"option": "Autonomy", "reason": "Respecting patient’s choice is important but specifically this is about physician’s promise."},
+        {"option": "Justice", "reason": "Deals with fairness/equality, not promise-keeping."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_12",
+    "case": "A patient is in a critical condition and needs immediate surgery to survive however the patient refuses the surgery based on personal religious beliefs. What legal and ethical principles should guide the healthcare team in this situation?",
+    "options": [
+      "Autonomy and beneficence",
+      "Justice and veracity",
+      "Non-maleficence and fidelity",
+      "Confidentiality and consent",
+      "Respect for persons and distributive justice"
+    ],
+    "correctAnswer": "Autonomy and beneficence",
+    "explanation": {
+      "correct": "Patients have the right to refuse treatment (Autonomy). Beneficence requires acting in patient’s best interest, but autonomy predominates if patient is competent and informed.",
+      "incorrect": [
+        {"option": "Justice and veracity", "reason": "Not central here."},
+        {"option": "Non-maleficence/fidelity", "reason": "Not as directly relevant."},
+        {"option": "Confidentiality/consent", "reason": "Consent is related but key principle = autonomy."},
+        {"option": "Respect/distributive justice", "reason": "Broader ethics, not directly about treatment refusal."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_13",
+    "case": "A nurse, is preparing to attend to a patient with a contagious respiratory infection. She reviews the hospital's infection control protocols to ensure proper measures are taken. Which of the following actions is most crucial for her to prevent the transmission of infectious diseases in the healthcare setting?",
+    "options": [
+      "Hand hygiene",
+      "Wearing personal protective equipment",
+      "Environmental cleaning and disinfection",
+      "Vaccination of healthcare workers",
+      "Isolation precautions"
+    ],
+    "correctAnswer": "Hand hygiene",
+    "explanation": {
+      "correct": "The single most important step to prevent spread of infections is **proper hand hygiene**. PPE, isolation, vaccination all important, but hand hygiene is the cornerstone.",
+      "incorrect": [
+        {"option": "PPE", "reason": "Important but hand hygiene trumps everything."},
+        {"option": "Environmental cleaning", "reason": "Helps but not the most critical."},
+        {"option": "Vaccination", "reason": "Essential for long-term prevention, but not the single most crucial action."},
+        {"option": "Isolation", "reason": "Prevents spread but still not as effective across all scenarios as hand hygiene."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_14",
+    "case": "In a pediatric ward, a child with chickenpox has been admitted. The nursing staff is discussing precautions to prevent the spread of the virus. What precaution should be primarily implemented to limit transmission among other patients and staff?",
+    "options": [
+      "Administering antibiotics to all patients in the ward",
+      "Strictly enforcing hand hygiene among staff member",
+      "Using face masks for all patients in the vicinity.",
+      "Segregating the infected child in a separate room",
+      "Regularly disinfecting surfaces with alcohol-based solutions"
+    ],
+    "correctAnswer": "Segregating the infected child in a separate room",
+    "explanation": {
+      "correct": "Chickenpox spreads via airborne route → strict **isolation** of the case is key. Hand hygiene important but airborne isolation is the primary precaution.",
+      "incorrect": [
+        {"option": "Antibiotics", "reason": "Chickenpox is viral, antibiotics not preventive."},
+        {"option": "Hand hygiene", "reason": "Important, but airborne isolation takes precedence here."},
+        {"option": "Face masks around", "reason": "Masks help but isolation is more effective for varicella airborne spread."},
+        {"option": "Surface disinfection", "reason": "Varicella mainly spreads by droplet/air, not by surface alone."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_15",
+    "case": "Which of the following is the most effective method to prevent the transmission of health-care associated infections?",
+    "options": [
+      "Proper hand hygiene",
+      "Wearing gloves at all times",
+      "Regular use of face masks",
+      "Disinfecting surfaces twice a day",
+      "Increasing ventilation in healthcare settings"
+    ],
+    "correctAnswer": "Proper hand hygiene",
+    "explanation": {
+      "correct": "The number one method proven effective worldwide: rigorous compliance with hand hygiene protocols. Gloves/masks/disinfection help but cannot replace hand washing.",
+      "incorrect": [
+        {"option": "Gloves", "reason": "Gloves reduce risk but not fully; also can transmit bugs if not changed/washed properly."},
+        {"option": "Masks", "reason": "Helps in droplet precautions but not all HAIs."},
+        {"option": "Surface disinfection", "reason": "Important, but hand hygiene proven stronger as universal intervention."},
+        {"option": "Ventilation", "reason": "Useful for airborne, but HAIs overall dominated by contact spread."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_16",
+    "case": "What is the purpose of the time-out procedure in surgical settings?",
+    "options": [
+      "To take a break during surgery",
+      "To review the patient's medical history",
+      "To discuss the surgical procedure with the patient",
+      "To ensure the correct patient and procedure are identified",
+      "To allow the surgical team to rest"
+    ],
+    "correctAnswer": "To ensure the correct patient and procedure are identified",
+    "explanation": {
+      "correct": "Time-out = safety pause before incision to confirm: patient identity, surgical site, planned procedure—prevents wrong-site/wrong-patient surgery.",
+      "incorrect": [
+        {"option": "Break/rest", "reason": "Not the aim."},
+        {"option": "Review PMH", "reason": "Background review is earlier, not time-out."},
+        {"option": "Discuss surgery with patient", "reason": "Done preoperatively, not in OR time-out."},
+        {"option": "Team rest", "reason": "Light humor maybe, but not correct."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_17",
+    "case": "A nurse is caring for 47-year-old man with a confirmed diagnosis of Clostridium difficile infection. The patient has loose stools several times a day. Which of the following is the single most important action the nurse should take to prevent the spread of Clostridium difficile to other patients?",
+    "options": [
+      "Wearing gloves while cleaning the patient's room",
+      "Administering antibiotics as prescribed by the doctor",
+      "Isolating the patient in a single room",
+      "Performing hand hygiene",
+      "Educating the patient about C. Diff"
+    ],
+    "correctAnswer": "Performing hand hygiene",
+    "explanation": {
+      "correct": "C. difficile spores: resistant to alcohol rubs → proper **hand washing with soap & water** is critical to prevent spread.",
+      "incorrect": [
+        {"option": "Gloves", "reason": "Needed but hand hygiene even more crucial."},
+        {"option": "Antibiotics", "reason": "Treats patient but doesn’t prevent spread."},
+        {"option": "Isolation", "reason": "Important too, but universally hand hygiene interrupts transmission."},
+        {"option": "Education", "reason": "Helpful but not the single most important action."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_18",
+    "case": "A 45-year-old man undergoes an exploratory laparotomy because of a perforated duodenal ulcer 1.5 L of turbid fluid is found. Which of the following list the best skin closure method in this condition?",
+    "options": [
+      "Closure of skin with staples",
+      "Interrupted skin closure",
+      "Closure of skin with dermabond",
+      "Wound left open and local wound care",
+      "Subcuticular skin closure"
+    ],
+    "correctAnswer": "Wound left open and local wound care",
+    "explanation": {
+      "correct": "Contaminated abdominal surgery (peritonitis, pus): Skin should be left open for delayed primary closure or secondary healing to reduce SSI risk.",
+      "incorrect": [
+        {"option": "Staples", "reason": "Would risk abscess formation in contaminated wound."},
+        {"option": "Interrupted", "reason": "Still closes contaminated wound → infection risk."},
+        {"option": "Dermabond", "reason": "For clean wounds only."},
+        {"option": "Subcuticular", "reason": "For cosmetic closure in clean cases only."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_19",
+    "case": "A 68-year-old man is admitted to the hospital for pneumonia. During his stay, he develops a catheter-associated urinary tract infection (CAUT). Which of the following infection control strategies is most effective in preventing CAUTIS in hospitalized patients?",
+    "options": [
+      "Using antibiotic prophylaxis for all catheterized patients",
+      "Replacing urinary catheters every 24 hours",
+      "Ensuring proper hand hygiene before and after catheter manipulation",
+      "Administering routine antiseptic bladder irrigations",
+      "Prescribing broad-spectrum antibiotics routinely"
+    ],
+    "correctAnswer": "Ensuring proper hand hygiene before and after catheter manipulation",
+    "explanation": {
+      "correct": "Most CAUTI prevention: limit unnecessary catheterization + proper aseptic technique. Hand hygiene before/after handling catheter is the strongest preventive measure.",
+      "incorrect": [
+        {"option": "Prophylactic abx", "reason": "Not standard, promotes resistance."},
+        {"option": "Replace daily", "reason": "Not practical or needed; catheters replaced as indicated."},
+        {"option": "Irrigations", "reason": "Not routine, risk infection or trauma."},
+        {"option": "Broad-spectrum abx", "reason": "Not preventive; use based on cultures."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_20",
+    "case": "A man has the risks and potential benefits of his cholecystectomy (or inguinal hernia) explained to him. Which ethical principle is best described here?",
+    "options": [
+      "Gillick competence",
+      "Assent",
+      "Consent",
+      "Autonomy",
+      "Capacity"
+    ],
+    "correctAnswer": "Consent",
+    "explanation": {
+      "correct": "Patient informed of risks/benefits and agrees to procedure → this is informed consent.",
+      "incorrect": [
+        {"option": "Gillick competence", "reason": "Applies to minors’ capacity to consent."},
+        {"option": "Assent", "reason": "Agreement without full legal consent, usually by minors."},
+        {"option": "Autonomy", "reason": "Broad right to make own decisions, the operative principle is consent itself."},
+        {"option": "Capacity", "reason": "Ability to make decision, but here the act being performed is consent."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_21",
+    "case": "A 79-year-old man with metastatic colorectal cancer declines chemotherapy as he does not wish to suffer the side effects of treatment, even though he accepts the chemotherapy may prolong his life. Which of the ethical principles is best described in this question?",
+    "options": [
+      "Autonomy",
+      "Doctrine of double effect",
+      "Non-maleficence",
+      "Informed consent",
+      "Beneficence"
+    ],
+    "correctAnswer": "Autonomy",
+    "explanation": {
+      "correct": "The patient makes an informed decision to decline chemotherapy. This is exercising his **autonomy**—the right of competent patients to choose or refuse treatment.",
+      "incorrect": [
+        {"option": "Doctrine of double effect", "reason": "Applies when an intervention causes both good and harmful outcomes unintentionally (e.g., morphine causing respiratory depression)."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm is important but the principle here is patient’s right to choose."},
+        {"option": "Informed consent", "reason": "This is the process, but the principle illustrated is autonomy."},
+        {"option": "Beneficence", "reason": "Doing good for the patient; here he rejects therapy despite potential good."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_22",
+    "case": "A 55 years old woman with advanced metastatic breast cancer is receiving palliative care treatment. She has a subcutaneous morphine and midazolam infusion in situ, but despite this remains in considerable pain and distress. You prescribe a bolus dose of morphine to treat her pain, and she quickly suffers a respiratory arrest and dies. Which of the ethical principles is best described in this question?",
+    "options": [
+      "Non-maleficence",
+      "Doctrine of double effect",
+      "Informed consent",
+      "Beneficence",
+      "Autonomy"
+    ],
+    "correctAnswer": "Doctrine of double effect",
+    "explanation": {
+      "correct": "The morphine was given with the **intention** of relieving pain, not of hastening death. Death occurred as a foreseeable but unintended consequence. This is the **doctrine of double effect**.",
+      "incorrect": [
+        {"option": "Non-maleficence", "reason": "Avoiding harm is general, but here the harm was unintended."},
+        {"option": "Informed consent", "reason": "Consent not the key issue here."},
+        {"option": "Beneficence", "reason": "Doing good by giving analgesia, but the nuanced doctrine is more precise here."},
+        {"option": "Autonomy", "reason": "Patient’s choice not central in this case, more about physician’s action."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_23",
+    "case": "A 35-year-old pregnant woman from Nigeria was delivering her baby vaginally. The attending doctor decided to use forceps to deliver the baby as she is not pushing properly. Although communication is difficult, she expressed her request to stop the procedure. However, the doctor proceeded with the forceps delivery. Which of the following medical ethics principles best describes this action?",
+    "options": [
+      "Beneficence",
+      "Battery",
+      "Negligence",
+      "Non maleficence",
+      "Paternalism"
+    ],
+    "correctAnswer": "Battery",
+    "explanation": {
+      "correct": "When a competent patient refuses a procedure, proceeding without consent = **battery** (unlawful physical contact).",
+      "incorrect": [
+        {"option": "Beneficence", "reason": "Doctor claimed it’s in her best interest, but consent absence = overriding principle."},
+        {"option": "Negligence", "reason": "That’s a failure of duty of care, not performing action against will."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm is general, but the key here is lack of consent—i.e., battery."},
+        {"option": "Paternalism", "reason": "Doctor taking decision overriding patient wishes—close but legally the accurate description is battery."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_24",
+    "case": "A 59-year-old woman undergoes a laparotomy for a suspected ovarian cancer. Her family asks if you would disclose the results to them so they can explain better to her. Which of the following ethical principles should guide you to take your decision?",
+    "options": [
+      "Autonomy",
+      "Beneficence",
+      "Paternalism",
+      "Confidentiality",
+      "Fidelity"
+    ],
+    "correctAnswer": "Confidentiality",
+    "explanation": {
+      "correct": "Confidentiality dictates that medical information is disclosed **to the patient**, unless she explicitly consents otherwise. Family cannot trump this principle.",
+      "incorrect": [
+        {"option": "Autonomy", "reason": "Important, but confidentiality is more exact here."},
+        {"option": "Beneficence", "reason": "Acting in the patient’s interest, but here duty = confidentiality."},
+        {"option": "Paternalism", "reason": "Would be deciding to inform family against patient’s rights."},
+        {"option": "Fidelity", "reason": "Keeping promises; not the scenario here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_25",
+    "case": "A patient with a life-threatening postpartum hemorrhage requires immediate surgical exploration. However, the patient's family insists on seeking alternative treatments that are not supported by scientific evidence. What ethical principle should guide the physician's decision-making in this situation?",
+    "options": [
+      "Beneficence",
+      "Autonomy",
+      "Justice",
+      "Non- maleficence",
+      "Illegal"
+    ],
+    "correctAnswer": "Beneficence",
+    "explanation": {
+      "correct": "The family’s wishes don’t override urgent life-saving intervention. Beneficence (acting in patient’s best interests) directs physician to proceed with appropriate evidence-based care.",
+      "incorrect": [
+        {"option": "Autonomy", "reason": "Applies to patient’s own choices, not family’s in emergency if patient unable."},
+        {"option": "Justice", "reason": "Relates to fairness in distribution, not relevant here."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm always important—but the guiding principle here is active beneficence."},
+        {"option": "Illegal", "reason": "Not an ethical principle."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_26",
+    "case": "A 45-year-old woman was diagnosed as having breast cancer. Her oncologist discusses treatment options with her, including surgery, chemotherapy, and radiation therapy. The patient expresses her concerns about the potential side effects of chemotherapy and radiation, as well as the impact of treatment on her daily life and work. The doctor assures her that they will work together to make the best decision for her health. In this case, which principle of medical ethics is the doctor primarily addressing by involving the patient in the decision-making process?",
+    "options": [
+      "Beneficence",
+      "Non-maleficence",
+      "Justice",
+      "Veracity",
+      "Autonomy"
+    ],
+    "correctAnswer": "Autonomy",
+    "explanation": {
+      "correct": "By actively involving the patient in shared decision-making, the doctor is respecting her **autonomy**—the right to control her own treatment choices.",
+      "incorrect": [
+        {"option": "Beneficence", "reason": "Doing what benefits patients, but emphasis here is on shared autonomy."},
+        {"option": "Non-maleficence", "reason": "Avoiding harm, not the crux here."},
+        {"option": "Justice", "reason": "Distributive fairness not relevant here."},
+        {"option": "Veracity", "reason": "Truth-telling is related but here the main point is respecting her self-determination."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_27",
+    "case": "Before abdominal closure at the end of open splenectomy, the scrub nurse informed you of a missing abdominal towel. Recounting, thorough search in the room all failed to find the towel. You could not find the towel intra-abdominal and asked for intra-operative X-ray which did not show the radio-opaque marker thread. What is the proper action?",
+    "options": [
+      "Call one of the relatives outside the OR, and notify him before closure",
+      "Close the abdomen and notify the legal authorities.",
+      "Close the abdomen and do not notify the incident.",
+      "Call the hospital manager before closure and notify the patient postoperative.",
+      "Notify the OR head nurse, keep a copy of the X-ray, close with incident report"
+    ],
+    "correctAnswer": "Notify the OR head nurse, keep a copy of the X-ray, close with incident report",
+    "explanation": {
+      "correct": "Proper step: document the incident, notify OR head nurse, keep imaging proof, file incident report. Transparency ensures safety without unnecessary distress when towel not inside.",
+      "incorrect": [
+        {"option": "Notify family intra-op", "reason": "Patient’s relatives not required at this stage intra-op."},
+        {"option": "Notify legal authorities immediately", "reason": "Not indicated when item absent and documented appropriately."},
+        {"option": "Not notify", "reason": "Lack of reporting is unethical and unsafe practice."},
+        {"option": "Hospital manager", "reason": "Management escalation not required intra-op, head nurse + incident report adequate."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_28",
+    "case": "A nurse is preparing to enter a patient's room with airborne precautions. Which personal protective equipment (PPE) should be worn when caring for a patient with suspected tuberculosis (TB)?",
+    "options": [
+      "Surgical mask",
+      "N95 mask (respirator)",
+      "Gown and gloves",
+      "Face shield",
+      "Eye goggles"
+    ],
+    "correctAnswer": "N95 mask (respirator)",
+    "explanation": {
+      "correct": "TB is spread via airborne particulates <5 microns → requires fit-tested N95 (or FFP2/FFP3 equivalent). Surgical masks are insufficient.",
+      "incorrect": [
+        {"option": "Surgical mask", "reason": "Protects against droplets, not airborne TB."},
+        {"option": "Gown/gloves", "reason": "Contact precautions, not enough for TB."},
+        {"option": "Face shield", "reason": "Protects against splashes not airborne."},
+        {"option": "Eye goggles", "reason": "Not a transmission route priority here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_29",
+    "case": "A medication error occurs in a hospital setting, and the nurse realizes the wrong dosage was administered to a patient. What is the most appropriate immediate action by the nurse?",
+    "options": [
+      "Document the error in the patient's chart and inform the attending physician",
+      "inform the patient about the error and apologize",
+      "Report the error to the hospital’s risk management department",
+      "Ignore the error and observe the patient for any adverse effects",
+      "Discuss the error with colleagues avoid reporting it officially"
+    ],
+    "correctAnswer": "Document the error in the patient's chart and inform the attending physician",
+    "explanation": {
+      "correct": "First duty is patient safety → document the error promptly, inform physician for corrective steps, then report through institutional channels.",
+      "incorrect": [
+        {"option": "Inform patient only", "reason": "Transparency is essential later, but immediate clinical management is priority."},
+        {"option": "Report only to risk mgmt", "reason": "Must also directly document and notify treating physician."},
+        {"option": "Ignore", "reason": "Unethical, unsafe."},
+        {"option": "Discuss w/ colleagues", "reason": "Not adequate; official documentation mandatory."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_30",
+    "case": "A nurse is working in a hospital's intensive care unit where a patient has been diagnosed with methicillin-resistant Staphylococcus aureus infection. Which of the following is the most appropriate infection control measure to prevent the spread of MRSA in the ICU?",
+    "options": [
+      "Increasing the room temperature to reduce humidity levels.",
+      "Encouraging visitors to wear gloves and masks when entering the patient's room.",
+      "Discontinuing the use of alcohol-based hand sanitizers.",
+      "Decreasing the frequency of surface cleaning in the patient’s room",
+      "Implementing contact precautions, including gowns and gloves for all staff entering the patient's room"
+    ],
+    "correctAnswer": "Implementing contact precautions, including gowns and gloves for all staff entering the patient's room",
+    "explanation": {
+      "correct": "Best practice for MRSA: **contact precautions** in addition to hand hygiene. All healthcare staff must use gowns + gloves on entry to patient’s room.",
+      "incorrect": [
+        {"option": "Increase room temp", "reason": "Not effective for infection control."},
+        {"option": "Visitors PPE", "reason": "Helpful but core strategy is staff universal use of precautions."},
+        {"option": "Stop alcohol rub", "reason": "Alcohol rub remains effective for MRSA (unlike C.diff)."},
+        {"option": "Less cleaning", "reason": "Opposite—needs strict surface cleaning."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_31",
+    "case": "A patient undergoes a cosmetic procedure performed by a licensed plastic surgeon. Following the procedure, the patient develops an infection due to unsanitary conditions in the operating room. Which legal concept is most likely to apply in a lawsuit against the surgeon?",
+    "options": [
+      "Negligence",
+      "Malpractice",
+      "Informed consent",
+      "Res ipso loquitur",
+      "Duty of care"
+    ],
+    "correctAnswer": "Malpractice",
+    "explanation": {
+      "correct": "Medical malpractice = when a healthcare provider breaches the standard of care, directly causing harm to the patient. Here, unsanitary OR conditions violate the duty of care, leading to infection.",
+      "incorrect": [
+        {"option": "Negligence", "reason": "General failure to exercise reasonable care, but in a medical context malpractice is the precise term."},
+        {"option": "Informed consent", "reason": "Concerned with explaining risks, not unsanitary practice."},
+        {"option": "Res ipsa loquitur", "reason": "Means 'the thing speaks for itself', a legal doctrine—but the core concept here is malpractice."},
+        {"option": "Duty of care", "reason": "Duty of care exists, but here it was breached → malpractice."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_32",
+    "case": "During a training session for medical staff, a lecturer emphasizes the importance of maintaining patient confidentiality. What does ‘confidentiality’ mean in the context of patient-doctor relationships?",
+    "options": [
+      "Sharing patient information with friends and family",
+      "Keeping patient information private and secure",
+      "Releasing patient information to the media",
+      "Only disclosing information to insurance companies",
+      "Publishing patient information without consent"
+    ],
+    "correctAnswer": "Keeping patient information private and secure",
+    "explanation": {
+      "correct": "Confidentiality = maintaining privacy of information disclosed in healthcare. Breach only allowed in specific circumstances (with patient’s consent or if harm may occur to others).",
+      "incorrect": [
+        {"option": "Sharing info with family", "reason": "Only with patient consent."},
+        {"option": "Releasing to media", "reason": "Unethical and illegal without consent."},
+        {"option": "Only disclose to insurance", "reason": "Not absolute—disclosure is guided by laws and consent."},
+        {"option": "Publishing data", "reason": "Requires consent or anonymization."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_33",
+    "case": "Which one of the following attitudes are accepted in Physician-physician relationship?",
+    "options": [
+      "receiving fees for patient referral",
+      "taking commission from lab",
+      "taking patients from colleagues",
+      "treating colleagues with reduced fees",
+      "treating colleagues without fees"
+    ],
+    "correctAnswer": "treating colleagues with reduced fees",
+    "explanation": {
+      "correct": "Professional courtesy includes reducing or waiving fees for colleagues. Taking commissions or poaching patients is unethical. Free treatment is a choice but not an expected standard.",
+      "incorrect": [
+        {"option": "Referral fee", "reason": "Unethical; conflicts of interest."},
+        {"option": "Lab commission", "reason": "Unethical practice (kickbacks)."},
+        {"option": "Taking patients", "reason": "Unprofessional and undermining trust."},
+        {"option": "No fees at all", "reason": "Possible, but the ethical norm accepted is reduced fees (not forced free care)."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_34",
+    "case": "A 62-year-old man had a biopsy of colonic mass showing adenocarcinoma. His family begs you not to tell his father because the knowledge would kill him even faster. A family meeting to discuss the prognosis is already scheduled. What is the best way for the doctor to handle this situation?",
+    "options": [
+      "The doctor should honor the request of the family member who is protecting his beloved father from the bad news",
+      "The doctor should tell the son that withholding information is not permitted under any circumstance.",
+      "The doctor should withhold informing the patient about the seriousness of the adenocarcinoma because of the grave diagnosis and inform the family.",
+      "The doctor should ask the patient how he wants to handle the information in front of the rest of the family.",
+      "The doctor should understand that the patient has the right to know all the details and worst scenario and inform him"
+    ],
+    "correctAnswer": "The doctor should ask the patient how he wants to handle the information in front of the rest of the family.",
+    "explanation": {
+      "correct": "Respect for autonomy + truth telling: the patient should decide how much he wants to know and whether he wants family present. Asking the patient directly respects his rights while balancing sensitivity.",
+      "incorrect": [
+        {"option": "Honor family request", "reason": "Family cannot override patient’s right to know."},
+        {"option": "Never withhold", "reason": "Must be nuanced—depends on patient’s preferences."},
+        {"option": "Inform family only", "reason": "Violates confidentiality and autonomy."},
+        {"option": "Patient must know worst case", "reason": "Not all patients want full detail; must be based on their wishes."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_35",
+    "case": "Which of the following is against Hospital safety goals?",
+    "options": [
+      "Discard medication or solution found unlabeled",
+      "Label each medication or solution as soon as it is prepared, unless it is immediately administered",
+      "Labeled medication containers should include only the name of the drug and its strength",
+      "Medications not used should be labeled.",
+      "Discard all labeled containers at the end of the procedures."
+    ],
+    "correctAnswer": "Labeled medication containers should include only the name of the drug and its strength",
+    "explanation": {
+      "correct": "Safe practice requires labeling with drug name, strength, **and additional details** (e.g. concentration, date, initials). Limiting to name + strength alone is unsafe.",
+      "incorrect": [
+        {"option": "Discard unlabeled", "reason": "Correct action."},
+        {"option": "Label immediately", "reason": "Correct and important standard."},
+        {"option": "Label unused drugs", "reason": "Correct to avoid confusion later."},
+        {"option": "Discard containers at end", "reason": "Correct for infection control."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_36",
+    "case": "A patient slips and falls in a hospital corridor. What is the primary action to enhance safety in this situation?",
+    "options": [
+      "Increase railing in the corridors",
+      "Implement non-slip flooring",
+      "Install warning signs in the area",
+      "Conduct a root cause analysis",
+      "Increase patient education on walking solely"
+    ],
+    "correctAnswer": "Implement non-slip flooring",
+    "explanation": {
+      "correct": "Falls prevention begins with environmental modifications. Non-slip flooring directly reduces risk. Other strategies are supportive but not as primary.",
+      "incorrect": [
+        {"option": "Increase railing", "reason": "Helpful but non-slip surface is more critical."},
+        {"option": "Warning signs", "reason": "Signs alone don’t prevent accident without correcting hazard."},
+        {"option": "Root cause analysis", "reason": "Done after events, not primary prevention."},
+        {"option": "Patient education", "reason": "Important but environmental fix takes priority."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_37",
+    "case": "A 16-year-old girl comes with her mother to the General practitioner as she has some menstrual irregularities. She looks uncomfortable and does not make eye contact with the doctor. Which is the most appropriate way the doctor can start the discussion?",
+    "options": [
+      "tells her that there is no need to be tense",
+      "say nothing at all, as the girl should speak first",
+      "ask her to look at him and talk",
+      "ask a general question, about how he can help her",
+      "start speaking about the problem based on a previous discussion with her mother"
+    ],
+    "correctAnswer": "ask a general question, about how he can help her",
+    "explanation": {
+      "correct": "Best approach with adolescents in sensitive consultations: open, general question invites her to share comfortably, respects confidentiality and autonomy.",
+      "incorrect": [
+        {"option": "Tell no need to be tense", "reason": "Dismissive, doesn’t open dialogue."},
+        {"option": "Say nothing", "reason": "Awkward, may increase discomfort."},
+        {"option": "Ask her to look at him", "reason": "Forcing eye contact may worsen discomfort."},
+        {"option": "Speak based on mother", "reason": "Violates confidentiality and may embarrass patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_38",
+    "case": "Dr. Mohamed works as a general practitioner in a small town where everyone knows each other. One day, a teenage patient, Mona, comes to see Dr. Mohamed for a confidential consultation regarding a potential sexually transmitted infection. Mona requests that Dr. Mohamed keeps this information strictly confidential as she does not want her parents to find out. However, Dr Mohamed is aware that Mona's parents are close friends with his own family, and he worries about the potential consequences of withholding such information. Which of the following should he do?",
+    "options": [
+      "Respects Mona's confidentiality and reassures her that her information will not be shared without her consent",
+      "Explains to Mona the potential risks of keeping her condition confidential and encourages her to describe the information to her parents.",
+      "Seeks guidance from a colleague or supervisor on how to handle the situation while maintaining patient confidentiality",
+      "Informs Mona's parents about her condition, citing potential risks to her health if the information is kept secret",
+      "Contacts Mona's school counselor or another trusted adult to intervene and ensures she receives appropriate care without breaching confidentiality"
+    ],
+    "correctAnswer": "Respects Mona's confidentiality and reassures her that her information will not be shared without her consent",
+    "explanation": {
+      "correct": "Confidentiality is central—even with minors, unless there is risk of abuse or harm to self/others. Here, respecting her confidentiality is ethically correct, ensuring trust so she seeks care.",
+      "incorrect": [
+        {"option": "Encourage telling parents", "reason": "May be encouraged, but not forced, confidentiality remains preserved."},
+        {"option": "Seek supervisor advice", "reason": "Possible, but strict confidentiality is still the answer—unless safety concerns."},
+        {"option": "Inform parents", "reason": "Would break confidentiality unjustifiably."},
+        {"option": "School counselor", "reason": "Sharing info outside care team is a breach of confidentiality."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_39",
+    "case": "A 65-year-old man is to undergo an elective sigmoid colectomy for malignancy. However, during the clinic consultation he refuses blood products despite the risk of potentially requiring a post-operative blood transfusion because he is a Jehovah’s Witness. His wife thinks that he should have a blood transfusion if he needs it. Which of the following is the most appropriate course of action?",
+    "options": [
+      "Obtain a court order",
+      "Obtain under the Mental Health Act",
+      "Respect the next of kin request",
+      "Respect the patient’s refusal for treatment",
+      "Withhold treatment until they change their view"
+    ],
+    "correctAnswer": "Respect the patient’s refusal for treatment",
+    "explanation": {
+      "correct": "Patient is competent and has capacity. His autonomous refusal of blood transfusion must be respected, even if family disagrees.",
+      "incorrect": [
+        {"option": "Court order", "reason": "Not appropriate—patient decision is paramount when competent."},
+        {"option": "Mental Health Act", "reason": "No mental illness present."},
+        {"option": "Respect wife request", "reason": "Next of kin cannot override competent patient’s wishes."},
+        {"option": "Withhold surgery", "reason": "Not appropriate—consent/refusal is patient’s right."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_40",
+    "case": "A 60 year-old heavy smoker man presented with hemoptysis for one month. CT showed bronchogenic carcinoma with liver metastases. The diagnosis was confirmed by bronchoscopic biopsy. To whom should you explain the situation and prognosis?",
+    "options": [
+      "Brother",
+      "Daughter",
+      "Son",
+      "Patient himself",
+      "Wife"
+    ],
+    "correctAnswer": "Patient himself",
+    "explanation": {
+      "correct": "Ethically and legally, the duty is to disclose diagnosis and prognosis directly to the competent patient, unless he explicitly authorizes disclosure to family. Confidentiality and autonomy demand it.",
+      "incorrect": [
+        {"option": "Brother, daughter, son, wife", "reason": "Family may support, but unless patient consents, information is for him first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_41",
+    "case": "You are a second-year surgery resident and have just left work after a 30-hour shift. On your way home, you witness a recent collision where there is an obviously injured man. Several bystanders are providing care for the injured victim. You elect to keep driving a witness at the scene recognizes you as a physician and reports you to the authorities for neglecting to stop to provide care. As a consequence of your actions. Which of the following will most likely happen?",
+    "options": [
+      "You will lose your medical license.",
+      "You will be found guilty of negligence in a court of law.",
+      "You will have your medical license suspended.",
+      "You will have no legal action taken against you",
+      "You will be subject to a malpractice suit."
+    ],
+    "correctAnswer": "You will have no legal action taken against you",
+    "explanation": {
+      "correct": "In most jurisdictions, there is no legal duty for off-duty doctors to stop at accidents (except in specific 'Good Samaritan' laws). Ethically, helping is encouraged, but legally there are no penalties for not intervening when off duty.",
+      "incorrect": [
+        {"option": "Lose license", "reason": "Not correct—can’t lose license for off-duty non-action."},
+        {"option": "Negligence guilty", "reason": "Negligence requires an established duty of care—not in off-duty, non-patient case."},
+        {"option": "License suspended", "reason": "Not applicable."},
+        {"option": "Malpractice suit", "reason": "Malpractice only applies after doctor–patient relationship was established."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_42",
+    "case": "When a professional secret may be disclosed?",
+    "options": [
+      "if the court asks for it",
+      "if the patient died",
+      "if the patient's brother asked for it",
+      "if the patient is in coma",
+      "if the physician is accused by patient's family"
+    ],
+    "correctAnswer": "if the court asks for it",
+    "explanation": {
+      "correct": "Professional confidentiality is strict, but exceptions exist: legal obligations (court orders, public health reporting). Death, coma, or family request do not automatically remove confidentiality duty.",
+      "incorrect": [
+        {"option": "If patient died", "reason": "Confidentiality extends even after death, unless legal requirement."},
+        {"option": "Brother asked", "reason": "Relatives have no right without consent."},
+        {"option": "Patient in coma", "reason": "Still confidential unless legally justified."},
+        {"option": "Physician accused", "reason": "Needs legal process, not family request."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_43",
+    "case": "You are conducting a clinic visit with a 54-year-old man with hypertension. He made the appointment earlier this morning because he began feeling short of breath. As you enter the room, you note that he is sitting forward and breathing heavily. Given this scenario, what interviewing technique is the most patient-centered?",
+    "options": [
+      "Use open-ended questions to allow the patient to tell his story.",
+      "Direct the interview using closed questions related to his reason for this visit.",
+      "Elicit the broader personal/psychosocial context of the symptoms.",
+      "Ask the patient about his beliefs regarding Eastern versus Western treatment options",
+      "Start by obtaining a list of all issues that the patient wants to discuss during this visit"
+    ],
+    "correctAnswer": "Use open-ended questions to allow the patient to tell his story.",
+    "explanation": {
+      "correct": "Patient is in visible distress. The most compassionate and effective approach is to use an **open-ended inviting question** ('Tell me what's going on?') to let patient lead and ventilate. This establishes rapport and recognizes urgency.",
+      "incorrect": [
+        {"option": "Closed questions", "reason": "Might miss broader context in initial moments."},
+        {"option": "Broader psychosocial", "reason": "Important, but first must address immediate clinical complaint."},
+        {"option": "Eastern vs Western beliefs", "reason": "Inappropriate at acute distress stage."},
+        {"option": "Make a long issues list", "reason": "Useful at routine visits, not acute breathlessness scenario."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_44",
+    "case": "A 30-year-old woman is admitted with a massive post-partum hemorrhage. She is shocked and confused. Her husband informs you they are both Jehovah’s Witnesses and will not accept blood transfusions even in life-saving circumstances. He produces a signed and witnessed document confirming her refusal of blood products. Which of the following is the most suitable course of action?",
+    "options": [
+      "Follow patient’s advanced directive",
+      "Proceed under presumed consent",
+      "Written consent",
+      "Treat in patient’s best interests",
+      "Court order"
+    ],
+    "correctAnswer": "Follow patient’s advanced directive",
+    "explanation": {
+      "correct": "Valid signed advance directive = legally binding. Even in life-threatening emergencies, autonomy and directive must be respected.",
+      "incorrect": [
+        {"option": "Presumed consent", "reason": "Not valid when a documented refusal exists."},
+        {"option": "Written consent", "reason": "Not needed here, an advance directive is already written."},
+        {"option": "Best interests", "reason": "Best interests don’t override competent refusal with documented directive."},
+        {"option": "Court order", "reason": "Not appropriate if directive is clear and lawful."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_45",
+    "case": "A healthcare organization is implementing a new electronic health record (EHR) system to improve patient care and operational efficiency. During the implementation phase, the staff reports issues with accessing patient information quickly, leading to delays in care. Which of the following is the best course of action to address this issue?",
+    "options": [
+      "Increasing the training provided to the healthcare staff",
+      "Delaying the implementation of the EHR system further",
+      "Reverting to the previous paper-based system permanently",
+      "Adding more staff to support the transition to the EHR system",
+      "Collecting feedback to optimize the EHR system configuration"
+    ],
+    "correctAnswer": "Collecting feedback to optimize the EHR system configuration",
+    "explanation": {
+      "correct": "EHR implementation challenges must be directly addressed via iterative optimization based on user feedback. This ensures long-term efficiency while preserving staff investment in change.",
+      "incorrect": [
+        {"option": "Extra training", "reason": "Helps, but core problem is configuration issues, not staff skill only."},
+        {"option": "Delaying implementation", "reason": "Causes confusion, not efficiency."},
+        {"option": "Reverting to paper", "reason": "Loses benefits, not rational."},
+        {"option": "Add more staff", "reason": "Temporary fix, doesn’t tackle systemic problem."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_46",
+    "case": "A patient with a terminal illness refuses life-saving treatment despite being mentally competent. What should the healthcare team do?",
+    "options": [
+      "Proceed with treatment against the patient's wishes",
+      "Seek a court order to administer treatment",
+      "Respect the patient’s autonomy and honor their decision",
+      "Convince the patient's family to overrule the decision",
+      "Transfer the patient to another facility for treatment"
+    ],
+    "correctAnswer": "Respect the patient’s autonomy and honor their decision",
+    "explanation": {
+      "correct": "Competent adult refusal of treatment must always be respected, even if refusal is life-threatening. This is autonomy principle.",
+      "incorrect": [
+        {"option": "Proceed anyway", "reason": "Violation of autonomy = battery."},
+        {"option": "Court order", "reason": "Not required if patient competent and decision clear."},
+        {"option": "Convince family", "reason": "Family cannot override patient wishes."},
+        {"option": "Transfer facility", "reason": "Still overrides autonomy, not acceptable."}
+      ]
+    }
+  },
+  {
+    "CaseID": "ethics_47",
+    "case": "A 37-year-old woman has been scheduled for an elective caesarean section. She is not diabetic and of average BMI. Doctors are discussing the operation steps in order to reduce wound infection. Which of the following should be recommended?",
+    "options": [
+      "Using diathermy for surgical incision",
+      "Using separate surgical knives to incise the skin and the deeper tissues",
+      "Offering prophylactic antibiotics before skin incision",
+      "Using intraoperative wound irrigation",
+      "Using superficial wound drains"
+    ],
+    "correctAnswer": "Offering prophylactic antibiotics before skin incision",
+    "explanation": {
+      "correct": "Best evidence for reducing surgical site infection in cesarean section = IV prophylactic antibiotics given **before** skin incision.",
+      "incorrect": [
+        {"option": "Diathermy incision", "reason": "May be used, but not main infection prevention strategy."},
+        {"option": "Separate knives", "reason": "Not shown to substantially reduce SSI."},
+        {"option": "Irrigation", "reason": "Not routinely helpful unless contamination high."},
+        {"option": "Wound drains", "reason": "Unnecessary in clean elective cesarean."}
+      ]
+    }
+  }
+]

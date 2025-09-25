@@ -1,0 +1,2664 @@
+[
+  {
+    "CaseID": "obgyn_1",
+    "case": "A 30-year-old woman with an intrauterine device (IUD) presented to the hospital with severe lower abdominal pain. Ultrasound reveals fluid in the Douglas pouch and the IUD in place. What is the next step in management?",
+    "options": [
+      "Bed rest",
+      "Antibiotics",
+      "Analgesics",
+      "Remove IUD and give antibiotics",
+      "Assurance"
+    ],
+    "correctAnswer": "Remove IUD and give antibiotics",
+    "explanation": {
+      "correct": "An IUD with acute pelvic pain and free fluid in the Douglas pouch suggests pelvic inflammatory disease or even perforation with pelvic sepsis. The IUD is a foreign body that perpetuates infection, so it must be removed. Broad-spectrum antibiotics are then given to treat the infection effectively.",
+      "incorrect": [
+        {"option": "Bed rest", "reason": "Rest alone cannot resolve active infection."},
+        {"option": "Antibiotics", "reason": "Antibiotics only, without IUD removal, would fail because the IUD is the ongoing source of infection."},
+        {"option": "Analgesics", "reason": "Painkillers reduce symptoms but do not address the underlying infection."},
+        {"option": "Assurance", "reason": "Simply reassuring the patient ignores the serious risk of abscess formation and sepsis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_2",
+    "case": "A 28-year-old pregnant woman at 22 weeks gestation was discovered to have asymptomatic bacteriuria. What is the appropriate management?",
+    "options": [
+      "Expectant management",
+      "Induction of labor",
+      "Antibiotics",
+      "Diuretics",
+      "Intravenous hydration"
+    ],
+    "correctAnswer": "Antibiotics",
+    "explanation": {
+      "correct": "Asymptomatic bacteriuria in pregnancy must always be treated because it carries a high risk of developing into acute pyelonephritis due to urinary stasis in pregnancy. Safe antibiotics such as amoxicillin, nitrofurantoin, or cephalexin are used.",
+      "incorrect": [
+        {"option": "Expectant management", "reason": "Observation alone risks progression to pyelonephritis."},
+        {"option": "Induction of labor", "reason": "No indication to terminate pregnancy at 22 weeks."},
+        {"option": "Diuretics", "reason": "Do not treat infection and may worsen hydration status."},
+        {"option": "Intravenous hydration", "reason": "Hydration alone does not eradicate bacteria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_3",
+    "case": "A 16-year-old primigravida at term, not in labor, presented to the emergency room with sudden onset continuous lower abdominal pain. Examination revealed rapid pulse, absent fetal heart tones, hypotension, and a tender hard uterus. What is the most likely diagnosis?",
+    "options": [
+      "Abruptio placentae",
+      "High spinal block",
+      "Amniotic fluid embolism",
+      "Cardiac failure",
+      "Supine hypotensive syndrome"
+    ],
+    "correctAnswer": "Abruptio placentae",
+    "explanation": {
+      "correct": "Painful antepartum hemorrhage with rigid, tender uterus, hemodynamic instability, and absent fetal heart sounds is classic for massive concealed placental abruption.",
+      "incorrect": [
+        {"option": "High spinal block", "reason": "Occurs after regional anesthesia with respiratory compromise, not rigid uterus."},
+        {"option": "Amniotic fluid embolism", "reason": "Characterized by sudden cardiopulmonary collapse and DIC, not hard uterus."},
+        {"option": "Cardiac failure", "reason": "Would cause dyspnea and pulmonary edema, not uterine rigidity."},
+        {"option": "Supine hypotensive syndrome", "reason": "Relieved by position change, does not cause hard tender uterus or absent FHS."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_4",
+    "case": "A 32-year-old infertile woman has a long history of irregular cycles, obesity, hirsutism, and acne. What is the first laboratory investigation?",
+    "options": [
+      "Testosterone and DHEAS",
+      "TSH and prolactin",
+      "17 hydroxy-progesterone",
+      "All of the four options",
+      "Pelvic and abdominal ultrasound"
+    ],
+    "correctAnswer": "TSH and prolactin",
+    "explanation": {
+      "correct": "In suspected polycystic ovarian syndrome (PCOS), the first step is to exclude other endocrine causes of anovulation such as hypothyroidism or hyperprolactinemia with TSH and prolactin tests.",
+      "incorrect": [
+        {"option": "Testosterone and DHEAS", "reason": "Checked if androgen-secreting tumors are suspected, not the initial step."},
+        {"option": "17 hydroxy-progesterone", "reason": "Used for congenital adrenal hyperplasia evaluation, not first line here."},
+        {"option": "All of the four options", "reason": "Not appropriate to order all tests at once without prioritization."},
+        {"option": "Pelvic and abdominal ultrasound", "reason": "Helpful for PCOS diagnosis but not the first investigation—other endocrine causes should be excluded first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_5",
+    "case": "A 34-year-old primigravida at 28 weeks presented with vaginal discharge diagnosed as vaginal candidiasis, unsuccessfully treated with local antifungals. Urinalysis showed pyuria and glucosuria, and ultrasound showed amniotic fluid index of 23. What is the next step?",
+    "options": [
+      "Repeat local antifungal treatment",
+      "Systemic antifungal treatment",
+      "Request a glucose tolerance test",
+      "Termination of pregnancy",
+      "Next prenatal visit after 2 weeks"
+    ],
+    "correctAnswer": "Request a glucose tolerance test",
+    "explanation": {
+      "correct": "Recurrent vaginal candidiasis with glucosuria and polyhydramnios strongly suggests gestational diabetes. The next step is to perform a glucose tolerance test to confirm the diagnosis.",
+      "incorrect": [
+        {"option": "Repeat local antifungal treatment", "reason": "Fails to address underlying diabetes as the cause of recurrent infection."},
+        {"option": "Systemic antifungal treatment", "reason": "Potentially unsafe in pregnancy and misses diabetes diagnosis."},
+        {"option": "Termination of pregnancy", "reason": "Not indicated—gestational diabetes is manageable with diet/insulin."},
+        {"option": "Next prenatal visit after 2 weeks", "reason": "Delays diagnosis and risks maternal-fetal complications."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_6",
+    "case": "A woman presented 5 days after delivery with a painful swollen left leg, leukocytosis, and low grade fever. What is the most appropriate immediate management before diagnosis of DVT is confirmed?",
+    "options": [
+      "Warfarin oral treatment",
+      "Prophylactic heparin",
+      "Diosmin tablets",
+      "Low dose aspirin tablets",
+      "Therapeutic heparin"
+    ],
+    "correctAnswer": "Therapeutic heparin",
+    "explanation": {
+      "correct": "In a postpartum woman with suspected DVT, immediate therapeutic anticoagulation with heparin should be started before waiting for confirmatory imaging. The risk of pulmonary embolism is too high to delay treatment.",
+      "incorrect": [
+        {"option": "Warfarin oral treatment", "reason": "Warfarin is contraindicated initially postpartum and during breastfeeding."},
+        {"option": "Prophylactic heparin", "reason": "Prophylaxis is insufficient; therapeutic dosing is required with strong clinical suspicion."},
+        {"option": "Diosmin tablets", "reason": "These are venotonic agents and not appropriate for treating acute DVT."},
+        {"option": "Low dose aspirin tablets", "reason": "Aspirin is effective for arterial clots, not venous thromboembolism."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_7",
+    "case": "A 25-year-old pregnant woman came for her first antenatal visit at 6 weeks gestation. She was clinically free with satisfactory laboratory tests. Which routine supplements are appropriate for all pregnancies?",
+    "options": [
+      "Pregnancy multivitamin formula",
+      "Iron supplements only",
+      "Folic acid and vitamin D",
+      "Daily calcium tablets",
+      "Iron and folic acid"
+    ],
+    "correctAnswer": "Iron and folic acid",
+    "explanation": {
+      "correct": "Universal supplementation in pregnancy is with iron and folic acid. Iron prevents maternal anemia and folic acid prevents neural tube defects. This is the standard recommendation worldwide.",
+      "incorrect": [
+        {"option": "Pregnancy multivitamin formula", "reason": "Not mandatory for pregnancies with normal nutrition."},
+        {"option": "Iron supplements only", "reason": "Folic acid is also required, not iron alone."},
+        {"option": "Folic acid and vitamin D", "reason": "Vitamin D is useful in selected risk groups but not routine everywhere."},
+        {"option": "Daily calcium tablets", "reason": "Given to women at high risk of preeclampsia, not universally required."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_8",
+    "case": "A 27-year-old primigravida came for her first antenatal visit at 6 weeks gestation. Her antenatal care was otherwise unremarkable. Which supplement should be routinely given?",
+    "options": [
+      "Iron",
+      "Iron and folic acid",
+      "Pregnancy multivitamin",
+      "Calcium",
+      "Vitamin C"
+    ],
+    "correctAnswer": "Iron and folic acid",
+    "explanation": {
+      "correct": "Pregnant women should routinely receive both iron and folic acid supplementation. This combination addresses two critical maternal-fetal needs: anemia prevention and neural tube defect prevention.",
+      "incorrect": [
+        {"option": "Iron", "reason": "Iron alone is insufficient; folic acid must be included."},
+        {"option": "Pregnancy multivitamin", "reason": "Multivitamins are not routine, they are selective."},
+        {"option": "Calcium", "reason": "Calcium is recommended selectively for preeclampsia risk, not routine."},
+        {"option": "Vitamin C", "reason": "Not a required supplement in normal pregnancy if diet is adequate."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_9",
+    "case": "A woman with two eclamptic fits at home was examined. Her blood pressure was 180/110, with marked edema and heavy proteinuria. No fetal cardiac pulsations were detected by ultrasound. What is the appropriate management?",
+    "options": [
+      "Conserve until spontaneous expulsion of the dead fetus",
+      "No need to control fits or hypertension as the baby is dead",
+      "Immediate termination of pregnancy",
+      "Anticonvulsant and antihypertensive drugs for 24 hours",
+      "Stabilization then termination after 1-2 hours"
+    ],
+    "correctAnswer": "Stabilization then termination after 1-2 hours",
+    "explanation": {
+      "correct": "In severe preeclampsia/eclampsia, maternal stabilization is always first with antihypertensive and magnesium sulfate. Once stable, termination is indicated because the fetus is dead and continuing pregnancy worsens maternal risk.",
+      "incorrect": [
+        {"option": "Conserve until spontaneous expulsion", "reason": "Dangerous for maternal health; hypertension and seizures must be addressed."},
+        {"option": "No need to control fits or hypertension", "reason": "Incorrect—maternal safety is still priority regardless of fetal outcome."},
+        {"option": "Immediate termination of pregnancy", "reason": "Termination should not be attempted before stabilization, otherwise risk of maternal death increases."},
+        {"option": "Anticonvulsant and antihypertensive drugs for 24 hours", "reason": "Stabilization is acute, not to wait 24 hours before termination."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_10",
+    "case": "A 40-year-old mother gave birth at home to a baby with Down syndrome. The general practitioner explained that no associated abnormality was obvious but that screening for hidden anomalies was required. What is the first investigation most likely requested?",
+    "options": [
+      "Echocardiography",
+      "Renal ultrasound",
+      "Chest X ray",
+      "Barium meal",
+      "Head ultrasound"
+    ],
+    "correctAnswer": "Echocardiography",
+    "explanation": {
+      "correct": "Congenital heart disease is the most common major associated anomaly in Down syndrome. Echocardiography is performed to screen for congenital cardiac abnormalities such as AV septal defects.",
+      "incorrect": [
+        {"option": "Renal ultrasound", "reason": "Renal anomalies are less common and not the first priority in Down syndrome."},
+        {"option": "Chest X ray", "reason": "Not specific screening in Down syndrome infants."},
+        {"option": "Barium meal", "reason": "Used for GI obstruction but not first-line screening in asymptomatic neonates."},
+        {"option": "Head ultrasound", "reason": "Not a priority unless neurologic symptoms present."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_11",
+    "case": "A 34-year-old primigravida at 34 weeks presented with blood pressure 170/100, headache, epigastric pain, visual disturbances and 3+ proteinuria. The biophysical profile of the fetus is 8/8. What is the immediate response?",
+    "options": [
+      "Give betamethasone to induce fetal lung maturity",
+      "Repeat the biophysical profile daily",
+      "Start antihypertensives",
+      "Perform amniocentesis for lung maturity",
+      "Emergent termination"
+    ],
+    "correctAnswer": "Start antihypertensives",
+    "explanation": {
+      "correct": "This is severe preeclampsia. Immediate stabilization with antihypertensive drugs is required to reduce maternal risk. Delivery is eventually indicated, but antihypertensives are the first step when the fetus is reassuring (BPP 8/8).",
+      "incorrect": [
+        {"option": "Give betamethasone", "reason": "Steroids can be given, but the critical first step is maternal stabilization with antihypertensives."},
+        {"option": "Repeat the biophysical profile daily", "reason": "This delays urgent maternal treatment."},
+        {"option": "Perform amniocentesis", "reason": "Unnecessary and unsafe in severe preeclampsia."},
+        {"option": "Emergent termination", "reason": "Delivery is required eventually, but only after stabilization."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_12",
+    "case": "A 32-year-old primigravida at 35 weeks presented with blood pressure 170/100, headache, epigastric pain, visual abnormalities, and 3+ proteinuria. Biophysical profile was 10/10. What is the immediate step?",
+    "options": [
+      "Start antihypertensives",
+      "Start magnesium sulfate",
+      "Give betamethasone",
+      "Perform amniocentesis",
+      "Repeat daily BPP"
+    ],
+    "correctAnswer": "Start magnesium sulfate",
+    "explanation": {
+      "correct": "Severe preeclampsia with imminent risk of eclampsia requires seizure prophylaxis with magnesium sulfate as the immediate step. Antihypertensives are also required, but seizure prevention is prioritized here.",
+      "incorrect": [
+        {"option": "Start antihypertensives", "reason": "Needed but magnesium sulfate is prioritized due to immediate seizure risk."},
+        {"option": "Give betamethasone", "reason": "Not first step since fetus already has reassuring BPP; maternal stabilization is priority."},
+        {"option": "Perform amniocentesis", "reason": "Dangerous and unnecessary."},
+        {"option": "Repeat daily BPP", "reason": "Delays urgent management for maternal stabilization."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_13",
+    "case": "A primigravida at 38 weeks in the active phase of labor had her cervix progress from 5 cm at -2 station to 9 cm at 0 station within 4 hours and then full dilation 2 hours after membrane rupture. What is the appropriate diagnosis?",
+    "options": [
+      "Accelerated course",
+      "Delayed course",
+      "Satisfactory course",
+      "Secondary arrest",
+      "Dysfunctional labor"
+    ],
+    "correctAnswer": "Satisfactory course",
+    "explanation": {
+      "correct": "This shows progressive and appropriate cervical dilation and descent within expected time. It represents a satisfactory/normal course of labor.",
+      "incorrect": [
+        {"option": "Accelerated course", "reason": "Progress is within normal limits, not abnormally fast."},
+        {"option": "Delayed course", "reason": "There was no slowing beyond expected duration."},
+        {"option": "Secondary arrest", "reason": "No arrest occurred; progress continued normally."},
+        {"option": "Dysfunctional labor", "reason": "Labor was functional and normal, not dysfunctional."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_14",
+    "case": "A 19-year-old primigravida at term reported rupture of membranes for 21 hours without contractions. She is afebrile, fetus has reactive monitoring. Which method is the most sensitive to confirm rupture of membranes?",
+    "options": [
+      "Nitrazine test",
+      "Vaginal pooling",
+      "Pelvic examination",
+      "Ferning",
+      "Coombs’ test"
+    ],
+    "correctAnswer": "Ferning",
+    "explanation": {
+      "correct": "The ferning test, microscopic crystallization pattern of dried amniotic fluid, is the most sensitive specific method to confirm rupture of membranes.",
+      "incorrect": [
+        {"option": "Nitrazine test", "reason": "Can be false positive in presence of blood, semen, or infection."},
+        {"option": "Vaginal pooling", "reason": "Suggestive but not the most sensitive method."},
+        {"option": "Pelvic examination", "reason": "May detect pooling but not as accurate as ferning."},
+        {"option": "Coombs’ test", "reason": "Unrelated, used for isoimmunization."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_15",
+    "case": "A 32-year-old woman developed postpartum hemorrhage unresponsive to oxytocin and uterine massage. She delivered a 4 kg baby and the uterus is well contracted but bleeding continues. What is the most likely diagnosis?",
+    "options": [
+      "Laceration of cervix or vagina",
+      "Placenta accreta",
+      "Uterine inversion",
+      "Ruptured uterus",
+      "Coagulopathy"
+    ],
+    "correctAnswer": "Laceration of cervix or vagina",
+    "explanation": {
+      "correct": "If the uterus is well contracted but bleeding persists, genital tract trauma such as cervical or vaginal laceration is the likely diagnosis.",
+      "incorrect": [
+        {"option": "Placenta accreta", "reason": "Would present with difficulty removing placenta and uterine atony-related bleeding."},
+        {"option": "Uterine inversion", "reason": "Characterized by collapsed uterus, not a palpable contracted uterus."},
+        {"option": "Ruptured uterus", "reason": "Associated with loss of uterine contour, not a well-contracted uterus."},
+        {"option": "Coagulopathy", "reason": "May cause diffuse bleeding but primary cause here is laceration since uterus is contracted."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_16",
+    "case": "A 29-year-old woman with three prior cesarean deliveries was diagnosed with placenta accreta at 28 weeks during ultrasound follow-up of a low anterior placenta. At which stage is placenta accreta most likely to cause bleeding?",
+    "options": [
+      "During the first stage of labor",
+      "Prior to labor",
+      "Late in pregnancy",
+      "After amniotic membrane rupture",
+      "During attempts to remove it after delivery"
+    ],
+    "correctAnswer": "During attempts to remove it after delivery",
+    "explanation": {
+      "correct": "Placenta accreta is characterized by abnormal adherence of the placenta to the myometrium. Significant hemorrhage typically occurs when attempts are made to separate the placenta after delivery because it fails to detach normally.",
+      "incorrect": [
+        {"option": "During the first stage of labor", "reason": "Accreta rarely causes bleeding during early labor since the placenta is still intact."},
+        {"option": "Prior to labor", "reason": "Painless antepartum bleeding is more typical of placenta previa, not accreta."},
+        {"option": "Late in pregnancy", "reason": "Accreta usually presents at delivery rather than late pregnancy."},
+        {"option": "After amniotic membrane rupture", "reason": "Not specific for accreta; bleeding is triggered by attempts at placental removal."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_17",
+    "case": "A 21-year-old primiparous woman at 41 weeks presented in labor after membrane rupture 12 hours earlier. Estimated fetal weight was 4.4 kg with thick meconium, cervix 3 cm dilated, station -2. The presentation was mentoposterior. What is the best management?",
+    "options": [
+      "Expectant management with group B strep prophylaxis",
+      "Oxytocin induction with group B strep prophylaxis",
+      "Misoprostol 25 mg with group B strep prophylaxis",
+      "Cesarean section",
+      "Epidural anesthesia to relax pelvis then oxytocin"
+    ],
+    "correctAnswer": "Cesarean section",
+    "explanation": {
+      "correct": "Mentoposterior position (chin posterior) is incompatible with vaginal delivery because the fetal head cannot extend adequately beneath the pubic symphysis. Cesarean delivery is the management of choice.",
+      "incorrect": [
+        {"option": "Expectant management", "reason": "Prolongs risk in a non-deliverable position."},
+        {"option": "Oxytocin induction", "reason": "Labor stimulation does not correct malpresentation that is not mechanically deliverable."},
+        {"option": "Misoprostol 25 mg", "reason": "Prostaglandin induction cannot resolve mentoposterior presentation."},
+        {"option": "Epidural with oxytocin", "reason": "Pain relief and induction still cannot solve malpresentation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_18",
+    "case": "A 38-year-old multigravida complains of painless loss of urine immediately after coughing, laughing, lifting, or straining, which stops once the activity ceases. What is the most likely diagnosis?",
+    "options": [
+      "Fistula",
+      "Stress incontinence",
+      "Urge incontinence",
+      "Ureteral incontinence",
+      "Urinary tract infection"
+    ],
+    "correctAnswer": "Stress incontinence",
+    "explanation": {
+      "correct": "Stress incontinence is due to pelvic floor weakness and urethral sphincter incompetence. It is precipitated by activities that increase intraabdominal pressure such as coughing or laughing and stops when the activity ceases.",
+      "incorrect": [
+        {"option": "Fistula", "reason": "Would cause continuous leakage, not intermittent with stress only."},
+        {"option": "Urge incontinence", "reason": "Associated with sudden urge to void due to detrusor overactivity."},
+        {"option": "Ureteral incontinence", "reason": "Causes continuous leakage unrelated to exertion."},
+        {"option": "Urinary tract infection", "reason": "Presents with dysuria, frequency, pyuria, not leakage with exertion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_19",
+    "case": "A primigravida at 35 weeks presented with her first episode of painless vaginal bleeding. Examination showed normal blood pressure, relaxed uterus, fetal head unengaged, and regular fetal heart sounds. Hemoglobin was 10 g/dl. What is the next line of management?",
+    "options": [
+      "Wait and watch",
+      "Induction of labor",
+      "Blood transfusion",
+      "Cesarean section",
+      "None of the above"
+    ],
+    "correctAnswer": "Cesarean section",
+    "explanation": {
+      "correct": "Painless antepartum bleeding with relaxed uterus and unengaged presenting part is consistent with placenta previa. The definitive management at 35 weeks with active bleeding is cesarean section.",
+      "incorrect": [
+        {"option": "Wait and watch", "reason": "Unsafe with active bleeding from placenta previa."},
+        {"option": "Induction of labor", "reason": "Contraindicated in placenta previa due to hemorrhage risk."},
+        {"option": "Blood transfusion", "reason": "Supportive but does not correct the cause; delivery is required."},
+        {"option": "None of the above", "reason": "Incorrect because cesarean section is clearly indicated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_20",
+    "case": "A 22-year-old gravida 3 para 0+2 at 9 weeks gestation presented with vaginal spotting. Ultrasounds performed weekly since early pregnancy showed a gestational sac matching her dates but no fetal pole. What is the appropriate management?",
+    "options": [
+      "Repeat ultrasound after one week",
+      "Parenteral progesterone",
+      "Folic acid",
+      "Cervical cerclage",
+      "Termination of pregnancy"
+    ],
+    "correctAnswer": "Termination of pregnancy",
+    "explanation": {
+      "correct": "A gestational sac of adequate size on repeated scans without a fetal pole indicates an anembryonic pregnancy (blighted ovum). The appropriate management is termination of pregnancy via medical or surgical evacuation.",
+      "incorrect": [
+        {"option": "Repeat ultrasound after one week", "reason": "Multiple follow-up scans have already confirmed absence of embryo."},
+        {"option": "Parenteral progesterone", "reason": "Progesterone is not effective in anembryonic pregnancy."},
+        {"option": "Folic acid", "reason": "Prevents neural tube defects, not a treatment here."},
+        {"option": "Cervical cerclage", "reason": "Indicated for cervical incompetence, not early pregnancy loss."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_21",
+    "case": "A 33-year-old gravida 2 para 1 presented with a history of stillbirth. She had a screening test for diabetes mellitus at 10 weeks. One-hour postprandial glucose test was 145 mg/dL. What should be included in her follow-up?",
+    "options": [
+      "Serial follow-up with urine glucose testing at home",
+      "Serial 3D ultrasound",
+      "Serial follow-up with home blood glucose testing",
+      "No further testing and no need for treatment",
+      "Standard glucose tolerance test"
+    ],
+    "correctAnswer": "Standard glucose tolerance test",
+    "explanation": {
+      "correct": "A 1-hour postprandial glucose over 140 mg/dL is abnormal. The correct follow-up is to perform a standard 100-g oral glucose tolerance test to confirm whether gestational diabetes is present.",
+      "incorrect": [
+        {"option": "Serial follow-up with urine glucose testing at home", "reason": "Urine glucose is unreliable for diagnosis or monitoring."},
+        {"option": "Serial 3D ultrasound", "reason": "Ultrasound surveillance is needed later if diabetes confirmed, but not for diagnosis."},
+        {"option": "Serial follow-up with home blood glucose testing", "reason": "Monitoring comes after diagnosis; standard OGTT is first."},
+        {"option": "No further testing and no need for treatment", "reason": "Incorrect as the screening value was abnormal, so OGTT is necessary."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_22",
+    "case": "A 26-year-old para 1+2 presented 3 weeks after abortion with heavy vaginal bleeding. She had surgical evacuation 3 weeks ago. Beta-HCG was >100,000, ultrasound showed 4x4 cm intrauterine mass. What is the most appropriate management?",
+    "options": [
+      "Start chemotherapy",
+      "Hysterectomy",
+      "Resuscitation and uterotonics",
+      "Resuscitation and re-evacuation",
+      "Resuscitation followed by conservative management"
+    ],
+    "correctAnswer": "Start chemotherapy",
+    "explanation": {
+      "correct": "The presentation is classic for gestational trophoblastic neoplasia, most likely choriocarcinoma or invasive mole—persistent bleeding, very high beta-HCG, and intrauterine mass after evacuation. Management is chemotherapy (often single-agent methotrexate in low risk cases).",
+      "incorrect": [
+        {"option": "Hysterectomy", "reason": "Not first-line except in selected older women or those who completed family."},
+        {"option": "Resuscitation and uterotonics", "reason": "Ineffective because bleeding is from trophoblastic tumor, not uterine atony."},
+        {"option": "Resuscitation and re-evacuation", "reason": "Repeat evacuation will not cure invasive mole or GTN and could be dangerous."},
+        {"option": "Resuscitation followed by conservative management", "reason": "Conservative monitoring cannot be applied here, disease is progressing."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_23",
+    "case": "A 36-year-old woman developed sudden right-sided chest pain and hemoptysis on the 3rd day postpartum after cesarean section. She had tachypnea and hypoxemia, wedge-shaped opacity on chest X-ray. What is the most likely diagnosis?",
+    "options": [
+      "Pulmonary embolism",
+      "Chronic obstructive pulmonary disease",
+      "Acute bronchitis",
+      "Pleural effusion",
+      "Postoperative pneumonia"
+    ],
+    "correctAnswer": "Pulmonary embolism",
+    "explanation": {
+      "correct": "The acute onset of pleuritic pain, hemoptysis, tachypnea, wedge-shaped opacity (Hampton hump), and risk factor of recent cesarean makes pulmonary embolism the most likely diagnosis.",
+      "incorrect": [
+        {"option": "Chronic obstructive pulmonary disease", "reason": "Usually chronic, not acute postpartum presentation."},
+        {"option": "Acute bronchitis", "reason": "Does not produce wedge opacity or severe hypoxemia."},
+        {"option": "Pleural effusion", "reason": "Would show fluid level, not wedge-shaped opacity."},
+        {"option": "Postoperative pneumonia", "reason": "Would produce fever and infiltrates, not wedge-shaped infarct lesion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_24",
+    "case": "During induction of labor with misoprostol at 41.5 weeks, a woman feels pelvic pressure and low back pain. Contractions are every 2–3 minutes, cervix is 2 cm and 50% effaced, head at 0 station with bloody mucus. What does this represent?",
+    "options": [
+      "Primary arrest of labor",
+      "Early active phase labor",
+      "Impending rupture of the uterus",
+      "Prolonged latent phase labor",
+      "Tachysystole"
+    ],
+    "correctAnswer": "Early active phase labor",
+    "explanation": {
+      "correct": "This is normal early active labor: contractions every 2–3 minutes, bloody show, cervical change beginning. There is no pathology here.",
+      "incorrect": [
+        {"option": "Primary arrest of labor", "reason": "Too early; no failure of progress yet."},
+        {"option": "Impending rupture of uterus", "reason": "No abnormal fetal heart tracing or severe scar pain."},
+        {"option": "Prolonged latent phase labor", "reason": "Not prolonged—this is active with cervical change."},
+        {"option": "Tachysystole", "reason": "Defined as >5 contractions in 10 min, not present here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_25",
+    "case": "A 21-year-old woman at 9 weeks of pregnancy with severe nausea and vomiting, unable to eat or drink. Which finding suggests hyperemesis gravidarum?",
+    "options": [
+      "Bilious vomiting",
+      "Hypokalemia",
+      "Metabolic alkalosis",
+      "Ketonuria",
+      "White race"
+    ],
+    "correctAnswer": "Ketonuria",
+    "explanation": {
+      "correct": "Hyperemesis gravidarum is characterized by severe vomiting leading to dehydration and ketosis. The hallmark diagnostic feature is the presence of ketonuria from fat breakdown.",
+      "incorrect": [
+        {"option": "Bilious vomiting", "reason": "Non-specific, can occur in many GI conditions."},
+        {"option": "Hypokalemia", "reason": "Can occur but is not diagnostic."},
+        {"option": "Metabolic alkalosis", "reason": "Common consequence but not diagnostic criteria."},
+        {"option": "White race", "reason": "Race is not a diagnostic sign."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_26",
+    "case": "A 23-year-old woman in the third trimester arrived with headache and convulsion during examination. What is the most important first step before giving magnesium sulfate?",
+    "options": [
+      "Give intravenous phenytoin",
+      "Obtain an ultrasound to rule out molar pregnancy",
+      "Prepare for emergency cesarean delivery",
+      "Obtain a chest X-ray",
+      "Protect the patient from self-injury"
+    ],
+    "correctAnswer": "Protect the patient from self-injury",
+    "explanation": {
+      "correct": "In eclamptic seizures, the immediate priority during the convulsion is to protect the airway and prevent trauma to the patient. After that, magnesium sulfate is administered as the anticonvulsant of choice.",
+      "incorrect": [
+        {"option": "Give intravenous phenytoin", "reason": "Magnesium sulfate is the anticonvulsant of choice, not phenytoin."},
+        {"option": "Obtain an ultrasound", "reason": "Not urgently relevant during active seizure."},
+        {"option": "Prepare for emergency cesarean delivery", "reason": "Delivery is ultimately needed but not the first action during a seizure."},
+        {"option": "Obtain a chest X-ray", "reason": "Not indicated in an emergency seizure scenario."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_27",
+    "case": "A 24-year-old nulligravid presented with coarse hair on chin, upper lip, abdomen, and chest, but no deep voice or clitoral enlargement. What is she most likely experiencing?",
+    "options": [
+      "Androgenization",
+      "Defeminization",
+      "Masculinization",
+      "Hirsutism",
+      "Virilization"
+    ],
+    "correctAnswer": "Hirsutism",
+    "explanation": {
+      "correct": "Hirsutism is excessive terminal hair in androgen-dependent areas of women without other virilizing features. She has hair growth but no changes in secondary sexual characteristics.",
+      "incorrect": [
+        {"option": "Androgenization", "reason": "Broad term, not specific clinical description."},
+        {"option": "Defeminization", "reason": "Loss of female features (breast atrophy, amenorrhea), not described here."},
+        {"option": "Masculinization", "reason": "Includes deeper voice, muscle growth—not present."},
+        {"option": "Virilization", "reason": "Advanced androgen effect with clitoromegaly and voice change, not present."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_28",
+    "case": "A pregnant woman at 26 weeks had 50-g glucose challenge test with 1 hour plasma value of 144 mg/dL. A diagnostic 100-g OGTT gave: fasting 102, 1hr 180, 2hr 162, 3hr 144. Normal: fasting <95, 1hr<180, 2hr<155, 3hr<140. What is next management?",
+    "options": [
+      "Repeat OGTT later in third trimester",
+      "Begin diet control and daily glucose monitoring",
+      "Perform contraction stress test",
+      "Treat as normal pregnancy",
+      "Start oral hypoglycemic agents"
+    ],
+    "correctAnswer": "Begin diet control and daily glucose monitoring",
+    "explanation": {
+      "correct": "She fails two values on the OGTT (fasting and 2h, 3h). Diagnostic of gestational diabetes. Management is diet, nutrition counseling, and strict glucose monitoring. Oral agents are not first-line.",
+      "incorrect": [
+        {"option": "Repeat OGTT later", "reason": "Already diagnostic—no repetition needed."},
+        {"option": "Perform contraction stress test", "reason": "Not appropriate at this stage."},
+        {"option": "Treat as normal pregnancy", "reason": "Incorrect because the criteria for gestational diabetes are met."},
+        {"option": "Start oral hypoglycemic agents", "reason": "Insulin is the pharmacologic therapy of choice if diet fails, not oral drugs."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_29",
+    "case": "A 14-year-old girl was brought for no menarche yet. She had breast development but no pubic hair. Which event occurs earliest in puberty?",
+    "options": [
+      "Menarche",
+      "Peak growth velocity",
+      "Axillary hair growth",
+      "Breast development",
+      "Pubic hair growth"
+    ],
+    "correctAnswer": "Breast development",
+    "explanation": {
+      "correct": "Thelarche (breast development) is the first physical sign of puberty in girls. By contrast, adrenarche (pubic hair) follows afterward, then peak growth velocity just before menarche.",
+      "incorrect": [
+        {"option": "Menarche", "reason": "Occurs about 2–3 years after thelarche."},
+        {"option": "Peak growth velocity", "reason": "Occurs after thelarche but before menarche."},
+        {"option": "Axillary hair growth", "reason": "Later event, not the earliest."},
+        {"option": "Pubic hair growth", "reason": "Occurs after thelarche due to adrenal androgens."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_30",
+    "case": "A 29-year-old primigravida with uncertain LMP. Examined at booking visit: uterine fundus at pubic symphysis, fetal heart tones audible by Doppler. What is approximate gestational age?",
+    "options": ["8 weeks","12 weeks","16 weeks","20 weeks","24 weeks"],
+    "correctAnswer": "12 weeks",
+    "explanation": {
+      "correct": "At 12 weeks gestation, the uterus reaches the pubic symphysis, and fetal heart can be heard by Doppler. This is the clinical marker for 12 weeks.",
+      "incorrect":[
+        {"option":"8 weeks","reason":"At 8 weeks uterus is still in pelvis, cannot be palpated abdominally."},
+        {"option":"16 weeks","reason":"At 16 weeks uterus reaches midway between pubic symphysis and umbilicus."},
+        {"option":"20 weeks","reason":"At umbilicus level."},
+        {"option":"24 weeks","reason":"Above umbilicus."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_31",
+    "case": "A 31-year-old gravida 2 para 1 woman at 40 weeks progressed from 4 cm to 6 cm dilatation over 4 hours. How should her labor progress best be described?",
+    "options": [
+      "Prolonged latent phase",
+      "Obstructed labor",
+      "Normal latent phase",
+      "Prolonged active phase",
+      "Normal active phase"
+    ],
+    "correctAnswer": "Prolonged active phase",
+    "explanation": {
+      "correct": "In active labor, cervical dilation should be faster than 1 cm every 2 hours. From 4 to 6 cm over 4 hours is a slowed rate, thus prolonged active phase.",
+      "incorrect": [
+        {"option": "Prolonged latent phase", "reason": "Latent phase refers to early labor <4 cm. Here she is in active phase."},
+        {"option": "Obstructed labor", "reason": "Not at this stage; she is progressing, though slowly."},
+        {"option": "Normal latent phase", "reason": "She is not in latent phase anymore."},
+        {"option": "Normal active phase", "reason": "The rate was too slow to be normal."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_32",
+    "case": "A 35-year-old woman with an intrauterine contraceptive device complains of 5 weeks of amenorrhea. Serum pregnancy test is positive. Which risk is increased in this woman?",
+    "options": [
+      "Molar pregnancy",
+      "Fetal malformations",
+      "Spontaneous abortion",
+      "Septic abortion",
+      "Placental abruption"
+    ],
+    "correctAnswer": "Septic abortion",
+    "explanation": {
+      "correct": "Pregnancy with an IUD predisposes to septic abortion due to risk of infection. Miscarriage can also occur, but septic abortion is most specifically increased.",
+      "incorrect": [
+        {"option": "Molar pregnancy", "reason": "No direct link with IUD."},
+        {"option": "Fetal malformations", "reason": "No strong association proven."},
+        {"option": "Spontaneous abortion", "reason": "Risk is somewhat higher, but sepsis risk is most significant."},
+        {"option": "Placental abruption", "reason": "Not related to IUD presence."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_33",
+    "case": "A 32-year-old at 8 weeks gestation, previous cesarean section, otherwise normal. Which factor is most worrying for poor outcome?",
+    "options": [
+      "Trace proteinuria",
+      "Blood pressure 150/100",
+      "Morning nausea",
+      "Maternal height 160 cm",
+      "Candida discharge"
+    ],
+    "correctAnswer": "Blood pressure 150/100",
+    "explanation": {
+      "correct": "Hypertension at booking (≥140/90) signifies chronic hypertension, which increases the obstetric risk. This is the most concerning finding among options.",
+      "incorrect": [
+        {"option": "Trace proteinuria", "reason": "Not significant alone."},
+        {"option": "Morning nausea", "reason": "Normal early pregnancy symptom."},
+        {"option": "Maternal height 160 cm", "reason": "Within normal."},
+        {"option": "Candida discharge", "reason": "Benign, treatable infection, not poor outcome marker."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_34",
+    "case": "A 28-year-old nulligravid woman with a husband carrying an autosomal inherited disorder seeks genetic counseling regarding possible pregnancy termination if fetus affected. Counselor is ethically against termination. What is counselor’s obligation?",
+    "options": [
+      "Tell them to come back once pregnant",
+      "Advocate own moral position",
+      "Provide all requested information in non-directive way",
+      "Provide info on assisted reproductive technologies only",
+      "Provide limited information consistent with own morals"
+    ],
+    "correctAnswer": "Provide all requested information in non-directive way",
+    "explanation": {
+      "correct": "Genetic counseling must be non-directive, providing full and unbiased information so couples can make informed decisions themselves.",
+      "incorrect": [
+        {"option": "Tell them to come back once pregnant", "reason": "Avoids responsibility; incorrect."},
+        {"option": "Advocate own moral position", "reason": "Unprofessional; counseling must be non-directive."},
+        {"option": "Provide info on ART only", "reason": "Incomplete counseling; must address the termination query as well."},
+        {"option": "Provide limited information consistent with own morals", "reason": "Restricts patient autonomy and violates counseling ethics."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_35",
+    "case": "A 27-year-old woman delivered twins vaginally. Over the next hour, estimated blood loss 1150 ml, uterus enlarged and soft. What is most appropriate next step?",
+    "options": [
+      "Methylergometrine",
+      "Hysterectomy",
+      "Uterine artery embolization",
+      "Misoprostol",
+      "Bimanual uterine massage"
+    ],
+    "correctAnswer": "Bimanual uterine massage",
+    "explanation": {
+      "correct": "Initial management of postpartum hemorrhage due to uterine atony is uterine massage to enhance contraction, before drugs/surgery.",
+      "incorrect": [
+        {"option": "Methylergometrine", "reason": "Uterotonics come after massage fails."},
+        {"option": "Hysterectomy", "reason": "Reserved as last resort for uncontrolled hemorrhage."},
+        {"option": "Uterine artery embolization", "reason": "Secondary/interventional procedure, not initial step."},
+        {"option": "Misoprostol", "reason": "Also uterotonic, but massage is the very first action."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_36",
+    "case": "An 18-year-old G2P1 comes for her first OB visit at 10 weeks. LMP May 7. What is her estimated date of delivery?",
+    "options": [
+      "February 10 next year",
+      "February 14 next year",
+      "December 10 same year",
+      "December 14 same year",
+      "February 2 next year"
+    ],
+    "correctAnswer": "February 14 next year",
+    "explanation": {
+      "correct": "Naegle’s rule: add 7 days to LMP, subtract 3 months. May 7 + 7 days = May 14, minus 3 months = February 14 of next year.",
+      "incorrect": [
+        {"option": "February 10 next year", "reason": "Miscalculated by 4 days."},
+        {"option": "December 10 same year", "reason": "Error, would shorten pregnancy."},
+        {"option": "December 14 same year", "reason": "Also too early; incorrect use of Naegle’s rule."},
+        {"option": "February 2 next year", "reason": "Earlier, does not fit proper rule."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_37",
+    "case": "Which of the following is NOT a predisposing factor for preterm labor?",
+    "options": [
+      "Maternal age >35",
+      "Smoking >10 cigarettes/day",
+      "DES exposure with uterine abnormality",
+      "More than 4 previous deliveries",
+      "Twin gestation"
+    ],
+    "correctAnswer": "Maternal age >35",
+    "explanation": {
+      "correct": "Advanced maternal age increases chromosomal risk, but not specifically preterm labor risk. Risk factors include smoking, uterine anomalies, high parity, and multiple gestation.",
+      "incorrect": [
+        {"option": "Smoking >10 cigarettes/day", "reason": "Associated with preterm birth risk."},
+        {"option": "DES exposure with uterine anomaly", "reason": "Classical predisposing factor."},
+        {"option": "More than 4 previous deliveries", "reason": "Grand multiparity predisposes to preterm labor."},
+        {"option": "Twin gestation", "reason": "A key risk for preterm delivery."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_38",
+    "case": "A 33-year-old woman with history of gestational diabetes in two pregnancies, otherwise well. Which investigation should be performed?",
+    "options": [
+      "Chest X-ray every 3 years",
+      "Coronary angiography every 3 years",
+      "Fasting glucose every 6 months",
+      "Mammography every 3 years",
+      "Pelvic ultrasound every 3 years"
+    ],
+    "correctAnswer": "Fasting glucose every 6 months",
+    "explanation": {
+      "correct": "History of gestational diabetes carries high risk for type 2 diabetes later, so she should have fasting glucose checked periodically (typically yearly or semiannually).",
+      "incorrect": [
+        {"option": "Chest X-ray every 3 years", "reason": "No benefit."},
+        {"option": "Coronary angiography every 3 years", "reason": "Not screening tool."},
+        {"option": "Mammography every 3 years", "reason": "Not related to obstetric risk, age 33 is early."},
+        {"option": "Pelvic ultrasound every 3 years", "reason": "Not routine for this demographic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_39",
+    "case": "A 37-year-old gravida 4 para 2 had a 4.5 kg baby previously. No history of GDM, but family history of diabetes. BMI 27. Which factor most increases her risk of GDM?",
+    "options": [
+      "Previous macrosomic baby",
+      "Previous two abortions",
+      "BMI 27",
+      "Family history of diabetes",
+      "Age in this pregnancy"
+    ],
+    "correctAnswer": "Previous macrosomic baby",
+    "explanation": {
+      "correct": "Delivering a macrosomic infant (>4 kg) is a strong risk factor and predictor for gestational diabetes in subsequent pregnancies.",
+      "incorrect": [
+        {"option": "Previous two abortions", "reason": "Not a risk factor for GDM."},
+        {"option": "BMI 27", "reason": "Overweight is mild risk, but less predictive compared to macrosomia."},
+        {"option": "Family history of diabetes", "reason": "Risk factor but not as strong as macrosomia in prior pregnancy."},
+        {"option": "Age in this pregnancy", "reason": "Older age is risk but not the strongest here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_40",
+    "case": "A 22-year-old woman two days after cesarean has persistent fever despite antibiotics. Urinalysis, wound, breasts, uterus are normal. CT shows septic pelvic thrombophlebitis. What is the best treatment?",
+    "options": [
+      "Continue antibiotics and add IV heparin",
+      "Streptokinase therapy",
+      "Surgical embolectomy",
+      "Stop antibiotics and give IV heparin only",
+      "Continue triple antibiotics"
+    ],
+    "correctAnswer": "Continue antibiotics and add IV heparin",
+    "explanation": {
+      "correct": "Septic pelvic thrombophlebitis requires anticoagulation with heparin in addition to antibiotics. This rapidly resolves fever when infection alone is not responsible.",
+      "incorrect": [
+        {"option": "Streptokinase therapy", "reason": "Not indicated; thrombolysis is not used here."},
+        {"option": "Surgical embolectomy", "reason": "Reserved for life-threatening emboli, not septic thrombophlebitis."},
+        {"option": "Stop antibiotics and give heparin only", "reason": "Infection is still present, need both."},
+        {"option": "Continue triple antibiotics", "reason": "Antibiotics alone won’t resolve thrombosed septic vein."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_41",
+    "case": "A 32-year-old with anterior placenta previa extending over the internal cervical os was diagnosed at 20 weeks anomaly scan. What is the appropriate management?",
+    "options": [
+      "Transvaginal cerclage",
+      "Re-evaluate at term",
+      "Repeat transabdominal scan at 32 weeks",
+      "Placental site scan every 2 weeks",
+      "Re-assessment at 38 weeks"
+    ],
+    "correctAnswer": "Repeat transabdominal scan at 32 weeks",
+    "explanation": {
+      "correct": "Placenta previa diagnosed at 20 weeks may resolve by placental migration. Rescanning at 32 weeks is standard to check persistence.",
+      "incorrect": [
+        {"option": "Transvaginal cerclage", "reason": "Indicated for cervical incompetence, not previa."},
+        {"option": "Re-evaluate at term", "reason": "Too late, management decisions delayed."},
+        {"option": "Placental site scan every 2 weeks", "reason": "Overly frequent and not standard practice."},
+        {"option": "Re-assessment at 38 weeks", "reason": "Too late, should check at 32 weeks first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_42",
+    "case": "A 42-year-old at 38+4 weeks had recurrent painless vaginal bleeding. Ultrasound showed posterior placenta previa marginalis. What is the appropriate management?",
+    "options": [
+      "Counsel for cesarean hysterectomy",
+      "Induction of labor",
+      "Tocolytic drugs",
+      "Wait for spontaneous labor",
+      "Cesarean section"
+    ],
+    "correctAnswer": "Cesarean section",
+    "explanation": {
+      "correct": "Placenta previa marginalis at term with recurrent bleeding is delivered by cesarean section to prevent catastrophic hemorrhage.",
+      "incorrect": [
+        {"option": "Counsel for cesarean hysterectomy", "reason": "Accreta suspected cases, not marginal previa."},
+        {"option": "Induction of labor", "reason": "Contraindicated in placenta previa."},
+        {"option": "Tocolytic drugs", "reason": "Not useful in placenta previa at term."},
+        {"option": "Wait for spontaneous labor", "reason": "Unsafe as bleeding can escalate."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_43",
+    "case": "A 32-year-old gravida 2 with two previous C-sections. At 32 weeks, placenta found anterior and covering internal os. Which risk is most likely?",
+    "options": [
+      "Placenta accreta",
+      "Pulmonary edema",
+      "Placental abruption",
+      "Amniotic fluid embolus",
+      "Cerebrovascular accident"
+    ],
+    "correctAnswer": "Placenta accreta",
+    "explanation": {
+      "correct": "Placenta previa with prior cesareans increases risk of abnormal adherence (placenta accreta).",
+      "incorrect": [
+        {"option": "Pulmonary edema", "reason": "Not linked to previa."},
+        {"option": "Placental abruption", "reason": "Different etiology, not strongly linked to previa."},
+        {"option": "Amniotic fluid embolus", "reason": "Acute complication, not risk of previa itself."},
+        {"option": "Cerebrovascular accident", "reason": "Unrelated to placental site."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_44",
+    "case": "A 35-year-old para 3 with history of postpartum DVT is using combined oral contraceptives. What is the proper contraceptive advice?",
+    "options": [
+      "Continue combined oral contraceptives with follow-up",
+      "Shift to low-dose estrogen COCs",
+      "Use barrier methods",
+      "Insert an IUD",
+      "Laparoscopic tubal ligation"
+    ],
+    "correctAnswer": "Insert an IUD",
+    "explanation": {
+      "correct": "History of thrombosis contraindicates estrogen-containing contraceptives. Safe long-term effective choice is IUD.",
+      "incorrect": [
+        {"option": "Continue COCs", "reason": "Estrogen use is contraindicated due to risk of thrombosis recurrence."},
+        {"option": "Shift to low-dose estrogen COCs", "reason": "Still contraindicated."},
+        {"option": "Use barrier methods", "reason": "Safe but less effective."},
+        {"option": "Laparoscopic tubal ligation", "reason": "Only if fertility completed; not mandatory."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_45",
+    "case": "A 38-year-old gravida 5 para 3+1 at 32 weeks presented in labor pains with transverse lie, membranes ruptured and fluid drained. Best method of delivery?",
+    "options": [
+      "External version",
+      "Internal version and extraction",
+      "Oxytocin induction",
+      "Cesarean delivery",
+      "Abdominal support to effect position change"
+    ],
+    "correctAnswer": "Cesarean delivery",
+    "explanation": {
+      "correct": "Transverse lie at term with ruptured membranes and absent fluid is a clear indication for cesarean delivery, as vaginal delivery is unsafe.",
+      "incorrect": [
+        {"option": "External version", "reason": "Not possible after membranes ruptured and fluid drained."},
+        {"option": "Internal version and extraction", "reason": "Obsolete and very high risk."},
+        {"option": "Oxytocin induction", "reason": "Ineffective in malpresentation."},
+        {"option": "Abdominal support", "reason": "Unhelpful and outdated method."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_46",
+    "case": "A 25-year-old female sustained a perineal laceration during delivery. It involved the muscles of the perineal body but not the anal sphincter. What is the degree of this laceration?",
+    "options": ["First degree", "Second degree", "Third degree", "Fourth degree", "Fifth degree"],
+    "correctAnswer": "Second degree",
+    "explanation": {
+      "correct": "Second-degree lacerations involve the vaginal mucosa and perineal body muscles but do not extend to the anal sphincter.",
+      "incorrect": [
+        {"option": "First degree", "reason": "Involves only the vaginal mucosa and skin, not the perineal body muscles."},
+        {"option": "Third degree", "reason": "Includes anal sphincter involvement."},
+        {"option": "Fourth degree", "reason": "Extends through anal sphincter into the rectal mucosa."},
+        {"option": "Fifth degree", "reason": "No such classification exists."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_47",
+    "case": "During routine follow-up in a 35-year-old on oral contraceptives, a Pap smear revealed high-grade squamous intraepithelial lesion (HSIL). What is the proper next step?",
+    "options": [
+      "Repeat cytology after 3-6 months",
+      "Colposcope directed biopsy",
+      "Fractional curettage",
+      "Cervical conization",
+      "Hysterectomy"
+    ],
+    "correctAnswer": "Colposcope directed biopsy",
+    "explanation": {
+      "correct": "HSIL requires direct evaluation with colposcopy and biopsy of abnormal areas to establish histologic diagnosis.",
+      "incorrect": [
+        {"option": "Repeat cytology after 3-6 months", "reason": "Inadequate because HSIL must be investigated immediately."},
+        {"option": "Fractional curettage", "reason": "Not appropriate for cervical lesion diagnosis."},
+        {"option": "Cervical conization", "reason": "Done if colposcopy/biopsy confirms high-grade disease, not as initial step."},
+        {"option": "Hysterectomy", "reason": "Over-treatment; only indicated for invasive confirmed carcinoma in specific situations."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_48",
+    "case": "A 24-year-old pregnant woman at 8 weeks gestation presented with nausea and vomiting. Ultrasound showed a live intrauterine pregnancy and urine ketones were negative. What is the best recommendation?",
+    "options": ["Diazepam","Promethazine","Vitamin B6","Ondansetron","Dexamethasone"],
+    "correctAnswer": "Vitamin B6",
+    "explanation": {
+      "correct":"Vitamin B6 (pyridoxine) is safe in early pregnancy and recommended as first-line therapy for mild nausea and vomiting of pregnancy.",
+      "incorrect":[
+        {"option":"Diazepam","reason":"Unsafe in pregnancy and not therapy for nausea."},
+        {"option":"Promethazine","reason":"Useful, but considered after pyridoxine if symptoms persist."},
+        {"option":"Ondansetron","reason":"Reserved for refractory hyperemesis, not first line."},
+        {"option":"Dexamethasone","reason":"Not used initially and has teratogenic risks in 1st trimester."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_49",
+    "case": "A 30-year-old woman with secondary infertility had hysterosalpingography showing bilateral tubal fimbrial block with hydrosalpinx. Semen analysis was normal. What is the essential step before IVF?",
+    "options": [
+      "Laparoscopic fimbriostomy",
+      "Antibiotic courses",
+      "Endometrial biopsy",
+      "Laparoscopic tubal disconnection",
+      "Antibiotic hydrotubation"
+    ],
+    "correctAnswer": "Laparoscopic tubal disconnection",
+    "explanation": {
+      "correct": "Hydrosalpinx negatively impacts IVF success by backflow of toxic fluid into the uterus. Laparoscopic salpingectomy or disconnection is recommended before attempting IVF.",
+      "incorrect": [
+        {"option":"Laparoscopic fimbriostomy","reason":"Not useful in established hydrosalpinx; IVF preferred."},
+        {"option":"Antibiotic courses","reason":"Do not correct mechanical obstruction."},
+        {"option":"Endometrial biopsy","reason":"Not relevant to infertility management in this case."},
+        {"option":"Antibiotic hydrotubation","reason":"Ineffective where fimbrial block and hydrosalpinx are established."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_50",
+    "case": "A 37-year-old postpartum woman developed brisk vaginal bleeding after placenta delivery. Uterus was soft, pulse 125, BP 80/40. What is the first step of management?",
+    "options":[
+      "IV fluids and prepare for transfusion",
+      "Uterotonic drugs",
+      "Exploration of genital tract",
+      "Bimanual uterine compression",
+      "Hysterectomy"
+    ],
+    "correctAnswer":"IV fluids and prepare for transfusion",
+    "explanation":{
+      "correct":"The first step in severe postpartum hemorrhage is immediate resuscitation with IV fluids and preparing for blood transfusion, while simultaneously addressing uterine atony.",
+      "incorrect":[
+        {"option":"Uterotonic drugs","reason":"Important but resuscitation is always immediate first priority."},
+        {"option":"Exploration of genital tract","reason":"Done later if bleeding source unclear after atony managed."},
+        {"option":"Bimanual uterine compression","reason":"A maneuver used but not before vascular resuscitation begins."},
+        {"option":"Hysterectomy","reason":"Last resort, not first-line."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_51",
+    "case": "A 35-year-old non-lactating woman had an IUD inserted 6 weeks postpartum. Two weeks later, she developed fever, offensive discharge, and pelvic pain. Pregnancy test negative, ultrasound normal with IUD in place. What is the appropriate management?",
+    "options":["Remove and reinsert after 1 month","Hysteroscopy","Hysterosalpingogram","Combined antibiotic therapy","Laparotomy"],
+    "correctAnswer":"Combined antibiotic therapy",
+    "explanation":{
+      "correct":"She has pelvic infection related to IUD insertion. IUD can sometimes stay in place if symptoms mild, but antibiotics are essential to treat PID.",
+      "incorrect":[
+        {"option":"Remove and reinsert after 1 month","reason":"Removal not necessarily required unless severe infection."},
+        {"option":"Hysteroscopy","reason":"Not indicated acutely."},
+        {"option":"Hysterosalpingogram","reason":"Contraindicated in infection."},
+        {"option":"Laparotomy","reason":"Unnecessary except in complications like abscess rupture."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_52",
+    "case": "A multigravida at 8 weeks is suspected to have diabetes this pregnancy. Which history increases suspicion?",
+    "options":[
+      "Prior cesareans due to antepartum hemorrhage",
+      "Abruptio placentae previously",
+      "Spontaneous rupture of membranes in previous pregnancies",
+      "Unexplained intrauterine fetal death at 38 weeks",
+      "Jaundice in 3rd trimester of prior pregnancy"
+    ],
+    "correctAnswer":"Unexplained intrauterine fetal death at 38 weeks",
+    "explanation":{
+      "correct":"Unexplained IUFD, especially late, can be associated with undiagnosed maternal diabetes. This history raises concern.",
+      "incorrect":[
+        {"option":"Prior cesareans","reason":"Not diabetes-specific."},
+        {"option":"Abruptio placentae","reason":"More linked to hypertension/pre-eclampsia."},
+        {"option":"Spontaneous rupture of membranes","reason":"Not characteristic."},
+        {"option":"Jaundice in 3rd trimester","reason":"More likely cholestasis or hepatitis, not diabetes."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_53",
+    "case": "A 25-year-old woman presented to ER with crampy abdominal pain and vaginal bleeding at 6 weeks from last period. Pregnancy test positive. What is the most important step in evaluation?",
+    "options":["Ultrasound","CBC","Physical exam","Detailed menstrual history","Quantitative beta-hCG"],
+    "correctAnswer":"Ultrasound",
+    "explanation":{
+      "correct":"The critical first step is transvaginal ultrasound to confirm intrauterine or ectopic pregnancy. Determines location of pregnancy promptly.",
+      "incorrect":[
+        {"option":"CBC","reason":"Helps if bleeding heavy but not first to localize pregnancy."},
+        {"option":"Physical exam","reason":"Useful but imaging is more diagnostic."},
+        {"option":"Detailed menstrual history","reason":"History already known, not enough to establish diagnosis."},
+        {"option":"Quantitative beta-hCG","reason":"Helps in follow-up, but initial must be ultrasound in symptomatic pregnant patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_54",
+    "case": "EMS arrives with a woman who delivered unexpectedly in the ambulance. The newborn is cyanotic, breathing but not crying. What is the immediate next step?",
+    "options":[
+      "Bag-mask ventilation",
+      "Bulb suction mouth and nose",
+      "Clamp and cut cord",
+      "Dry the baby with towel",
+      "Deliver the placenta"
+    ],
+    "correctAnswer":"Dry the baby with towel",
+    "explanation":{
+      "correct":"Initial neonatal resuscitation begins with drying and stimulation to improve breathing and warmth. Only if ineffective do we proceed to suction or ventilation.",
+      "incorrect":[
+        {"option":"Bag-mask ventilation","reason":"Not the first step unless inadequate respiration persists after drying/stimulation."},
+        {"option":"Bulb suction","reason":"Done only if airway obstruction present or meconium."},
+        {"option":"Clamp and cut cord","reason":"Not priority before immediate resuscitation."},
+        {"option":"Deliver the placenta","reason":"Baby stabilization takes priority over placenta."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_55",
+    "case": "A 34-year-old multigravida at 31 weeks with placenta previa presented with heavy vaginal bleeding, vitals stable, no contractions, reactive fetal heart tracing. What is the best next management?",
+    "options":[
+      "Perform immediate cesarean",
+      "Induce labor",
+      "Admit and stabilize",
+      "Give terbutaline",
+      "Give magnesium sulphate"
+    ],
+    "correctAnswer":"Admit and stabilize",
+    "explanation":{
+      "correct":"Placenta previa with bleeding but stable vitals warrants admission, close monitoring and stabilization until fetal maturity or if bleeding worsens.",
+      "incorrect":[
+        {"option":"Perform immediate cesarean","reason":"Not needed unless bleeding life-threatening."},
+        {"option":"Induce labor","reason":"Contraindicated in previa."},
+        {"option":"Give terbutaline","reason":"No role in placenta previa without contractions."},
+        {"option":"Give magnesium sulphate","reason":"Used for seizure prophylaxis in preeclampsia, not previa."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_56",
+    "case": "A woman using oral contraceptives for over a year has a positive pregnancy test, last withdrawal bleed 8 weeks ago. What provides the most accurate estimated delivery date?",
+    "options":[
+      "When breast tenderness began",
+      "Uterine size by exam",
+      "Counting 280 days from first positive pregnancy test",
+      "Patient’s subjective timing of pregnancy",
+      "Ultrasound fetal biometry prior to 20 weeks"
+    ],
+    "correctAnswer":"Ultrasound fetal biometry prior to 20 weeks",
+    "explanation":{
+      "correct":"When LMP is unreliable (due to OCP use), ultrasound dating by crown-rump length before 20 weeks is most accurate.",
+      "incorrect":[
+        {"option":"Breast tenderness","reason":"Nonspecific marker."},
+        {"option":"Uterine size","reason":"Less accurate than ultrasound biometry."},
+        {"option":"280 days from positive test","reason":"Not as accurate as early ultrasound."},
+        {"option":"Patient’s feeling","reason":"Highly subjective."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_57",
+    "case": "A 24-year-old woman with diabetes now 10 weeks pregnant. At which time does insulin requirement decrease in a pregnant diabetic?",
+    "options":[
+      "With pregnancy-induced hypotension",
+      "With successive pregnancies",
+      "Immediately after delivery",
+      "During second trimester",
+      "During third trimester"
+    ],
+    "correctAnswer":"Immediately after delivery",
+    "explanation":{
+      "correct":"Insulin requirement falls dramatically immediately after delivery due to loss of placental hormones (hPL, estrogens, progesterone) which cause insulin resistance.",
+      "incorrect":[
+        {"option":"Pregnancy-induced hypotension","reason":"Does not affect insulin resistance."},
+        {"option":"Successive pregnancies","reason":"Not relevant."},
+        {"option":"During second trimester","reason":"Insulin requirement increases, not decreases."},
+        {"option":"During third trimester","reason":"Also increases most due to peak placental hormone levels."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_58",
+    "case": "A 44-year-old with fibroid uterus failed hormonal therapy and is now planning hysterectomy. During consent process, what is the primary purpose?",
+    "options":[
+      "Disclose all information",
+      "Establish good physician relationship",
+      "Uncover biases",
+      "Protect patient autonomy",
+      "Convince her about surgery"
+    ],
+    "correctAnswer":"Protect patient autonomy",
+    "explanation":{
+      "correct":"The goal of consent is to safeguard patient autonomy by ensuring she understands risks, benefits, alternatives and makes an informed choice.",
+      "incorrect":[
+        {"option":"Disclose information","reason":"Disclosure is part of process but ultimate purpose is autonomy."},
+        {"option":"Good relationship","reason":"Desirable but not primary."},
+        {"option":"Uncover biases","reason":"Not the goal of consent."},
+        {"option":"Convince about surgery","reason":"Consent is not meant to persuade, but inform and respect decision."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_59",
+    "case": "Reducing estrogen content of combined OCPs minimized some side effects but increased which other side effect?",
+    "options":[
+      "Pregnancy",
+      "Breakthrough bleeding",
+      "Thromboembolic events",
+      "Insulin resistance",
+      "Premenstrual symptoms"
+    ],
+    "correctAnswer":"Breakthrough bleeding",
+    "explanation":{
+      "correct":"Lower estrogen reduces risk of thromboembolism, nausea, and breast tenderness but predisposes to breakthrough bleeding (BTB).",
+      "incorrect":[
+        {"option":"Pregnancy","reason":"Efficacy is maintained with proper use."},
+        {"option":"Thromboembolic events","reason":"These are reduced not increased by lowering estrogen."},
+        {"option":"Insulin resistance","reason":"Not directly influenced by estrogen dose change."},
+        {"option":"Premenstrual symptoms","reason":"No major relation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_60",
+    "case": "A newly married woman had LMP on June 30. What is the expected date of delivery?",
+    "options":[
+      "February 10 next year",
+      "February 14 next year",
+      "December 10 same year",
+      "December 14 same year",
+      "February 2 next year"
+    ],
+    "correctAnswer":"April 6 next year",
+    "explanation":{
+      "correct":"By Naegele’s rule: LMP June 30 → add 7d (July 7), subtract 3 months → April 7 approx. So expected delivery around April 6–7.",
+      "incorrect":[
+        {"option":"February dates","reason":"Too early by 2 months (miscalculated)."},
+        {"option":"December dates","reason":"Suggest LMP was earlier; not matching June date."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_61",
+    "case": "A 35-year-old woman, gravida 3 para 2, presents with painless vaginal bleeding at 37 weeks gestation. Which of the following is immediately indicated?",
+    "options": [
+      "Coagulation profile",
+      "Induction of labor",
+      "Cesarean section",
+      "Fetal monitoring",
+      "Rupture of membranes"
+    ],
+    "correctAnswer": "Cesarean section",
+    "explanation": {
+      "correct": "Painless late pregnancy bleeding suggests placenta previa. The immediate indicated measure is cesarean delivery to prevent life-threatening hemorrhage.",
+      "incorrect": [
+        {"option":"Coagulation profile","reason":"May be needed but not the immediate management."},
+        {"option":"Induction of labor","reason":"Contraindicated in placenta previa."},
+        {"option":"Fetal monitoring","reason":"Supportive but primary action is cesarean."},
+        {"option":"Rupture of membranes","reason":"Dangerous in placenta previa, worsens hemorrhage."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_62",
+    "case": "A woman in labor develops bleeding at 5 cm dilation with fetal distress. At cesarean section a Couvelaire uterus was found. What causes a Couvelaire uterus?",
+    "options": [
+      "Placental tissue invasion",
+      "Uterine retroflexion with adhesion",
+      "Intrauterine infection",
+      "Intramyometrial bleeding",
+      "Congenital anomaly of uterus"
+    ],
+    "correctAnswer": "Intramyometrial bleeding",
+    "explanation": {
+      "correct": "Couvelaire uterus occurs when blood from abruptio placentae infiltrates the myometrium, giving a bluish appearance. It represents intramyometrial bleeding, not infection or tumor invasion.",
+      "incorrect": [
+        {"option":"Placental tissue invasion","reason":"That describes placenta accreta, not Couvelaire uterus."},
+        {"option":"Uterine retroflexion with adhesion","reason":"Anatomical issue, unrelated."},
+        {"option":"Intrauterine infection","reason":"Would cause endometritis, not Couvelaire changes."},
+        {"option":"Congenital anomaly","reason":"Unrelated to this acute condition."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_63",
+    "case": "A 65-year-old woman with suspected fibroid showed uterine enlargement from 12 to 20 weeks size over one year after menopause. What is the best management?",
+    "options": [
+      "Continued examination",
+      "Ultrasound monitoring",
+      "Exploratory laparotomy with hysterectomy",
+      "Progestin therapy",
+      "Reassurance"
+    ],
+    "correctAnswer": "Exploratory laparotomy with hysterectomy",
+    "explanation": {
+      "correct": "Fibroids are expected to regress after menopause. Increase in size or growth after menopause raises suspicion of malignancy (leiomyosarcoma). Management: surgical removal via hysterectomy.",
+      "incorrect": [
+        {"option":"Continued examination","reason":"Dangerous to just observe postmenopausal uterine growth."},
+        {"option":"Ultrasound monitoring","reason":"Growth after menopause needs definitive management, not monitoring."},
+        {"option":"Progestin therapy","reason":"Not definitive and inappropriate for postmenopausal growth."},
+        {"option":"Reassurance","reason":"Not acceptable with abnormal growth trend."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_64",
+    "case": "An 18-year-old at 7 weeks gestation complains of vaginal spotting and pain. Exam reveals 4-week size uterus, and ultrasound shows no intrauterine gestational sac. What is the next step?",
+    "options": [
+      "Observation",
+      "Quantitative beta-hCG",
+      "Give tranexamic acid",
+      "Repeat ultrasound after 2 days",
+      "Dilation and evacuation"
+    ],
+    "correctAnswer": "Quantitative beta-hCG",
+    "explanation": {
+      "correct": "With positive pregnancy test but empty uterus, beta-hCG levels help distinguish early pregnancy from ectopic or miscarriage. Comparing level to discriminatory zone allows management.",
+      "incorrect": [
+        {"option":"Observation","reason":"Unsafe—ectopic rupture risk."},
+        {"option":"Give tranexamic acid","reason":"Symptom control but not diagnostic."},
+        {"option":"Repeat ultrasound after 2 days","reason":"Better to combine with serial beta-hCG to interpret findings."},
+        {"option":"Dilation and evacuation","reason":"Too early to decide without confirming diagnosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_65",
+    "case": "A 40-year-old gravida 5 para 5 with history of menorrhagia and anemia was diagnosed with intramural myoma of 4 weeks size. What is the first line of medical management?",
+    "options": [
+      "Tranexamic acid and iron",
+      "Progestin + tranexamic acid and iron",
+      "Oral contraceptive pills and iron",
+      "Methotrexate and iron",
+      "Hysterectomy"
+    ],
+    "correctAnswer": "Tranexamic acid and iron",
+    "explanation": {
+      "correct": "For symptomatic fibroids causing heavy bleeding and anemia, the first step is controlling the bleeding (tranexamic acid) and correcting anemia (iron supplementation).",
+      "incorrect": [
+        {"option":"Progestin combination","reason":"Can control bleeding but tranexamic+nutrients is first line."},
+        {"option":"Oral contraceptives","reason":"Not first-line in a 40-year-old with completed parity and anemia."},
+        {"option":"Methotrexate","reason":"Not indicated for fibroids."},
+        {"option":"Hysterectomy","reason":"Definitive but not first-line."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_66",
+    "case": "A 32-year-old para 2 presented with abdominal pain and mild vaginal bleeding. Ultrasound showed empty uterus with hemoperitoneum. Emergency laparotomy revealed ruptured ectopic with salpingectomy followed by curettage. What pathology would most likely be seen in curettage specimen?",
+    "options": [
+      "Atrophic endometrium",
+      "Arias-Stella reaction",
+      "Simple endometrial hyperplasia",
+      "Chorionic tissue",
+      "Complex hyperplasia"
+    ],
+    "correctAnswer": "Arias-Stella reaction",
+    "explanation": {
+      "correct": "In ectopic pregnancy, endometrium undergoes Arias-Stella reaction: hypersecretory changes due to progesterone stimulation without intrauterine chorionic tissue.",
+      "incorrect": [
+        {"option":"Atrophic endometrium","reason":"Not expected in pregnancy state."},
+        {"option":"Simple endometrial hyperplasia","reason":"Not related to ectopic pregnancy."},
+        {"option":"Chorionic tissue","reason":"Absent, since the pregnancy is extrauterine."},
+        {"option":"Complex hyperplasia","reason":"Not related here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_67",
+    "case": "A diabetic mother delivered a full-term neonate weighing 5 kg. The baby was active, mild jitteriness present. Which biochemical test is essential during neonatal exam?",
+    "options": [
+      "Serum sodium",
+      "Serum magnesium",
+      "Serum calcium",
+      "Blood glucose",
+      "Blood hemoglobin"
+    ],
+    "correctAnswer": "Blood glucose",
+    "explanation": {
+      "correct": "Infants of diabetic mothers are prone to neonatal hypoglycemia due to hyperinsulinemia. Monitoring blood glucose is essential early.",
+      "incorrect": [
+        {"option":"Serum sodium","reason":"Not specifically implicated."},
+        {"option":"Serum magnesium","reason":"Less frequent concern."},
+        {"option":"Serum calcium","reason":"Hypocalcemia occurs but screening for glucose comes first."},
+        {"option":"Blood hemoglobin","reason":"Not the priority in this case."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_68",
+    "case": "A 30-year-old woman had two pap smears showing malignant cells. What is the next procedure?",
+    "options": [
+      "Colposcopic examination",
+      "Hysterectomy",
+      "Radiation therapy",
+      "Repeat smear in 6 months",
+      "Conization of cervix"
+    ],
+    "correctAnswer": "Colposcopic examination",
+    "explanation": {
+      "correct": "Abnormal pap smears with malignant cells should be evaluated with colposcopic examination to identify and biopsy abnormal areas for diagnosis.",
+      "incorrect": [
+        {"option":"Hysterectomy","reason":"Too radical before confirming invasive carcinoma histologically."},
+        {"option":"Radiation therapy","reason":"Not initial diagnostic step."},
+        {"option":"Repeat smear","reason":"Inadequate, malignant cells need prompt evaluation."},
+        {"option":"Conization","reason":"Therapeutic-procedure if high grade CIN and indicated after colposcopy, not first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_69",
+    "case": "A mother of a 4-month-old, exclusively breastfeeding, is advised to start complementary feeding. What is the recommended duration for exclusive breastfeeding?",
+    "options": ["7 months","5 months","6 months","4 months","8 months"],
+    "correctAnswer": "6 months",
+    "explanation": {
+      "correct": "WHO recommends exclusive breastfeeding for first 6 months of life, then complementary foods introduced while continuing breastfeeding.",
+      "incorrect": [
+        {"option":"7 months","reason":"Complementary feeding should start earlier."},
+        {"option":"5 months","reason":"A bit early according to WHO."},
+        {"option":"4 months","reason":"Too early, excludes full benefits."},
+        {"option":"8 months","reason":"Delay may cause nutritional deficiencies."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_70",
+    "case": "A patient at 34 weeks gestation has marked pruritus on palms and soles, elevated liver enzymes and bile acids. Which diagnosis fits?",
+    "options": ["Pancreatitis","Hyperthyroidism","Diabetes insipidus","Cholestasis of pregnancy","Progesterone allergy"],
+    "correctAnswer": "Cholestasis of pregnancy",
+    "explanation": {
+      "correct": "This is classic for intrahepatic cholestasis of pregnancy, characterized by pruritus, elevated bile acids, mild LFT elevation without rash.",
+      "incorrect": [
+        {"option":"Pancreatitis","reason":"Would have abdominal pain, not just itch."},
+        {"option":"Hyperthyroidism","reason":"Not matching presentation."},
+        {"option":"Diabetes insipidus","reason":"Presents with polyuria, polydipsia, not itching."},
+        {"option":"Progesterone allergy","reason":"Not a recognized entity causing this profile."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_71",
+    "case": "The same patient with cholestasis of pregnancy is counseled. Under which condition are pruritus and jaundice likely to recur?",
+    "options": [
+      "Poor diet",
+      "Menopause",
+      "Antihypertensive drug use",
+      "Next pregnancy",
+      "After stopping breastfeeding"
+    ],
+    "correctAnswer": "Next pregnancy",
+    "explanation": {
+      "correct": "Intrahepatic cholestasis of pregnancy typically recurs in subsequent pregnancies due to hormonal triggers.",
+      "incorrect": [
+        {"option":"Poor diet","reason":"Not cause-related."},
+        {"option":"Menopause","reason":"Symptoms cease post-reproductive age."},
+        {"option":"Antihypertensives","reason":"Not causative."},
+        {"option":"After breastfeeding","reason":"No link to recurrence outside pregnancy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_72",
+    "case": "A 33-year-old with incapacitating menorrhagia failed oral contraceptives. She wishes to preserve fertility. Which option controls bleeding but reduces fertility and should be avoided?",
+    "options": [
+      "GnRH agonist (eg Zoladex)",
+      "Endometrial ablation",
+      "Levonorgestrel IUS",
+      "Tranexamic acid each period",
+      "Continuous OCPs"
+    ],
+    "correctAnswer": "Endometrial ablation",
+    "explanation": {
+      "correct": "Endometrial ablation treats menorrhagia but destroys endometrium and compromises future fertility. Should be avoided if patient wants pregnancy later.",
+      "incorrect": [
+        {"option":"GnRH agonist","reason":"Reversible effect on fertility."},
+        {"option":"Levonorgestrel IUS","reason":"Removable and fertility resumes after removal."},
+        {"option":"Tranexamic acid","reason":"Does not impair fertility."},
+        {"option":"Continuous OCPs","reason":"Stops when discontinued, fertility returns."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_73",
+    "case": "A 33-year-old woman with pelvic pain, amenorrhea, fever, weight loss, pelvic mass, laparoscopy showing dense adhesions and histology with giant cells in fallopian tube. Diagnosis?",
+    "options": ["Endometriosis","Gonococcal salpingitis","Tuberculosis of tubes","Adenocarcinoma","Salpingitis isthmica nodosa"],
+    "correctAnswer": "Tuberculosis of tubes",
+    "explanation": {
+      "correct": "Granulomas with giant cells in fallopian tube strongly indicate genital tuberculosis with pelvic adhesions.",
+      "incorrect": [
+        {"option":"Endometriosis","reason":"Has endometrial implants, not granulomas."},
+        {"option":"Gonococcal salpingitis","reason":"Acute infection, not giant cell granulomas."},
+        {"option":"Adenocarcinoma","reason":"Malignancy, not granulomas."},
+        {"option":"Salpingitis isthmica nodosa","reason":"Chronic nodularity, no giant cells."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_74",
+    "case": "A 64-year-old woman came for IUD insertion but complained of abnormal bleeding. What is the likely etiology?",
+    "options": [
+      "IUD presence",
+      "Unbalanced prostaglandin-thromboxane",
+      "Decreased endometrial vascular congestion",
+      "Endometrial cancer",
+      "Uterine perforation"
+    ],
+    "correctAnswer": "Endometrial cancer",
+    "explanation": {
+      "correct": "In a postmenopausal woman (64 years old), abnormal uterine bleeding must be presumed malignant until proven otherwise. Endometrial cancer is most likely.",
+      "incorrect": [
+        {"option":"IUD presence","reason":"Not relevant since IUD not yet inserted."},
+        {"option":"Prostaglandin imbalance","reason":"Applies to reproductive age bleeding with IUD."},
+        {"option":"Decreased vascular congestion","reason":"Not correct mechanism."},
+        {"option":"Uterine perforation","reason":"Would occur after attempted insertion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_75",
+    "case": "A 29-year-old woman with positive pregnancy test and missed period of 10 days. Ultrasound revealed empty uterus with IUD in place. What is appropriate next step?",
+    "options": [
+      "Immediate removal of IUD",
+      "Endometrial curettage",
+      "Repeat ultrasound in 2 weeks",
+      "Serial quantitative beta-hCG",
+      "Misoprostol induction"
+    ],
+    "correctAnswer": "Serial quantitative beta-hCG",
+    "explanation": {
+      "correct": "When a pregnancy test is positive but no sac visible, serial beta-hCG helps clarify whether early intrauterine pregnancy, miscarriage, or ectopic before intervention.",
+      "incorrect": [
+        {"option":"Immediate removal of IUD","reason":"Dangerous without confirming pregnancy location."},
+        {"option":"Endometrial curettage","reason":"Risk of terminating a viable early intrauterine pregnancy."},
+        {"option":"Repeat ultrasound","reason":"Useful but best combined with hCG serial testing."},
+        {"option":"Misoprostol","reason":"Not appropriate until diagnosis established."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_76",
+    "case": "A 48-year-old para 3 presented with long-standing dysmenorrhea and heavy menstrual bleeding, worsened since her last childbirth. Pelvic exam: tender, diffusely enlarged uterus, no adnexal mass. Endometrial biopsy was normal. What is the most likely diagnosis?",
+    "options": [
+      "Endometriosis",
+      "Endometritis",
+      "Leiomyoma",
+      "Adenomyosis",
+      "Anovulation"
+    ],
+    "correctAnswer": "Adenomyosis",
+    "explanation": {
+      "correct": "Adenomyosis is characterized by endometrial glands within the myometrium, causing a tender, diffusely enlarged uterus and significant dysmenorrhea with heavy periods.",
+      "incorrect": [
+        {"option":"Endometriosis","reason":"Endometrial tissue outside the uterus, typically with localized nodules and infertility, not diffusely enlarged uterus."},
+        {"option":"Endometritis","reason":"Usually acute with fever, pain, discharge."},
+        {"option":"Leiomyoma","reason":"Causes irregular enlargement or nodular uterus, not diffusely tender symmetric."},
+        {"option":"Anovulation","reason":"Causes irregular bleeding but uterus is normal in size."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_77",
+    "case": "A 64-year-old woman had an IUD inserted. Two months later she presented with abnormal uterine bleeding. What is the probable etiology?",
+    "options": [
+      "Malposition of device",
+      "Unbalanced prostaglandin-thromboxane ratio",
+      "Increased endometrial vascular congestion and degeneration",
+      "Normal uterine response to IUD",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": {
+      "correct": "IUD-related abnormal bleeding may occur due to multiple mechanisms: malposition, prostaglandin-thromboxane imbalance, vascular changes, and endometrial response.",
+      "incorrect": [
+        {"option":"Malposition of device","reason":"Possible contributor but not alone explains all."},
+        {"option":"Unbalanced prostaglandin-thromboxane ratio","reason":"Contributes but also not the only mechanism."},
+        {"option":"Increased endometrial vascular congestion","reason":"Mechanistic explanation but part of overall picture."},
+        {"option":"Normal uterine response to IUD","reason":"Common but the full answer requires considering all reasons."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_78",
+    "case": "Which vaginal infection is characterized by the presence of clue cells on a smear?",
+    "options": [
+      "Bacterial vaginosis",
+      "Candidiasis",
+      "Trichomoniasis",
+      "Chlamydia",
+      "None of the above"
+    ],
+    "correctAnswer": "Bacterial vaginosis",
+    "explanation": {
+      "correct": "Clue cells (epithelial cells coated with bacteria obscuring borders) are the diagnostic hallmark of bacterial vaginosis caused by Gardnerella vaginalis.",
+      "incorrect": [
+        {"option":"Candidiasis","reason":"Shows budding yeast or pseudohyphae, not clue cells."},
+        {"option":"Trichomoniasis","reason":"Shows motile trichomonads, not clue cells."},
+        {"option":"Chlamydia","reason":"Requires NAAT testing, not diagnosed by clue cells."},
+        {"option":"None of the above","reason":"Incorrect because clue cells exactly define bacterial vaginosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_79",
+    "case": "A 70-year-old woman recovered from stroke has right-sided sensory loss in arm > leg, right homonymous hemianopia, and difficulty dressing. Cranial nerves intact. Which vascular territory was affected?",
+    "options": [
+      "Middle cerebral artery",
+      "Lacunar infarct",
+      "Anterior cerebral artery",
+      "Posterior cerebral artery",
+      "Posterior inferior cerebellar artery"
+    ],
+    "correctAnswer": "Middle cerebral artery",
+    "explanation": {
+      "correct": "MCA territory stroke causes contralateral face/arm weakness > leg, hemisensory loss, visual field deficits, and neglect/apraxia.",
+      "incorrect": [
+        {"option":"Lacunar infarct","reason":"Causes isolated motor/sensory, smaller focal deficits, not full syndrome."},
+        {"option":"Anterior cerebral artery","reason":"Causes leg > arm weakness, not arm > leg."},
+        {"option":"Posterior cerebral artery","reason":"Leads to contralateral homonymous hemianopia but without arm-dominant weakness."},
+        {"option":"Posterior inferior cerebellar artery","reason":"Affects brainstem and cerebellum, not this pattern."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_80",
+    "case": "A 32-year-old woman with infertility and dysmenorrhea considered endometriosis. Which finding is most valuable to reach diagnosis?",
+    "options": [
+      "Nodularity of uterosacral ligaments",
+      "Ovarian enlargement",
+      "Fixed retroverted uterus",
+      "Visualization of implants by laparoscopy",
+      "Dyspareunia"
+    ],
+    "correctAnswer": "Visualization of implants by laparoscopy",
+    "explanation": {
+      "correct": "The gold standard for diagnosing endometriosis is direct laparoscopic visualization and biopsy of the implants. Clinical signs support suspicion but laparoscopy is most definitive.",
+      "incorrect": [
+        {"option":"Nodularity of uterosacral ligaments","reason":"Suggestive but not diagnostic."},
+        {"option":"Ovarian enlargement","reason":"Could be due to other cysts."},
+        {"option":"Fixed retroverted uterus","reason":"Not specific for endometriosis."},
+        {"option":"Dyspareunia","reason":"Non-specific symptom; not diagnostic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_81",
+    "case": "A 9-year-old girl presents with regular vaginal bleeding. She had breast development at age 7 and pubic hair at 8. What is the most common cause of this condition?",
+    "options": [
+      "Idiopathic",
+      "Gonadal tumors",
+      "McCune-Albright syndrome",
+      "Hypothyroidism",
+      "None of the above"
+    ],
+    "correctAnswer": "Idiopathic",
+    "explanation": {
+      "correct": "Central precocious puberty is the most common cause of early menarche and pubertal changes in girls and is usually idiopathic in origin.",
+      "incorrect": [
+        {"option": "Gonadal tumors", "reason": "Cause peripheral precocity, but they are rare compared with idiopathic central precocity."},
+        {"option": "McCune-Albright syndrome", "reason": "Can cause precocity but is far less common."},
+        {"option": "Hypothyroidism", "reason": "May rarely cause precocity, but not the most common."},
+        {"option": "None of the above", "reason": "Incorrect because idiopathic central precocity is correct."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_82",
+    "case": "A woman in the early third trimester presents with fever, chills, nausea and backache. Temp 40.5°C. Urine shows bacteria and WBCs. What is the most likely diagnosis?",
+    "options": ["Acute appendicitis", "Ruptured uterus", "Pyelonephritis", "Placental abruption", "Labor"],
+    "correctAnswer": "Pyelonephritis",
+    "explanation": {
+      "correct": "High fever with bacteriuria and WBCs during pregnancy is most consistent with pyelonephritis, a serious complication requiring IV antibiotics.",
+      "incorrect": [
+        {"option":"Acute appendicitis","reason":"Would not show bacteria/WBCs in urine."},
+        {"option":"Ruptured uterus","reason":"Typically presents with severe pain and abnormal fetal heart pattern, not bacteriuria."},
+        {"option":"Placental abruption","reason":"Painful bleeding, no urinary changes."},
+        {"option":"Labor","reason":"Does not cause fever or pyuria."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_83",
+    "case": "A 25-year-old considering contraceptives prefers IUD. Which is a contraindication?",
+    "options": ["History of recent PID", "Previous pregnancy with IUD", "History of vaginitis", "Previous chorioamnionitis", "History of preterm labor"],
+    "correctAnswer": "History of recent PID",
+    "explanation": {
+      "correct": "Active or recent pelvic inflammatory disease is an absolute contraindication to IUD insertion due to risk of ascending infection.",
+      "incorrect": [
+        {"option":"Previous pregnancy with IUD","reason":"Not a contraindication by itself."},
+        {"option":"History of vaginitis","reason":"Treat infection before insertion, not absolute contraindication."},
+        {"option":"Previous chorioamnionitis","reason":"Not contraindication unless active infection at present."},
+        {"option":"History of preterm labor","reason":"Not related to IUD eligibility."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_84",
+    "case": "A 26-year-old woman had an IUD removed 2 months ago. Missed her period, serum β-HCG = 550 then 875 after 48 hours, no intrauterine sac on ultrasound. What is the most likely diagnosis?",
+    "options": [
+      "No pregnancy intra or extrauterine",
+      "Threatened abortion",
+      "Intrauterine missed abortion",
+      "Ectopic pregnancy",
+      "Very early intrauterine pregnancy"
+    ],
+    "correctAnswer": "Ectopic pregnancy",
+    "explanation": {
+      "correct": "Inadequate rise of β-HCG over 48h and absent intrauterine sac strongly point to ectopic pregnancy.",
+      "incorrect": [
+        {"option":"No pregnancy","reason":"β-HCG proves pregnancy is present."},
+        {"option":"Threatened abortion","reason":"Rise in β-HCG would usually be normal or declining in miscarriage."},
+        {"option":"Intrauterine missed abortion","reason":"Would show sac inside uterus."},
+        {"option":"Very early intrauterine pregnancy","reason":"Rise should nearly double, here increase is suboptimal raising ectopic suspicion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_85",
+    "case": "A 32-year-old gravida 2 para 4 illegally aborted at 8 weeks by unqualified person. Now with fever, foul bleeding, tachycardia, tender uterus. What is the diagnosis?",
+    "options": [
+      "Undiagnosed ectopic pregnancy",
+      "Severe UTI",
+      "Incomplete evacuation",
+      "Septic abortion",
+      "Trichomonas infection"
+    ],
+    "correctAnswer": "Septic abortion",
+    "explanation": {
+      "correct": "History of unsafe abortion with subsequent fever, foul offensive bleeding and uterine tenderness is septic abortion until proven otherwise.",
+      "incorrect": [
+        {"option":"Ectopic","reason":"Uterus would not be enlarged with retained tissues and sepsis."},
+        {"option":"UTI","reason":"No urinary findings or context."},
+        {"option":"Incomplete evacuation","reason":"Possible but with foul discharge and sepsis, septic abortion is diagnosis."},
+        {"option":"Trichomonas","reason":"Not causing such acute systemic sepsis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_86",
+    "case": "A 23-year-old considering IUD but opposed to any abortion risk. What is the primary mechanism by which IUD prevents pregnancy?",
+    "options": [
+      "Decreases sperm motility",
+      "Alters tubal motility",
+      "Prevents fertilization",
+      "Inhibits ovulation",
+      "Creates chronic endometritis"
+    ],
+    "correctAnswer": "Prevents fertilization",
+    "explanation": {
+      "correct": "IUD mainly prevents fertilization by creating hostile environment for sperm (copper → toxic to sperm; LNG-IUS thickens cervical mucus).",
+      "incorrect": [
+        {"option":"Decreases motility","reason":"Secondary, not primary."},
+        {"option":"Alters tubal motility","reason":"Not main mechanism."},
+        {"option":"Inhibits ovulation","reason":"OCPs do that, not IUD."},
+        {"option":"Creates chronic endometritis","reason":"Old misunderstood theory, not true physiology."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_87",
+    "case": "A 20-year-old with irregular cycles and mild hirsutism has slightly elevated testosterone only. She does not want pregnancy. What is the appropriate management?",
+    "options": [
+      "Bromocriptine",
+      "Clomiphene citrate",
+      "GnRH stimulation test",
+      "D&C",
+      "Combined oral contraceptives"
+    ],
+    "correctAnswer": "Combined oral contraceptives",
+    "explanation": {
+      "correct": "For PCOS with mild hyperandrogenism in a woman not seeking pregnancy, combined OCPs are treatment of choice for cycle regulation and symptoms.",
+      "incorrect": [
+        {"option":"Bromocriptine","reason":"Used for hyperprolactinemia."},
+        {"option":"Clomiphene","reason":"For ovulation induction in women desiring pregnancy."},
+        {"option":"GnRH stimulation test","reason":"Diagnostic test, not therapy."},
+        {"option":"D&C","reason":"Not indicated here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_88",
+    "case": "A 25-year-old woman at 37 weeks with blood pressure 140/95, nonreactive NST, and BPP ordered. An abnormal BPP predicts what most closely?",
+    "options": [
+      "High risk of intrauterine death within 1 week",
+      "Small for gestational age fetus",
+      "Maternal preeclampsia",
+      "Meconium staining",
+      "Placental abruption"
+    ],
+    "correctAnswer": "High risk of intrauterine death within 1 week",
+    "explanation": {
+      "correct": "An abnormal biophysical profile correlates strongly with risk of stillbirth or intrauterine death within the next week.",
+      "incorrect": [
+        {"option":"Small baby","reason":"May coexist but not what abnormal BPP predicts directly."},
+        {"option":"Preeclampsia","reason":"Maternal diagnosis, not predicted by BPP."},
+        {"option":"Meconium","reason":"Correlates with distress but not specifically predicted by BPP."},
+        {"option":"Abruption","reason":"Acute event, not predicted."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_89",
+    "case": "A 25-year-old pregnant woman has grey-white ‘fishy’ vaginal discharge, pH 5.5, with clue cells. Which pregnancy complication is associated?",
+    "options": ["Oligohydramnios", "Preterm birth", "Placenta previa", "Placental abruption", "Preeclampsia"],
+    "correctAnswer": "Preterm birth",
+    "explanation": {
+      "correct": "Bacterial vaginosis in pregnancy increases risk of preterm birth, premature rupture of membranes, and postpartum endometritis.",
+      "incorrect": [
+        {"option":"Oligohydramnios","reason":"Not related."},
+        {"option":"Placenta previa","reason":"Independent condition unrelated to infection."},
+        {"option":"Placental abruption","reason":"Not direct link with BV."},
+        {"option":"Preeclampsia","reason":"Not associated with BV."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_90",
+    "case": "A 22-year-old has used depot medroxyprogesterone for 2 years, now amenorrheic for 6 months, otherwise healthy and wishes to continue. Most appropriate management?",
+    "options": [
+      "Change contraceptive",
+      "Add cyclic estrogen",
+      "Check calcium concentration",
+      "DXA scan",
+      "Continue DMPA"
+    ],
+    "correctAnswer": "Continue DMPA",
+    "explanation": {
+      "correct": "Amenorrhea is a common side effect of DMPA and is safe. No need for intervention if no other symptoms.",
+      "incorrect": [
+        {"option":"Change contraceptive","reason":"Not necessary if patient is happy."},
+        {"option":"Add cyclic estrogen","reason":"Not required in otherwise healthy woman."},
+        {"option":"Check calcium","reason":"Not indicated unless risk factors for osteoporosis."},
+        {"option":"DXA scan","reason":"Not indicated in healthy young woman for 2 years use."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_91",
+    "case": "An unconscious pregnant patient at 8 months presented with BP 60/20 and pulse 120. No external bleeding. What is the most likely diagnosis?",
+    "options": [
+      "Placental abruption",
+      "Placenta previa",
+      "Vasa previa",
+      "Cervical cancer",
+      "Cervicitis"
+    ],
+    "correctAnswer": "Placental abruption",
+    "explanation": {
+      "correct": "Shock in pregnancy without external bleeding is suggestive of concealed abruptio placentae.",
+      "incorrect": [
+        {"option":"Placenta previa","reason":"Bleeding is usually visible and painless."},
+        {"option":"Vasa previa","reason":"Shows sudden bleeding at membrane rupture, not concealed shock."},
+        {"option":"Cervical cancer","reason":"Causes visible bleeding, not shock."},
+        {"option":"Cervicitis","reason":"Mild bleeding, not hypovolemic shock."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_92",
+    "case": "A 30-year-old with antiphospholipid syndrome on heparin developed mild hypertension and proteinuria at 30 weeks. Kidneys and liver normal. What is the proper plan?",
+    "options": [
+      "Terminate at 38 weeks",
+      "Terminate at term",
+      "Terminate at 34 weeks",
+      "Immediate termination",
+      "Terminate at 36 weeks"
+    ],
+    "correctAnswer": "Terminate at 36 weeks",
+    "explanation": {
+      "correct": "In women with APS and preeclampsia that is stable and not severe, planned delivery at 36 weeks balances maternal and fetal risk.",
+      "incorrect": [
+        {"option":"38 weeks/term","reason":"Waiting longer risks worsening pre-eclampsia or complications."},
+        {"option":"34 weeks","reason":"Too early without severe features."},
+        {"option":"Immediate termination","reason":"Not indicated as both mother and labs are stable."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_93",
+    "case": "A 35-year-old diagnosed with invasive mole of low-risk score after evacuation. What is next management?",
+    "options": [
+      "Follow-up β-HCG levels",
+      "Chemotherapy",
+      "Hysterectomy",
+      "No further management",
+      "Endometrial biopsy"
+    ],
+    "correctAnswer": "Chemotherapy",
+    "explanation": {
+      "correct": "Invasive mole (a form of gestational trophoblastic neoplasia) requires chemotherapy, usually with single-agent methotrexate if low-risk.",
+      "incorrect": [
+        {"option":"β-HCG follow-up","reason":"Done for molar pregnancy remission, not invasive mole."},
+        {"option":"Hysterectomy","reason":"Considered for high risk/non-responders, not initial."},
+        {"option":"No management","reason":"Would allow progression of disease."},
+        {"option":"Endometrial biopsy","reason":"Doesn’t treat the condition."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_94",
+    "case": "A 30-year-old para 3 asked about chances of a boy after 3 girls. What is correct explanation of sex determinant?",
+    "options": [
+      "She has dominant X chromosome",
+      "Always possible to get boy",
+      "Her husband’s Y sperm defective",
+      "Familial girl tendency",
+      "Sperm carries only X chromosome"
+    ],
+    "correctAnswer": "Always possible to get boy",
+    "explanation": {
+      "correct": "Sex is determined by the sperm (X or Y). Each pregnancy is independent, so she has chance of male or female regardless of previous girls.",
+      "incorrect": [
+        {"option":"Dominant X","reason":"Not true; sex determined by presence of Y chromosome."},
+        {"option":"Defective Y sperm","reason":"Not indicated."},
+        {"option":"Familial tendency","reason":"Not a genetic tendency this way."},
+        {"option":"Sperm only X","reason":"Incorrect, eggs are X, sperms carry X or Y."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_95",
+    "case": "A 35-year-old para 3 with abnormal pap smear, colposcopy showed punctation and mosaicism. Final diagnosis is made by:",
+    "options": [
+      "Histopathology",
+      "Tumor markers",
+      "Schiller test",
+      "Pap smear",
+      "Conization"
+    ],
+    "correctAnswer": "Histopathology",
+    "explanation": {
+      "correct": "Definitive diagnosis of CIN or malignancy is made by histopathological examination of biopsy tissue.",
+      "incorrect": [
+        {"option":"Tumor markers","reason":"Not diagnostic tool."},
+        {"option":"Schiller","reason":"Screening aid, not definitive."},
+        {"option":"Pap smear","reason":"Screen, not diagnostic."},
+        {"option":"Conization","reason":"Therapeutic and diagnostic, but usually biopsy histology provides final diagnosis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_96",
+    "case": "A 35-year-old para 3, with abnormal pap and mosaicism/punctation on colposcopy. What makes final diagnosis?",
+    "options": ["Biopsy","Tumor markers","Schiller iodine test","Pap smear","Conization"],
+    "correctAnswer": "Biopsy",
+    "explanation": {
+      "correct": "A directed biopsy from colposcopic abnormal site is required for histopathologic confirmation.",
+      "incorrect": [
+        {"option":"Tumor markers","reason":"Not used here."},
+        {"option":"Schiller iodine","reason":"Adjunct but not primary diagnostic."},
+        {"option":"Pap smear","reason":"Screening test only."},
+        {"option":"Conization","reason":"Reserved for confirmed CIN2/3 or microinvasive carcinoma, not first step."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_97",
+    "case": "A 29-year-old para 2 using COCs for 7 months. Family history: mother died of breast cancer. What advice is appropriate?",
+    "options": [
+      "Use prophylactic anti-estrogen",
+      "Regular hormone testing",
+      "Regular breast cancer screening",
+      "Shift to non-hormonal method",
+      "Ask for mother’s pathology report"
+    ],
+    "correctAnswer": "Regular breast cancer screening",
+    "explanation": {
+      "correct": "With strong FHx of breast cancer, regular screening (mammography from appropriate age, breast awareness) is mandatory, regardless of contraception use.",
+      "incorrect": [
+        {"option":"Anti-estrogen","reason":"Not recommended prophylactically."},
+        {"option":"Hormone testing","reason":"Not predictive of risk."},
+        {"option":"Non-hormonal","reason":"Not obligatory; COCs can be continued unless contraindications exist."},
+        {"option":"Pathology report","reason":"Not needed for current patient management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_98",
+    "case": "A 24-year-old primigravida at 9 weeks presented with mild spotting. US: viable 9-week fetus with small caudal separation of the sac. What should be done?",
+    "options": [
+      "Immediate termination",
+      "Cervical cerclage",
+      "Conservative follow up",
+      "Tocolytics",
+      "Rectal NSAIDs"
+    ],
+    "correctAnswer": "Conservative follow up",
+    "explanation": {
+      "correct": "This is a threatened miscarriage with viable embryo. Expectant management with reassurance and follow-up is appropriate.",
+      "incorrect": [
+        {"option":"Immediate termination","reason":"Inappropriate when fetus viable."},
+        {"option":"Cervical cerclage","reason":"Continuous pregnancies at 9 weeks not for cerclage."},
+        {"option":"Tocolytics","reason":"Not effective in early threatened miscarriage."},
+        {"option":"Rectal NSAIDs","reason":"Not used in miscarriage management."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_99",
+    "case": "A 35-year-old with IUD presents with irregular cycles 33–90 days and heavy flow, plus hirsutism. Most suitable medication?",
+    "options":["Clomiphene","Combined OCPs","Antiprostaglandin","Progesterone","hCG"],
+    "correctAnswer":"Combined OCPs",
+    "explanation":{
+      "correct":"For cycle irregularity and hyperandrogenism not desiring pregnancy, combined OCPs regulate cycles and suppress androgens.",
+      "incorrect":[
+        {"option":"Clomiphene","reason":"For ovulation induction in infertility, not this case."},
+        {"option":"Antiprostaglandin","reason":"Used for dysmenorrhea, not management."},
+        {"option":"Progesterone","reason":"Can regulate but less effective for hirsutism."},
+        {"option":"hCG","reason":"Not indicated in PCOS."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_100",
+    "case": "A 23-year-old on regular COCs presents with fever, adnexal pain, cervical motion tenderness, WBC 12,000. What is the most likely diagnosis?",
+    "options":[
+      "Ectopic pregnancy",
+      "Pelvic inflammatory disease",
+      "Endometriosis",
+      "UTI",
+      "Ruptured corpus luteum cyst"
+    ],
+    "correctAnswer":"Pelvic inflammatory disease",
+    "explanation":{
+      "correct":"Triad of pelvic pain, fever, cervical motion tenderness, and leukocytosis is classic for PID.",
+      "incorrect":[
+        {"option":"Ectopic pregnancy","reason":"Needs positive HCG; not mentioned."},
+        {"option":"Endometriosis","reason":"Chronic pain and infertility, not acute febrile illness."},
+        {"option":"UTI","reason":"Would show urinary symptoms not cervical motion tenderness."},
+        {"option":"Ruptured corpus luteum","reason":"Pain only, not febrile inflammatory signs."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_101",
+    "case": "A 39-year-old pregnant woman at 36 weeks known diabetic presented with cessation of fetal movements. NST was non-reactive. What is the next step?",
+    "options": [
+      "Repeat NST after 1 hour",
+      "Perform a biophysical profile",
+      "Doppler fetoplacental assessment",
+      "Induce labor",
+      "Cesarean section"
+    ],
+    "correctAnswer": "Perform a biophysical profile",
+    "explanation": {
+      "correct": "Non-reactive NST requires additional assessment with BPP to evaluate fetal wellbeing before deciding on induction or cesarean.",
+      "incorrect": [
+        {"option":"Repeat NST","reason":"May be done but immediate BPP is more appropriate when decreased fetal movement reported."},
+        {"option":"Doppler study","reason":"Useful if growth restriction suspected. In acute situation, BPP is most direct."},
+        {"option":"Induce labor","reason":"Not before confirming fetal condition."},
+        {"option":"Cesarean section","reason":"Might be needed if BPP abnormal, but not the first step."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_102",
+    "case": "A diabetic mother with 32 weeks pregnancy. Fetus weighs 3.1kg. Previous LSCS for distress. What is best plan?",
+    "options": [
+      "Induction at 38 weeks",
+      "Elective LSCS at 36 weeks",
+      "Elective LSCS at 38 weeks",
+      "Elective LSCS at 40 weeks",
+      "None of the above"
+    ],
+    "correctAnswer": "Elective LSCS at 38 weeks",
+    "explanation": {
+      "correct": "In diabetic mothers with macrosomia and prior LSCS, elective cesarean delivery is planned at 38 weeks to avoid complications and neonatal morbidity.",
+      "incorrect": [
+        {"option":"Induction","reason":"Induction not recommended in prior LSCS with macrosomia."},
+        {"option":"Elective LSCS at 36","reason":"Too early, risk prematurity."},
+        {"option":"Elective LSCS at 40","reason":"Too late, risk stillbirth/macrosomia complications."},
+        {"option":"None of above","reason":"Elective LSCS at 38 is correct choice."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_103",
+    "case": "A 25-year-old woman comes for her first cervical cancer screen. What is the most appropriate initial test?",
+    "options":[
+      "Pap smear every year",
+      "High risk HPV testing alone",
+      "Pap smear with HPV testing",
+      "Liquid based cytology",
+      "Colposcopy with biopsy"
+    ],
+    "correctAnswer":"Pap smear with HPV testing",
+    "explanation":{
+      "correct":"Co-testing (Pap smear + hrHPV) is the gold standard for women 30 years and older. For 25, cytology alone is acceptable but co-testing is best initial in many guidelines.",
+      "incorrect":[
+        {"option":"Pap smear every year","reason":"Annual not recommended; intervals are longer."},
+        {"option":"hrHPV alone","reason":"Not primary alone in young age."},
+        {"option":"Liquid cytology","reason":"Method of preparation, not the screen strategy itself."},
+        {"option":"Colposcopy","reason":"Indicated if abnormal, not initial screening."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_104",
+    "case": "A 32-year-old woman with amenorrhea was found to have prolactin level 89 ng/mL. Which medication is most likely the cause?",
+    "options":["PPI","SSRI","Thiazide diuretic","ACE inhibitor","Thyroxine replacement"],
+    "correctAnswer":"SSRI",
+    "explanation":{
+      "correct":"Selective serotonin reuptake inhibitors increase prolactin via dopamine inhibition. This can cause amenorrhea and galactorrhea.",
+      "incorrect":[
+        {"option":"PPI","reason":"No effect on prolactin."},
+        {"option":"Thiazide","reason":"Associated with electrolytes not prolactin."},
+        {"option":"ACE inhibitor","reason":"Not acting on dopamine pathways."},
+        {"option":"Thyroxine","reason":"Treats hypothyroidism, does not elevate prolactin."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_105",
+    "case": "A 32-year-old woman with GDM at 36 weeks has reduced fetal movements, NST shows absent variability. What is next?",
+    "options":["Emergency cesarean","Give insulin","Check mother's glucose","Do biophysical profile","Perform amniotomy"],
+    "correctAnswer":"Emergency cesarean",
+    "explanation":{
+      "correct":"Absent variability with reduced movement in diabetic mother indicates fetal compromise → expedite delivery via emergency cesarean.",
+      "incorrect":[
+        {"option":"Give insulin","reason":"Not acute intrauterine treatment."},
+        {"option":"Check maternal glucose","reason":"Important but does not improve acute fetal compromise."},
+        {"option":"Biophysical profile","reason":"Not needed; absent variability mandates immediate delivery."},
+        {"option":"Amniotomy","reason":"Unsafe, must deliver immediately."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_106",
+    "case": "In labor at 7 cm, patient had prolonged fetal bradycardia. Immediate proper action?",
+    "options":[
+      "Emergency caesarean",
+      "Oxygen supplementation",
+      "Change maternal position",
+      "Increase fluids",
+      "Artificial rupture of membranes"
+    ],
+    "correctAnswer":"Change maternal position",
+    "explanation":{
+      "correct":"The first immediate step in treating prolonged bradycardia is intrauterine resuscitation maneuvers like maternal position change to relieve cord compression.",
+      "incorrect":[
+        {"option":"Emergency caesarean","reason":"Considered if bradycardia persists after maneuvers."},
+        {"option":"Oxygen","reason":"Can be given but first is position change."},
+        {"option":"Increase fluids","reason":"Supportive, not primary immediate."},
+        {"option":"ARM","reason":"Not appropriate in bradycardia situation."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_107",
+    "case": "A 32-year-old woman with copious yellow frothy vaginal discharge. What is the pharmacotherapy?",
+    "options":[
+      "Oral/vaginal metronidazole",
+      "Doxycycline",
+      "Antimycotic ovules",
+      "Oral fluconazole",
+      "Repeated alkaline douche"
+    ],
+    "correctAnswer":"Oral/vaginal metronidazole",
+    "explanation":{
+      "correct":"Yellow frothy discharge with itching is Trichomoniasis, treated with oral and vaginal metronidazole.",
+      "incorrect":[
+        {"option":"Doxycycline","reason":"Used for chlamydia, not trichomonas."},
+        {"option":"Antimycotic","reason":"Used for candida infection."},
+        {"option":"Fluconazole","reason":"For candida."},
+        {"option":"Douches","reason":"Not treatment, may worsen infection."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_108",
+    "case": "A 75-year-old woman with vulvar itching and pigmented lesion on labia majora. Next step?",
+    "options":["Antibiotic","Antifungal","Steroid cream","Psychiatry","Biopsy lesion"],
+    "correctAnswer":"Biopsy lesion",
+    "explanation":{
+      "correct":"Any suspicious vulvar lesion in elderly requires biopsy to rule out vulvar carcinoma or melanoma.",
+      "incorrect":[
+        {"option":"Antibiotic","reason":"No evidence of bacterial infection."},
+        {"option":"Antifungal","reason":"Not typical for infection."},
+        {"option":"Steroid cream","reason":"Symptomatic only, not diagnostic."},
+        {"option":"Psychiatry","reason":"Rule out organic lesion first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_109",
+    "case": "At 32 weeks, patient has heavy painful bleeding, uterus hypertonic, severe late decelerations. Cervix closed. What management?",
+    "options":["Cesarean section","Magnesium sulfate","Oxytocin","Terbutaline","Await vaginal delivery"],
+    "correctAnswer":"Cesarean section",
+    "explanation":{
+      "correct":"Acute abruption with fetal distress requires immediate cesarean delivery.",
+      "incorrect":[
+        {"option":"Magnesium","reason":"For seizure prophylaxis, not acute abruption."},
+        {"option":"Oxytocin","reason":"Dangerous here."},
+        {"option":"Terbutaline","reason":"Not indicated."},
+        {"option":"Await","reason":"Unsafe for fetus and mother."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_110",
+    "case": "A 16-year-old presented with very heavy bleeding and clots, negative pregnancy test, ultrasound normal. What is best management?",
+    "options":["OCPs","Expectant","NSAIDs","IUD","Hysterectomy"],
+    "correctAnswer":"OCPs",
+    "explanation":{
+      "correct":"Adolescent anovulatory heavy bleeding is best treated acutely with combined oral contraceptives to stabilize endometrium.",
+      "incorrect":[
+        {"option":"Expectant","reason":"Bleeding is heavy, needs treatment."},
+        {"option":"NSAIDs","reason":"Reduce flow but insufficient for severe heavy bleeding."},
+        {"option":"IUD","reason":"Not first-line acute management."},
+        {"option":"Hysterectomy","reason":"Not indicated in teenage patient."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_111",
+    "case": "A 32-year-old with unexplained infertility and dysmenorrhea underwent laparoscopy. Which finding is most likely?",
+    "options":["Intrauterine adhesions","Endometrial polyp","Endometriotic spots","Chronic endometritis","Low ovarian reserve"],
+    "correctAnswer":"Endometriotic spots",
+    "explanation":{
+      "correct":"Classic triad infertility + dysmenorrhea + dyspareunia correlates with endometriosis; laparoscopy shows implants/spots.",
+      "incorrect":[
+        {"option":"Adhesions","reason":"Would follow infections/curettage."},
+        {"option":"Polyp","reason":"Cause abnormal bleeding, not severe dysmenorrhea."},
+        {"option":"Endometritis","reason":"Would cause pelvic pain, not classic triad."},
+        {"option":"Low reserve","reason":"Lab finding (AMH, FSH), not laparoscopy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_112",
+    "case": "A 25-year-old presents 2 days postpartum with fever 38.5°C, no abdominal pain, minimal bleeding, no urinary issues, neonate in ICU. Uterus tender and bulky. What is diagnosis?",
+    "options":["UTI","Breast engorgement","DVT","Endometritis","Respiratory infection"],
+    "correctAnswer":"Endometritis",
+    "explanation":{
+      "correct":"Most common cause of fever 2–10 days postpartum is endometritis especially after prolonged labor or multiple exams.",
+      "incorrect":[
+        {"option":"UTI","reason":"No urinary findings."},
+        {"option":"Breast engorgement","reason":"Typically 3-5 days, but pain in breasts not uterus."},
+        {"option":"DVT","reason":"Local leg signs, not uterine tenderness."},
+        {"option":"Respiratory infection","reason":"No symptoms supporting chest infection."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_113",
+    "case": "A 56-year-old overweight, hypertensive and diabetic woman with postmenopausal bleeding. Most likely cause?",
+    "options":["Peripheral estrogen conversion","HTN and diabetes","Endometrial carcinoma","Cervical carcinoma","Atrophic endometritis"],
+    "correctAnswer":"Endometrial carcinoma",
+    "explanation":{
+      "correct":"Obesity, HTN, DM increase risk of endometrial carcinoma which is the most likely cause of postmenopausal bleeding here.",
+      "incorrect":[
+        {"option":"Peripheral conversion","reason":"Explains pathophysiology but not the diagnosis."},
+        {"option":"HTN and diabetes","reason":"Risk factors but not diagnosis."},
+        {"option":"Cervical carcinoma","reason":"Presents with postcoital bleeding."},
+        {"option":"Atrophic endometritis","reason":"Can cause postmenopausal bleeding but less likely with risk factors here."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_114",
+    "case": "A 62-year-old presents with vulvar itching and dyspareunia. Exam: pale mucosa, dry vagina, negative KOH. What is initial management?",
+    "options":["Metronidazole cream","Clotrimazole cream","Estrogen vaginal cream","Fluconazole","Oral metronidazole"],
+    "correctAnswer":"Estrogen vaginal cream",
+    "explanation":{
+      "correct":"Symptoms of genitourinary syndrome of menopause (atrophic vaginitis) require local estrogen therapy.",
+      "incorrect":[
+        {"option":"Metronidazole","reason":"Used for bacterial vaginosis."},
+        {"option":"Clotrimazole","reason":"Used for candidiasis."},
+        {"option":"Fluconazole","reason":"Not relevant here."},
+        {"option":"Oral metronidazole","reason":"Not indicated."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_115",
+    "case": "A 35-year-old non-diabetic at 30 weeks treated repeatedly with ampicillin for UTI developed thick white vaginal discharge and vulval itching. Best treatment?",
+    "options":["Oral metronidazole","Vinegar douche","Systemic antifungal","Estrogen cream","Local antifungal"],
+    "correctAnswer":"Local antifungal",
+    "explanation":{
+      "correct":"Classic vulvovaginal candidiasis after antibiotics. Treat safely in pregnancy with local antifungal agents like clotrimazole or miconazole.",
+      "incorrect":[
+        {"option":"Metronidazole","reason":"Used for BV/trichomonas."},
+        {"option":"Vinegar douche","reason":"Not recommended."},
+        {"option":"Systemic antifungal","reason":"Avoid systemic azoles in pregnancy."},
+        {"option":"Estrogen cream","reason":"Used for atrophic vaginitis, not candida."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_116",
+    "case": "A 24-year-old with pain, vaginal spotting at 5 weeks pregnancy. Abdomen tender RLQ, vitals stable. What diagnostic step?",
+    "options":["X-ray","CT","TSH","Serum hCG","Laparoscopy"],
+    "correctAnswer":"Serum hCG",
+    "explanation":{
+      "correct":"Next step with possible ectopic is quantitative serum hCG, paired with ultrasound, for diagnosis.",
+      "incorrect":[
+        {"option":"X-ray","reason":"Not helpful."},
+        {"option":"CT","reason":"Avoid radiation, not indicated."},
+        {"option":"TSH","reason":"Not relevant."},
+        {"option":"Laparoscopy","reason":"Definitive but not initial."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_117",
+    "case": "A primigravida at 38 weeks with placenta previa and heavy vaginal bleeding, vitals stable, FHR 140. Speculum: cervix closed. What is next management?",
+    "options":["Await delivery","Artificial ROM","B-Lynch suture","Cervical cerclage","Cesarean delivery"],
+    "correctAnswer":"Cesarean delivery",
+    "explanation":{
+      "correct":"Symptomatic placenta previa mandates cesarean delivery; vaginal unsafe.",
+      "incorrect":[
+        {"option":"Await","reason":"Not safe with active bleeding."},
+        {"option":"ARM","reason":"Causes catastrophic bleeding."},
+        {"option":"B-Lynch","reason":"Procedure for atonic PPH, not previa."},
+        {"option":"Cerclage","reason":"Used for cervical incompetence, not bleeding previa."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_118",
+    "case": "A 28-year-old woman post C-section worries about wound infection. What should be recommended?",
+    "options":["Vigorous cleaning","Remove dressing after 3-6h","Wear tight synthetic clothes","Aseptic technique with dressing change","No need to assess wound"],
+    "correctAnswer":"Aseptic technique with dressing change",
+    "explanation":{
+      "correct":"Preventing surgical wound infection depends critically on aseptic wound care during dressing changes.",
+      "incorrect":[
+        {"option":"Vigorous daily cleaning","reason":"May traumatize wound."},
+        {"option":"Remove dressing early","reason":"Too early, increases risk."},
+        {"option":"Tight clothes","reason":"Increases infection risk."},
+        {"option":"Not assess wound","reason":"Always assess for early infection."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_119",
+    "case": "A 29-year-old with severe abdominal pain, fever, chills, and recent IUD placement. Exam: cervical motion tenderness, bilateral adnexal tenderness. US normal. Diagnosis?",
+    "options":["Ovarian torsion","Appendicitis","Hemorrhagic cyst","Pelvic inflammatory disease","Pyelonephritis"],
+    "correctAnswer":"Pelvic inflammatory disease",
+    "explanation":{
+      "correct":"Classic PID presentation with pelvic pain, fever, adnexal and cervical motion tenderness post IUD insertion.",
+      "incorrect":[
+        {"option":"Ovarian torsion","reason":"Causes acute pain but no systemic fever/WBC."},
+        {"option":"Appendicitis","reason":"Pain localizes RLQ, not bilateral adnexa."},
+        {"option":"Hemorrhagic cyst","reason":"No fever, no tenderness widespread."},
+        {"option":"Pyelonephritis","reason":"Would have urinary symptoms."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_120",
+    "case": "A 34-year-old woman often experiences mittelschmerz (ovulatory pain) and wants contraception to reduce this. Which method is inappropriate?",
+    "options":["IUD","Combined pills","Barrier method","Natural family planning","Tubal ligation"],
+    "correctAnswer":"IUD",
+    "explanation":{
+      "correct":"Mittelschmerz is midcycle ovulatory pain. IUD does not suppress ovulation. Pills or sterilization prevent ovulation. Therefore IUD is inappropriate for this purpose.",
+      "incorrect":[
+        {"option":"Combined pills","reason":"Suppress ovulation, reduce mittelschmerz."},
+        {"option":"Barrier method","reason":"Prevents fertilization but not ovulation; still pain."},
+        {"option":"Natural family planning","reason":"Relies on ovulation timing, won’t stop pain either."},
+        {"option":"Tubal ligation","reason":"Prevents fertilization but ovulation may continue; not the preferred method either."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_121",
+    "case": "A 30-year-old woman gave birth at 32 weeks. The newborn boy is very pale with severe generalized edema. Cord blood: hematocrit 22%, bilirubin 7 mg/dL. Ultrasound showed pleural effusion, ascites, hepatomegaly. What is the most likely diagnosis?",
+    "options": [
+      "ABO incompatibility",
+      "Beta-thalassemia",
+      "Congenital spherocytosis",
+      "Sickle cell anemia",
+      "Rh incompatibility"
+    ],
+    "correctAnswer": "Rh incompatibility",
+    "explanation": {
+      "correct": "Hydrops fetalis with severe anemia and high bilirubin in a neonate is classic for hemolytic disease of the newborn due to Rh isoimmunization.",
+      "incorrect": [
+        {"option":"ABO incompatibility","reason":"Usually milder and presents as jaundice, not hydrops fetalis."},
+        {"option":"Beta-thalassemia","reason":"Not a neonatal presentation with hydrops."},
+        {"option":"Congenital spherocytosis","reason":"Causes anemia/jaundice but not hydrops."},
+        {"option":"Sickle cell","reason":"Does not present as severe hydrops in neonates due to HbF predominance."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_122",
+    "case": "A 33-year-old woman presented with malodorous grey vaginal discharge. Microscopy showed clue cells and fishy odor on KOH addition. Which organism is causal?",
+    "options": ["Chlamydia trachomatis", "Candida albicans", "Lactobacillus", "Trichomonas vaginalis", "Gardnerella vaginalis"],
+    "correctAnswer": "Gardnerella vaginalis",
+    "explanation": {
+      "correct": "Bacterial vaginosis is caused by Gardnerella vaginalis, characterized by clue cells and fishy odor (amine test).",
+      "incorrect": [
+        {"option":"Chlamydia","reason":"Causes cervicitis, not BV."},
+        {"option":"Candida","reason":"Causes thick white curdy discharge, not clue cells."},
+        {"option":"Lactobacillus","reason":"Normal flora."},
+        {"option":"Trichomonas","reason":"Causes frothy yellow-green discharge with motile organisms."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_123",
+    "case": "A 32-year-old woman in shock with abdominal pain and positive pregnancy test. Ultrasound: free fluid. Taken to laparotomy: ruptured ectopic. What is the diagnosis?",
+    "options": ["Torsed corpus luteum cyst","Ruptured ectopic","Hydatidiform mole","Incomplete abortion","Cystitis"],
+    "correctAnswer": "Ruptured ectopic",
+    "explanation": {
+      "correct": "Ruptured ectopic pregnancy causes hemoperitoneum, shock, positive pregnancy test and empty uterus.",
+      "incorrect": [
+        {"option":"Corpus luteum torsion","reason":"Painful but not positive test with free fluid + empty uterus."},
+        {"option":"Mole","reason":"Uterus would be enlarged with snowstorm pattern, not hemoperitoneum."},
+        {"option":"Abortion","reason":"Would show retained products in uterus, not hemoperitoneum."},
+        {"option":"Cystitis","reason":"Would cause urinary symptoms, no free fluid."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_124",
+    "case": "A 32-year-old presented with fever, pain, noncompliance to PID therapy. Exam revealed bilateral pelvic masses. TVS showed bilateral tubo-ovarian abscesses. What’s next best step?",
+    "options": [
+      "Discharge with oral antibiotics",
+      "Admit for IV antibiotics",
+      "Hysterectomy",
+      "Bilateral salpingo-oophorectomy",
+      "Hysterectomy + BSO"
+    ],
+    "correctAnswer": "Admit for IV antibiotics",
+    "explanation": {
+      "correct": "Tubo-ovarian abscess should be hospitalized and treated with intravenous broad-spectrum antibiotics. Surgery reserved for rupture or no response.",
+      "incorrect": [
+        {"option":"Oral antibiotics","reason":"Insufficient for severe abscess."},
+        {"option":"Hysterectomy","reason":"Definitive but not initial therapy."},
+        {"option":"BSO","reason":"Too radical for initial management."},
+        {"option":"Hysterectomy + BSO","reason":"Only for refractory cases or malignancy suspicion."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_125",
+    "case": "A 30-year-old gravida 5 para 4 had IUD for 2 years. Pregnancy confirmed intrauterine with visible string. She wants to continue pregnancy. What is best management?",
+    "options": [
+      "Leave IUD in place",
+      "Leave IUD + prophylactic antibiotics",
+      "Remove IUD immediately",
+      "Terminate pregnancy",
+      "Laparoscopy for heterotopic pregnancy"
+    ],
+    "correctAnswer": "Remove IUD immediately",
+    "explanation": {
+      "correct": "If IUD thread visible, it should be removed as early as possible to reduce risk of septic abortion, miscarriage, and preterm labor. Pregnancy may continue safely.",
+      "incorrect": [
+        {"option":"Leave IUD","reason":"Increases complication risk."},
+        {"option":"Leave + antibiotics","reason":"Antibiotics don’t eliminate risk posed by retained IUD."},
+        {"option":"Termination","reason":"Not required if patient desires pregnancy."},
+        {"option":"Laparoscopy","reason":"Not indicated with intrauterine confirmed pregnancy."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_126",
+    "case": "A 20-year-old presented with fever, severe pelvic pain, prior ectopic surgery. Exam: diffuse tenderness, WBC 18,000, temp 38.8°C. What’s the most likely diagnosis?",
+    "options":["Ovarian torsion","Endometriosis","PID","Renal stone","Ruptured ovarian cyst"],
+    "correctAnswer":"PID",
+    "explanation":{
+      "correct":"High fever, leukocytosis, pelvic ring tenderness, with adnexal pain all indicate PID.",
+      "incorrect":[
+        {"option":"Torsion","reason":"Painful but afebrile."},
+        {"option":"Endometriosis","reason":"Chronic, not acute febrile."},
+        {"option":"Renal stone","reason":"Pain with hematuria, not infection signs."},
+        {"option":"Ruptured cyst","reason":"Pain/bleeding but no sepsis."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_127",
+    "case": "A 25-year-old fainted at work, vaginal bleeding, shoulder pain. Exam: abdominal distension, tachy, BP 80/42. What initial next step for diagnosis?",
+    "options":["CT abdomen","Culdocentesis","D&C","Urine pregnancy test","Pelvic MRI"],
+    "correctAnswer":"Urine pregnancy test",
+    "explanation":{
+      "correct":"Rapid pregnancy test is initial step in shock with bleeding; confirms ectopic suspicion before surgery.",
+      "incorrect":[
+        {"option":"CT","reason":"Not for unstable patient."},
+        {"option":"Culdocentesis","reason":"Mostly historical."},
+        {"option":"D&C","reason":"Procedure, not initial diagnostic."},
+        {"option":"MRI","reason":"Time consuming, not urgent setting."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_128",
+    "case": "A 31-year-old at 34 weeks reported swelling and trace protein. BP 115/75. Exam: pitting edema both feet. FHR reactive. Best response?",
+    "options":["Reassure","Aspirin","Furosemide","Bilateral leg Dopplers","Admit L&D for serial BP/labs"],
+    "correctAnswer":"Reassure",
+    "explanation":{
+      "correct":"Isolated pedal edema in pregnancy with normal BP and labs is physiological. Reassurance is appropriate.",
+      "incorrect":[
+        {"option":"Aspirin","reason":"Not indicated without preeclampsia."},
+        {"option":"Furosemide","reason":"Contraindicated unless pulmonary edema."},
+        {"option":"Leg Dopplers","reason":"No suspicion of DVT here."},
+        {"option":"Admit","reason":"Not required."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_129",
+    "case": "A 32-year-old G3P2 at 39w presents with ruptured membranes, 7 cm for 4 hours no progress to full dilatation. What is this abnormality?",
+    "options":["Prolonged latent","Prolonged second stage","Hypocontractile activities","Secondary arrest","Cephalopelvic disproportion"],
+    "correctAnswer":"Secondary arrest",
+    "explanation":{
+      "correct":"Arrest of dilation after progress indicates secondary arrest of dilatation.",
+      "incorrect":[
+        {"option":"Prolonged latent","reason":"Already active phase."},
+        {"option":"Prolonged second","reason":"Second stage not yet reached."},
+        {"option":"Hypocontractile","reason":"Possible cause but diagnosis is arrest of dilation."},
+        {"option":"CPD","reason":"Possible but term is arrest clinically."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_130",
+    "case": "A 34-year-old at 31w with placenta previa presented with mild bleeding, BP 100/60, pulse 110. FHR normal, no contractions. Best next step?",
+    "options":["Give terbutaline","Methylergonovine","Induction","Cesarean delivery","Admit and stabilize"],
+    "correctAnswer":"Admit and stabilize",
+    "explanation":{
+      "correct":"Stable placenta previa with mild bleeding requires hospitalization and observation, not delivery unless unstable.",
+      "incorrect":[
+        {"option":"Terbutaline","reason":"Not indicated here."},
+        {"option":"Methylergonovine","reason":"Uterotonic, not appropriate."},
+        {"option":"Induction","reason":"Contraindicated."},
+        {"option":"Cesarean","reason":"Done if bleeding severe or at term."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_131",
+    "case": "A 55-year-old with irregular postmenopausal bleeding, uterus mildly enlarged, endometrium 17 mm. What’s next?",
+    "options":["Progesterone pills","OCPs","GnRH analog","Endometrial biopsy","Hysterectomy"],
+    "correctAnswer":"Endometrial biopsy",
+    "explanation":{
+      "correct":"Any postmenopausal bleeding with thickened endometrium mandates tissue biopsy for malignancy rule out.",
+      "incorrect":[
+        {"option":"Progesterone","reason":"Not diagnostic."},
+        {"option":"OCPs","reason":"Not correct treatment now."},
+        {"option":"GnRH","reason":"Not diagnostic; used for fibroids, not postmenopausal bleeding."},
+        {"option":"Hysterectomy","reason":"Definitive but diagnosis must be established first."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_132",
+    "case": "44-year-old para 3 with amenorrhea 7 months, hot flushes, wants pregnancy. Test negative. Next best test?",
+    "options":["FSH","Testosterone","HSG","Endometrial biopsy","Progesterone level"],
+    "correctAnswer":"FSH",
+    "explanation":{
+      "correct":"FSH indicates ovarian reserve/menopausal status. At 45, high FSH = menopause cause of amenorrhea.",
+      "incorrect":[
+        {"option":"Testosterone","reason":"For hyperandrogen but not main here."},
+        {"option":"HSG","reason":"Tubal test irrelevant for amenorrhea."},
+        {"option":"Endometrial biopsy","reason":"For abnormal bleeding not amenorrhea."},
+        {"option":"Progesterone","reason":"Cycle phase test, not useful if amenorrhoeic."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_133",
+    "case": "26-year-old with 20cm subserous myoma. Most effective management?",
+    "options":["Myomectomy","Postpone surgery","..."],
+    "correctAnswer":"Myomectomy",
+    "explanation":{
+      "correct":"Large symptomatic fibroid requires myomectomy, especially subserous >5 cm.",
+      "incorrect":[
+        {"option":"Postpone","reason":"Will worsen, surgery needed."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_134",
+    "case": "A 20-year-old with placenta previa delivered by CS for fetal distress. Placenta was adherent and massive hemorrhage ensued. Next step?",
+    "options":["Give methylergometrine","Give prostaglandin E1","Hysterectomy","PGF2 alpha","Close incision + curettage"],
+    "correctAnswer":"Hysterectomy",
+    "explanation":{
+      "correct":"Placenta accreta → hemorrhage. Standard life-saving management is hysterectomy if placenta cannot be separated.",
+      "incorrect":[
+        {"option":"Methylergometrine","reason":"Ineffective when placenta adherent."},
+        {"option":"PGE1/PGF2","reason":"Useful in atony, not accreta."},
+        {"option":"Close incision+curettage","reason":"Risk catastrophic bleeding."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_135",
+    "case": "A 70-year-old with 3cm friable lesion on labia majora. Biopsy: squamous carcinoma. Which lymph nodes are affected first?",
+    "options":["External iliac","Deep femoral","Para-aortic","Superficial inguinal","Internal iliac"],
+    "correctAnswer":"Superficial inguinal",
+    "explanation":{
+      "correct":"Vulvar lymphatic drainage goes first to superficial inguinal nodes.",
+      "incorrect":[
+        {"option":"External iliac","reason":"Second tier nodes."},
+        {"option":"Deep femoral","reason":"Not first line."},
+        {"option":"Para-aortic","reason":"Distant spread."},
+        {"option":"Internal iliac","reason":"Pelvic, not vulvar primary nodes."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_136",
+    "case": "A 26-year-old in second stage, baby’s head delivered then retracted back. Shoulder stuck. Best maneuver?",
+    "options":["Fundal pressure","McRoberts","Zavanelli","Cesarean","Forceps"],
+    "correctAnswer":"McRoberts",
+    "explanation":{
+      "correct":"Shoulder dystocia first managed with McRoberts maneuver (hyperflex mother’s thighs to abdomen) to straighten sacrum and pubis.",
+      "incorrect":[
+        {"option":"Fundal pressure","reason":"Worsens impaction."},
+        {"option":"Zavanelli","reason":"Last resort."},
+        {"option":"Cesarean","reason":"Not possible after head delivered, used in next pregnancies."},
+        {"option":"Forceps","reason":"Already head out, not helpful."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_137",
+    "case": "A 29-year-old with GDM on insulin, poor compliance, now 32 weeks. Fundal height 38cm. Which explains finding?",
+    "options":["Fibroids","Polyhydramnios","Hydrocephalus","Breech","Twins"],
+    "correctAnswer":"Polyhydramnios",
+    "explanation":{
+      "correct":"Poorly controlled GDM leads to fetal polyuria and polyhydramnios. Large symphysio-fundal height is classic.",
+      "incorrect":[
+        {"option":"Fibroids","reason":"Would distort uterus, not related to GDM."},
+        {"option":"Hydrocephalus","reason":"Increases head size but not overall fundal height so much."},
+        {"option":"Breech","reason":"Does not increase measurement significantly."},
+        {"option":"Twins","reason":"Possible but normally diagnosed earlier."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_138",
+    "case": "A 56-year-old diabetic woman in clinic noticed staff more attentive and consult thorough since TQM implemented. Most likely reason?",
+    "options":["New tech","More staff","Patient-centered care","Continuous quality improvement","Electronic records"],
+    "correctAnswer":"Continuous quality improvement",
+    "explanation":{
+      "correct":"Total quality management is rooted in continuous improvement of care processes, hence patient sees improved attentiveness and thoroughness.",
+      "incorrect":[
+        {"option":"New tech","reason":"Not specifically due."},
+        {"option":"More staff","reason":"Not mentioned."},
+        {"option":"Patient centered care","reason":"Part of philosophy but defined answer is continuous improvement."},
+        {"option":"EHR","reason":"System tool not specifically TQM."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_139",
+    "case": "A 48-year-old widow with irregular menses for last year, cycles every 2-3 months with heavy bleeding. US: uterus mildly enlarged, endometrium 17mm. Next management?",
+    "options":["Progesterone pills","Combined estrogen+progesterone","GnRH analog","Endometrial biopsy","Abdominal hysterectomy"],
+    "correctAnswer":"Endometrial biopsy",
+    "explanation":{
+      "correct":"Abnormal uterine bleeding in perimenopause with thickened endometrium requires biopsy to rule out malignancy.",
+      "incorrect":[
+        {"option":"Hormones","reason":"Not until malignancy excluded."},
+        {"option":"GnRH","reason":"Not first line."},
+        {"option":"Hysterectomy","reason":"Done once diagnosis established."}
+      ]
+    }
+  },
+  {
+    "CaseID": "obgyn_140",
+    "case": "A 35-year-old gravida 3 para 2 presented at 28 weeks with sudden vaginal bleeding and severe abdominal pain. Uterus tender, patient pale. Likely diagnosis?",
+    "options":["Placental abruption","Ectopic","Uterine rupture","Cervical incompetence","Placenta previa"],
+    "correctAnswer":"Placental abruption",
+    "explanation":{
+      "correct":"Painful third-trimester bleeding with tender uterus suggests abruptio placentae.",
+      "incorrect":[
+        {"option":"Ectopic","reason":"Occurs in first trimester, not 28 weeks."},
+        {"option":"Uterine rupture","reason":"Occurs in labor, often scarred uterus."},
+        {"option":"Cervical incompetence","reason":"Painless, early pregnancy."},
+        {"option":"Placenta previa","reason":"Bleeding painless with relaxed uterus."}
+      ]
+    }
+  }
+]
