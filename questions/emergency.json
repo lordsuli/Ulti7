@@ -2521,20 +2521,20 @@
     "CaseID": "Emergency_128",
     "case": "A 70-kg mechanical engineer sustains a mixture of partial and full thickness burns to his lower limbs (<5% BSA, full-thickness) from a fractured pipe leaking pressurized steam. You calculate that he has 14% BSA total burns. What is the appropriate fluid management? [5/2022M_8/2024R]",
     "options": [
-      "0.5-1 litres Ringer's lactate solution in 8 h",
-      "0.5-1 litres Ringer's lactate solution in 8 h, transfer to burns unit",
-      "1-2 litres Ringer's lactate solution in 8 h",
-      "1-2 litres Ringer's lactate solution in 8 h, transfer to burns unit",
-      "2-4 litres Ringer's lactate solution in 8 h"
+      "0.5-1 litres Ringer lactate solution in 8 h",
+      "0.5-1 litres Ringer lactate solution in 8 h, transfer to burns unit",
+      "1-2 litres Ringer lactate solution in 8 h",
+      "1-2 litres Ringer lactate solution in 8 h, transfer to burns unit",
+      "2-4 litres Ringer lactate solution in 8 h"
     ],
-    "correctAnswer": "1-2 litres Ringer's lactate solution in 8 h, transfer to burns unit",
+    "correctAnswer": "1-2 litres Ringer lactate solution in 8 h, transfer to burns unit",
     "explanation": {
       "correct": "For burns <15% TBSA, initial fluid resuscitation with 1–2 L Ringer’s lactate is sufficient, followed by referral to a burn center for ongoing care.",
       "incorrect": [
-        {"option": "0.5-1 litres Ringer's lactate solution in 8 h", "reason": "Insufficient for 14% BSA burns."},
-        {"option": "0.5-1 litres Ringer's lactate solution in 8 h, transfer to burns unit", "reason": "Fluids inadequate for this burn extent."},
-        {"option": "1-2 litres Ringer's lactate solution in 8 h", "reason": "Appropriate volume but must include transfer for specialized care."},
-        {"option": "2-4 litres Ringer's lactate solution in 8 h", "reason": "Excessive for mild to moderate burns."}
+        {"option": "0.5-1 litres Ringer lactate solution in 8 h", "reason": "Insufficient for 14% BSA burns."},
+        {"option": "0.5-1 litres Ringer lactate solution in 8 h, transfer to burns unit", "reason": "Fluids inadequate for this burn extent."},
+        {"option": "1-2 litres Ringer lactate solution in 8 h", "reason": "Appropriate volume but must include transfer for specialized care."},
+        {"option": "2-4 litres Ringer lactate solution in 8 h", "reason": "Excessive for mild to moderate burns."}
       ]
     }
   },
