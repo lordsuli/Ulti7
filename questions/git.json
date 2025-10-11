@@ -129,15 +129,15 @@
     "CaseID": "GIT_7",
     "case": "A female patient, 35 years old presented to the emergency room with frequent loose stool and passage of small amount of red blood per rectum. She recalled that she has frequent attacks of diarrhea and central abdominal pain over the last 5 months. Colonoscopy revealed scattered patchy areas of ulcerations alternated with healthy areas. What is the most likely cause of the bleeding in this? [2/2021R_1/2023M_5/2023M_11/2023T_2/2024T]",
     "options": [
-      "Crohn's disease",
+      "Crohns disease",
       "ischemic colitis",
       "esophageal varices",
       "cancer colon",
       "ulcerative colitis"
     ],
-    "correctAnswer": "Crohn's disease",
+    "correctAnswer": "Crohns disease",
     "explanation": {
-      "correct": "Patchy areas with skip lesions alternating with normal mucosa are pathognomonic of Crohn's disease.",
+      "correct": "Patchy areas with skip lesions alternating with normal mucosa are pathognomonic of Crohns disease.",
       "incorrect": [
         {"option": "ischemic colitis", "reason": "Occurs in elderly vascular patients, not chronic young female."},
         {"option": "esophageal varices", "reason": "Bleeding source is upper GI, not colon."},
@@ -404,11 +404,11 @@
     "options": [
       "Appendicular mass",
       "Chronic appendicitis",
-      "Crohn's disease",
+      "Crohns disease",
       "intestinal lymphoma",
       "ulcerative colitis"
     ],
-    "correctAnswer": "Crohn's disease",
+    "correctAnswer": "Crohns disease",
     "explanation": {
       "correct": "Chronic abdominal cramps, weight loss, oral ulcers + RLQ mass = Crohn’s with thickened terminal ileum.",
       "incorrect": [
@@ -426,10 +426,10 @@
       "Carcinoma",
       "Celiac disease",
       "Chronic appendicitis",
-      "Crohn's disease",
+      "Crohns disease",
       "Pseudomembranous colitis"
     ],
-    "correctAnswer": "Crohn's disease",
+    "correctAnswer": "Crohns disease",
     "explanation": {
       "correct": "Terminal ileal stenosis + oral ulcers + chronic non-bloody diarrhea + stricturing → classic Crohn’s disease.",
       "incorrect": [
@@ -445,12 +445,12 @@
     "case": "An 8-year-old girl presents with weight loss, diarrhea & abdominal pain. On examination, you note the presence of apthous ulcers & generalized abdominal tenderness. She is off her food but drinking normally, & her energy levels are low. What is the most likely diagnosis? [1/2023M_5/2023M_6/2023R]",
     "options": [
       "Anorexia nervosa",
-      "Crohn's disease",
+      "Crohns disease",
       "Diabetic Ketoacidosis (DKA)",
       "Recurrent apthous stomatitis",
       "Ulcerative colitis (UC)"
     ],
-    "correctAnswer": "Crohn's disease",
+    "correctAnswer": "Crohns disease",
     "explanation": {
       "correct": "Pediatric presentation of Crohn’s → weight loss, diarrhea, abdominal pain, aphthous ulcers are typical extraintestinal features.",
       "incorrect": [
@@ -463,7 +463,7 @@
   },
   {
     "CaseID": "GIT_23",
-    "case": "A 45-year-old woman with Crohn's disease and a small intestinal fistula develops tetany during the second week of parenteral nutrition. The laboratory findings include normal Na, K, CL, HCO3 and, Ca, Mg: 1.2 mg/dL (1.8-2.6 mg/dL), PC4: 2.7 mg/L (2.7-4.5 mg/dl, serum Albumin 2.4 g/dL (3.5-5.0 g/dL), arterial blood gas sample reveals a pH of 7.42 (7.35-7.45), PCO2 of 38mmHg (35.0-50.0 mmHg), and PO2 of 84 mmHg (85-100 mmHg). What is the cause of the patient's tetany? [1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_6/2023R_2/2024S]",
+    "case": "A 45-year-old woman with Crohns disease and a small intestinal fistula develops tetany during the second week of parenteral nutrition. The laboratory findings include normal Na, K, CL, HCO3 and, Ca, Mg: 1.2 mg/dL (1.8-2.6 mg/dL), PC4: 2.7 mg/L (2.7-4.5 mg/dl, serum Albumin 2.4 g/dL (3.5-5.0 g/dL), arterial blood gas sample reveals a pH of 7.42 (7.35-7.45), PCO2 of 38mmHg (35.0-50.0 mmHg), and PO2 of 84 mmHg (85-100 mmHg). What is the cause of the patient's tetany? [1/2023M_2/2023T_2/2023R_5/2023M_6/2023S_6/2023R_2/2024S]",
     "options": [
       "hypomagnesemia",
       "focal seizure",
@@ -531,10 +531,10 @@
       "Adhesions",
       "Colonic carcinoma",
       "Colonic pseudo-obstruction",
-      "Crohn's disease",
+      "Crohns disease",
       "Extra-luminal neoplastic compression"
     ],
-    "correctAnswer": "Crohn's disease",
+    "correctAnswer": "Crohns disease",
     "explanation": {
       "correct": "‘String sign’ on barium meal = severe terminal ileal narrowing due to Crohn’s disease.",
       "incorrect": [
@@ -551,11 +551,11 @@
     "options": [
       "Meckel’s diverticulum",
       "Cecal cancer",
-      "Crohn's disease.",
+      "Crohns disease.",
       "Actinomycosis.",
       "Appendicular mass"
     ],
-    "correctAnswer": "Crohn's disease.",
+    "correctAnswer": "Crohns disease.",
     "explanation": {
       "correct": "Crohn’s gives recurrent fistulae, abscess, and sinus discharging through surgical scars + RIF mass.",
       "incorrect": [
@@ -592,7 +592,7 @@
     "case": "A 3-year-old girl presents to the clinic with abdominal pain, Infrequent stools, screaming on defecation, blood per rectum, and poor eating. On examination she is uncooperative but is noticed to have anal tag and fissure, which of the following is the most likely cause of her condition? [10/2021T_2/2023S]",
     "options": [
       "constipation",
-      "Crohn's disease",
+      "Crohns disease",
       "hemorrhoids",
       "Hirshprung disease",
       "ulcerative colitis"
@@ -601,7 +601,7 @@
     "explanation": {
       "correct": "Anal fissure + painful defecation + stool retention = secondary to constipation.",
       "incorrect": [
-        {"option": "Crohn's disease", "reason": "Can cause fissures but rare at this young age without systemic features."},
+        {"option": "Crohns disease", "reason": "Can cause fissures but rare at this young age without systemic features."},
         {"option": "hemorrhoids", "reason": "Rare in 3 year old, and not typical pain/crying."},
         {"option": "Hirshprung disease", "reason": "Presents in neonates with chronic obstruction/megacolon, not acute fissure."},
         {"option": "ulcerative colitis", "reason": "Bloody diarrhea, not localized anal fissure/constipation."}
@@ -654,7 +654,7 @@
     "CaseID": "GIT_32",
     "case": "A 45-year-old man comes to the clinic complaining of abdominal pain, particularly in the upper abdomen. He describes the pain as a burning sensation that worsens when he hasn't eaten for a while and improves after eating. He also reports occasional nausea and bloating. On further examination, the patient reveals a history of smoking and regular use of NSAIDs for back pain. Which of the following is the most likely diagnosis? [2/2024R]",
     "options": [
-      "Crohn's disease",
+      "Crohns disease",
       "irritable bowel syndrome",
       "Peptic ulcer disease",
       "Ulcerative colitis",
@@ -664,7 +664,7 @@
     "explanation": {
       "correct": "Burning epigastric pain relieved by food, worsens fasting, history of NSAID → classic duodenal peptic ulcer.",
       "incorrect": [
-        {"option": "Crohn's disease", "reason": "Typically chronic diarrhea, weight loss, systemic features."},
+        {"option": "Crohns disease", "reason": "Typically chronic diarrhea, weight loss, systemic features."},
         {"option": "irritable bowel syndrome", "reason": "Pain relieved by defecation, not by food intake."},
         {"option": "Ulcerative colitis", "reason": "Bloody diarrhea + tenesmus, not epigastric pain."},
         {"option": "Gastroesophageal reflux disease", "reason": "Pain worsens after meals when supine, not relieved by eating."}
@@ -694,7 +694,7 @@
   },
   {
     "CaseID": "GIT_34",
-    "case": "A 27-year-old woman presents with diarrhea and abdominal pain for the last 8 months. She denies bloody stools, weight loss, or fatigue. The patient just recently started a \"stressful\" career in a bank. She is concerned that she might have Crohn's disease as both her uncle and grandmother have this disorder. Further questioning reveals that the diarrhea and abdominal pain occur about once per week (generally Friday mornings before she gives her weekly presentation), and the other days she is \"constipated\" The abdominal pain is alleviated after defecation. Physical examination is unremarkable. Which of the following is the next best step in management for this patient? [8/2024R]",
+    "case": "A 27-year-old woman presents with diarrhea and abdominal pain for the last 8 months. She denies bloody stools, weight loss, or fatigue. The patient just recently started a \"stressful\" career in a bank. She is concerned that she might have Crohns disease as both her uncle and grandmother have this disorder. Further questioning reveals that the diarrhea and abdominal pain occur about once per week (generally Friday mornings before she gives her weekly presentation), and the other days she is \"constipated\" The abdominal pain is alleviated after defecation. Physical examination is unremarkable. Which of the following is the next best step in management for this patient? [8/2024R]",
     "options": [
       "Colonoscopy",
       "Barium enema",
@@ -720,7 +720,7 @@
       "Foreign body in rectum",
       "Diverticular stricture",
       "Carcinoma of the ascending colon",
-      "Crohn's disease",
+      "Crohns disease",
       "Intestinal obstruction"
     ],
     "correctAnswer": "Intestinal obstruction",
@@ -730,13 +730,13 @@
         {"option": "Foreign body in rectum", "reason": "Would be localized, not classic SBO/LBO presentation."},
         {"option": "Diverticular stricture", "reason": "Can cause obstruction, but not the general straightforward answer here."},
         {"option": "Carcinoma of the ascending colon", "reason": "Causes chronic anemia/heme positive stool, not acute obstruction usually."},
-        {"option": "Crohn's disease", "reason": "Causes strictures but answer here describes generic obstruction."}
+        {"option": "Crohns disease", "reason": "Causes strictures but answer here describes generic obstruction."}
       ]
     }
   },
   {
     "CaseID": "GIT_36",
-    "case": "A 68-year-old woman complains of numbness and difficulty walking, Family members mention that her behavior has also become erratic over the past several months. She has a past medical history of Crohn's disease, for which she underwent ileal resection 10 years ago. Laboratory results indicate a hematocrit of 20% and a mean corpuscular volume (MCV) of 110 µm3. Blood smear shows large red cells with hypersegmented neutrophils. Which of the following is the most likely cause of these findings? [8/2024R]",
+    "case": "A 68-year-old woman complains of numbness and difficulty walking, Family members mention that her behavior has also become erratic over the past several months. She has a past medical history of Crohns disease, for which she underwent ileal resection 10 years ago. Laboratory results indicate a hematocrit of 20% and a mean corpuscular volume (MCV) of 110 µm3. Blood smear shows large red cells with hypersegmented neutrophils. Which of the following is the most likely cause of these findings? [8/2024R]",
     "options": [
       "Zinc deficiency",
       "Hydroxymethylbilane synthase deficiency",
