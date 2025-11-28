@@ -1,0 +1,2087 @@
+[
+  {
+    "CaseID": "Case_1",
+    "case": "A 1-year-old girl is brought to the physician because of a 2-week history of symptoms of an upper respiratory tract infection. Over the past 15 months, she has had several episodes of acute otitis media. She is afebrile. On examination, she is alert and turns her head appropriately in response to sounds. The left external ear and canal appear normal. The left tympanic membrane is bluish gray with visible landmarks. An air-fluid level is present behind the inferior half of the tympanic membrane. There is minimal movement on pneumatic otoscopy. The right external ear, ear canal, and tympanic membrane appear normal. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Serous otitis media",
+      "Mastoiditis",
+      "Perforated tympanic membrane",
+      "Cholesteatoma",
+      "Acoustic neuroma"
+    ],
+    "correctAnswer": "Serous otitis media",
+    "explanation": {
+      "correct": "The clinical picture of a bluish-gray tympanic membrane (TM) with visible landmarks, an air-fluid level, and minimal movement on pneumatic otoscopy, in the absence of fever or acute pain, is classic for Serous Otitis Media (Otitis Media with Effusion). It often follows an upper respiratory infection or acute otitis media.",
+      "incorrect": [
+        { "option": "Mastoiditis", "reason": "Would present with fever, posterior ear pain, erythema, and outward displacement of the pinna." },
+        { "option": "Perforated tympanic membrane", "reason": "Examination would reveal a hole in the TM, often with purulent discharge, not an intact bluish TM with an air-fluid level." },
+        { "option": "Cholesteatoma", "reason": "typically presents as a white mass behind the TM or a retraction pocket with keratin debris, not a simple air-fluid level." },
+        { "option": "Acoustic neuroma", "reason": "A tumor affecting the vestibulocochlear nerve, presenting with sensorineural hearing loss and balance issues, not middle ear effusion signs." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_2",
+    "case": "A 2-month-old infant is brought to the clinic because of hypotonia, feeding difficulties, and tongue fasciculations. The mother reports that he has become \"floppy\" over the past few weeks. Deep tendon reflexes are absent. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Werdnig-Hoffmann disease (SMA Type 1)",
+      "Myasthenia gravis",
+      "Duchenne muscular dystrophy",
+      "Guillain-Barré syndrome",
+      "Neonatal botulism"
+    ],
+    "correctAnswer": "Werdnig-Hoffmann disease (SMA Type 1)",
+    "explanation": {
+      "correct": "The triad of severe hypotonia ('floppy baby'), areflexia, and tongue fasciculations in a 2-month-old is pathognomonic for Spinal Muscular Atrophy (SMA) Type 1, also known as Werdnig-Hoffmann disease. Tongue fasciculations are a specific sign of lower motor neuron degeneration.",
+      "incorrect": [
+        { "option": "Myasthenia gravis", "reason": "Transient neonatal MG presents with hypotonia but usually improves; tongue fasciculations are not a characteristic feature." },
+        { "option": "Duchenne muscular dystrophy", "reason": "Typically presents later in childhood (delayed walking) with proximal muscle weakness, not severe infantile hypotonia with tongue fasciculations." },
+        { "option": "Guillain-Barré syndrome", "reason": "Rare in infants; usually follows an infection and presents with ascending paralysis, not congenital/early infantile onset with tongue fasciculations." },
+        { "option": "Neonatal botulism", "reason": "Presents with constipation, weak cry, and descending paralysis (ptosis), but areflexia and tongue fasciculations are more specific to SMA." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_3",
+    "case": "A 2-year-old boy is brought to the ER with intermittent abdominal pain, currant-jelly stools, and lethargy. An ultrasound shows a \"target sign\" in the right lower quadrant. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Gastritis",
+      "Juvenile polyp",
+      "Peptic ulcer",
+      "Intussusception",
+      "Viral gastroenteritis"
+    ],
+    "correctAnswer": "Intussusception",
+    "explanation": {
+      "correct": "The classic triad of intermittent colicky abdominal pain, 'currant-jelly' stools (stool mixed with blood and mucus), and a palpable mass or lethargy in a toddler points to intussusception. The ultrasound finding of a 'target sign' (or doughnut sign) confirms the diagnosis (telescoping bowel).",
+      "incorrect": [
+        { "option": "Gastritis", "reason": "Causes epigastric pain and vomiting but does not cause currant-jelly stools or a target sign on ultrasound." },
+        { "option": "Juvenile polyp", "reason": "Can cause painless rectal bleeding but typically does not present with the acute intermittent pain and lethargy seen in intussusception." },
+        { "option": "Peptic ulcer", "reason": "Rare in this age group; presents with epigastric pain or hematemesis/melena, not currant-jelly stools." },
+        { "option": "Viral gastroenteritis", "reason": "Presents with diarrhea and vomiting, but the stool is watery, not currant-jelly, and ultrasound findings would be normal." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_4",
+    "case": "A 3-year-old boy is brought to the emergency department with a 2-day history of fever, barking cough, and inspiratory stridor. His symptoms worsen at night. On examination, he has mild subcostal retractions but is not in severe distress. A lateral neck X-ray shows subglottic narrowing (steeple sign). Which of the following is the best next step in management?",
+    "options": [
+      "Intubation and intravenous antibiotics",
+      "High-flow oxygen and broad-spectrum antibiotics",
+      "Nebulized epinephrine and corticosteroids",
+      "Emergent bronchoscopy for foreign body removal",
+      "Chest X-ray to rule out pneumonia"
+    ],
+    "correctAnswer": "Nebulized epinephrine and corticosteroids",
+    "explanation": {
+      "correct": "This is a classic presentation of Croup (Laryngotracheobronchitis), characterized by a barking cough, stridor, and the 'steeple sign' on X-ray. The standard of care for moderate to severe croup (stridor at rest or retractions) is corticosteroids (e.g., Dexamethasone) to reduce swelling and nebulized epinephrine for immediate relief.",
+      "incorrect": [
+        { "option": "Intubation and intravenous antibiotics", "reason": "Intubation is reserved for impending respiratory failure. Antibiotics are not indicated as croup is viral." },
+        { "option": "High-flow oxygen and broad-spectrum antibiotics", "reason": "Oxygen is only needed if hypoxic. Antibiotics are ineffective against the viral etiology." },
+        { "option": "Emergent bronchoscopy for foreign body removal", "reason": "Foreign body aspiration typically has a sudden onset without fever; the 'steeple sign' and viral prodrome support croup." },
+        { "option": "Chest X-ray to rule out pneumonia", "reason": "Not the priority; the clinical picture and neck X-ray are diagnostic for croup, and immediate airway management with meds is required." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_5",
+    "case": "A 4-month-old boy is brought to the physician by his parents for a well-child examination. He was born at 39 weeks' gestation following an uncomplicated pregnancy, labor, and delivery. He is at the 50th percentile for length and weight and 75th percentile for head circumference. His rectal temperature is 37.2^ c, pulse is 130/min and respirations are 45/min. Pulse oximetry on room air shows an oxygen saturation of 97% at the right thumb and 98% at the left thumb and right great toe. The apical impulse is prominent, and there is a thrill in the second left intercostal space. There is a continuous machinary like murmur increasing in intensity during systole and waning during diastole; it is loudest in the second left intercostal space and radiates down the left sternal border. Peripheral pulses are 4+ in all extremities. The remainder of the examination shows no abnormalities. Which of the following is the most likely explanation for these findings?",
+    "options": [
+      "VSD",
+      "ASD",
+      "PDA",
+      "Fallot tetralogy",
+      "Tricuspid regurege"
+    ],
+    "correctAnswer": "PDA",
+    "explanation": {
+      "correct": "A continuous 'machinery-like' murmur at the left upper sternal border is the hallmark of a Patent Ductus Arteriosus (PDA). The wide pulse pressure (indicated by 4+ bounding pulses) is due to runoff from the aorta into the pulmonary artery.",
+      "incorrect": [
+        { "option": "VSD", "reason": "Causes a harsh holosystolic murmur at the left lower sternal border, not a continuous machinery murmur." },
+        { "option": "ASD", "reason": "Causes a fixed split S2 and a systolic ejection murmur, not a continuous murmur." },
+        { "option": "Fallot tetralogy", "reason": "Typically presents with cyanosis and a harsh systolic ejection murmur from pulmonary stenosis." },
+        { "option": "Tricuspid regurege", "reason": "Causes a holosystolic murmur at the left lower sternal border that increases with inspiration." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_6",
+    "case": "A 4-year-old boy is brought to the physician because of a 4-day history of increasing difficulty breathing. His temperature is 37.5 pulse is 116/min, respirations are $36/min$ and blood pressure is $116/80$ mmHg. Examination shows jugular venous distention and mild swelling of the face and upper extremities. There are moderate intercostal retractions. Inspiratory and expiratory wheezes are heard bilaterally. An x-ray of the chest shows a mass in the superior mediastinum and a large pleural effusion in the right hemithorax. Thoracentesis yields 400 ml of reddish brown serosanguineous fluid containing numerous erythrocytes. Which of the following is the most likely cause of the pleural effusion?",
+    "options": [
+      "Nephrotic syndrome",
+      "Congestive heart failure",
+      "Tuberculous pleural effusion",
+      "Traumatic pneumpthorax",
+      "Malignant pleural effusion"
+    ],
+    "correctAnswer": "Malignant pleural effusion",
+    "explanation": {
+      "correct": "The presence of an anterior mediastinal mass causing Superior Vena Cava (SVC) syndrome (facial swelling, JVD) combined with a bloody (serosanguineous) pleural effusion in a child is highly suggestive of malignancy, such as T-cell Acute Lymphoblastic Leukemia (ALL) or Non-Hodgkin Lymphoma.",
+      "incorrect": [
+        { "option": "Nephrotic syndrome", "reason": "Causes transudative effusion (clear fluid) due to low albumin, not a bloody effusion or mediastinal mass." },
+        { "option": "Congestive heart failure", "reason": "Causes transudative effusion and is rare in a 4-year-old without a history of congenital heart disease." },
+        { "option": "Tuberculous pleural effusion", "reason": "Usually presents with lymphocytosis in the fluid, but a large mediastinal mass causing SVC syndrome is more specific to malignancy." },
+        { "option": "Traumatic pneumpthorax", "reason": "Would involve air in the pleural space and a history of trauma, which is not mentioned." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_7",
+    "case": "A 4-year-old child is brought to the pediatrician because he has difficulty interacting with other children in preschool. He prefers to play alone and has trouble sharing toys. Which of the following is the most appropriate recommendation?",
+    "options": [
+      "Referring to a child psychologist for evaluation.",
+      "Enrollment him in more structured group activities.",
+      "Advising parents to encourage parallel play at home.",
+      "Waiting and monitoring his behavior over the next year.",
+      "Limiting his playtime to reduce stress."
+    ],
+    "correctAnswer": "Waiting and monitoring his behavior over the next year.",
+    "explanation": {
+      "correct": "At age 4, children are transitioning from parallel play to cooperative play. While difficulty sharing is common, persistent solitary play can be a concern. However, in the absence of other red flags (language delay, repetitive behaviors), this may be a variation of normal development or shyness. Monitoring is the most appropriate initial step to differentiate maturity issues from pathology.",
+      "incorrect": [
+        { "option": "Referring to a child psychologist for evaluation.", "reason": "Premature without further evidence of developmental delay or autism spectrum disorder." },
+        { "option": "Enrollment him in more structured group activities.", "reason": "May overwhelm the child if they are socially anxious or not developmentally ready." },
+        { "option": "Advising parents to encourage parallel play at home.", "reason": "Parallel play is typical for 2-year-olds; at 4, the goal is associative or cooperative play, so this is developmentally regressive advice." },
+        { "option": "Limiting his playtime to reduce stress.", "reason": "Avoidance does not help the child develop necessary social skills." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_8",
+    "case": "A 4-year-old girl is brought to the clinic with generalized swelling. On examination, she has periorbital edema and ascites. Urinalysis shows significant proteinuria, but no hematuria. Serum albumin is low, and cholesterol levels are elevated. Which of the following is the most appropriate initial treatment?",
+    "options": [
+      "Antibiotics",
+      "Corticosteroids",
+      "Antihypertensives",
+      "Immunosuppressants",
+      "Diuretics"
+    ],
+    "correctAnswer": "Corticosteroids",
+    "explanation": {
+      "correct": "The clinical presentation of generalized edema, massive proteinuria, hypoalbuminemia, and hyperlipidemia is diagnostic of Nephrotic Syndrome. In children, the most common cause is Minimal Change Disease, which is highly responsive to corticosteroids (e.g., Prednisone) as the first-line treatment.",
+      "incorrect": [
+        { "option": "Antibiotics", "reason": "Used only if there is a confirmed infection (e.g., spontaneous bacterial peritonitis), not for the nephrotic syndrome itself." },
+        { "option": "Antihypertensives", "reason": "Used if hypertension is present (more common in nephritis), but steroids treat the underlying pathology." },
+        { "option": "Immunosuppressants", "reason": "Reserved for steroid-resistant or frequently relapsing cases (e.g., Cyclophosphamide)." },
+        { "option": "Diuretics", "reason": "May be used for symptomatic relief of severe edema, but they do not treat the underlying kidney disease." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_9",
+    "case": "A 4-year-old girl is brought to the emergency department because of a 2-days history of fever, abdominal pain, and diarrhea containing blood and mucus. She has a history of recurrent ear infections treated with antibiotics. She completed a 10-day course of amoxicillin-clavulanate 1 day ago. She appears moderately ill. Her temperature is 38.4, pulse is 104/min, respirations are $20/min$, and blood pressure is $100/62$ mm Hg. Abdominal examination shows moderate left lower quadrant tenderness with no rebound. The remainder of the examination shows no abnormalities. Test of the stool for occult blood is positive. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Amebic dysentry",
+      "Ulcerative colitis",
+      "Shigellosis",
+      "Typhoid",
+      "Pseudomembranous colitis"
+    ],
+    "correctAnswer": "Pseudomembranous colitis",
+    "explanation": {
+      "correct": "The recent use of broad-spectrum antibiotics (Amoxicillin-Clavulanate) followed by fever and diarrhea strongly suggests Clostridioides difficile infection (Pseudomembranous colitis). While often watery, C. diff colitis can present with bloody, mucus-filled stools in severe cases.",
+      "incorrect": [
+        { "option": "Amebic dysentry", "reason": "Typically presents with subacute onset and is associated with travel or endemic areas, not specifically recent antibiotic use." },
+        { "option": "Ulcerative colitis", "reason": "A chronic autoimmune condition; while symptoms match, the acute onset immediately post-antibiotics makes C. diff more likely." },
+        { "option": "Shigellosis", "reason": "Causes bloody dysentery and high fever, but the history of recent antibiotic use points specifically to an antibiotic-associated etiology." },
+        { "option": "Typhoid", "reason": "Presents with stepwise fever, abdominal pain, and 'pea soup' diarrhea, not typically frank blood and mucus post-antibiotics." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_10",
+    "case": "A 4-year-old girl with sickle cell disease is brought to the clinic by her parents because of sudden onset of pallor, fatigue, and tachycardia. There is no fever or signs of infection. Hemoglobin is $4.5~g/dL$, reticulocyte count is <1%, and WBC and platelet counts are normal. Which of the following is the most likely cause?",
+    "options": [
+      "Acute splenic sequestration",
+      "Aplastic crisis",
+      "Hemolytic crisis",
+      "Iron deficiency anemia",
+      "Autoimmune hemolytic anemia"
+    ],
+    "correctAnswer": "Aplastic crisis",
+    "explanation": {
+      "correct": "In a patient with Sickle Cell Disease, the combination of severe anemia (Hb 4.5) and a critically low reticulocyte count (<1%) indicates a failure of bone marrow production, known as an Aplastic Crisis. This is most commonly caused by Parvovirus B19 infection.",
+      "incorrect": [
+        { "option": "Acute splenic sequestration", "reason": "Would present with a rapidly enlarging spleen and *elevated* reticulocyte count (bone marrow trying to compensate)." },
+        { "option": "Hemolytic crisis", "reason": "Would present with jaundice and a significantly *elevated* reticulocyte count due to increased RBC destruction." },
+        { "option": "Iron deficiency anemia", "reason": "Is a chronic, microcytic anemia, not a sudden onset crisis with such a dramatic drop in hemoglobin." },
+        { "option": "Autoimmune hemolytic anemia", "reason": "Would result in hemolysis, leading to an *elevated* reticulocyte count." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_11",
+    "case": "A 5-month-old boy is brought to the physician by his mother because of a 1-day history of fever, vomiting, and fussiness. He was born at 39 weeks' gestation following an uncomplicated pregnancy and delivery. He is alert and mildly irritable but easily consoled by his mother. His rectal temperature is 39 (102.2°F), pulse is 160/min, and respirations are 38/min Examination of the skin shows no abnormalities. The tympanic membranes are mildly erythematous with normal landmarks and motility. The lungs are clear to auscultation. The abdomen is soft with no palpable masses. The patient is uncircumcised. Laboratory studies show: Hemoglobin 11.9~g/dL Leukocyte count 12,200/mm 3 Platelet count $240,000/mm3$ Urine Nitrites 2+ Leukocyte esterase 3+ Results of blood and urine cultures are pending. Which of the following is the most appropriate pharmacotherapy?",
+    "options": [
+      "Cefazolin",
+      "Cefotaxime",
+      "Nafcillin",
+      "Vancomycin",
+      "Penicillin"
+    ],
+    "correctAnswer": "Cefotaxime",
+    "explanation": {
+      "correct": "The clinical presentation (uncircumcised male infant, high fever, irritability) combined with positive urine nitrites and leukocyte esterase is highly suggestive of a Urinary Tract Infection (UTI) or Pyelonephritis. The most common pathogen is *E. coli*. Cefotaxime (a 3rd generation cephalosporin) is the empirical treatment of choice for infants as it has excellent coverage against gram-negative organisms like *E. coli* and crosses the blood-brain barrier (important if sepsis is suspected).",
+      "incorrect": [
+        { "option": "Cefazolin", "reason": "A 1st generation cephalosporin; it has good gram-positive coverage but insufficient coverage against enteric gram-negatives for serious infections in infants." },
+        { "option": "Nafcillin", "reason": "Used for penicillinase-resistant Staphylococcus aureus (MSSA), not gram-negative urinary pathogens." },
+        { "option": "Vancomycin", "reason": "Reserved for MRSA or resistant gram-positive infections, not indicated for typical UTIs." },
+        { "option": "Penicillin", "reason": "Has a narrow spectrum and high resistance rates among *E. coli*; not appropriate for empirical UTI treatment." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_12",
+    "case": "A 5-month-old infant is brought to the clinic because of wheezing, tachypnea, and poor feeding for 2 days. The mother reports nasal congestion and cough. On examination, there is mild intercostal retraction, diffuse wheezing, and crackles. Oxygen saturation is 90% on room air. Which of the following is the most likely pathogen?",
+    "options": [
+      "Influenza A",
+      "Respiratory syncytial virus (RSV)",
+      "Mycoplasma pneumoniae",
+      "Streptococcus pneumoniae",
+      "Bordetella pertussis"
+    ],
+    "correctAnswer": "Respiratory syncytial virus (RSV)",
+    "explanation": {
+      "correct": "This is the classic presentation of acute bronchiolitis: an infant <2 years old with a viral prodrome (congestion) followed by lower respiratory signs (wheezing, crackles, retractions). Respiratory Syncytial Virus (RSV) is the most common cause of bronchiolitis.",
+      "incorrect": [
+        { "option": "Influenza A", "reason": "typically causes high fever, myalgias, and systemic toxicity, which are less prominent here than the respiratory distress/wheezing." },
+        { "option": "Mycoplasma pneumoniae", "reason": "Causes 'walking pneumonia' (atypical pneumonia) and is more common in school-aged children (>5 years), not infants." },
+        { "option": "Streptococcus pneumoniae", "reason": "Causes lobar bacterial pneumonia characterized by high fever and focal lung findings, not diffuse wheezing." },
+        { "option": "Bordetella pertussis", "reason": "Causes 'whooping cough' (paroxysmal coughing fits followed by an inspiratory whoop), not the classic wheezing/bronchiolitis picture." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_13",
+    "case": "A 5-year-old child is brought to the clinic with a history of chronic diarrhea and failure to thrive. The child has a distended abdomen and thin extremities. Laboratory tests show low serum albumin and positive tissue transglutaminase antibodies. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Cystic fibrosis",
+      "Lactose intolerance",
+      "Celiac disease",
+      "Crohn's disease",
+      "Giardiasis"
+    ],
+    "correctAnswer": "Celiac disease",
+    "explanation": {
+      "correct": "The presence of positive tissue transglutaminase (tTG) IgA antibodies is highly specific for Celiac Disease. The clinical features of malabsorption (chronic diarrhea, failure to thrive, abdominal distension, muscle wasting/thin extremities) and hypoalbuminemia confirm the diagnosis.",
+      "incorrect": [
+        { "option": "Cystic fibrosis", "reason": "Would present with steatorrhea and respiratory issues; diagnosis is via sweat chloride test, not tTG antibodies." },
+        { "option": "Lactose intolerance", "reason": "Causes bloating and diarrhea but rarely failure to thrive or hypoalbuminemia, and tTG would be negative." },
+        { "option": "Crohn's disease", "reason": "Inflammatory bowel disease that might show elevated inflammatory markers (CRP/ESR) and bloody stool, but tTG is specific to Celiac." },
+        { "option": "Giardiasis", "reason": "A parasitic infection diagnosed by stool antigen or microscopy, not autoimmune antibodies like tTG." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_14",
+    "case": "A 6-week-old infant is brought to the clinic because of bilious vomiting, abdominal distension, and irritability. He has a history of malrotation. An abdominal X-ray shows air-fluid levels with a \"double bubble\" sign. Which of the following is the best next step?",
+    "options": [
+      "Barium enema",
+      "Colonoscopy",
+      "Gastrografin follow through",
+      "Upper gastrointestinal endoscopy",
+      "Emergency laparotomy"
+    ],
+    "correctAnswer": "Emergency laparotomy",
+    "explanation": {
+      "correct": "The combination of a known history of malrotation and acute onset of bilious vomiting suggests Midgut Volvulus, a surgical emergency where the bowel twists around the superior mesenteric artery, leading to ischemia. The 'double bubble' sign indicates duodenal obstruction. Because the bowel is at risk of necrosis (suggested by irritability/pain), immediate surgical exploration (Laparotomy) is required.",
+      "incorrect": [
+        { "option": "Barium enema", "reason": "Used for intussusception or lower bowel obstruction, not for suspected high obstruction/volvulus." },
+        { "option": "Colonoscopy", "reason": "Evaluates the colon/lower GI tract; the pathology here is in the small bowel/duodenum." },
+        { "option": "Gastrografin follow through", "reason": "Upper GI series is the gold standard for *diagnosing* malrotation in a stable patient, but with a *known* history and acute catastrophic symptoms (volvulus), surgery is the priority." },
+        { "option": "Upper gastrointestinal endoscopy", "reason": "Used for mucosal visualization (e.g., ulcers), not for correcting mechanical twisting/obstruction of the bowel." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_15",
+    "case": "A 7-year-old boy comes to the clinic with her parents because of frequent episodes of sudden staring for 10-15 seconds, followed by immediate resumption of activity without confusion. His teacher reports that these episodes occur multiple times a day. EEG shows 3-Hz spike-and-wave discharges. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Complex partial seizures",
+      "Absence seizures",
+      "Focal aware seizures",
+      "Transient ischemic attack",
+      "Narcolepsy"
+    ],
+    "correctAnswer": "Absence seizures",
+    "explanation": {
+      "correct": "The clinical description of brief staring spells with immediate recovery (no post-ictal confusion) combined with the classic 3-Hz spike-and-wave pattern on EEG is diagnostic for Childhood Absence Epilepsy (Petit Mal seizures).",
+      "incorrect": [
+        { "option": "Complex partial seizures", "reason": "Typically involve automatisms (lip smacking, picking) and are followed by a post-ictal state (confusion/sleepiness)." },
+        { "option": "Focal aware seizures", "reason": "Involve preserved awareness and specific motor/sensory symptoms, not loss of awareness/staring." },
+        { "option": "Transient ischemic attack", "reason": "Extremely rare in children and presents with focal neurological deficits, not staring spells." },
+        { "option": "Narcolepsy", "reason": "Involves excessive daytime sleepiness and cataplexy, not brief staring spells with specific 3-Hz EEG spikes." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_16",
+    "case": "A 7-year-old boy is brought to the clinic because of facial puffiness, especially around the eyes, and dark-colored urine. Blood pressure is elevated. Urinalysis reveals hematuria with red blood cell casts and mild proteinuria. Which of the following is the most likely diagnosis?",
+    "options": [
+      "SLE",
+      "Post streptococcal glomeulonephritis",
+      "Nephrotic syndrome",
+      "Henoch shonlein purpura",
+      "IgA nephropathy"
+    ],
+    "correctAnswer": "Post streptococcal glomeulonephritis",
+    "explanation": {
+      "correct": "This is a classic presentation of Acute Nephritic Syndrome: Hematuria (dark urine), RBC casts, Hypertension, and Edema (puffiness). In a 7-year-old child, the most common etiology is Post-Streptococcal Glomerulonephritis (PSGN), which typically follows a throat or skin infection.",
+      "incorrect": [
+        { "option": "Nephrotic syndrome", "reason": "Characterized by massive proteinuria (>3.5g/day), hypoalbuminemia, and generalized edema, but typically lacks RBC casts and hematuria." },
+        { "option": "SLE", "reason": "Systemic Lupus Erythematosus is rare in prepubertal boys and would present with multisystem involvement (rash, joint pain)." },
+        { "option": "Henoch shonlein purpura", "reason": "Would present with a classic palpable purpuric rash on the buttocks/legs and abdominal pain." },
+        { "option": "IgA nephropathy", "reason": "Presents with recurrent gross hematuria *concurrent* with an upper respiratory infection (Synpharyngitic), whereas PSGN occurs weeks *after* infection." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_17",
+    "case": "A 7-year-old girl has progressive acute myelogenous leukemia despite numerous therapeutic interventions. During a meeting with her parents to discuss the prognosis and the futility of further treatment, her parents request that the girl not to be told her prognosis. During an examination when her parents are not present she asks if she is going to die soon. Which of the following is the most appropriate response?",
+    "options": [
+      "I have talked to your parents about this, and they do not want you to know.",
+      "Most children with your condition live a long time.",
+      "No one really knows. It's hard to say.",
+      "Have you talked to your parents about this?",
+      "That's not the spirit I like to see in my patients."
+    ],
+    "correctAnswer": "Have you talked to your parents about this?",
+    "explanation": {
+      "correct": "This response acknowledges the child's question without immediately breaking the parents' request for nondisclosure. It explores the child's understanding and opens a dialogue, allowing the physician to gauge what the child knows or fears. This facilitates a later discussion with the parents to advocate for the child's need for information.",
+      "incorrect": [
+        { "option": "I have talked to your parents about this, and they do not want you to know.", "reason": "Breaches the trust relationship with the parents and dismisses the child's autonomy/fear roughly." },
+        { "option": "Most children with your condition live a long time.", "reason": "Giving false hope is unethical, especially when the case describes 'futility of further treatment'." },
+        { "option": "No one really knows. It's hard to say.", "reason": "Evasive and dismissive; the medical team likely does know the prognosis is poor." },
+        { "option": "That's not the spirit I like to see in my patients.", "reason": "Inappropriate, invalidates the child's feelings, and ignores the gravity of the situation." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_18",
+    "case": "A 9-month-old infant is brought to the clinic for a routine check-up. The mother is concerned because the baby is not yet crawling. On examination, the infant can sit without support, transfer objects from hand to hand, and responds to her name. Which of the following is the most appropriate response to the mother's concern?",
+    "options": [
+      "\"We should schedule a developmental assessment immediately.\"",
+      "\"It's normal; some infants skip crawling and go straight to walking.\"",
+      "\"Crawling is an essential milestone; we need to investigate further.\"",
+      "\"Let's wait until the 12-month visit to see if there's improvement.\"",
+      "\"You should encourage more tummy time to strengthen her muscles.\""
+    ],
+    "correctAnswer": "\"It's normal; some infants skip crawling and go straight to walking.\"",
+    "explanation": {
+      "correct": "Crawling is not considered a universal or essential developmental milestone. Many healthy infants skip crawling entirely or 'bottom shuffle' and go straight to pulling to stand and walking. Since the infant has met other appropriate milestones (sitting at 6-7 months, fine motor transfer, social response), reassurance is the correct management.",
+      "incorrect": [
+        { "option": "\"We should schedule a developmental assessment immediately.\"", "reason": "Unnecessary as the child is meeting other key milestones." },
+        { "option": "\"Crawling is an essential milestone; we need to investigate further.\"", "reason": "Factually incorrect; crawling is variable." },
+        { "option": "\"Let's wait until the 12-month visit to see if there's improvement.\"", "reason": "While monitoring is okay, this implies there is a problem to 'improve' rather than reassuring it is a normal variant." },
+        { "option": "\"You should encourage more tummy time to strengthen her muscles.\"", "reason": "While good advice generally, it implies the lack of crawling is a deficit due to muscle weakness, which is not supported by the exam (sits unsupported)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_19",
+    "case": "A 10-month-old boy is brought to the clinic by his parents because of pallor and irritability. His diet consists mostly of cow's milk. His hemoglobin is $8.5~g/dL,$ MCV is 68 fL, and reticulocyte count is low. Deficiency of which of the following is the most likely cause of his anemia?",
+    "options": [
+      "Folic acid",
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin C",
+      "Iron"
+    ],
+    "correctAnswer": "Iron",
+    "explanation": {
+      "correct": "The consumption of cow's milk before age 1 is a major risk factor for Iron Deficiency Anemia. Cow's milk is low in iron, has low iron bioavailability, and can cause microscopic intestinal bleeding. The labs show a Microcytic Anemia (low MCV) with a low reticulocyte count (production problem), which is classic for iron deficiency.",
+      "incorrect": [
+        { "option": "Folic acid", "reason": "Deficiency causes Macrocytic anemia (high MCV), not microcytic." },
+        { "option": "Vitamin B12", "reason": "Deficiency causes Macrocytic anemia (high MCV)." },
+        { "option": "Vitamin D", "reason": "Deficiency causes Rickets (bone issues), not anemia." },
+        { "option": "Vitamin C", "reason": "Deficiency (Scurvy) can cause bleeding and anemia, but the dietary history of cow's milk points strongly to iron." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_20",
+    "case": "A 10-year-old boy is brought to the emergency department 20 minutes after the onset of a generalized tonic-clonic seizure lasting 5 minutes. He has hypertension treated with a calcium-channel blocking agent, but he has not been taking his medication. On arrival, he is unarousable. His blood pressure is $250/154$ mm Hg. Examination shows proliferative retinopathy. Urinalysis shows 1 + protein. Which of the following is the most appropriate intravenous pharmacotherapy?",
+    "options": [
+      "Sodium nitroprusside",
+      "Diazoxide",
+      "Furosemide",
+      "Hydralazine",
+      "Lorazepam"
+    ],
+    "correctAnswer": "Sodium nitroprusside",
+    "explanation": {
+      "correct": "The patient is presenting with Hypertensive Emergency (malignant hypertension) manifested by Encephalopathy (seizures, unarousable state) and Retinopathy. The immediate goal is to lower the Mean Arterial Pressure (MAP) by no more than 25% in the first hour. Sodium Nitroprusside is a potent, rapid-acting IV vasodilator used for hypertensive emergencies.",
+      "incorrect": [
+        { "option": "Lorazepam", "reason": "Used to abort the seizure, but does not treat the underlying cause (extreme hypertension). The question asks for the pharmacotherapy for the hypertensive crisis context implied by the vitals and history." },
+        { "option": "Diazoxide", "reason": "An older vasodilator, rarely used now due to side effects (hyperglycemia, reflex tachycardia)." },
+        { "option": "Furosemide", "reason": "A diuretic; adjunctive but not the primary agent for immediate rapid BP reduction in encephalopathy." },
+        { "option": "Hydralazine", "reason": "Has a slower onset and unpredictable effect; often used in pregnancy (pre-eclampsia) but not the first line for hypertensive encephalopathy in a child." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_21",
+    "case": "A 13-year-old boy is brought to the Emergency Department after a bicycle accident involving a truck. He is awake, alert, and anxious but hemodynamically stable. A chest X-ray reveals an air-fluid level in the left lower lung field, and the nasogastric tube is visualized coiled in the left thoracic cavity. Which of the following is the most urgent next step in his management?",
+    "options": [
+      "Placement of a left chest tube.",
+      "Thoracotomy.",
+      "Laparotomy.",
+      "Esophagogastroscopy.",
+      "Diagnostic peritoneal lavage."
+    ],
+    "correctAnswer": "Laparotomy.",
+    "explanation": {
+      "correct": "The presence of an air-fluid level in the left chest and a nasogastric tube coiled in the thorax after blunt trauma is diagnostic of a traumatic diaphragmatic rupture with gastric herniation. The standard of care for acute diaphragmatic rupture is exploratory laparotomy[cite: 187, 189]. This approach allows for the reduction of the herniated viscera and inspection of the abdominal cavity for associated injuries, which are common in high-impact trauma.",
+      "incorrect": [
+        { "option": "Placement of a left chest tube.", "reason": "Contraindicated and dangerous. The 'air-fluid level' is the stomach, not a hemopneumothorax. Inserting a chest tube could perforate the herniated stomach[cite: 185]." },
+        { "option": "Thoracotomy.", "reason": "Usually reserved for chronic/delayed presentations or specific right-sided injuries. In the acute setting, the abdominal approach (laparotomy) is preferred to assess other abdominal organs[cite: 186]." },
+        { "option": "Esophagogastroscopy.", "reason": "Unnecessary for diagnosis as the X-ray finding is definitive and would delay urgent surgical repair[cite: 188]." },
+        { "option": "Diagnostic peritoneal lavage.", "reason": "Used to detect intraperitoneal bleeding, but the diagnosis of diaphragmatic rupture is already evident, and surgery is indicated regardless of DPL results[cite: 189]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_22",
+    "case": "A 14-year-old girl is brought to the physician for an evaluation of short stature and delayed puberty. She has never had a menstrual period. Since birth, the patient's height has been below the 3rd percentile, and her weight has been at the 3rd percentile. At the age of 10 years, X-rays of the left hand and wrist showed that bone age was equal to chronologic age. Her mother, who is 160 cm (5 ft 3 in) tall, had menarche at the age of 12 years. Her father is 175 cm (5 ft 9 in) tall. The patient is 147 cm (4 ft 10 in) tall and weighs 54 kg (120 lb); BMI is 25 kg/m2. Her pulse is 76/min, and blood pressure is 120/78 mm Hg. Examination shows multiple nevi over the face and trunk. There is bilateral pedal edema. Breast development is Tanner stage 1, and pubic hair development is Tanner stage 1. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Constitutional short stature",
+      "Hypothyroidism",
+      "Gonadal dysgenesis 45,X (Turner syndrome)",
+      "Familial short stature",
+      "Idiopathic hypopituitarism"
+    ],
+    "correctAnswer": "Gonadal dysgenesis 45,X (Turner syndrome)",
+    "explanation": {
+      "correct": "The combination of short stature (<3rd percentile), primary amenorrhea (delayed puberty, Tanner stage 1), and specific physical features like multiple nevi and lymphedema (pedal edema) is highly suggestive of Turner Syndrome (45,X gonadal dysgenesis)[cite: 191, 197, 199]. Lymphedema is a classic sign due to lymphatic hypoplasia.",
+      "incorrect": [
+        { "option": "Constitutional short stature", "reason": "Characterized by delayed bone age (bone age < chronological age) and a family history of 'late bloomers,' whereas this patient has normal bone age[cite: 192, 198]." },
+        { "option": "Hypothyroidism", "reason": "Would typically cause delayed bone age and other symptoms like cold intolerance or constipation, and does not explain the nevi or lymphedema[cite: 198]." },
+        { "option": "Familial short stature", "reason": "ruled out because the parents are of normal height (Mother 160cm, Father 175cm), and the child is significantly below genetic potential[cite: 193, 200]." },
+        { "option": "Idiopathic hypopituitarism", "reason": "Usually presents with proportionate dwarfism and often delayed bone age, lacking the stigmata of Turner syndrome (nevi, edema)[cite: 201]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_23",
+    "case": "A 16-year-old adolescent came to the outpatient clinic with irregular menstrual cycles for the past year. She reported heavy bleeding with clots and severe cramping. She is sexually active. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Endometrial polyp",
+      "Von Willebrand disease",
+      "Cervical cancer",
+      "Dysfunctional uterine bleeding",
+      "Endometrial hyperplasia"
+    ],
+    "correctAnswer": "Dysfunctional uterine bleeding",
+    "explanation": {
+      "correct": "In adolescents (1-2 years post-menarche), the most common cause of heavy, irregular bleeding is anovulatory cycles due to the immaturity of the Hypothalamic-Pituitary-Ovarian (HPO) axis, historically termed Dysfunctional Uterine Bleeding (DUB)[cite: 202, 208].",
+      "incorrect": [
+        { "option": "Endometrial polyp", "reason": "Rare in adolescents; typically affects women in their 30s-50s[cite: 205]." },
+        { "option": "Von Willebrand disease", "reason": "A common cause of heavy menstrual bleeding in adolescents, but 'irregular cycles' points more strongly toward anovulation/DUB. Coagulopathies usually present with regular but heavy cycles or history of other bleeding[cite: 206]." },
+        { "option": "Cervical cancer", "reason": "Extremely rare in a 16-year-old, even if sexually active. Screening typically begins at age 21[cite: 207]." },
+        { "option": "Endometrial hyperplasia", "reason": "Associated with prolonged unopposed estrogen (e.g., obesity, PCOS) over many years; less common as a primary diagnosis in a 16-year-old compared to physiological anovulation[cite: 209]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_24",
+    "case": "A 16-year-old girl is brought to the ED because of sudden-onset of severe left lower abdominal pain, nausea, and vomiting. Pelvic ultrasound shows an enlarged, edematous left ovary with absent Doppler flow. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Ruptured ovarian cyst",
+      "Mittelschmerz",
+      "Endometriosis",
+      "Ovarian torsion",
+      "Adenomyosis"
+    ],
+    "correctAnswer": "Ovarian torsion",
+    "explanation": {
+      "correct": "The sudden onset of severe unilateral pain accompanied by nausea/vomiting and the ultrasound finding of an enlarged ovary with absent Doppler flow is diagnostic of Ovarian Torsion[cite: 210, 211, 216]. Absent flow indicates ischemia, requiring urgent surgical intervention.",
+      "incorrect": [
+        { "option": "Ruptured ovarian cyst", "reason": "Causes sudden pain and free fluid in the pelvis, but Doppler flow to the ovary would remain intact[cite: 213]." },
+        { "option": "Mittelschmerz", "reason": "Mild mid-cycle pain associated with ovulation, not severe ischemic pain with absent blood flow[cite: 214]." },
+        { "option": "Endometriosis", "reason": "Causes chronic cyclic pelvic pain, not typically an acute ischemic event with absent flow[cite: 215]." },
+        { "option": "Adenomyosis", "reason": "A condition where endometrial tissue grows into the uterine wall, causing heavy periods and chronic pain, not acute ovarian pathology[cite: 217]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_25",
+    "case": "A 20-day-old newborn is brought to the emergency department by his parents because of a 2-day history of excessive forceful vomiting after eating. The vomitus is not green or bloody. He continues to breast feed vigorously but has fewer wet diapers than normal. He was born at term following an uncomplicated pregnancy and vaginal delivery. He appears mildly dehydrated. His temperature is 37°C (98.6°F) and pulse is 135/min. The abdomen is soft, and the patient tolerates deep palpation of the abdomen without crying. Which of the following is the most appropiate diagnosis?",
+    "options": [
+      "GERD",
+      "Cow milk allergy",
+      "Duodenal atresia",
+      "Congenital hypertrophic pyloric stenosis",
+      "Hirschsprung's Disease"
+    ],
+    "correctAnswer": "Congenital hypertrophic pyloric stenosis",
+    "explanation": {
+      "correct": "The classic presentation of projectile (forceful), non-bilious (not green) vomiting in a 2-4 week old infant who remains 'hungry' (feeds vigorously) is Pyloric Stenosis[cite: 219, 220, 227]. Dehydration (fewer wet diapers) is a common complication.",
+      "incorrect": [
+        { "option": "GERD", "reason": "Causes 'spitting up' rather than forceful projectile vomiting and typically does not cause dehydration or weight loss in mild cases[cite: 224]." },
+        { "option": "Cow milk allergy", "reason": "Often presents with bloody stools (colitis), eczema, or vomiting, but not the characteristic projectile nature seen here[cite: 225]." },
+        { "option": "Duodenal atresia", "reason": "Presents with *bilious* (green) vomiting usually on the first day of life, not non-bilious vomiting at 3 weeks[cite: 226]." },
+        { "option": "Hirschsprung's Disease", "reason": "Presents with failure to pass meconium, abdominal distension, and bilious vomiting, unrelated to the gastric outlet obstruction picture here[cite: 228]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_26",
+    "case": "A 20-year-old man is brought to the Emergency Department following a motor vehicle collision. He is comatosed (GCS score of 7) with a thready pulse of 140 beats per minute, blood pressure (BP) of 60/0 mmHg, and rapid, shallow respirations. Breath sounds are present bilaterally, but abdominal examination reveals moderate distension with absent bowel sounds. He has closed fractures of the right forearm and left lower leg. After rapid intravenous (IV) infusion of 2 liters of lactated Ringer's solution in the upper extremities, his pulse decreases to 130 bpm and BP improves to 70/30 mmHg. Which of the following is the most critical next intervention?",
+    "options": [
+      "Obtaining cross-table lateral X-rays o the cervical spine.",
+      "Obtaining head and abdominal CT scans.",
+      "Obtaining supine and lateral decubitus X-rays of the abdomen.",
+      "Obtaining an arch aortogram.",
+      "Exploring the abdomen."
+    ],
+    "correctAnswer": "Exploring the abdomen.",
+    "explanation": {
+      "correct": "The patient remains hemodynamically unstable (BP 70/30) despite resuscitation (transient responder)[cite: 233]. The presence of abdominal distension suggests intra-abdominal hemorrhage. In an unstable trauma patient with a suspected abdominal source of bleeding, immediate Exploratory Laparotomy is indicated to control hemorrhage. Transporting an unstable patient to CT is dangerous[cite: 239].",
+      "incorrect": [
+        { "option": "Obtaining cross-table lateral X-rays o the cervical spine.", "reason": "While part of the trauma survey, it is not the priority over controlling life-threatening hemorrhage in an unstable patient[cite: 235]." },
+        { "option": "Obtaining head and abdominal CT scans.", "reason": "Contraindicated in hemodynamically unstable patients; the 'tunnel of death' (CT scanner) delays life-saving surgery[cite: 236]." },
+        { "option": "Obtaining supine and lateral decubitus X-rays of the abdomen.", "reason": "Low yield for hemorrhage and wastes valuable time[cite: 237]." },
+        { "option": "Obtaining an arch aortogram.", "reason": "Time-consuming and used for suspected aortic injury, but the immediate threat is abdominal exsanguination[cite: 238]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_27",
+    "case": "A 22-year-old woman cimes to her GP for advice regarding the most appropriate postnatal contraception. She had an uncomplicated vaginal delivery 6 weeks back at 40 weeks gestation. She is intermittently breastfeeding and bottle feeding her baby. She and her partner are keen to space out child bearing by 2-3 years and requesting for the most reliable form of contraception. She admits to having difficulty in remembering to take contraceptive medication. Which of the following is the most appropriate contraceptive option?",
+    "options": [
+      "Combined contraceptive vaginal ring",
+      "Combined oral contraceptive pill",
+      "Condoms",
+      "Lactational amenorrhoea",
+      "Progestogen only implant"
+    ],
+    "correctAnswer": "Progestogen only implant",
+    "explanation": {
+      "correct": "The Progestogen-only implant (Nexplanon) is the most appropriate choice because it is a Long-Acting Reversible Contraceptive (LARC) with >99% efficacy (most reliable), requires no daily adherence (good for someone who forgets pills), and is safe for breastfeeding/postpartum women[cite: 243, 244, 249].",
+      "incorrect": [
+        { "option": "Combined contraceptive vaginal ring", "reason": "Contains estrogen, which may affect breast milk supply (though less concern at 6 weeks) and has a higher user-failure rate than implants[cite: 245]." },
+        { "option": "Combined oral contraceptive pill", "reason": "Requires daily adherence, which the patient admitted is a problem for her[cite: 243, 246]." },
+        { "option": "Condoms", "reason": "User-dependent with a higher failure rate than LARCs, not meeting the request for 'most reliable'[cite: 247]." },
+        { "option": "Lactational amenorrhoea", "reason": "Unreliable here because she is 'intermittently' breastfeeding and bottle feeding; LAM requires exclusive breastfeeding[cite: 242, 248]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_28",
+    "case": "A 22-year-old woman comes to her GP for advice regarding the most appropriate postnatal contraception. She had an uncomplicated vaginal delivery at 40 weeks gestation 3 weeks prior. She is bottle feeding her baby. She and her partner are keen to space out child bearing by 1-2 years and wishing a reliable form of contraception. She has a history of irregular menstrual cycles and polycystic ovarian syndrome. Which of the following is the most appropriate contraceptive option?",
+    "options": [
+      "Combined oral contraceptive pill",
+      "Copper intrauterine device",
+      "Levonorgestrel-releasing intrauterine system (Mirena)",
+      "Progestogen only pill",
+      "Progestogen only injectable"
+    ],
+    "correctAnswer": "Levonorgestrel-releasing intrauterine system (Mirena)",
+    "explanation": {
+      "correct": "The Levonorgestrel-IUS (Mirena) is a highly reliable LARC. It provides endometrial protection (important for PCOS/irregular cycles to prevent hyperplasia) and is safe at 3 weeks postpartum. Estrogen-containing methods are generally avoided <3-6 weeks postpartum due to elevated VTE risk[cite: 251, 253, 257].",
+      "incorrect": [
+        { "option": "Combined oral contraceptive pill", "reason": "Contraindicated or used with caution <3-6 weeks postpartum due to thrombotic risk, even in non-breastfeeding women[cite: 255]." },
+        { "option": "Copper intrauterine device", "reason": "Can cause heavier bleeding, which might be undesirable in a patient with irregular cycles, though it is a valid option[cite: 256]." },
+        { "option": "Progestogen only pill", "reason": "Requires strict daily timing; less reliable than an IUS[cite: 258]." },
+        { "option": "Progestogen only injectable", "reason": "Can be associated with weight gain and delayed return to fertility, which might not be ideal if she only wants to space for 1 year[cite: 259]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_29",
+    "case": "A 22-year-old woman comes to the physician because of a 2-day history of pain with urination, intense vaginal itching and a thick discharge. She uses an oral contraceptive. Her temperature is 37°C. Genitourinary examination shows erythema of the vulva and vagina with an odorless curd-like discharge. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Bacterial vaginosis",
+      "Trichomoniasis",
+      "Chlamydia trachomatis infection",
+      "Scabies",
+      "Candidiasis"
+    ],
+    "correctAnswer": "Candidiasis",
+    "explanation": {
+      "correct": "The symptoms of intense itching (pruritus), erythema, and the classic 'thick, odorless curd-like' (cottage cheese) discharge are pathognomonic for Vulvovaginal Candidiasis (Yeast infection)[cite: 260, 261, 267].",
+      "incorrect": [
+        { "option": "Bacterial vaginosis", "reason": "Presents with a thin, grayish discharge with a fishy odor (amine scent), not a thick curd-like discharge[cite: 263]." },
+        { "option": "Trichomoniasis", "reason": "Presents with a frothy, yellow-green, malodorous discharge and a 'strawberry cervix'[cite: 264]." },
+        { "option": "Chlamydia trachomatis infection", "reason": "Often asymptomatic or presents with mucopurulent cervicitis, not typically the intense itching and curd-like discharge of yeast[cite: 265]." },
+        { "option": "Scabies", "reason": "Causes generalized itching, especially in web spaces, not a vaginal discharge[cite: 266]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_30",
+    "case": "A 23-year-old trauma patient is brought to the emergency department with a left-sided chest stab wound and hypotension (systolic BP is 85 mmHg) that transiently improves with intravenous fluid resuscitation. Chest X-ray reveals no pneumothorax or hemothorax. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Computed tomography (CT) scan o the chest",
+      "Pelvic X-ray",
+      "Focused abdominal sonography of trauma (FAST) examination",
+      "Urgent Thoracotomy",
+      "Tube thoracostomy of the left side of the chest"
+    ],
+    "correctAnswer": "Focused abdominal sonography of trauma (FAST) examination",
+    "explanation": {
+      "correct": "In a patient with a penetrating chest wound and hypotension but a normal CXR (ruling out massive hemo/pneumothorax), Cardiac Tamponade is a major concern. The FAST exam is the standard bedside tool to rapidly assess for pericardial effusion (tamponade) and intra-abdominal hemorrhage[cite: 268, 271, 273].",
+      "incorrect": [
+        { "option": "Computed tomography (CT) scan o the chest", "reason": "The patient is hypotensive/unstable. Transporting to CT is unsafe before ruling out immediate life threats like tamponade[cite: 272]." },
+        { "option": "Pelvic X-ray", "reason": "Low yield for a chest stab wound; the source of shock is likely intrathoracic (tamponade) or abdominal, not a pelvic fracture[cite: 272]." },
+        { "option": "Urgent Thoracotomy", "reason": "Indicated if there is cardiac arrest or massive output from a chest tube. Without a confirmed diagnosis (via FAST) or arrest, this is too aggressive as a first step[cite: 274]." },
+        { "option": "Tube thoracostomy of the left side of the chest", "reason": "Contraindicated because the CXR explicitly shows *no* pneumothorax or hemothorax[cite: 270, 275]." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_31",
+    "case": "A 24-year-old, newly married woman came to the clinic complaining of oligohypomenorrhea, some weight gain, hirsutism and acne. Which of the followings is the expected diagnostic ultrasound finding of her condition?",
+    "options": [
+      "Dermoid ovarian cyst",
+      "Multiple uterine fibroids",
+      "Poly-cystic ovaries",
+      "Endomeriotic ovarian cyst",
+      "Adenomyosis"
+    ],
+    "correctAnswer": "Poly-cystic ovaries",
+    "explanation": {
+      "correct": "The patient presents with the classic triad of Polycystic Ovary Syndrome (PCOS): oligo-ovulation (oligohypomenorrhea), clinical hyperandrogenism (hirsutism, acne), and often metabolic dysfunction (weight gain). The expected ultrasound finding is polycystic ovaries (ovarian volume >10ml or >12 follicles measuring 2-9mm), which is one of the Rotterdam criteria for diagnosis.",
+      "incorrect": [
+        { "option": "Dermoid ovarian cyst", "reason": "A germ cell tumor containing teeth/hair; generally asymptomatic or causes torsion, not hormonal symptoms like hirsutism." },
+        { "option": "Multiple uterine fibroids", "reason": "Cause heavy menstrual bleeding (menorrhagia) and pelvic pressure, not oligomenorrhea or androgen excess." },
+        { "option": "Endomeriotic ovarian cyst", "reason": "Associated with dysmenorrhea and pelvic pain, not typically primary hirsutism and oligomenorrhea." },
+        { "option": "Adenomyosis", "reason": "Causes heavy, painful periods and a boggy uterus, not oligomenorrhea or hyperandrogenism." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_32",
+    "case": "A 25-year-old woman comes to the clinic for prenatal care in the second trimester. She has never had any routine vaccinations. Which of the following vaccines should be avoided during her pregnancy?",
+    "options": [
+      "Injectable influenza vaccine",
+      "Tetanus toxoid",
+      "Reduced diphtheria toxoid and acellular pertussis (Tdap)",
+      "Hepatitis B",
+      "Measles, mumps, and rubella (MMR)"
+    ],
+    "correctAnswer": "Measles, mumps, and rubella (MMR)",
+    "explanation": {
+      "correct": "The MMR vaccine is a live-attenuated virus vaccine. Live vaccines are generally contraindicated during pregnancy due to the theoretical risk of transmission of the virus to the fetus.",
+      "incorrect": [
+        { "option": "Injectable influenza vaccine", "reason": "This is an inactivated vaccine and is strongly recommended during pregnancy to prevent severe flu complications." },
+        { "option": "Tetanus toxoid", "reason": "Safe and indicated, usually as part of Tdap." },
+        { "option": "Reduced diphtheria toxoid and acellular pertussis (Tdap)", "reason": "Recommended in every pregnancy (usually 27-36 weeks) to provide passive immunity against pertussis to the newborn." },
+        { "option": "Hepatitis B", "reason": "A recombinant vaccine; safe for use in pregnancy if the patient is at risk." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_33",
+    "case": "A 27-year-old man comes to the clinic with symptoms including diarrhea, altered mental status, alopecia, and perioral and periorbital dermatitis. He has a history of severe trauma and has been undergoing prolonged parenteral nutrition. Which of the following trace element's administration is most likely to alleviate these complications?",
+    "options": [
+      "lodine.",
+      "Zinc.",
+      "Selenium.",
+      "Silicon.",
+      "Tin."
+    ],
+    "correctAnswer": "Zinc.",
+    "explanation": {
+      "correct": "This is the classic presentation of Zinc deficiency, often seen in patients on prolonged Total Parenteral Nutrition (TPN) without adequate supplementation. The symptoms form a distinct triad: Acrodermatitis (perioral/periorbital rash), Alopecia (hair loss), and Diarrhea.",
+      "incorrect": [
+        { "option": "lodine.", "reason": "Deficiency causes goiter and hypothyroidism (cretinism in infants), not dermatitis or alopecia." },
+        { "option": "Selenium.", "reason": "Deficiency causes cardiomyopathy (Keshan disease) and muscle weakness." },
+        { "option": "Silicon.", "reason": "Deficiency is not well-characterized in humans as a cause of this specific syndrome." },
+        { "option": "Tin.", "reason": "Not a recognized essential trace element deficiency syndrome in humans." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_34",
+    "case": "A 27-year-old nulligravid woman comes to the outpatient clinic as she has had severe pain with menses that has caused her to miss at least 2 days of work during each menstrual cycle for the past year. She has occasional pain during sexual intercourse. Her BMI is 20 kg/m2. Pelvic examination shows a normal-appearing vulva and vagina. The cervix is pink with minimal endocervical gland eversion. The uterus is normal in size, the left ovary is 2x3 cm and the right is 4x6 cm. Which of the following is the most likely cause of her condition?",
+    "options": [
+      "Chronic appendicitis",
+      "Endometriosis",
+      "Pelvic congestion syndrome",
+      "Polycystic ovarian syndrome",
+      "Premenstrual syndrome"
+    ],
+    "correctAnswer": "Endometriosis",
+    "explanation": {
+      "correct": "The patient presents with severe secondary dysmenorrhea (interfering with work) and deep dyspareunia (pain with intercourse). Physical exam reveals an adnexal mass (right ovary enlarged to 4x6 cm), likely an endometrioma. This clinical picture is highly suggestive of Endometriosis.",
+      "incorrect": [
+        { "option": "Chronic appendicitis", "reason": "Typically presents with right lower quadrant pain, not cyclic menstrual pain or dyspareunia." },
+        { "option": "Pelvic congestion syndrome", "reason": "Characterized by chronic dull pelvic ache that worsens with standing/end of day, not specifically severe dysmenorrhea with an ovarian mass." },
+        { "option": "Polycystic ovarian syndrome", "reason": "Presents with irregular/infrequent periods and hyperandrogenism, not severe dysmenorrhea; ovaries are usually bilaterally enlarged with small follicles, not a single large mass." },
+        { "option": "Premenstrual syndrome", "reason": "Involves mood and somatic symptoms before the period, but does not cause the structural ovarian changes or severe dyspareunia seen here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_35",
+    "case": "A 28-year - old man with type 1 diabetes develops symptoms of an upper respiratory tract infection, with fever and cough. His usual insulin regimen consists of insulin glargine 18 IU at bedtime and insulin aspart 6-10 IU before each meal, based on blood glucose measurements and carbohydrate counting of meals. His latest average fasting blood glucose measurement is 119 mg/dl, 220 mg/dl after breakfast, 250 mg/dl after lunch, and 136 mg/dl after dinner. Which of the following is the advisable modification in insulin therapy in this patient?",
+    "options": [
+      "Increase the dose of bedtime glargine.",
+      "Increase the dose of aspart before breakfast.",
+      "Increase the dose of aspart before lunch.",
+      "Increase the dose of aspart before dinner.",
+      "Increase the dose of aspart before breakfast and lunch."
+    ],
+    "correctAnswer": "Increase the dose of aspart before breakfast and lunch.",
+    "explanation": {
+      "correct": "The patient has specific post-prandial hyperglycemia. The glucose is high after breakfast (220 mg/dl) and after lunch (250 mg/dl), but controlled after dinner (136 mg/dl) and fasting (119 mg/dl). Therefore, he requires more rapid-acting insulin (aspart) specifically before the meals that are followed by spikes: breakfast and lunch.",
+      "incorrect": [
+        { "option": "Increase the dose of bedtime glargine.", "reason": "Glargine controls fasting glucose, which is currently acceptable (119 mg/dl). Increasing it risks nocturnal hypoglycemia." },
+        { "option": "Increase the dose of aspart before breakfast.", "reason": "Only addresses the morning spike but leaves the post-lunch hyperglycemia untreated." },
+        { "option": "Increase the dose of aspart before lunch.", "reason": "Only addresses the afternoon spike but leaves the post-breakfast hyperglycemia untreated." },
+        { "option": "Increase the dose of aspart before dinner.", "reason": "Post-dinner glucose is already well controlled (136 mg/dl), so increasing this dose would cause hypoglycemia." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_36",
+    "case": "A 28-year-old woman comes to the clinic because of fever, lower abdominal pain, and purulent cervical discharge. She has cervical motion tenderness on exam. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Ectopic pregnancy",
+      "Ovarian torsion",
+      "Pelvic inflammatory disease",
+      "Endometriosis",
+      "Appendicitis"
+    ],
+    "correctAnswer": "Pelvic inflammatory disease",
+    "explanation": {
+      "correct": "The triad of lower abdominal pain, cervical motion tenderness (Chandelier sign), and purulent discharge in a young woman is the classic clinical definition of Pelvic Inflammatory Disease (PID). Fever supports the infectious etiology.",
+      "incorrect": [
+        { "option": "Ectopic pregnancy", "reason": "Presents with pain and bleeding/amenorrhea, but fever and purulent discharge are not characteristic." },
+        { "option": "Ovarian torsion", "reason": "Presents with sudden severe unilateral pain and vomiting, without purulent discharge or fever initially." },
+        { "option": "Endometriosis", "reason": "Chronic cyclic pain; does not present with acute fever and purulent discharge." },
+        { "option": "Appendicitis", "reason": "Pain typically migrates to the Right Lower Quadrant; cervical motion tenderness is less specific, and purulent vaginal discharge is not a feature." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_37",
+    "case": "A 29-year-old woman is brought to the ED with sudden abdominal pain and fainting. Her last menstrual period was 8 weeks ago. She is tachycardic and hypotensive. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Ruptured ovarian cyst",
+      "Pelvic inflammatory disease",
+      "Ovarian torsion",
+      "Ruptured ectopic pregnancy",
+      "Endometriosis"
+    ],
+    "correctAnswer": "Ruptured ectopic pregnancy",
+    "explanation": {
+      "correct": "The combination of amenorrhea (8 weeks = missed period), sudden abdominal pain, and signs of hemodynamic shock (fainting, tachycardia, hypotension) is a ruptured ectopic pregnancy until proven otherwise. This is a life-threatening surgical emergency caused by internal hemorrhage.",
+      "incorrect": [
+        { "option": "Ruptured ovarian cyst", "reason": "Can cause pain and some fluid in the pelvis, but rarely causes profound hemorrhagic shock unless a major vessel is involved (rare)." },
+        { "option": "Pelvic inflammatory disease", "reason": "Infectious process presenting with fever and discharge, not sudden hemorrhagic shock and fainting." },
+        { "option": "Ovarian torsion", "reason": "Causes severe pain and vomiting but is ischemic, not hemorrhagic; it does not typically cause systemic hypotension/fainting." },
+        { "option": "Endometriosis", "reason": "Chronic condition; does not cause acute hemodynamic collapse." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_38",
+    "case": "A 29-year-old woman, G1P0, at 36 weeks is brought to the ED with sudden painless vaginal bleeding. She denies contractions or trauma. Fetal heart rate is 150 bpm and the uterus is non-tender. Which of the followings is the most likely diagnosis?",
+    "options": [
+      "Placenta previa",
+      "Placental abruption",
+      "Vasa previa",
+      "Uterine rupture",
+      "Cervical insufficiency"
+    ],
+    "correctAnswer": "Placenta previa",
+    "explanation": {
+      "correct": "Sudden onset of *painless* bright red vaginal bleeding in the third trimester, with a soft, non-tender uterus, is the hallmark presentation of Placenta Previa (placenta covering the cervix).",
+      "incorrect": [
+        { "option": "Placental abruption", "reason": "Typically presents with *painful* bleeding, uterine tenderness/rigidity, and often fetal distress." },
+        { "option": "Vasa previa", "reason": "Presents with painless bleeding but rapidly leads to *fetal bradycardia/death* because the bleeding is fetal blood. The normal FHR (150) makes this less likely." },
+        { "option": "Uterine rupture", "reason": "Catastrophic event with severe pain, loss of fetal station, and FHR abnormalities; usually associated with prior C-section." },
+        { "option": "Cervical insufficiency", "reason": "Typically occurs in the second trimester (18-22 weeks) as painless dilation, not bleeding at 36 weeks." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_39",
+    "case": "A 30-year-old pregnant woman presents with a previous history of preterm delivery. Which of the following interventions has been shown to reduce the risk of recurrence in subsequent pregnancies?",
+    "options": [
+      "Tocolytic therapy",
+      "Cervical cerclage",
+      "Progesterone supplementation",
+      "Bed rest",
+      "Early amniocentesis"
+    ],
+    "correctAnswer": "Progesterone supplementation",
+    "explanation": {
+      "correct": "In women with a history of spontaneous preterm birth, the administration of progesterone (either vaginal or intramuscular 17-OHP) starting in the second trimester has been proven to significantly reduce the risk of recurrent preterm birth.",
+      "incorrect": [
+        { "option": "Tocolytic therapy", "reason": "Used to delay delivery for 48 hours *during* acute preterm labor (to give steroids), not as a preventative measure throughout pregnancy." },
+        { "option": "Cervical cerclage", "reason": "Indicated specifically for cervical insufficiency (short cervix), not universally for all prior preterm births (though used if cervix shortens)." },
+        { "option": "Bed rest", "reason": "No longer recommended; it does not prevent preterm birth and increases the risk of DVT." },
+        { "option": "Early amniocentesis", "reason": "Diagnostic test, not a preventative treatment." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_40",
+    "case": "A 30-year-old woman came to the outpatient clinic at 12 weeks of gestation because of hyperemesis gravidarum, vaginal bleeding, and a \"snowstorm\" pattern on ultrasound. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Missed abortion",
+      "Partial molar pregnancy",
+      "Complete molar pregnancy",
+      "Threatened abortion",
+      "Placental separation"
+    ],
+    "correctAnswer": "Complete molar pregnancy",
+    "explanation": {
+      "correct": "The 'snowstorm' or 'cluster of grapes' appearance on ultrasound is pathognomonic for a Hydatidiform Mole (Molar Pregnancy). Complete moles produce very high levels of hCG, leading to severe Hyperemesis Gravidarum and vaginal bleeding.",
+      "incorrect": [
+        { "option": "Missed abortion", "reason": "Shows a non-viable fetus without cardiac activity, not a snowstorm pattern." },
+        { "option": "Partial molar pregnancy", "reason": "Usually shows a fetus (often with anomalies) alongside cystic changes, whereas Complete Mole shows the classic snowstorm with *no* fetus." },
+        { "option": "Threatened abortion", "reason": "Shows a viable live fetus with cardiac activity and some bleeding." },
+        { "option": "Placental separation", "reason": "Refers to abruption; ultrasound would show a retroplacental clot, not the diffuse vesicular snowstorm pattern." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_41",
+    "case": "A 31-year-old woman comes to Surgery outpatient clinic for evaluation of a suspicious-appearing mole. A punch biopsy confirms melanoma, despite no personal or family history of skin cancer and no prior blistering sunburns. Which of the following pathologic findings is most prognostic for her clinical outcome?",
+    "options": [
+      "Size of the melanoma.",
+      "Color of the melanoma.",
+      "Depth of the melanoma.",
+      "Presence of ulceration.",
+      "Site of the melanoma.."
+    ],
+    "correctAnswer": "Depth of the melanoma.",
+    "explanation": {
+      "correct": "The Breslow thickness (depth of invasion) is the single most important prognostic factor for cutaneous melanoma. It determines the T stage and guides surgical margins and the need for sentinel lymph node biopsy.",
+      "incorrect": [
+        { "option": "Size of the melanoma.", "reason": "While diameter (part of ABCD criteria) helps in screening, the vertical depth is more predictive of metastasis and survival than surface area." },
+        { "option": "Color of the melanoma.", "reason": "Useful for clinical diagnosis (variegated color), but does not predict survival outcome." },
+        { "option": "Presence of ulceration.", "reason": "An important prognostic factor (indicates worse prognosis), but secondary to depth in staging systems." },
+        { "option": "Site of the melanoma..", "reason": "Some sites have worse prognoses (e.g., scalp), but depth remains the primary determinant." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_42",
+    "case": "A 32-year-old woman at 38 weeks of gestation is brought to the emergency department with severe abdominal pain, hypotension and cessation of contractions. Fetal heart monitoring shows late decelerations. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Placental abruption",
+      "Placental abruption",
+      "Uterine rupture",
+      "Cord prolapse",
+      "Preterm labor"
+    ],
+    "correctAnswer": "Uterine rupture",
+    "explanation": {
+      "correct": "The classic triad for Uterine Rupture is severe abdominal pain, fetal distress (late decelerations/bradycardia), and the sudden 'cessation of contractions' (as the uterus tears and loses the ability to contract). Loss of fetal station (recession of the presenting part) is another key sign.",
+      "incorrect": [
+        { "option": "Placental abruption", "reason": "Typically causes hypertonic uterine contractions (tetany) and a rigid, tender uterus, not the cessation of contractions." },
+        { "option": "Cord prolapse", "reason": "Presents with a palpable cord on exam and sudden severe fetal bradycardia, but does not cause maternal hypotension or cessation of contractions." },
+        { "option": "Preterm labor", "reason": "Involves regular contractions, whereas this patient has stopped contracting and is hemodynamically unstable." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_43",
+    "case": "A 33-year-old man has never been vaccinated for hepatitis B. Serologic tests reveal negative hepatitis B surface antigen (HBsAg) and positive antibody to surface antigen. Which of the following conditions does this serologic pattern best fit with?",
+    "options": [
+      "Previous hepatitis B infection",
+      "Chronic active hepatitis",
+      "Acute hepatitis B infection",
+      "Poor prognosis",
+      "Need for vaccine to hepatitis B"
+    ],
+    "correctAnswer": "Previous hepatitis B infection",
+    "explanation": {
+      "correct": "The presence of Anti-HBs (surface antibody) with a negative HBsAg indicates immunity. Since the patient has never been vaccinated, this immunity must be natural, resulting from a resolved 'Previous hepatitis B infection'. If tested, Anti-HBc (core antibody) would also be positive.",
+      "incorrect": [
+        { "option": "Chronic active hepatitis", "reason": "Defined by persistence of HBsAg for >6 months. This patient is HBsAg negative." },
+        { "option": "Acute hepatitis B infection", "reason": "Would show positive HBsAg and IgM Anti-HBc." },
+        { "option": "Need for vaccine to hepatitis B", "reason": "The patient is already immune (Anti-HBs positive), so vaccination is unnecessary." },
+        { "option": "Poor prognosis", "reason": "Recovery with seroconversion to Anti-HBs indicates a good prognosis and resolved infection." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_44",
+    "case": "A 33-year-old man presents to the surgery outpatient clinic to evaluate a testicular mass self-detected during a shower. Physical examination reveals an asymmetrically enlarged left testicle with a firm, palpable mass compared to the right. Scrotal ultrasound identifies a solitary intraparenchymal testicular lesion. Which of the following is the next appropriate step in managing this condition?",
+    "options": [
+      "Close observation and repeating ultrasound in 3 months.",
+      "Examining serum beta-human chorionic gonadotropin (HCG), alpha-fetoprotein (AFP), and lactate dehydrogenase (LDH).",
+      "Fine needle aspiration to determine if the mass is malignant.",
+      "Trans- scrotal orchiectomy.",
+      "A 2-week course of antibiotics with follow-up clinical examination after completion."
+    ],
+    "correctAnswer": "Examining serum beta-human chorionic gonadotropin (HCG), alpha-fetoprotein (AFP), and lactate dehydrogenase (LDH).",
+    "explanation": {
+      "correct": "In a patient with a solid intratesticular mass confirmed by ultrasound, testicular cancer is the primary concern. The next steps are staging with serum tumor markers (AFP, b-HCG, LDH) and radical inguinal orchiectomy. Markers help in diagnosis, staging, and monitoring.",
+      "incorrect": [
+        { "option": "Trans- scrotal orchiectomy.", "reason": "Contraindicated. Scrotal incision can seed tumor cells into the lymphatic drainage of the scrotum (inguinal nodes), altering the natural spread (retroperitoneal) and complicating treatment. The correct surgery is Radical Inguinal Orchiectomy." },
+        { "option": "Fine needle aspiration to determine if the mass is malignant.", "reason": "Contraindicated due to the risk of tumor seeding." },
+        { "option": "Close observation and repeating ultrasound in 3 months.", "reason": "Inappropriate for a solid mass which is malignant until proven otherwise; delays treatment." },
+        { "option": "A 2-week course of antibiotics with follow-up clinical examination after completion.", "reason": "Appropriate for suspected epididymitis (pain, fever), but a painless, firm, solid intratesticular mass requires cancer workup." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_45",
+    "case": "A 33-year-old woman is admitted to the Emergency Department with acute erythema, pain, and swelling in her right foot extending to the midcalf of 2 days duration. She reports chronic, unilateral right lower extremity edema persisting for 15 years, while her left leg remains unaffected. On examination, she is febrile ( 39°C), with nonpitting edema from the right groin to the foot, and cellulitis localized to the foot (no ulcers or skin changes). The left leg is normal. Which of the following is the most likely underlying etiology of her chronic leg swelling?",
+    "options": [
+      "Congenital lymphedema.",
+      "Lymphedema praecox.",
+      "Venous insufficiency.",
+      "Deep venous thrombosis.",
+      "Acute arterial insufficiency."
+    ],
+    "correctAnswer": "Lymphedema praecox.",
+    "explanation": {
+      "correct": "The patient has chronic, unilateral non-pitting edema that started 15 years ago (at age 18). Primary lymphedema with onset during adolescence or early adulthood (before age 35) is classified as Lymphedema Praecox (Meige disease). The acute presentation is superimposed cellulitis, a common complication of lymphedema.",
+      "incorrect": [
+        { "option": "Congenital lymphedema.", "reason": "Also known as Milroy disease, this presents at birth or in early infancy, not at age 18." },
+        { "option": "Venous insufficiency.", "reason": "Typically causes pitting edema, skin changes (stasis dermatitis, hyperpigmentation), and ulcers, and is often bilateral." },
+        { "option": "Deep venous thrombosis.", "reason": "Causes acute, painful swelling, not a 15-year history of chronic edema." },
+        { "option": "Acute arterial insufficiency.", "reason": "Presents with the 6 Ps (Pain, Pallor, Pulselessness, etc.), not swelling and cellulitis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_46",
+    "case": "A 34-year-old nurse who works in a TB clinic has been exposed to a patient with active pulmonary tuberculosis. She has a negative Tuberculin skin test (TST) result but is concerned about her risk. Which of the following is the most appropriate next step regarding her management?",
+    "options": [
+      "Immediate initiation of isoniazid prophylaxis.",
+      "Repeating the TST in three months.",
+      "Starting a course of rifampin for prevention.",
+      "Scheduling a chest X-ray.",
+      "Monitoring for symptoms of active TB."
+    ],
+    "correctAnswer": "Repeating the TST in three months.",
+    "explanation": {
+      "correct": "After exposure to active TB, it can take 8-10 weeks for the immune system to develop a reaction to the Tuberculin Skin Test (the 'window period'). If the initial baseline test is negative, the standard protocol is to repeat the test in 8-12 weeks to document seroconversion.",
+      "incorrect": [
+        { "option": "Immediate initiation of isoniazid prophylaxis.", "reason": "Usually reserved for high-risk contacts (e.g., children <5 years, immunosuppressed) or after a positive test. In a healthy adult with a negative baseline, wait-and-retest is standard." },
+        { "option": "Scheduling a chest X-ray.", "reason": "Indicated only if the TST is positive or if the patient has symptoms of active TB." },
+        { "option": "Starting a course of rifampin for prevention.", "reason": "Treatment for Latent TB Infection (LTBI) is only started if infection is confirmed (positive TST/IGRA)." },
+        { "option": "Monitoring for symptoms of active TB.", "reason": "Insufficient; latent TB is asymptomatic, so follow-up testing is required to detect infection." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_47",
+    "case": "A 34-year-old woman, G3P2, at 34 weeks of gestation, is admitted to the ED with severe headache, visual disturbances and swelling in her hands and face. Blood pressure is 170/110 mmHg, and urinalysis reveals +3 proteinuria. Reflexes are brisk. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Performing an immediate cesarean section",
+      "Administering intravenous labetalol and magnesium sulfate",
+      "Monitoring closely with serial Bl. Pr. and urine protein checks",
+      "Beginning oral antihypertensives and discharging home",
+      "Administering corticosteroids and scheduling induction in one week"
+    ],
+    "correctAnswer": "Administering intravenous labetalol and magnesium sulfate",
+    "explanation": {
+      "correct": "The patient has severe Preeclampsia (BP >160/110, symptoms, proteinuria) with signs of CNS irritability (brisk reflexes) putting her at risk for Eclampsia (seizures) and Stroke. The immediate priority is stabilization: Magnesium Sulfate for seizure prophylaxis and rapid-acting IV antihypertensives (e.g., Labetalol or Hydralazine) to control blood pressure. Delivery is the ultimate cure, but stabilization must come first.",
+      "incorrect": [
+        { "option": "Performing an immediate cesarean section", "reason": "While delivery is indicated, rushing to surgery without hemodynamic stabilization increases maternal risk. Also, vaginal delivery may be an option after stabilization." },
+        { "option": "Monitoring closely with serial Bl. Pr. and urine protein checks", "reason": "Inappropriate for severe preeclampsia; immediate intervention is required to prevent stroke or seizure." },
+        { "option": "Beginning oral antihypertensives and discharging home", "reason": "Severe preeclampsia requires inpatient management and delivery." },
+        { "option": "Administering corticosteroids and scheduling induction in one week", "reason": "At 34 weeks with severe features (headache, visual changes), delivery should not be delayed for a week. It should happen once stable (often within 24-48 hours after steroids, or immediately if unstable)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_48",
+    "case": "A 35-year-old man arrives at the hospital with flu-like symptoms and is placed in isolation. As a healthcare worker, you need to do personal protective equipment (PPE) before entering the room. Which of the following is the correct order for putting on PPE?",
+    "options": [
+      "Mask, gloves, face shield, gown",
+      "Gloves, face shield, mask, gown",
+      "Gown, mask, face shield, gloves",
+      "Face shield, gloves, gown, mask",
+      "Mask, gown, face shield, gloves"
+    ],
+    "correctAnswer": "Gown, mask, face shield, gloves",
+    "explanation": {
+      "correct": "The CDC recommends the following sequence for donning (putting on) PPE: 1. Gown (to cover torso), 2. Mask or Respirator, 3. Goggles or Face Shield, 4. Gloves (pulled over the cuffs of the gown).",
+      "incorrect": [
+        { "option": "Mask, gloves, face shield, gown", "reason": "Gloves should always be donned last to ensure they cover the gown cuffs and remain clean." },
+        { "option": "Gloves, face shield, mask, gown", "reason": "Incorrect order; gown goes first." },
+        { "option": "Mask, gown, face shield, gloves", "reason": "Gown is usually first, though mask first is sometimes taught in specific protocols, the standard CDC sequence is Gown -> Mask -> Eye -> Gloves." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_49",
+    "case": "A 35-year-old man presents to the emergency department with a 3-week history of intermittent abdominal pain, tenesmus, and bloody diarrhea. He reports having up to 10 bowel movements per day, with bright red blood mixed in his stools. He denies any significant weight loss but has experienced mild fatigue. His medical history is unremarkable, and he is not taking any medications. On examination, he has mild abdominal tenderness in the lower left quadrant but no rebound tenderness or guarding. Laboratory tests show: Hemoglobin: 10.5 g/dL WBC: 12,000 cells/mm³, CRP: elevated. Which of the following is the most appropriate next step in management of such case?",
+    "options": [
+      "Ordering a colonoscopy with biopsy of the colonic mucosa.",
+      "Performing a CT scan of the abdomen to assess for complications.",
+      "Initiating empirical treatment with mesalamine.",
+      "Obtaining a stool culture for infectious pathogens.",
+      "Scheduling a barium enema for visualization of the colon."
+    ],
+    "correctAnswer": "Ordering a colonoscopy with biopsy of the colonic mucosa.",
+    "explanation": {
+      "correct": "The patient's presentation (3-week history, bloody diarrhea, tenesmus, LLQ pain) is highly suggestive of Ulcerative Colitis. While infectious causes should be ruled out (usually via stool culture), the chronic nature (>2 weeks) and specific symptoms (tenesmus) make IBD likely. Colonoscopy with biopsy is the gold standard for diagnosis to visualize the mucosa and confirm chronic inflammation.",
+      "incorrect": [
+        { "option": "Obtaining a stool culture for infectious pathogens.", "reason": "This is a mandatory initial test to rule out infection, but in the context of a 3-week history and exam question focusing on the *diagnosis* of the likely condition (UC), Colonoscopy is the high-yield answer. In practice, both are ordered." },
+        { "option": "Initiating empirical treatment with mesalamine.", "reason": "Treatment should never be started before a definitive diagnosis is made." },
+        { "option": "Performing a CT scan of the abdomen to assess for complications.", "reason": "Useful if perforation or toxic megacolon is suspected (severe distension, rebound tenderness), but this patient has only mild tenderness." },
+        { "option": "Scheduling a barium enema for visualization of the colon.", "reason": "Largely replaced by colonoscopy, which allows for biopsy; Barium enema can also precipitate toxic megacolon in active severe colitis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_50",
+    "case": "A 35-year-old pregnant woman came alone to the antenatal clinic at 30 weeks gestation. Suddenly she collapsed and became unconscious, having a cardiac arrest. Immediate resuscitation and emergency peri-mortem caesarean section was done and patient survived. Which of the following medical ethics principles better describes this action?",
+    "options": [
+      "Battery",
+      "Beneficence",
+      "Negligence",
+      "Non maleficence",
+      "Paternalism"
+    ],
+    "correctAnswer": "Beneficence",
+    "explanation": {
+      "correct": "Beneficence is the obligation to act in the best interest of the patient. A peri-mortem cesarean section (Resuscitative Hysterotomy) is performed to relieve aortocaval compression by the uterus, improving maternal venous return and cardiac output during arrest. This maximizes the chance of maternal survival (and potentially saves the fetus), fulfilling the duty to save life.",
+      "incorrect": [
+        { "option": "Battery", "reason": "Refers to unauthorized touching/treatment. In an emergency with an incapacitated patient, consent is implied, so this is not battery." },
+        { "option": "Non maleficence", "reason": "Means 'do no harm'. While the surgery causes physical harm (incision), the intent and result are life-saving, so Beneficence (active good) is the stronger descriptor than simply avoiding harm." },
+        { "option": "Paternalism", "reason": "Refers to overriding a patient's known wishes for their benefit. Since the patient is unconscious and her wishes are unknown, this is emergency care, not necessarily paternalism." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_51",
+    "case": "A 35-year-old woman was admitted to the emergency room for acute anterior chest pain, diaphoresis and sweating since 2 hours. She delivered a healthy boy by Caesarean section 10 days earlier. Pulse was weak, blood pressure 80/50 mm Hg, respiratory rate 30 per min. Serum troponin was in the normal range. ECG showed deep S in lead I, deep Q in lead III, and inverted T in V1-4. Urgent pulmonary angiogram revealed massive pulmonary embolism. Which of the following is the drug of choice to treat this lady?",
+    "options": [
+      "Antiplatelets",
+      "Intravenous heparin",
+      "Intravenous thrombolytics",
+      "Oral anticoagulants",
+      "Dobutamine IV drip"
+    ],
+    "correctAnswer": "Intravenous thrombolytics",
+    "explanation": {
+      "correct": "The patient presents with a 'Massive Pulmonary Embolism' defined by hemodynamic instability (Hypotension: BP 80/50). The ECG findings (S1Q3T3 pattern) and history (post-C-section) support the diagnosis. In a patient with massive PE and shock, the treatment of choice to rapidly dissolve the clot and restore hemodynamics is thrombolytic therapy (e.g., tPA), unless there is an absolute contraindication. While recent surgery (C-section 10 days ago) is a relative contraindication, the life-threatening nature of the shock typically prioritizes thrombolysis or surgical embolectomy.",
+      "incorrect": [
+        { "option": "Intravenous heparin", "reason": "Used for 'Submassive' or stable PE to prevent clot propagation, but it does not actively dissolve the existing clot quickly enough to reverse shock." },
+        { "option": "Antiplatelets", "reason": "Used for arterial clots (e.g., myocardial infarction), not venous thromboembolism." },
+        { "option": "Oral anticoagulants", "reason": "Slow onset of action; used for long-term maintenance, not acute resuscitation." },
+        { "option": "Dobutamine IV drip", "reason": "An inotrope used to support blood pressure, but it does not treat the underlying cause (the obstruction)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_52",
+    "case": "A 35-year-old woman, G2P1, at 39 weeks comes to the clinic because of fever, tachycardia, uterine tenderness, and foul-smelling amniotic fluid. Fetal heart rate is 180 bpm. Which of the following is the next step in management?",
+    "options": [
+      "Performing immediate cesarean section",
+      "Starting broad-spectrum antibiotics and induction of labor",
+      "Monitoring maternal vitals and fetal status closely",
+      "Administer corticosteroids",
+      "Starting tocolysis"
+    ],
+    "correctAnswer": "Starting broad-spectrum antibiotics and induction of labor",
+    "explanation": {
+      "correct": "The clinical picture of maternal fever, tachycardia, uterine tenderness, foul-smelling fluid, and fetal tachycardia is diagnostic of Chorioamnionitis (Intra-amniotic infection). The standard of care is the initiation of broad-spectrum antibiotics (e.g., Ampicillin + Gentamicin) and delivery. Vaginal delivery is preferred; Cesarean section is reserved for standard obstetric indications.",
+      "incorrect": [
+        { "option": "Performing immediate cesarean section", "reason": "Increases the risk of wound infection and sepsis in the setting of chorioamnionitis. It is not indicated unless there is fetal distress or failure to progress." },
+        { "option": "Monitoring maternal vitals and fetal status closely", "reason": "Inappropriate; chorioamnionitis requires active treatment (delivery), not just observation, due to risks of maternal and neonatal sepsis." },
+        { "option": "Administer corticosteroids", "reason": "Used for fetal lung maturity in preterm labor (<34-37 weeks). This patient is term (39 weeks)." },
+        { "option": "Starting tocolysis", "reason": "Contraindicated in chorioamnionitis. The goal is delivery, not delaying it." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_53",
+    "case": "A 36-year-old woman comes to the outpatient clinic as she develops fever, abdominal pain and foul-smelling lochia. She had a cesarean section 24 hours ago. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Endometritis",
+      "Wound Dehiscence",
+      "Urinary Tract Infection",
+      "Ovarian Hyperstimulation Syndrome",
+      "Retained Products of Conception"
+    ],
+    "correctAnswer": "Endometritis",
+    "explanation": {
+      "correct": "Postpartum Endometritis is the most common cause of fever (puerperal pyrexia) in the immediate postpartum period, especially after a Cesarean section. Key features include fever, uterine tenderness (abdominal pain), and foul-smelling lochia.",
+      "incorrect": [
+        { "option": "Wound Dehiscence", "reason": "Involves separation of the surgical incision; while it causes pain, foul lochia is specific to a uterine infection." },
+        { "option": "Urinary Tract Infection", "reason": "Causes dysuria and frequency; foul lochia points to the uterus, not the bladder." },
+        { "option": "Ovarian Hyperstimulation Syndrome", "reason": "Complication of fertility treatments, presenting with massive ovarian enlargement and ascites, not typical postpartum infection signs." },
+        { "option": "Retained Products of Conception", "reason": "Can cause endometritis, but the primary diagnosis for the infection itself is endometritis. Retained products are a risk factor/cause." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_54",
+    "case": "A 36-year-old woman, G4P3, at 37 weeks of gestation, is admitted to the ED with severe dyspnea, hypotension and cyanosis immediately after rupture of membranes during labor. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Pulmonary odema",
+      "Amniotic fluid embolism",
+      "Myocardial infarction",
+      "Pneumothorax",
+      "Sepsis"
+    ],
+    "correctAnswer": "Amniotic fluid embolism",
+    "explanation": {
+      "correct": "Amniotic Fluid Embolism (AFE) presents as a catastrophic cardiorespiratory collapse (severe dyspnea, cyanosis, hypotension) occurring during labor, specifically immediately following the rupture of membranes. It is often followed by Disseminated Intravascular Coagulation (DIC).",
+      "incorrect": [
+        { "option": "Pulmonary odema", "reason": "Usually develops more gradually (e.g., in preeclampsia or cardiac disease), not as a sudden collapse right after ROM." },
+        { "option": "Myocardial infarction", "reason": "Presents with chest pain; the timing linked to membrane rupture makes AFE much more likely." },
+        { "option": "Pneumothorax", "reason": "Would show unilateral absent breath sounds; rare to occur spontaneously during labor without specific trauma." },
+        { "option": "Sepsis", "reason": "Presents with fever and gradual deterioration, not immediate collapse upon ROM." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_55",
+    "case": "A 37-year-old woman came to the outpatient clinic for evaluation of a nonpalpable suspicious lesion in her right breast, detected during her annual mammogram. Following a stereotactic core biopsy, she returns to discuss the pathology results confirming lobular carcinoma in situ (LCIS). Which of the following is the most appropriate management counseling for this patient?",
+    "options": [
+      "Tamoxifen can prevent this cancer from spreading but may increase your risk of developing cancer in the other breast.",
+      "You can consider nonoperative treatment with close observation, annual mammograms, and semiannual clinical examinations.",
+      "The recommended treatment is a right breast mastectomy.",
+      "Further staging workup at this time will include a chest x-ray and bone scan.",
+      "Because you are at such high risk for future cancers, bilateral mastectomies should be performed to prevent this from happening."
+    ],
+    "correctAnswer": "You can consider nonoperative treatment with close observation, annual mammograms, and semiannual clinical examinations.",
+    "explanation": {
+      "correct": "Lobular Carcinoma In Situ (LCIS) is considered a marker of increased risk for developing invasive cancer in *either* breast, rather than a direct precursor lesion like DCIS. The standard management is typically observation (surveillance) with frequent exams and mammograms. Chemoprevention (Tamoxifen) is an option to reduce risk but is not mandatory.",
+      "incorrect": [
+        { "option": "Tamoxifen can prevent this cancer from spreading but may increase your risk of developing cancer in the other breast.", "reason": "Incorrect statement; Tamoxifen *decreases* the risk of cancer in the contralateral breast." },
+        { "option": "The recommended treatment is a right breast mastectomy.", "reason": "Overly aggressive. LCIS is generally not treated with surgery (wide excision/mastectomy) unless there are discordant findings." },
+        { "option": "Further staging workup at this time will include a chest x-ray and bone scan.", "reason": "Unnecessary because LCIS is not invasive cancer and does not metastasize." },
+        { "option": "Because you are at such high risk for future cancers, bilateral mastectomies should be performed to prevent this from happening.", "reason": "While bilateral prophylactic mastectomy is an option for very high-risk patients, it is not the standard 'should be performed' recommendation for LCIS alone." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_56",
+    "case": "A 38-year-old woman is brought to the emergency department with a three-day history of diarrhea. She reports having three to four episodes of watery stools daily, accompanied by mild abdominal cramping. She also mentions experiencing some nausea but denies vomiting, fever, or blood in her stools. She recently attended a barbecue where she consumed undercooked chicken. She has no significant past medical history and takes no medications. On examination, she is afebrile but appears mildly dehydrated. Which of the following is the most appropriate initial management step?",
+    "options": [
+      "Starting oral rehydration therapy and obtaining stool cultures.",
+      "Providing supportive care and advising on hydration.",
+      "Ordering stool ova and parasite examination.",
+      "Performing a colonoscopy.",
+      "Recommending a lactose-free diet trial."
+    ],
+    "correctAnswer": "Providing supportive care and advising on hydration.",
+    "explanation": {
+      "correct": "The patient has acute, uncomplicated gastroenteritis (watery diarrhea, afebrile, no blood, mild dehydration). Although the history of 'undercooked chicken' suggests Salmonella or Campylobacter, the disease is typically self-limiting. Guidelines recommend supportive care (oral rehydration) without diagnostic testing (stool cultures) for patients without 'alarm features' (severe fever, bloody stools, severe dehydration, immunocompromise).",
+      "incorrect": [
+        { "option": "Starting oral rehydration therapy and obtaining stool cultures.", "reason": "Stool cultures are generally not cost-effective or indicated for mild, afebrile, non-bloody diarrhea." },
+        { "option": "Ordering stool ova and parasite examination.", "reason": "Indicated for persistent diarrhea (>14 days) or specific travel history, not acute onset watery diarrhea." },
+        { "option": "Performing a colonoscopy.", "reason": "Invasive and unnecessary for acute gastroenteritis." },
+        { "option": "Recommending a lactose-free diet trial.", "reason": "While transient lactose intolerance can occur, the priority is rehydration, and restricting diet is not the primary management step." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_57",
+    "case": "A 39-year-old woman is admitted to the emergency department complaining of acute-onset right lower quadrant (RLQ) pain while playing tennis, which worsens over hours. She has anorexia, nausea, and persistent sharp RLQ pain. Physical exam reveals low-grade fever, RLQ tenderness with guarding and a palpable mass-like fullness. WBC: 13,000/mm3. Abdominal ultrasound identifies a discrete mass within the abdominal wall. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Acute appendicitis.",
+      "Cecal carcinoma.",
+      "Hematoma of the rectus sheath.",
+      "Torsion of an ovarian cyst.",
+      "Cholecystitis."
+    ],
+    "correctAnswer": "Hematoma of the rectus sheath.",
+    "explanation": {
+      "correct": "The key findings are the history of physical exertion ('playing tennis') leading to acute pain and the ultrasound finding of a mass *within the abdominal wall* (not intraperitoneal). This is classic for a Rectus Sheath Hematoma, often caused by rupture of the epigastric vessels due to muscle strain. Fothergill's sign (mass remains palpable when muscles are tensed) would distinguish it from intra-abdominal pathology.",
+      "incorrect": [
+        { "option": "Acute appendicitis.", "reason": "Would present with an intraperitoneal inflammatory mass (phlegmon) or inflamed appendix, not a mass confined to the abdominal wall." },
+        { "option": "Cecal carcinoma.", "reason": "Would appear as a colonic mass/thickening, not a somatic abdominal wall mass." },
+        { "option": "Torsion of an ovarian cyst.", "reason": "Would show an enlarged ovary on ultrasound, usually deep in the pelvis, not in the abdominal wall." },
+        { "option": "Cholecystitis.", "reason": "Presents with Right Upper Quadrant (RUQ) pain, not RLQ." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_58",
+    "case": "A 39-year-old woman is brought to the emergency department as she develops generalized tingling and muscle cramps 24 hours after undergoing a total thyroidectomy. Which of the following is the most appropriate treatment?",
+    "options": [
+      "Intravenous infusion of calcium gluconate",
+      "Administration of oxygen by mask",
+      "Administration of an anticonvulsant",
+      "Administration of a tranquilizer",
+      "Neurologic consultation"
+    ],
+    "correctAnswer": "Intravenous infusion of calcium gluconate",
+    "explanation": {
+      "correct": "The patient is presenting with signs of acute hypocalcemia (paresthesias/tingling, muscle cramps/tetany) following a total thyroidectomy, likely due to transient or permanent damage to the parathyroid glands. The immediate treatment for symptomatic hypocalcemia is IV Calcium (Calcium Gluconate).",
+      "incorrect": [
+        { "option": "Administration of oxygen by mask", "reason": "Does not address the metabolic abnormality (low calcium)." },
+        { "option": "Administration of an anticonvulsant", "reason": "Treats seizures, but the underlying cause here is metabolic (hypocalcemia), so calcium is the specific antidote." },
+        { "option": "Administration of a tranquilizer", "reason": "The symptoms are neuromuscular excitability due to electrolytes, not anxiety." },
+        { "option": "Neurologic consultation", "reason": "Unnecessary delay; the cause is a known surgical complication requiring immediate medical correction." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_59",
+    "case": "A 40-year-old woman, G2P1, came to the outpatient clinic at 30 weeks of gestation for ante-natal care with a history of gestational diabetes. Examination revealed polyhydramnios and fundal height measuring 36 cm. The fetus was in transverse lie. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Immediate induction of labor",
+      "Scheduling cesarean section at 37 weeks",
+      "Performing amnioreduction",
+      "Obtaining a detailed ultrasound and glucose control",
+      "Bed rest and serial ultrasounds"
+    ],
+    "correctAnswer": "Obtaining a detailed ultrasound and glucose control",
+    "explanation": {
+      "correct": "At 30 weeks, a transverse lie is unstable and often corrects spontaneously. The priority is to manage the complications: Polyhydramnios (fundal height > dates) and Gestational Diabetes. A detailed ultrasound is needed to check for fetal anomalies (which can cause polyhydramnios) and macrosomia. Tight glucose control is essential to reduce polyhydramnios and fetal growth acceleration.",
+      "incorrect": [
+        { "option": "Immediate induction of labor", "reason": "Contraindicated with a transverse lie (risk of cord prolapse) and prematurity (30 weeks)." },
+        { "option": "Scheduling cesarean section at 37 weeks", "reason": "Too early to lock in surgery; the baby may turn vertex, and delivery decisions are usually made closer to term unless indicated earlier." },
+        { "option": "Performing amnioreduction", "reason": "Invasive and carries risks (ROM, infection); reserved for severe symptomatic polyhydramnios causing maternal respiratory distress." },
+        { "option": "Bed rest and serial ultrasounds", "reason": "Bed rest is not proven to help and increases DVT risk." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_60",
+    "case": "A 41-year-old G5P4 came to the outpatient clinic at 11 weeks of gestation with headache. Examination of the patient showed that her blood pressure of 160/105 mmHg. No proteinuria was detected. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Preeclampsia",
+      "Chronic hypertension",
+      "Gestational hypertension",
+      "Eclampsia",
+      "Migraine"
+    ],
+    "correctAnswer": "Chronic hypertension",
+    "explanation": {
+      "correct": "Hypertension (BP >140/90) that is present before pregnancy or diagnosed *before 20 weeks* of gestation is defined as Chronic Hypertension. This patient is at 11 weeks.",
+      "incorrect": [
+        { "option": "Preeclampsia", "reason": "Requires the onset of hypertension *after* 20 weeks gestation, typically accompanied by proteinuria or end-organ damage." },
+        { "option": "Gestational hypertension", "reason": "Defined as new-onset hypertension *after* 20 weeks gestation without proteinuria." },
+        { "option": "Eclampsia", "reason": "Defined by the presence of new-onset grand mal seizures in a woman with preeclampsia." },
+        { "option": "Migraine", "reason": "While headache is a symptom, the significantly elevated blood pressure (160/105) defines the diagnosis as a hypertensive disorder." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_61",
+    "case": "A 42-year-old man arrives at the Emergency Department following a head injury from a baseball strike. He vocalizes unintelligible sounds without forming coherent words, opens his eyes spontaneously, and withdraws in response to painful stimuli. Based on this presentation, Which of the following is his Glasgow Coma Scale (GCS) score?",
+    "options": [
+      "10",
+      "9",
+      "8",
+      "7",
+      "6"
+    ],
+    "correctAnswer": "10",
+    "explanation": {
+      "correct": "The Glasgow Coma Scale (GCS) is calculated as follows: Eyes: Spontaneous opening = 4. Verbal: Unintelligible sounds = 2. Motor: Withdraws to pain = 4. Total score = 4 + 2 + 4 = 10.",
+      "incorrect": [
+        { "option": "9", "reason": "Incorrect calculation." },
+        { "option": "8", "reason": "Would imply lower scores, such as localized pain (M5) + sounds (V2) + none (E1), or other combinations." },
+        { "option": "7", "reason": "Coma range, implies significantly depressed status (e.g., E1, V2, M4)." },
+        { "option": "6", "reason": "Severe impairment (e.g., E1, V1, M4)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_62",
+    "case": "A 42-year-old woman is brought to the Emergency Department with with acute right upper quadrant pain. She has no significant medical history, aside from long-term oral contraceptive pill use. Abdominal CT imaging identifies a 6-cm hepatic adenoma in the right hepatic lobe. Which of the following is the definitive management for this lesion?",
+    "options": [
+      "Cessation of oral contraceptives and serial CT scans.",
+      "Intra-arterial embolization of the hepatic adenoma.",
+      "Embolization of the right portal vein.",
+      "Resection of the hepatic adenoma.",
+      "Systemic chemotherapy."
+    ],
+    "correctAnswer": "Resection of the hepatic adenoma.",
+    "explanation": {
+      "correct": "Hepatic adenomas are benign liver tumors strongly associated with oral contraceptive use. The indications for surgical resection include size > 5 cm (due to risk of rupture and malignant transformation) or the presence of symptoms (acute pain suggests bleeding or impending rupture). Since this patient has a 6-cm lesion and is symptomatic, resection is the definitive treatment.",
+      "incorrect": [
+        { "option": "Cessation of oral contraceptives and serial CT scans.", "reason": "Appropriate for small (<5 cm), asymptomatic adenomas, but unsafe for a large, symptomatic lesion due to rupture risk." },
+        { "option": "Intra-arterial embolization of the hepatic adenoma.", "reason": "Can be used for acute hemorrhage control in unstable patients, but resection is definitive for a large lesion to prevent recurrence/malignancy." },
+        { "option": "Embolization of the right portal vein.", "reason": "Used to induce hypertrophy of the contralateral lobe before major hepatectomy, not a primary treatment for adenoma." },
+        { "option": "Systemic chemotherapy.", "reason": "Adenomas are benign; chemotherapy is not indicated." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_63",
+    "case": "A 43-year-old man was diagnosed as bronchial asthma since the age of 35. He had had several acute episodes for which he was occasionally admitted to the emergency department. For the last 5 years, wheezes and cough were persistent. Which of the following is the mainstay long term treatment for such case?",
+    "options": [
+      "Inhaled steroids.",
+      "Long acting B2 agonists.",
+      "Montelukast.",
+      "Oral steroids.",
+      "Theophylline."
+    ],
+    "correctAnswer": "Inhaled steroids.",
+    "explanation": {
+      "correct": "For persistent asthma (symptoms >2 days/week or daily), the mainstay of long-term maintenance therapy is Inhaled Corticosteroids (ICS). They reduce airway inflammation and prevent exacerbations.",
+      "incorrect": [
+        { "option": "Long acting B2 agonists.", "reason": "LABAs (e.g., Salmeterol) must never be used as monotherapy for asthma due to increased mortality risk; they are always added to ICS." },
+        { "option": "Montelukast.", "reason": "A leukotriene receptor antagonist, used as an add-on or alternative for mild asthma, but less effective than ICS for persistent cases." },
+        { "option": "Oral steroids.", "reason": "Used for acute exacerbations or severe refractory asthma, not as a first-line long-term maintenance due to severe systemic side effects." },
+        { "option": "Theophylline.", "reason": "An older drug with a narrow therapeutic index and significant side effects; rarely used now." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_64",
+    "case": "A 45-year-old man undergoes surgery for presumed acute appendicitis. Intraoperatively, the appendix and cecum appear normal. However, the terminal ileum exhibits erythematous, edematous, and thickened walls with creeping fat spanning approximately 30 cm. There is no proximal bowel dilation, and the remaining small bowel is unremarkable. Which of the following operative procedures is the most appropriate in this scenario?",
+    "options": [
+      "Closure of the abdomen",
+      "Appendectomy",
+      "Ileostomy proximal to the area of involvement",
+      "Side-to-side ileotransverse colostomy",
+      "Right hemicolectomy"
+    ],
+    "correctAnswer": "Appendectomy",
+    "explanation": {
+      "correct": "The findings are characteristic of active Crohn's disease (regional enteritis) of the terminal ileum. When the cecum at the base of the appendix is normal (not involved in the inflammation), the standard recommendation is to perform an appendectomy. This prevents future diagnostic confusion (if the patient has RLQ pain later, appendicitis is ruled out). The inflamed ileum should not be resected unless there is obstruction or perforation, which are absent here.",
+      "incorrect": [
+        { "option": "Closure of the abdomen", "reason": "Leaving the appendix risks future diagnostic dilemmas if RLQ pain recurs." },
+        { "option": "Ileostomy proximal to the area of involvement", "reason": "Unnecessary as there is no obstruction (no proximal dilation)." },
+        { "option": "Side-to-side ileotransverse colostomy", "reason": "Bypass surgery is reserved for obstruction or complex strictures, not uncomplicated inflammation." },
+        { "option": "Right hemicolectomy", "reason": "Overly aggressive; resection is not indicated for non-obstructive, acute inflammatory Crohn's disease found incidentally." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_65",
+    "case": "A 45-year-old man comes to the clinic because of a 2-month history of progressive leg swelling, foamy urine, and fatigue. He has no history of hematuria or significant abdominal pain. His past medical history is notable for hypertension and hyperlipidemia, but he has no known history of diabetes or autoimmune disorders. On examination, he has bilateral pitting edema in the lower extremities, and laboratory tests show the following: Serum albumin: 2.1 g/dL Total cholesterol: 350 mg/dL, 24-hour urine protein: 4.8 g, Serum creatinine: 1.0 mg/dL Given these findings, nephrotic syndrome is suspected. Which of the following is the most appropriate investigation to evaluate the underlying cause of this patient's condition?",
+    "options": [
+      "Renal ultrasound to assess kidney size and exclude obstruction",
+      "Performing a renal biopsy to determine the specific type of nephrotic syndrome",
+      "Checking serum anti-nuclear antibodies to evaluate for lupus nephritis",
+      "Ordering serology for hepatitis B and C viruses",
+      "Evaluating for diabetes mellitus by measuring fasting blood glucose and hemoglobin A1c"
+    ],
+    "correctAnswer": "Performing a renal biopsy to determine the specific type of nephrotic syndrome",
+    "explanation": {
+      "correct": "In an adult with new-onset Nephrotic Syndrome (Proteinuria >3.5g/day, Hypoalbuminemia, Edema, Hyperlipidemia) and no obvious secondary cause (like long-standing diabetes), a Renal Biopsy is the gold standard and necessary to determine the histology (e.g., Membranous Nephropathy, FSGS, Minimal Change Disease) to guide treatment.",
+      "incorrect": [
+        { "option": "Renal ultrasound to assess kidney size and exclude obstruction", "reason": "Useful for renal failure or obstruction, but does not diagnose the cause of glomerular disease/proteinuria." },
+        { "option": "Checking serum anti-nuclear antibodies to evaluate for lupus nephritis", "reason": "Part of the workup, but Lupus is less likely in a 45-year-old male, and biopsy is still needed for confirmation and staging if positive." },
+        { "option": "Ordering serology for hepatitis B and C viruses", "reason": "Important to rule out secondary membranous nephropathy, but the biopsy is the definitive step to confirm the glomerular pathology first." },
+        { "option": "Evaluating for diabetes mellitus by measuring fasting blood glucose and hemoglobin A1c", "reason": "Diabetic nephropathy typically occurs after years of diabetes; in a patient with no history of DM, this is unlikely to be the primary cause, though it should be checked." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_66",
+    "case": "A 45-year-old woman comes to the clinic because of fatigue, weight gain, constipation, and feeling cold most of the time. She reports that these symptoms have gradually worsened over the past six months. On examination, she has dry skin and slight periorbital puffiness. Her medical history is unremarkable, and she takes no medications. Her family history reveals that her mother had thyroid disease. Which of the following is the most appropriate initial test to confirm the diagnosis of this patient?",
+    "options": [
+      "Serum TSH (Thyroid Stimulating Hormone).",
+      "Serum T3 (Triiodothyronine).",
+      "Thyroid ultrasound.",
+      "Serum TSH and Free T4.",
+      "Anti-thyroid peroxidase (Anti-TPO) antibodies."
+    ],
+    "correctAnswer": "Serum TSH (Thyroid Stimulating Hormone).",
+    "explanation": {
+      "correct": "The patient has classic symptoms of Hypothyroidism. The most sensitive and appropriate *initial* screening test for thyroid dysfunction is Serum TSH. If TSH is elevated, Free T4 is then checked to confirm the diagnosis.",
+      "incorrect": [
+        { "option": "Serum T3 (Triiodothyronine).", "reason": "T3 levels are often normal in early hypothyroidism (due to peripheral conversion) and are not useful for screening." },
+        { "option": "Thyroid ultrasound.", "reason": "Used to evaluate structural abnormalities (nodules, goiter), not function." },
+        { "option": "Serum TSH and Free T4.", "reason": "While often ordered together, guidelines recommend TSH alone as the most cost-effective *initial* screen, reflexing to T4 only if TSH is abnormal." },
+        { "option": "Anti-thyroid peroxidase (Anti-TPO) antibodies.", "reason": "Used to determine the cause (Hashimoto's) after the diagnosis of hypothyroidism is confirmed biochemically." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_67",
+    "case": "A 45-year-old woman presented to the outpatient clinic with a history of jaundice, pruritus and intermittent abdominal pain. she is known to have ulcerative colitis. Examination shows hepatosplenomegaly and mild ascites. Blood tests confirm an obstructive jaundice, and mitochondrial antibodies are not detected. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Chronic active hepatitis",
+      "Liver cirrhosis",
+      "Metastatic carcinoma",
+      "Pancreatic carcinoma",
+      "Sclerosing cholangitis"
+    ],
+    "correctAnswer": "Sclerosing cholangitis",
+    "explanation": {
+      "correct": "The association between Ulcerative Colitis and Primary Sclerosing Cholangitis (PSC) is strong. The presentation of cholestasis (jaundice, pruritus) with negative antimitochondrial antibodies (ruling out Primary Biliary Cholangitis) in a patient with IBD is highly suggestive of PSC.",
+      "incorrect": [
+        { "option": "Chronic active hepatitis", "reason": "Would show hepatocellular enzyme elevation (ALT/AST) rather than a primarily obstructive pattern, and viral markers/autoantibodies would be relevant." },
+        { "option": "Liver cirrhosis", "reason": "A late stage of many liver diseases; while she has signs of portal hypertension (ascites), the specific diagnosis causing the cholestasis in a UC patient is PSC." },
+        { "option": "Metastatic carcinoma", "reason": "Possible, but the strong link to UC makes PSC the primary differential diagnosis to consider first." },
+        { "option": "Pancreatic carcinoma", "reason": "Causes obstructive jaundice (painless), but lacks the specific association with Ulcerative Colitis seen in PSC." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_68",
+    "case": "A 46-year-old woman is brought to the Emergency Department with acute left lower quadrant pain, fever, and vomiting. An abdominal/pelvic CT scan identifies sigmoid diverticulitis with a 5x9 cm pelvic abscess. Following percutaneous abscess drainage and antibiotic therapy, her symptoms resolve. One month later, outpatient colonoscopy confirms uncomplicated sigmoid diverticulosis without malignancy or other pathology. Which of the following is the most appropriate long-term management for this patient?",
+    "options": [
+      "Expectant management with sigmoid resection if symptoms recur.",
+      "Cystoscopy to evaluate for a fistula.",
+      "Sigmoid resection with end colostomy and rectal pouch (Hartmann procedure).",
+      "Sigmoid resection with primary anastomosis.",
+      "Long-term suppressive antibiotic therapy."
+    ],
+    "correctAnswer": "Expectant management with sigmoid resection if symptoms recur.",
+    "explanation": {
+      "correct": "Current guidelines suggest that after a single episode of complicated diverticulitis (even with an abscess) that resolves with percutaneous drainage, elective prophylactic resection is not mandatory. 'Expectant management' is preferred if the patient is asymptomatic, as the risk of recurrence and need for emergency stoma is lower than previously thought.",
+      "incorrect": [
+        { "option": "Sigmoid resection with end colostomy and rectal pouch (Hartmann procedure).", "reason": "Reserved for emergency surgery with peritonitis, not elective management." },
+        { "option": "Sigmoid resection with primary anastomosis.", "reason": "Previously standard, but now reserved for patients with recurrent symptoms, fistulas, or stenosis, rather than routinely after one drained abscess." },
+        { "option": "Cystoscopy to evaluate for a fistula.", "reason": "Only indicated if the patient has urinary symptoms (pneumaturia, fecaluria), which are not mentioned." },
+        { "option": "Long-term suppressive antibiotic therapy.", "reason": "Not indicated for diverticular disease prevention (Rifaximin has limited evidence but diet/fiber is the mainstay)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_69",
+    "case": "A 47-year-old woman presents to the emergency department with a 24-hour history of severe, constant right upper quadrant (RUQ) abdominal pain radiating to her right shoulder. She reports nausea, vomiting, and fever. She has a history of episodic, postprandial RUQ pain over the last few months but has never sought medical attention for it. On examination, her temperature is 38.5°C, heart rate is 102 bpm, and blood pressure is 130/80 mmHg. There is tenderness and guarding in the RUQ, with positive Murphy's. Laboratory tests show leukocytosis, elevated C-reactive protein, and mild elevation in liver enzymes. Which of the following is the most appropriate next step in managing this patient?",
+    "options": [
+      "Ordering abdominal ultrasound to confirm the diagnosis of acute cholecystitis",
+      "Initiating broad-spectrum IV antibiotics and monitor for 24 hours before imaging",
+      "Scheduling an elective cholecystectomy and discharging the patient with pain management and antibiotics",
+      "Performing an ERCP (Endoscopic Retrograde Cholangiopancreatography) to rule out common bile duct stones",
+      "Starting immediate oral antibiotics and planning for an outpatient follow-up in 48 hours"
+    ],
+    "correctAnswer": "Ordering abdominal ultrasound to confirm the diagnosis of acute cholecystitis",
+    "explanation": {
+      "correct": "The patient presents with classic signs of Acute Cholecystitis (fever, RUQ pain, positive Murphy's sign, leukocytosis). The first-line diagnostic imaging modality for biliary pathology is an Abdominal Ultrasound to look for gallstones, gallbladder wall thickening (>4mm), and pericholecystic fluid.",
+      "incorrect": [
+        { "option": "Initiating broad-spectrum IV antibiotics and monitor for 24 hours before imaging", "reason": "Imaging is required to confirm the diagnosis before treatment; delaying diagnosis is inappropriate." },
+        { "option": "Scheduling an elective cholecystectomy and discharging the patient with pain management and antibiotics", "reason": "Acute cholecystitis requires hospital admission for IV antibiotics and typically early cholecystectomy (within 24-72 hours), not discharge." },
+        { "option": "Performing an ERCP (Endoscopic Retrograde Cholangiopancreatography) to rule out common bile duct stones", "reason": "Indicated only if there is evidence of Choledocholithiasis (dilated common bile duct, high bilirubin/alkaline phosphatase), which is not the primary suspicion here compared to cholecystitis." },
+        { "option": "Starting immediate oral antibiotics and planning for an outpatient follow-up in 48 hours", "reason": "Inappropriate for acute cholecystitis with systemic signs (fever, tachycardia), which requires inpatient care." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_70",
+    "case": "A 48-year-old woman with peptic ulcer disease is admitted to the ED with progressive vomiting, abdominal distension, and early satiety over the past two weeks. She reports a significant weight loss and now she has troubles even with tolerating liquids. Physical examination reveals a succussion splash on auscultation of the epigastrium. Which of the following is the most likely underlying complication?",
+    "options": [
+      "Penetration of the ulcer into adjacent structures",
+      "Perforation of the gastric wall",
+      "Malignancy transformation",
+      "Gastric outlet obstruction",
+      "Upper gastrointestinal bleeding"
+    ],
+    "correctAnswer": "Gastric outlet obstruction",
+    "explanation": {
+      "correct": "The symptoms of progressive non-bilious vomiting (undigested food), early satiety, weight loss, and the physical exam finding of a 'succussion splash' (sloshing sound in the stomach >3 hours after a meal) are diagnostic of Gastric Outlet Obstruction (GOO). In a patient with Peptic Ulcer Disease, this is typically due to edema or stricture at the pylorus/duodenum.",
+      "incorrect": [
+        { "option": "Penetration of the ulcer into adjacent structures", "reason": "Typically causes change in pain pattern (e.g., radiating to back for pancreas), not obstructive vomiting." },
+        { "option": "Perforation of the gastric wall", "reason": "Causes acute, severe peritonitis and rigid abdomen, not subacute vomiting and distension." },
+        { "option": "Malignancy transformation", "reason": "A possible cause of GOO, but the 'complication' described is the obstruction itself. The immediate diagnosis is the obstruction." },
+        { "option": "Upper gastrointestinal bleeding", "reason": "Presents with hematemesis or melena, not primarily with obstructive vomiting and a succussion splash." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_71",
+    "case": "A 49-year-old woman came to the Surgery outpatient clinic complaining of dysphagia. Esophageal manometry reveals absent peristalsis and failure of the lower esophageal sphincter (LES) to relax. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Barrett's esophagus",
+      "Diffuse esophageal spasm",
+      "Achalasia",
+      "Plummer-Vinson syndrome",
+      "Esophageal cancer"
+    ],
+    "correctAnswer": "Achalasia",
+    "explanation": {
+      "correct": "The manometric findings of aperistalsis (absent peristalsis) in the esophageal body and incomplete relaxation of the Lower Esophageal Sphincter (LES) are the gold standard diagnostic criteria for Achalasia[cite: 609, 611].",
+      "incorrect": [
+        { "option": "Barrett's esophagus", "reason": "A complication of GERD involving metaplasia; manometry might show weak LES but not the classic aperistalsis and failure to relax seen in achalasia." },
+        { "option": "Diffuse esophageal spasm", "reason": "Manometry would show simultaneous, high-amplitude contractions ('corkscrew esophagus'), not absent peristalsis." },
+        { "option": "Plummer-Vinson syndrome", "reason": "Characterized by the triad of dysphagia (webs), iron deficiency anemia, and glossitis." },
+        { "option": "Esophageal cancer", "reason": "Diagnosed via endoscopy/biopsy; while it causes dysphagia, the specific manometry findings described are unique to achalasia." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_72",
+    "case": "A 50-year-old man is diagnosed with terminal cancer. He refuses further treatment, stating he wants to \"die with dignity.\" His family, however, insists that the doctors continue aggressive treatment. Which of the following ethical principle should guide the physician's decision?",
+    "options": [
+      "Beneficence.",
+      "Non-maleficence.",
+      "Autonomy.",
+      "Justice.",
+      "Paternalism."
+    ],
+    "correctAnswer": "Autonomy.",
+    "explanation": {
+      "correct": "Autonomy is the ethical principle that respects a patient's right to make decisions about their own medical care, including the right to refuse life-sustaining treatment, provided they have decision-making capacity. [cite_start]This overrides the family's wishes[cite: 614, 618].",
+      "incorrect": [
+        { "option": "Beneficence.", "reason": "Acting in the patient's best interest. While treatment might seem beneficial, forcing it against a patient's will violates autonomy." },
+        { "option": "Non-maleficence.", "reason": "Do no harm. Aggressive treatment at end-of-life can be considered harmful if it prolongs suffering without benefit." },
+        { "option": "Justice.", "reason": "Relates to the fair distribution of resources." },
+        { "option": "Paternalism.", "reason": "The doctor making decisions *for* the patient, which is what the family is requesting but is unethical here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_73",
+    "case": "A 50-year-old woman came to the outpatient clinic with a 2-year history of intermittent, painless right groin swelling. She reports no associated symptoms. Physical examination reveals a soft, compressible mass in the proximal medial thigh that reduces with manual pressure. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Direct inguinal hernia.",
+      "Saphena varix.",
+      "Inguinal lymphadenopathy.",
+      "Indirect inguinal hernia.",
+      "Femoral hernia."
+    ],
+    "correctAnswer": "Femoral hernia.",
+    "explanation": {
+      "correct": "A reducible mass located in the proximal medial thigh (below the inguinal ligament) is characteristic of a Femoral Hernia. [cite_start]They are more common in women[cite: 622, 628].",
+      "incorrect": [
+        { "option": "Direct inguinal hernia.", "reason": "Occurs above the inguinal ligament and medial to the inferior epigastric vessels." },
+        { "option": "Saphena varix.", "reason": "A dilation of the saphenous vein; while soft and in the medial thigh, it typically has a thrill or 'venous hum' and is associated with varicose veins, not described here." },
+        { "option": "Inguinal lymphadenopathy.", "reason": "Usually firm, tender, or multiple nodes; does not 'reduce' with pressure." },
+        { "option": "Indirect inguinal hernia.", "reason": "Occurs above the inguinal ligament and travels down the inguinal canal, often into the labia/scrotum." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_74",
+    "case": "A 51-year-old woman comes to the outpatient clinic with recurrent episodes of cramping abdominal pain and hematochezia. Colonoscopy identifies multiple hamartomatous polyps. Following intraoperative endoscopic polypectomy to remove the lesions, her symptoms resolve. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Ulcerative colitis.",
+      "Villous adenomas.",
+      "Familial polyposis.",
+      "Peutz-Jeghers syndrome.",
+      "Crohn colitis."
+    ],
+    "correctAnswer": "Peutz-Jeghers syndrome.",
+    "explanation": {
+      "correct": "The presence of *hamartomatous* polyps in the GI tract is the hallmark of Peutz-Jeghers Syndrome (PJS). Patients often present with obstruction (intussusception) or bleeding. [cite_start]PJS is also associated with mucocutaneous pigmentation (lips/mouth), though the polyp type alone in this context strongly points to PJS or Juvenile Polyposis over FAP[cite: 630, 635].",
+      "incorrect": [
+        { "option": "Ulcerative colitis.", "reason": "An inflammatory condition characterized by continuous mucosal inflammation and pseudopolyps, not discrete hamartomatous polyps." },
+        { "option": "Villous adenomas.", "reason": "A type of adenomatous (pre-cancerous) polyp, not hamartomatous." },
+        { "option": "Familial polyposis.", "reason": "FAP is characterized by hundreds/thousands of *adenomatous* polyps, not hamartomatous ones." },
+        { "option": "Crohn colitis.", "reason": "Inflammatory bowel disease with skip lesions and cobble-stoning, not hamartomatous polyps." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_75",
+    "case": "A 52-year-old woman with rheumatoid arthritis has suddenly developed pain and swelling in the right calf since 2 days. She was diagnosed at age 45. She has been maintained on hydroxychloroquine and oral methotrexate. Which of the following is the most likely diagnosis of calf pain in this patient?",
+    "options": [
+      "Achilles tendonitis",
+      "Deep vein thrombosis",
+      "Lymphangitis",
+      "Ruptured plantaris tendon",
+      "Ruptured popliteal cyst (Baker's cyst)"
+    ],
+    "correctAnswer": "Ruptured popliteal cyst (Baker's cyst)",
+    "explanation": {
+      "correct": "Patients with Rheumatoid Arthritis often develop Baker's cysts (popliteal cysts) due to synovial fluid accumulation. Rupture of a Baker's cyst causes acute pain and swelling in the calf that mimics Deep Vein Thrombosis (pseudothrombophlebitis). [cite_start]The history of RA makes this the specific 'likely' diagnosis in this context[cite: 637, 645].",
+      "incorrect": [
+        { "option": "Deep vein thrombosis", "reason": "A major differential that must be ruled out (via ultrasound), but the RA history points specifically to the cyst rupture etiology." },
+        { "option": "Achilles tendonitis", "reason": "Pain is localized to the tendon/heel, not diffuse calf swelling." },
+        { "option": "Lymphangitis", "reason": "Infection of lymph vessels presenting with red streaks, not acute calf swelling." },
+        { "option": "Ruptured plantaris tendon", "reason": "Can cause 'tennis leg' (snap and pain), but less associated with chronic RA than Baker's cysts." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_76",
+    "case": "A 53-year-old woman comes to the outpatient clinic after noticing blood on toilet paper during bowel movements. Physical examination reveals a 2.8-cm ulcerated, bleeding perianal mass. A biopsy confirms squamous cell carcinoma of the anus. For this 2.8-cm anal squamous cell carcinoma, Which of the following is the most appropriate initial treatment?",
+    "options": [
+      "Abdominoperineal resection.",
+      "Wide local resection with bilateral inguinal node dissection.",
+      "Local radiation therapy.",
+      "Systemic chemotherapy.",
+      "Combined radiation therapy and chemotherapy."
+    ],
+    "correctAnswer": "Combined radiation therapy and chemotherapy.",
+    "explanation": {
+      "correct": "The standard first-line treatment for squamous cell carcinoma of the anus is the Nigro protocol: combined Chemotherapy (5-FU and Mitomycin C) and Radiation. This approach preserves the anal sphincter and achieves high cure rates. [cite_start]Surgery (APR) is reserved for salvage if chemoradiation fails[cite: 649, 654].",
+      "incorrect": [
+        { "option": "Abdominoperineal resection.", "reason": "Radical surgery involves permanent colostomy and is no longer the first-line treatment for anal SCC." },
+        { "option": "Wide local resection with bilateral inguinal node dissection.", "reason": "Not the standard of care; anal cancer is treated systemically/locally with chemoradiation." },
+        { "option": "Local radiation therapy.", "reason": "Chemotherapy is added to radiation because it acts as a radiosensitizer, improving outcomes significantly compared to radiation alone." },
+        { "option": "Systemic chemotherapy.", "reason": "Used alone only for metastatic disease; local disease requires radiation as well." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_77",
+    "case": "A 55-year-old man is brought to the Emergency Department with fever and severe perineal pain for one day. He reports associated urinary symptoms, including frequency, urgency, dysuria (painful urination), and a weakened urinary stream. On examination, his abdomen is soft and nontender, but digital rectal exam reveals marked tenderness over the anterior rectal wall. Lab results show leukocytosis and urinalysis findings consistent with a bacterial urinary tract infection. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Urinary tract infection.",
+      "Benign prostatic hyperplasia.",
+      "Prostatitis.",
+      "Pyelonephritis.",
+      "Nephrolithiasis."
+    ],
+    "correctAnswer": "Prostatitis.",
+    "explanation": {
+      "correct": "The clinical presentation of fever, severe perineal pain, urinary symptoms, and a specifically *tender* prostate on rectal exam (anterior rectal wall tenderness) is diagnostic of Acute Bacterial Prostatitis[cite: 655, 662].",
+      "incorrect": [
+        { "option": "Urinary tract infection.", "reason": "Cystitis causes dysuria/frequency but does not typically cause severe perineal pain or a tender prostate." },
+        { "option": "Benign prostatic hyperplasia.", "reason": "Chronic condition causing obstruction (weak stream) but is painless and afebrile." },
+        { "option": "Pyelonephritis.", "reason": "Infection of the kidney presenting with *flank* pain and costovertebral angle tenderness, not perineal pain." },
+        { "option": "Nephrolithiasis.", "reason": "Kidney stones cause colicky flank/groin pain and hematuria, not fever and perineal tenderness." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_78",
+    "case": "A 55-year-old patient presented with right side hemiplegia. Clinical examination revealed exaggerated knee jerk, increased muscle tone, and extensor plantar response on the right side of the body, in addition to left lower motor neuron facial palsy. Which of the followong is the next step for diagnosis?",
+    "options": [
+      "CT brain with special cuts on midbrain",
+      "Carotid doppler study",
+      "Cerebral angiography",
+      "Electroencephalogram",
+      "Cervical X ray"
+    ],
+    "correctAnswer": "CT brain with special cuts on midbrain",
+    "explanation": {
+      "correct": "The patient has a 'crossed hemiplegia' (Right body hemiplegia + Left facial palsy), which localizes the lesion to the Brainstem on the left side. Specifically, left facial LMN palsy places it in the Pons (Millard-Gubler syndrome). The next diagnostic step for acute stroke symptoms is a CT brain to distinguish ischemic from hemorrhagic stroke. [cite_start]Note: The option mentions 'midbrain', though the lesion is pontine, CT brain is the only appropriate imaging modality listed for acute stroke workup[cite: 665, 667].",
+      "incorrect": [
+        { "option": "Carotid doppler study", "reason": "Evaluates anterior circulation (hemispheres), but this is a posterior circulation (brainstem) stroke." },
+        { "option": "Cerebral angiography", "reason": "Invasive; usually done after initial non-invasive imaging (CT/CTA/MRI)." },
+        { "option": "Electroencephalogram", "reason": "Diagnoses seizures, not stroke." },
+        { "option": "Cervical X ray", "reason": "No value in acute stroke diagnosis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_79",
+    "case": "A 55-year-old postmenopausal woman came to the clinic with vaginal bleeding six months after cessation of menses. She had a history of hormone replacement therapy. Which of the following is the most concerning diagnosis for her abnormal uterine bleeding?",
+    "options": [
+      "Atrophic vaginitis",
+      "Endometrial hyperplasia",
+      "Endometrial polyp",
+      "Cervical cancer",
+      "Hormone replacement therapy-associated bleeding"
+    ],
+    "correctAnswer": "Endometrial hyperplasia",
+    "explanation": {
+      "correct": "Postmenopausal bleeding (PMB) is the cardinal symptom of Endometrial Cancer. While Atrophic Vaginitis is the *most common* cause, Endometrial Hyperplasia (and Carcinoma) is the *most concerning* diagnosis that must be ruled out. Hyperplasia is the precursor lesion to cancer and is associated with HRT (especially unopposed estrogen). [cite_start]Since frank 'Endometrial Cancer' is not an option, Hyperplasia is the correct answer representing the serious endometrial pathology[cite: 672, 675].",
+      "incorrect": [
+        { "option": "Atrophic vaginitis", "reason": "The most common cause, but benign." },
+        { "option": "Endometrial polyp", "reason": "Usually benign." },
+        { "option": "Cervical cancer", "reason": "A serious diagnosis, but PMB is classically the warning sign for Endometrial cancer. Cervical cancer is typically detected via screening (Pap) or post-coital bleeding." },
+        { "option": "Hormone replacement therapy-associated bleeding", "reason": "A diagnosis of exclusion; one must rule out pathology first." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_80",
+    "case": "A 56-year-old man with known CKD presents with a 3-day history of shortness of breath and rapid weight gain. On examination, S3 can be auscultated, crackles at the bases could be heard and moderate jugular venous distension (JVD) could be seen. Which of the following is the next step in evaluation?",
+    "options": [
+      "Checking cardiac enzymes",
+      "Measuring serum creatinine to calculate GFR",
+      "Ordering a chest x-ray",
+      "Performing an echocardiogram",
+      "Performing an electrocardiogram"
+    ],
+    "correctAnswer": "Ordering a chest x-ray",
+    "explanation": {
+      "correct": "The patient presents with classic signs of fluid overload and pulmonary edema (SOB, crackles, S3, JVD), likely acute decompensated heart failure or volume overload from CKD. [cite_start]The most appropriate *next step in evaluation* to confirm the presence and severity of pulmonary edema is a Chest X-ray[cite: 679, 685].",
+      "incorrect": [
+        { "option": "Checking cardiac enzymes", "reason": "Important to rule out MI as a precipitant, but the immediate clinical question is confirming the lung fluid status." },
+        { "option": "Measuring serum creatinine to calculate GFR", "reason": "He has known CKD; while this will be done, it doesn't help evaluate the acute respiratory distress as much as imaging." },
+        { "option": "Performing an echocardiogram", "reason": "Useful for assessing heart function (EF), but takes time. CXR is immediate." },
+        { "option": "Performing an electrocardiogram", "reason": "Standard, but CXR is more specific for diagnosing the cause of the crackles/dyspnea (pulmonary edema vs pneumonia)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_81",
+    "case": "A 57-year-old man is admitted to the emergency department because of shortness of breath and wheezing for 2 days. He also has had swelling of the lower legs since he returned from a 200-mile car trip 3 days ago. He has a 20-year history of poorly controlled hypertension currently treated with hydrochlorothiazide. His temperature is 37°C (98.6°F), pulse is 100/min and regular, respirations are 24/min, and blood pressure is 170/100 mmHg. Examination shows jugular venous distention. Crackles and wheezes are heard in the lower lung fields bilaterally. A prominent S3 gallop is heard at the apex. There is 4+ ankle edema. An x-ray of the chest shows cardiomegaly and cephalization of the pulmonary vessels. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Aspiration pneumonia",
+      "Chronic bronchitis.",
+      "Hypersensitivity pneumonitis",
+      "Pulmonary edema",
+      "Pulmonary embolism"
+    ],
+    "correctAnswer": "Pulmonary edema",
+    "explanation": {
+      "correct": "The clinical picture is classic for Decompensated Heart Failure leading to Acute Pulmonary Edema[cite: 688, 698]. [cite_start]Key features include fluid overload (leg swelling, JVD, 4+ edema), cardiac strain (S3 gallop, cardiomegaly, HTN), and pulmonary congestion (crackles, cephalization on X-ray)[cite: 692, 693, 694].",
+      "incorrect": [
+        { "option": "Pulmonary embolism", "reason": "While the long car trip is a risk factor, PE typically presents with clear lungs or atelectasis, not the classic fluid overload signs (S3, cephalization, bilateral crackles/edema) seen here[cite: 689]." },
+        { "option": "Chronic bronchitis.", "reason": "Characterized by chronic productive cough; does not explain the S3 gallop, cardiomegaly, or vascular cephalization." },
+        { "option": "Aspiration pneumonia", "reason": "Usually affects the right lower lobe and presents with fever and purulent sputum, not bilateral fluid overload signs." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_82",
+    "case": "A 59-year-old woman is brought to the Emergency Department with nausea, vomiting, abdominal distension, and intermittent cramping mid-abdominal pain. She has no prior surgical history but a longstanding history of cholelithiasis, for which she previously declined surgical management. An abdominal X-ray demonstrates a round, radiopaque density in the right lower quadrant. Which of the following is the definitive treatment for her bowel obstruction?",
+    "options": [
+      "Ileocolectomy.",
+      "Cholecystectomy.",
+      "lleotomy and extraction.",
+      "Nasogastric tube decompression.",
+      "Intravenous antibiotics."
+    ],
+    "correctAnswer": "lleotomy and extraction.",
+    "explanation": {
+      "correct": "The diagnosis is Gallstone Ileus[cite: 702]. [cite_start]A large gallstone has eroded through the gallbladder into the duodenum (cholecystoenteric fistula) and traveled down to obstruct the narrowest part of the small bowel, the ileocecal valve (Right Lower Quadrant radiopaque density)[cite: 702]. [cite_start]The treatment is Enterolithotomy (Ileotomy) to extract the stone and relieve the obstruction[cite: 704].",
+      "incorrect": [
+        { "option": "Cholecystectomy.", "reason": "Usually delayed until the patient recovers from the acute obstruction surgery, as performing it simultaneously increases mortality." },
+        { "option": "Nasogastric tube decompression.", "reason": "Supportive measure but does not resolve the mechanical obstruction caused by the impacted stone." },
+        { "option": "Ileocolectomy.", "reason": "Unnecessary resection; simple extraction of the stone is preferred unless there is bowel gangrene." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_83",
+    "case": "A 62-year-old woman comes to the clinic because of uncontrolled hypertension. Her current blood pressure is 152/94 mmHg despite lifestyle modifications and current use of a thiazide diuretic. She reports occasional leg swelling and is adherent to her medication. she has a 10-year history of type 2 diabetes and chronic kidney disease stage 3 (estimated glomerular filtration rate [eGFR] of 45 mL/min/1.73 m2). Her recent lab results show potassium levels within the normal range. Which of the following is the best next step in managing this patient's hypertension?",
+    "options": [
+      "Adding an ACE inhibitor to her current regimen",
+      "Switching the thiazide diuretic to a calcium channel blocker",
+      "Increasing the dose of her current thiazide diuretic",
+      "Adding a beta-blocker to her current regimen",
+      "Adding a loop diuretic to her current regimen"
+    ],
+    "correctAnswer": "Adding an ACE inhibitor to her current regimen",
+    "explanation": {
+      "correct": "In a patient with Hypertension, Diabetes, and CKD, the first-line antihypertensive agents should include an ACE inhibitor or ARB[cite: 710, 713]. These drugs provide renoprotection by reducing intraglomerular pressure and proteinuria, slowing the progression of CKD.",
+      "incorrect": [
+        { "option": "Increasing the dose of her current thiazide diuretic", "reason": "Thiazides are less effective at GFR <30, and while she is at 45, adding an ACEi provides the specific dual benefit of BP control and renal protection which she lacks." },
+        { "option": "Switching the thiazide diuretic to a calcium channel blocker", "reason": "Adding an agent is preferred for uncontrolled BP, and ACEi is specifically indicated for her comorbidities (DM/CKD)." },
+        { "option": "Adding a beta-blocker to her current regimen", "reason": "Not a first-line add-on unless there is a specific cardiac indication (e.g., Heart Failure, CAD)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_84",
+    "case": "A 62-year-old woman is admitted in the surgical ward after right colectomy for stage III colon cancer. She has a history of emphysema (on chronic steroid therapy), diabetes mellitus, and coronary artery disease. On postoperative day 2, she developed acute-onset copious serosanguinous drainage from the surgical wound, without signs of infection. Which of the following factors most likely contributed to this complication?",
+    "options": [
+      "Using a running stitch to close the fascia instead of interrupted sutures.",
+      "Coronary artery disease.",
+      "Early mobilization of patient.",
+      "Aggressive abdominal examination performed on postoperative day 1 by a medical student.",
+      "Pulmonary disease."
+    ],
+    "correctAnswer": "Pulmonary disease.",
+    "explanation": {
+      "correct": "The sudden discharge of copious serosanguinous fluid is pathognomonic for Fascial Dehiscence[cite: 721]. The underlying fascia has separated, leaving only the skin intact until it gives way. [cite_start]Major risk factors include conditions that increase intra-abdominal pressure (coughing from Emphysema/Pulmonary disease) and poor wound healing (Steroids, Diabetes)[cite: 720, 726].",
+      "incorrect": [
+        { "option": "Using a running stitch to close the fascia instead of interrupted sutures.", "reason": "Both running and interrupted closures are acceptable techniques; technical failure is less likely the *primary* attributed cause compared to patient risk factors like coughing/steroids." },
+        { "option": "Early mobilization of patient.", "reason": "Encouraged to prevent complications (DVT, pneumonia) and does not cause dehiscence." },
+        { "option": "Aggressive abdominal examination", "reason": "Painful, but unlikely to generate enough force to rupture a fascial closure." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_85",
+    "case": "A 63-year-old man is brought to the Emergency Department with acute-onset left foot pain that began upon waking this morning. He reports a history of intermittent claudication. On examination, He has an irregular heart rhythm. Examination of the affected limb reveals cool and pale skin, absent palpable pulses and Doppler signals in the left foot, and diminished sensation in the toes. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "An echocardiogram looking for atrial thrombus.",
+      "Initiation of a heparin infusion.",
+      "Duplex imaging of her arterial vessels in her left leg looking for acute occlusion.",
+      "Aortogram with left lower extremity runoff to determine the level of the vascular occlusion.",
+      "Initiating infusion of thrombolytics to dissolve the clot."
+    ],
+    "correctAnswer": "Initiation of a heparin infusion.",
+    "explanation": {
+      "correct": "The patient has Acute Limb Ischemia (pain, pallor, pulselessness, paresthesia, coolness)[cite: 727, 729]. The irregular rhythm suggests Atrial Fibrillation as the embolic source. [cite_start]The immediate first step is systemic anticoagulation with IV Heparin to prevent clot propagation and microvascular thrombosis while arranging for definitive intervention (surgery or thrombolysis)[cite: 732].",
+      "incorrect": [
+        { "option": "An echocardiogram looking for atrial thrombus.", "reason": "Diagnostic but delays urgent limb-saving treatment." },
+        { "option": "Duplex imaging", "reason": "Confirmatory, but Heparin should be started immediately upon clinical suspicion to save the limb." },
+        { "option": "Initiating infusion of thrombolytics", "reason": "A treatment option (catheter-directed), but requires imaging guidance first. Heparin is the immediate bedside 'next step' before the patient goes to the cath lab or OR." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_86",
+    "case": "A 64-year-old man is admitted to the ED because of progressive dyspnea and orthopnea over the past 2 days. On examination, he is noted to have congestive heart failure because of coronary artery disease, he has moderate respiratory distress, jugular venous distention, and rales on pulmonary examination. He is diagnosed with pulmonary edema. Which of the following is the most appropriate agent currently needed?",
+    "options": [
+      "Carvedilol.",
+      "Digitalis.",
+      "Furosemide.",
+      "Hydrochlorothiazide.",
+      "Spironolactone."
+    ],
+    "correctAnswer": "Furosemide.",
+    "explanation": {
+      "correct": "For acute decompensated heart failure with pulmonary edema (volume overload), the first-line treatment is a Loop Diuretic (e.g., Furosemide) to rapidly reduce intravascular volume and preload, relieving symptoms[cite: 741].",
+      "incorrect": [
+        { "option": "Carvedilol.", "reason": "Beta-blockers are contraindicated in *acute, unstable* heart failure as they can depress contractility further. They are started once the patient is euvolemic and stable." },
+        { "option": "Digitalis.", "reason": "Used for rate control or chronic systolic failure, but has a slow onset and is not a first-line rescue drug for acute pulmonary edema." },
+        { "option": "Hydrochlorothiazide.", "reason": "A weak diuretic compared to loop diuretics; not sufficient for acute pulmonary edema." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_87",
+    "case": "A 66-year-old man came to the clinic because of a three-day history of fever, muscle pains, and dry cough. His wife had COVID-19 infection a week earlier. He is being treated for diabetes mellitus and hypertension. Patient was advised to be isolated at home, and to have paracetamol tablets. Two days later, the cough worsened and was associated with shortness of breath. Pulse oximetry at home revealed that O2 saturation was 85%. Which of the following is the best step in the management?",
+    "options": [
+      "Admission to hospital.",
+      "CT lung examination.",
+      "Dexamethasone injection.",
+      "IV antibiotics.",
+      "Oxygen therapy at home."
+    ],
+    "correctAnswer": "Admission to hospital.",
+    "explanation": {
+      "correct": "The patient has severe COVID-19 pneumonia with significant hypoxia (Sat 85%) and risk factors (Age >65, DM, HTN)[cite: 748, 745]. [cite_start]An oxygen saturation <90-94% is a strict indication for hospital admission for supplemental oxygen and monitoring[cite: 750].",
+      "incorrect": [
+        { "option": "Oxygen therapy at home.", "reason": "Unsafe given the severity of hypoxia (85%) and comorbidities; he is at risk for rapid deterioration." },
+        { "option": "IV antibiotics.", "reason": "COVID-19 is viral; antibiotics are only indicated if bacterial superinfection is suspected, which is not the primary management for viral hypoxia." },
+        { "option": "CT lung examination.", "reason": "While useful, the immediate priority is admission and stabilization of oxygenation, not just imaging." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_88",
+    "case": "A 68-year-old man is brought to the Emergency Department with hematochezia, abdominal pain, and fever. He has history of coronary artery bypass grafting five years ago. Colonoscopy identifies dusky, ischemic-appearing mucosa at the splenic flexure, a watershed area of the colon, though no active bleeding is observed. Given his history of cardiovascular disease and findings suggestive of colonic ischemia, Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Angiography with administration of intra-arterial papaverine.",
+      "Emergent laparotomy with left hemicolectomy and transverse colostomy.",
+      "Aortomesenteric bypass.",
+      "Exploratory laparotomy with thrombectomy of the inferior mesenteric artery.",
+      "Expectant management."
+    ],
+    "correctAnswer": "Expectant management.",
+    "explanation": {
+      "correct": "The patient has Ischemic Colitis (ischemia of the colon), typically at watershed areas like the splenic flexure[cite: 757]. The colonoscopy shows 'dusky' mucosa (ischemia) but not frank gangrene or perforation. In the absence of peritonitis or perforation, the standard of care is supportive (expectant) management: IV fluids, bowel rest, and antibiotics. [cite_start]Most cases resolve spontaneously[cite: 761].",
+      "incorrect": [
+        { "option": "Emergent laparotomy with left hemicolectomy", "reason": "Indicated only if there are signs of peritonitis, perforation, or gangrene. 'Dusky' implies reversible ischemia." },
+        { "option": "Angiography with administration of intra-arterial papaverine.", "reason": "Used for *Mesenteric* Ischemia (small bowel/SMA), not colonic ischemia (which is usually small vessel/low flow)." },
+        { "option": "Exploratory laparotomy with thrombectomy", "reason": "Used for acute SMA embolism (Acute Mesenteric Ischemia), not ischemic colitis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_89",
+    "case": "A 70-year-old woman comes to the clinic because of a 4-week history of increasing tiredness and lethargy. On examination, he is found to be mildly icteric. Investigations reveal a Hb 7.5 g/dl, MCV 125 (N 80-100), WBC 4500/cmm and platelet 90.000/cmm. Blood film shows-macrocytes, hypersegmented neutrophils and target cells. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Acute leukaemia.",
+      "Aplastic anaemia.",
+      "Evans syndrome.",
+      "Pernicious anaemia.",
+      "Thalassemia."
+    ],
+    "correctAnswer": "Pernicious anaemia.",
+    "explanation": {
+      "correct": "The findings of severe Macrocytic Anemia (MCV 125) and Hypersegmented Neutrophils are pathognomonic for Megaloblastic Anemia[cite: 763, 764]. In a 70-year-old, the most common cause is Vitamin B12 deficiency due to Pernicious Anemia. [cite_start]The mild icterus is due to ineffective erythropoiesis (intramedullary hemolysis)[cite: 768].",
+      "incorrect": [
+        { "option": "Acute leukaemia.", "reason": "Would show blasts on the smear and usually higher WBCs or more severe pancytopenia, not hypersegmented neutrophils." },
+        { "option": "Aplastic anaemia.", "reason": "Presents with pancytopenia and a hypocellular marrow, but the RBCs are usually normocytic or mildly macrocytic, without hypersegmentation." },
+        { "option": "Thalassemia.", "reason": "Causes Microcytic anemia (low MCV), not macrocytic." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_90",
+    "case": "A 70-year-old woman is hospitalized for pneumonia and develops acute renal failure after starting treatment with an aminoglycoside. Which of the following classes of antibiotics would be most appropriate to switch her to for the treatment of pneumonia, considering her renal status?",
+    "options": [
+      "Penicillin.",
+      "Macrolide.",
+      "Cephalosporin.",
+      "Tetracycline.",
+      "Fluoroquinolone."
+    ],
+    "correctAnswer": "Cephalosporin.",
+    "explanation": {
+      "correct": "Aminoglycosides are nephrotoxic and caused the ARF[cite: 770]. The patient still requires effective treatment for hospital-associated pneumonia (often covering Gram-negatives). [cite_start]Cephalosporins (e.g., Ceftriaxone, Cefepime) are highly effective against pneumonia pathogens, have a wide therapeutic index, and are generally safer in renal failure (Ceftriaxone is hepatically excreted; others require dose adjustment but are not inherently nephrotoxic)[cite: 774].",
+      "incorrect": [
+        { "option": "Tetracycline.", "reason": "Not the first-line choice for severe hospital pneumonia compared to beta-lactams." },
+        { "option": "Fluoroquinolone.", "reason": "Some (Levofloxacin) accumulate in renal failure; while an option, Cephalosporins are often preferred for robust safety and coverage." },
+        { "option": "Macrolide.", "reason": "Good for atypical coverage but usually insufficient as monotherapy for severe/hospital pneumonia compared to Cephalosporins." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_91",
+    "case": "A 70-year-old woman is seen at the clinic with extensive bruising on her forearms and hands. The bruises appear after minor trauma and are more frequent than they were before. She denies any bleeding or clotting disorders, and her platelet count and coagulation profile are normal. Which of the following is the most likely cause of her purpura?",
+    "options": [
+      "Thrombotic thrombocytopenic purpura (TTP)",
+      "Disseminated intravascular coagulation (DIC)",
+      "Senile purpura",
+      "Henoch-Schoenlein purpura (HSP)",
+      "Idiopathic thrombocytopenic purpura (ITP)"
+    ],
+    "correctAnswer": "Senile purpura",
+    "explanation": {
+      "correct": "Senile Purpura (Solar Purpura) is a common benign condition in elderly patients caused by the atrophy of perivascular connective tissue and loss of subcutaneous fat due to aging and sun exposure. It presents as easy bruising (ecchymoses) on the extensor surfaces of the forearms and hands despite normal platelet counts and coagulation studies.",
+      "incorrect": [
+        { "option": "Thrombotic thrombocytopenic purpura (TTP)", "reason": "A life-threatening condition presenting with thrombocytopenia (low platelets), hemolytic anemia, and renal/neurologic symptoms, not just isolated bruising with normal labs." },
+        { "option": "Disseminated intravascular coagulation (DIC)", "reason": "A systemic process involving clotting and bleeding, characterized by abnormal coagulation labs (high PT/PTT, low fibrinogen) and low platelets." },
+        { "option": "Henoch-Schoenlein purpura (HSP)", "reason": "An IgA vasculitis seen mostly in children, presenting with palpable purpura on the buttocks/legs, abdominal pain, and joint pain." },
+        { "option": "Idiopathic thrombocytopenic purpura (ITP)", "reason": "Characterized by low platelet counts (thrombocytopenia), which is ruled out here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_92",
+    "case": "A full-term neonate is born via vaginal delivery. One minute after birth, he is cyanotic, has poor respiratory effort, and a heart rate of 80 bpm. After stimulation and clearing the airway, he remains cyanotic. Which of the following is the next best step?",
+    "options": [
+      "Administering endotracheal epinephrine",
+      "Initiating chest compressions",
+      "Giving positive pressure ventilation",
+      "Observing for 30 seconds",
+      "Intubating immediately"
+    ],
+    "correctAnswer": "Giving positive pressure ventilation",
+    "explanation": {
+      "correct": "According to the Neonatal Resuscitation Program (NRP) algorithm, if a newborn has a heart rate < 100 bpm or apnea/gasping despite initial steps (stimulation, airway clearance), the immediate next step is Positive Pressure Ventilation (PPV).",
+      "incorrect": [
+        { "option": "Administering endotracheal epinephrine", "reason": "Indicated only if the HR remains < 60 bpm despite adequate ventilation and chest compressions." },
+        { "option": "Initiating chest compressions", "reason": "Indicated only if the HR remains < 60 bpm after 30 seconds of effective PPV." },
+        { "option": "Observing for 30 seconds", "reason": "Dangerous; a HR < 100 requires immediate intervention to prevent cardiac arrest." },
+        { "option": "Intubating immediately", "reason": "PPV via bag-mask is the first line; intubation is reserved for prolonged resuscitation or special circumstances (e.g., diaphragmatic hernia)." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_93",
+    "case": "A newborn is brought to the clinic because of persistent non-bilious vomiting and dehydration. Labs show a pH of 7.55, HCO of 30, and hypokalemia. An olive-shaped mass is palpated in the right upper abdomen. Which of the following is the best next step?",
+    "options": [
+      "Upper Gl contrast study",
+      "Pyloromyotomy",
+      "Oral rehydration therapy",
+      "IV fluids and electrolytes correction",
+      "Endoscopic dilation"
+    ],
+    "correctAnswer": "IV fluids and electrolytes correction",
+    "explanation": {
+      "correct": "The diagnosis is Hypertrophic Pyloric Stenosis (non-bilious vomiting, olive mass, metabolic alkalosis). While Pyloromyotomy is the definitive treatment, Pyloric Stenosis is a 'medical emergency,' not a surgical one. The immediate priority is to correct the severe hypochloremic metabolic alkalosis and dehydration with IV fluids before surgery to reduce the risk of postoperative apnea and complications.",
+      "incorrect": [
+        { "option": "Pyloromyotomy", "reason": "The definitive surgery, but it must be delayed until the electrolyte/acid-base imbalance is corrected." },
+        { "option": "Upper Gl contrast study", "reason": "Unnecessary because the 'olive-shaped mass' is pathognomonic; imaging is only needed if the exam is equivocal." },
+        { "option": "Oral rehydration therapy", "reason": "Contraindicated as the pylorus is obstructed; the infant will simply vomit it back up." },
+        { "option": "Endoscopic dilation", "reason": "Not the treatment for infantile hypertrophic pyloric stenosis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_94",
+    "case": "A patient who had a total hysterectomy is referred to the accident and emergency department because of a surgical site wound infection (SSI). She was threatening to sue the hospital because she thinks it is due to acquired hospital infection. Which of the following is the most common cause of her condition?",
+    "options": [
+      "Contamination by micro-organisms from the patient's own body.",
+      "Contamination from the operating theatre environment.",
+      "Contamination from the surgeon's gloves.",
+      "Contamination from the swabs.",
+      "Contamination from surgical sutures."
+    ],
+    "correctAnswer": "Contamination by micro-organisms from the patient's own body.",
+    "explanation": {
+      "correct": "Hysterectomy is classified as a 'Clean-Contaminated' procedure because the genitourinary tract is entered. The most common source of Surgical Site Infection (SSI) in these cases is the patient's endogenous flora (vaginal or skin bacteria) rather than external contamination.",
+      "incorrect": [
+        { "option": "Contamination from the operating theatre environment.", "reason": "A possible but much less common source compared to endogenous flora." },
+        { "option": "Contamination from the surgeon's gloves.", "reason": "Strict sterile technique makes this a rare cause." },
+        { "option": "Contamination from the swabs.", "reason": "Sterile supplies are standard; this would be a rare breach." },
+        { "option": "Contamination from surgical sutures.", "reason": "Sterile supplies are standard." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_95",
+    "case": "A previously healthy 43-year-old man develops acute-onset severe chest pain following persistent, forceful vomiting. An esophagram confirms an esophageal rupture near the gastroesophageal junction (GEJ). Which of the following is the optimal surgical approach for repair?",
+    "options": [
+      "Right thoracotomy.",
+      "Right thoracotomy with aparotomy.",
+      "Left thoracotomy.",
+      "Left thoracotomy with aparotomy.",
+      "Midline aparotomy."
+    ],
+    "correctAnswer": "Left thoracotomy.",
+    "explanation": {
+      "correct": "This is Boerhaave Syndrome (spontaneous esophageal rupture). Ruptures involving the distal esophagus (near the GEJ) are best approached via a Left Thoracotomy, which provides optimal access to the lower esophagus and hiatus.",
+      "incorrect": [
+        { "option": "Right thoracotomy.", "reason": "Used for ruptures of the mid-esophagus (due to the presence of the heart/aorta on the left interfering with mid-level access)." },
+        { "option": "Midline aparotomy.", "reason": "Provides access to the abdomen/stomach but limited exposure for repairing the thoracic esophagus above the hiatus." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_96",
+    "case": "A previously healthy 44-year-old man is brought to the ED as he experiences sudden-onset severe left flank pain radiating to the groin, accompanied by nausea, diaphoresis, and urinary frequency. He appears agitated and unable to find a comfortable position. Physical examination reveals no significant abnormalities. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Herpes zoster infection.",
+      "Left ureteral calculus.",
+      "Sigmoid diverticulitis.",
+      "Torsion of the left testicle.",
+      "Retroperitoneal hemorrhage."
+    ],
+    "correctAnswer": "Left ureteral calculus.",
+    "explanation": {
+      "correct": "The classic presentation of Ureterolithiasis (Kidney Stone) is sudden, colicky flank pain radiating to the groin, nausea, and 'renal colic behavior' (agitation, inability to sit still).",
+      "incorrect": [
+        { "option": "Herpes zoster infection.", "reason": "Presents with a dermatomal vesicular rash and burning pain, usually not colicky." },
+        { "option": "Sigmoid diverticulitis.", "reason": "Causes constant Left Lower Quadrant pain, fever, and peritoneal signs (lying still), not flank-to-groin colic." },
+        { "option": "Torsion of the left testicle.", "reason": "Causes scrotal pain and a tender, high-riding testicle, not primarily flank pain." },
+        { "option": "Retroperitoneal hemorrhage.", "reason": "Causes back/flank pain but is usually associated with trauma or anticoagulation and leads to shock, not the restless colic described here." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_97",
+    "case": "An 12-day-old newborn is brought to the clinic as he appears jittery one week after undergoing an operation for a truncus arteriosus defect. His temperature is 37.2°C (98.9°F), pulse is 130/min respirations are 44/min, and blood pressure is 70/58 mm Hg. Examination shows micrognathia and hypertelorism. His serum calcium concentration is 7 mg/dl An X-ray of the chest shows cardiomegaly without a thymic shadow. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Hyperparathyroidism",
+      "Vitamin D-deficient rickets",
+      "Renal proximal tubular dysfunction",
+      "Hypoparathyroidism",
+      "X-linked hypophosphatemic rickets"
+    ],
+    "correctAnswer": "Hypoparathyroidism",
+    "explanation": {
+      "correct": "The clinical triad of Conotruncal cardiac defects (Truncus Arteriosus), abnormal facies (micrognathia/hypertelorism), and Thymic aplasia (no thymic shadow) is diagnostic of DiGeorge Syndrome (22q11.2 deletion). The jitteriness and low calcium (7 mg/dl) are due to Hypoparathyroidism (parathyroid aplasia/hypoplasia), which is a core feature of the syndrome.",
+      "incorrect": [
+        { "option": "Hyperparathyroidism", "reason": "Causes Hypercalcemia (High Calcium), not hypocalcemia." },
+        { "option": "Vitamin D-deficient rickets", "reason": "Would cause hypocalcemia but does not explain the dysmorphic features, thymic aplasia, or heart defect." },
+        { "option": "Renal proximal tubular dysfunction", "reason": "Fanconi syndrome; causes acidosis and electrolyte loss but not this specific syndromic presentation." },
+        { "option": "X-linked hypophosphatemic rickets", "reason": "Primarily affects phosphate metabolism, not the classic DiGeorge presentation." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_98",
+    "case": "An 82-year-old woman comes to the primary care physician complaining of persistent back pain and decreased mobility. She has a history of osteoporosis and recurrent falls. She has recently stopped participating in her usual activities due to fear of falling. Her current medications include calcium and vitamin D supplements, and she takes bisphosphonate. Upon examination, she is noted to have a kyphotic posture and tenderness in her lumbar region. Which of the following is the most appropriate next step in managing her condition?",
+    "options": [
+      "Increasing the dose of her bisphosphonate",
+      "Referring her for physical therapy and fall prevention programs",
+      "Ordering a lumbar spine X-ray to assess for fractures",
+      "Initiating a new medication for pain management",
+      "Advising her to increase her calcium intake through dietary sources"
+    ],
+    "correctAnswer": "Ordering a lumbar spine X-ray to assess for fractures",
+    "explanation": {
+      "correct": "In an elderly patient with osteoporosis and new/persistent back pain with focal tenderness, a Vertebral Compression Fracture is the most likely diagnosis. An X-ray is the necessary first step to confirm the fracture and rule out other pathology before modifying therapy.",
+      "incorrect": [
+        { "option": "Increasing the dose of her bisphosphonate", "reason": "Not the management for acute pain/fracture. Dosage is standard, and changing it doesn't address the acute injury." },
+        { "option": "Referring her for physical therapy and fall prevention programs", "reason": "Appropriate later, but one must first rule out an acute unstable fracture causing the pain." },
+        { "option": "Initiating a new medication for pain management", "reason": "Symptomatic treatment, but diagnosis (X-ray) comes first." },
+        { "option": "Advising her to increase her calcium intake through dietary sources", "reason": "Good advice for long-term health, but does not address the acute back pain etiology." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_99",
+    "case": "An infant is brought to the surgery outpatient clinic for evaluation of a left lateral neck mass. Physical examination reveals contralateral head rotation (head turned toward the opposite side). Which of the following is the most likely diagnosis?",
+    "options": [
+      "Thyroglossal duct cyst.",
+      "Torticollis.",
+      "Thymic cyst.",
+      "Lymphatic malformation.",
+      "Branchial Cyst."
+    ],
+    "correctAnswer": "Torticollis.",
+    "explanation": {
+      "correct": "Congenital Muscular Torticollis is caused by fibrosis/shortening of the Sternocleidomastoid (SCM) muscle. This presents as a firm neck mass (fibromatosis colli) and the characteristic head position: the head tilts toward the affected muscle and rotates toward the opposite side (contralateral rotation).",
+      "incorrect": [
+        { "option": "Thyroglossal duct cyst.", "reason": "A midline neck mass that moves with swallowing, not a lateral muscle mass causing head rotation." },
+        { "option": "Branchial Cyst.", "reason": "A lateral neck mass (anterior to SCM) but is cystic/soft and does not typically cause restricted neck movement/torticollis." },
+        { "option": "Lymphatic malformation.", "reason": "Soft, spongy mass (Cystic Hygroma), not a firm muscle mass causing head tilt." },
+        { "option": "Thymic cyst.", "reason": "Rare, usually mediastinal or low neck, not associated with torticollis." }
+      ]
+    }
+  },
+  {
+    "CaseID": "Case_100",
+    "case": "You are a resident performing a total abdominal hysterectomy. It was a difficult case with adhesions and a right broad ligament fibroid. While doing the dissection of the right side and before clamping the uterine artery, you suspected ureteric injury. Which of the following is the next step of management?",
+    "options": [
+      "Continuation of the surgery and leaving a drain to see if urine comes out of the drain.",
+      "Calling for help from the urologist.",
+      "Dissecting the ureter to inspect any site of possible injury.",
+      "Injecting indigo carmine dye to observe for any urine leak.",
+      "Requesting intraoperative intravenous urography (IVU)."
+    ],
+    "correctAnswer": "Injecting indigo carmine dye to observe for any urine leak.",
+    "explanation": {
+      "correct": "When ureteral injury is suspected intraoperatively, the gold standard for confirmation is the intravenous injection of a dye like Indigo Carmine (or Methylene Blue). This dye is excreted by the kidneys and will visibly extravasate from any ureteral defect, allowing for localization and repair.",
+      "incorrect": [
+        { "option": "Continuation of the surgery and leaving a drain to see if urine comes out of the drain.", "reason": "Negligent. A suspected injury must be evaluated and repaired immediately to prevent fistula formation or urinoma." },
+        { "option": "Dissecting the ureter to inspect any site of possible injury.", "reason": "A valid step, but dye injection is more definitive for detecting small leaks that might not be visible to the naked eye during dissection." },
+        { "option": "Calling for help from the urologist.", "reason": "Reasonable if injury is confirmed and repair is complex, but the resident/primary surgeon should first perform the basic diagnostic maneuver (dye) to confirm the suspicion." },
+        { "option": "Requesting intraoperative intravenous urography (IVU).", "reason": "Cumbersome and less effective intraoperatively compared to direct visualization with dye." }
+      ]
+    }
+  }
+]
